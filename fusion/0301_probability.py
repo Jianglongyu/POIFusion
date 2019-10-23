@@ -4,11 +4,19 @@
 @Author  : Joy
 概率法
 """
-
+from TxCosine import Cosine
 from numpy import *
 import numpy as np
 import math
 import datetime
+
+class ChkData:
+    def __init__(self, name, lon, lat, index):
+        self.name = name
+        self.lon = lon
+        self.lat = lat
+        self.index = index
+
 
 def calDistance(x,y,x1,y1):
     radLat1 = (x * math.pi) / 180.0
@@ -46,8 +54,8 @@ def calProbability(bD,wD):
     lat2 = wD.lat
     dis = calDistance(lon1,lat1,lon2,lat2)
     finDis = 0
-    if dis <= 100:#如果超过距离值 则概率值为0
-        finDis = math.pow(dis, -2) #这里参数是为2
+    if dis <= 100 and dis > 0.1:#如果超过距离值 则概率值为0
+        finDis = 1.0 / math.pow(dis, 2) #这里参数是为2
     return finDis
 
 
@@ -63,11 +71,13 @@ def calMatrixProbability(bkList,chkList):#返回计算后的概率矩阵
              disSum = disSum + calProbability(bkList[inx],chkList[jinx])
 
         for kinx in range(chkLen):
-            disAB = calProbability(bkList[inx],chkList[kinx])
-            prbVal = disAB * 1.0 / (disSum)
-            bkMatrix[inx][kinx] = prbVal
-            if prbVal > 0:
-                count = count + 1
+            prbVal = 0
+            if disSum != 0:
+                disAB = calProbability(bkList[inx],chkList[kinx])
+                prbVal = disAB * 1.0 / (disSum)
+                bkMatrix[inx][kinx] = prbVal
+                if prbVal > 0:
+                    count = count + 1
     # print(count)
     return bkMatrix
 def calFinalRCMatrix(bkList,chkList,row,col,tmpMatrix):
@@ -103,19 +113,19 @@ thresVal1 = 0.3
 thresVal2 = 0.9
 
 rateT = [0.2, 0.4, 0.6, 0.8, 1.0]
-
+sample_rate = 1.0
 import csv
-csv_path = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/0.7/bw_map/data_excel/' + 'pnn_data.csv'
-with open(csv_path, 'w') as csvfile:
+csv_path = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/' + str(sample_rate) + '/bw_map/data_excel/' + 'pro_data.csv'
+with open(csv_path, 'w', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
     csv_writer.writerow(['重合度', 'precision', 'recall', 'f1', 'time'])
     
     for rate in rateT:
         starttime = datetime.datetime.now()
         #先读取数据
-        path = "C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/0.7/bw_map/dealData/"
-        bwDataPath = path + "ve_" + str(rate) + "building_0.7" + ".txt"
-        mapDataPath = path + "ve_" + str(rate) + "mappoi_0.7" + ".txt"
+        path = "C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/" + str(sample_rate) + "/bw_map/dealData/"
+        bwDataPath = path + "ve_" + str(rate) + "bw_" + str(sample_rate)  + ".txt"
+        chkDataPath = path + "ve_" + str(rate) + "mappoi_" + str(sample_rate) + ".txt"
 
         fbw = open(bwDataPath,'r')
         fmap = open(chkDataPath,'r')
@@ -148,7 +158,6 @@ with open(csv_path, 'w') as csvfile:
             bs[index] = aname
             oriBs[index] = aname
 
-            a = Cosine(name1,name2)
             aObj = ChkData(aname,alon,alat,index)
             bList.append(aObj)
 
@@ -207,7 +216,8 @@ with open(csv_path, 'w') as csvfile:
             name1 = eachab[0]
             name2 = eachab[1]
 
-            val = (name1,name2)
+            a = Cosine(name1,name2)
+            val = a.calCosine()
             if (val > thresVal1):#如果大于阈值  则从单集中删除此条记录 并将该条记录加入融合结果集中
                 delB.append(name1)
                 delW.append(name2)
@@ -215,21 +225,22 @@ with open(csv_path, 'w') as csvfile:
                 ab = (name1,name2)
                 fs.append(ab)
 
-        #得到删除记录的单集
-        ws = delFusionRecrd(delW,ws)
-        bs = delFusionRecrd(delB,bs)
+        # #得到删除记录的单集
+        # ws = delFusionRecrd(delW,ws)
+        # bs = delFusionRecrd(delB,bs)
 
-        #第二次过滤删除函数
-        for db in list(bs.values()):
-            for dw in list(ws.values()):
-                val1 = jaro_my.metric_jaro_winkler(db,dw)
-                if(val1 > thresVal2):#if val bigger than high threshold, then add in fusion record
-                    tMap = (db,dw)
-                    fs.append(tMap)
-                    #从单集中删除
-                    ws = delSingleRecrd(dw,ws)
-                    bs = delSingleRecrd(db,bs)
-                    break
+        # #第二次过滤删除函数
+        # for db in list(bs.values()):
+        #     for dw in list(ws.values()):
+        #         a = Cosine(db,dw)
+        #         val1 = a.calCosine()
+        #         if(val1 > thresVal2):#if val bigger than high threshold, then add in fusion record
+        #             tMap = (db,dw)
+        #             fs.append(tMap)
+        #             #从单集中删除
+        #             ws = delSingleRecrd(dw,ws)
+        #             bs = delSingleRecrd(db,bs)
+        #             break
 
 
         finalRes = []
@@ -257,7 +268,8 @@ with open(csv_path, 'w') as csvfile:
         precison = len(final) / len(rset) * 1.0
         recall = len(final) * 1.0 / (len(poslines) - 1) * 1.0
         f1 = (2 * precison * recall) / (precison + recall)
-
+        endtime = datetime.datetime.now()
+        print(str(rate),len(final),len(finalRes),round(precison,4),round(recall,4),round(f1,4))
         print((endtime - starttime).seconds)
         cost_time = (endtime - starttime).seconds
         record_data = [rate, round(precison,4), round(recall,4), round(f1,4), cost_time]

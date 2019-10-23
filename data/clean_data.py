@@ -144,10 +144,10 @@ if __name__ == '__main__':
             inxRec = cleanData(allines, tag_name.split(".txt")[0])
             save_new_file(inxRec, allines, new_savepath)
     else: # clean two type data
-        file_path = "C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/0.7/bw_map/dealData/"
+        file_path = "C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/1.0/bw_map/dealData/"
         save_path = file_path
-        file1 = file_path + "building_0.7.txt"
-        file2 = file_path + "clean_mappoi_0.7.txt"
+        file1 = file_path + "bw_1.0.txt"
+        file2 = file_path + "mappoi_1.0.txt"
         lines1 = open(file1, 'rb').readlines()
         lines2 = open(file2, 'rb').readlines()
         tag_name = os.path.basename(file2)

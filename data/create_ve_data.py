@@ -5,8 +5,27 @@ Created on Fri Feb  1 15:03:27 2019
 @author: Administrator
 对两个清洗后的数据集加入彼此的验证数据后形成最终的融合数据集
 """
+import sys
+sys.path.append("C:/Users/Administrator/Desktop/Taks/1018_newFusion/mycode/POIFusion")
+from fusion.TxCosine import Cosine
 import os
 import pandas as pd
+import math
+
+
+def calDistance(x,y,x1,y1):
+    radLat1 = (x * math.pi) / 180.0
+    radLat2 = (x1 * math.pi) / 180.0
+    aR = radLat1 - radLat2
+
+    disY1 = (y * math.pi) / 180.0
+    disY2 = (y1 * math.pi) / 180.0
+    bR = disY1 - disY2
+
+    s = 2 * math.asin((math.sqrt(pow(math.sin(aR / 2), 2) + math.cos(radLat1) * math.cos(radLat2) * pow(math.sin(bR / 2), 2))))
+    s = s * 6378137
+
+    return s
 
 def read_data(fst_dt, snd_dt, rate, save_path):
     table_1 = pd.read_csv(fst_dt)
@@ -46,19 +65,15 @@ def read_data(fst_dt, snd_dt, rate, save_path):
     ve_fst.to_csv(save_file_1, index=False)
     ve_snd.to_csv(save_file_2, index=False)
     print(v_1, v_2)
-    return save_file_1, save_file_2
+    return save_file_1, save_file_2, v_1, v_2
 
 # generate fusion data and posinx data
-def generate_fusion_data(dt1, dt2, rate):
+def generate_fusion_data(dt1, dt2, v1, v2, rate):
     save_path = os.path.dirname(dt1)
 
     save_file = save_path + "/" + "fusion_" + str(rate) + ".txt"
-    save_posinx = save_path + "/" + "posinx_" + str(rate) + ".txt"
-    columns = ['name','longitude','latitude','phone','address','district','city','area','zipcode','type','datatype','date','creator','source', 'index']
-    head_str = ','.join(columns)
+    
     fw = open(save_file, 'w')
-    fw.write(head_str + "\n")
-    fpos = open(save_posinx, 'w')
 
     inx = 1
     lines1 = open(dt1, 'rb').readlines()
@@ -66,8 +81,6 @@ def generate_fusion_data(dt1, dt2, rate):
     
     f1_new = open(dt1, 'w')
     f2_new = open(dt2, 'w')
-
-    tmp_dic = {}
     for eachl_1 in lines1:
         eachl_1 = eachl_1.decode('utf-8')
         if eachl_1.find("name") != -1:
@@ -75,32 +88,43 @@ def generate_fusion_data(dt1, dt2, rate):
         else:
             a = eachl_1.split(",")
             a[len(a) - 1] = str(inx)
-            tmp_dic[a[0]] = inx
             inx += 1
             new_line1 = ','.join(a)
-        fw.write(new_line1 + "\n")
         f1_new.write(new_line1 + "\n")
+        fw.write(new_line1 + "\n")
+    fst_lst_inx = inx - 1
     for eachl_2 in lines2:
         eachl_2 = eachl_2.decode('utf-8')
         if eachl_2.find("name") != -1:
             continue
-        b = eachl_2.split(",")
-        b[len(b) - 1] = str(inx)
-        if b[0] in tmp_dic:
-            posline = str(tmp_dic[b[0]]) + "," + str(inx)
-            fpos.write(posline + "\n")
-        inx += 1
-        new_line2 = ','.join(b)
+        else:
+            b = eachl_2.split(",")
+            b[len(b) - 1] = str(inx)
+            inx += 1
+            new_line2 = ','.join(b)
         f2_new.write(new_line2 + "\n")
         fw.write(new_line2 + "\n")
- 
+    snd_lst_inx = inx - 1
+    generate_posinx_data(v1, v2, fst_lst_inx, snd_lst_inx, rate, save_path)
+
+#  generate posinx data from fusion data
+def generate_posinx_data(v1, v2, fst_lst_inx, snd_lst_inx, rate, save_path):
+    save_posinx = save_path + "/" + "posinx_" + str(rate) + ".txt"
+    fpos = open(save_posinx, 'w')
+    for i in range(1, v2 + 1):
+        pos_str = str(i) + "," + str(snd_lst_inx - v2 + i)
+        fpos.write(pos_str + "\n")
+    for i in range(1, v1 + 1):
+        pos_str = str(fst_lst_inx - v1 + i) + "," + str(fst_lst_inx + i)
+        fpos.write(pos_str + "\n")
+
 if __name__ == '__main__':
-    file_path = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/0.7/bw_map/dealData/'
-    fst_dt = file_path + 'building_0.7.txt'
-    snd_dt = file_path + 'mappoi_0.7.txt'
+    file_path = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/1.0/bw_map/dealData/'
+    fst_dt = file_path + 'bw_1.0.txt'
+    snd_dt = file_path + 'mappoi_1.0.txt'
     save_path = file_path
     rate_num = [0.2, 0.4, 0.6, 0.8, 1.0]
     for rate in rate_num:
         print(rate)
-        f1, f2 = read_data(fst_dt, snd_dt, rate, save_path)
-        generate_fusion_data(f1, f2, rate)
+        f1, f2, v1, v2 = read_data(fst_dt, snd_dt, rate, save_path)
+        generate_fusion_data(f1, f2, v1, v2, rate)

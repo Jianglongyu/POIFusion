@@ -4,7 +4,6 @@
 @Author  : Joy
 相互最近邻算法
 """
-import tqdm
 import math
 from TxCosine import Cosine
 import datetime
@@ -44,13 +43,13 @@ def getIndexByValue(delW,ws):
 
 def getDistanceByInx(inxb,inxw,bwlines,maplines):
     bwl = bwlines[inxb]
-    bwl = bwl.decode('utf-8')
+    # bwl = bwl.decode('utf-8')
     a = bwl.split(",")
     alon = float(a[1])
     alat = float(a[2])
 
     mapl = maplines[inxw]
-    mapl = mapl.decode('utf-8')
+    # mapl = mapl.decode('utf-8')
     b = mapl.split(",")
     blon = float(b[1])
     blat = float(b[2])
@@ -60,12 +59,12 @@ def getDistanceByInx(inxb,inxw,bwlines,maplines):
 
 def getNameByInx(inxb,inxw,bwlines,maplines):
     bwl = bwlines[inxb]
-    bwl = bwl.decode('utf-8')
+    # bwl = bwl.decode('utf-8')
     a = bwl.split(",")
     aname = a[0]
 
     mapl = maplines[inxw]
-    mapl = mapl.decode('utf-8')
+    # mapl = mapl.decode('utf-8')
     b = mapl.split(",")
     bname = b[0]
     name = (aname,bname)
@@ -79,18 +78,18 @@ thresVal2 = 0.8
 INDEXTAG = 14
 
 rateT = [0.2, 0.4, 0.6, 0.8, 1.0]
-
+sample_rate = 1.0
 import csv
-csv_path = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/0.7/bw_map/data_excel/' + 'mnn_data.csv'
-with open(csv_path, 'w') as csvfile:
+csv_path = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/' + str(sample_rate) + '/bw_map/data_excel/' + 'mnn_data.csv'
+with open(csv_path, 'w', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
     csv_writer.writerow(['重合度', 'precision', 'recall', 'f1', 'time'])
     
     for rate in rateT:
         #首先读取各自数据集
-        path = "C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/0.7/bw_map/dealData/"
-        bwDataPath = path + "ve_" + str(rate) + "building_0.7" + ".txt"
-        mapDataPath = path + "ve_" + str(rate) + "mappoi_0.7" + ".txt"
+        path = "C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/" + str(sample_rate) + "/bw_map/dealData/"
+        bwDataPath = path + "ve_" + str(rate) + "bw_" + str(sample_rate) + ".txt"
+        mapDataPath = path + "ve_" + str(rate) + "mappoi_" + str(sample_rate)  + ".txt"
 
         starttime = datetime.datetime.now()
         # fp = open(path + str(rate) + "positiveInx" + ".txt",'rb')
