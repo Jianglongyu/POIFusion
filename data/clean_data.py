@@ -117,8 +117,8 @@ def save_new_file(inxRec, allines, newFile):
     for inx in range(len(allines) - 1):
         if inx not in inxRec:
             eachl = allines[inx].decode('utf-8')
-            a = eachl.split("/r")[0].split("/n")[0]
-            fw.write(a + "/n")
+            a = eachl.split("\r")[0].split("\n")[0]
+            fw.write(a + "\n")
     fw.close()
 
 def save_new_two_type_file(inxRec, allines, newFile):
@@ -133,9 +133,9 @@ def save_new_two_type_file(inxRec, allines, newFile):
 if __name__ == '__main__':
     type_num = 2
     if type_num == 1: # clean single data 
-        dirpath = '///Mac//Home//Desktop//DailyTask//1006_NewFusion//data//sample_data_remain//' + "*.txt"
+        dirpath = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/sample_data/' + "mappoi_0.6.txt"
         directory = glob(dirpath)
-        savepath = '///Mac//Home//Desktop//DailyTask//1006_NewFusion//data//clean_sample_data//'
+        savepath = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/clean_sample_data/'
         for filepath in directory:
             tag_name = os.path.basename(filepath)
             new_savepath = savepath + "clean_" + tag_name
@@ -144,10 +144,10 @@ if __name__ == '__main__':
             inxRec = cleanData(allines, tag_name.split(".txt")[0])
             save_new_file(inxRec, allines, new_savepath)
     else: # clean two type data
-        file_path = "C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/1.0/bw_map/dealData/"
+        file_path = "C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/0.6/bw_map/dealData/"
         save_path = file_path
-        file1 = file_path + "bw_1.0.txt"
-        file2 = file_path + "mappoi_1.0.txt"
+        file1 = file_path + "bw_0.6.txt"
+        file2 = file_path + "mappoi_0.6.txt"
         lines1 = open(file1, 'rb').readlines()
         lines2 = open(file2, 'rb').readlines()
         tag_name = os.path.basename(file2)

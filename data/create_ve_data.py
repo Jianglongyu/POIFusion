@@ -119,9 +119,9 @@ def generate_posinx_data(v1, v2, fst_lst_inx, snd_lst_inx, rate, save_path):
         fpos.write(pos_str + "\n")
 
 if __name__ == '__main__':
-    file_path = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/1.0/bw_map/dealData/'
-    fst_dt = file_path + 'bw_1.0.txt'
-    snd_dt = file_path + 'mappoi_1.0.txt'
+    file_path = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/0.6/b_w/dealData/'
+    fst_dt = file_path + 'building_0.6.txt'
+    snd_dt = file_path + 'weibo_0.6.txt'
     save_path = file_path
     rate_num = [0.2, 0.4, 0.6, 0.8, 1.0]
     for rate in rate_num:
