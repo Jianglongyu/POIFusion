@@ -1,36 +1,20 @@
 # POIFusion
 
 #### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
-
-#### Software Architecture
-Software architecture description
+{**This is the code of POI Fusion, which contains the code of each comparison algorithm (OSN-POI/MNN-POI/PRN-POI/NW-POI) and the experimental data.**}
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  jieba
+2.  jaro_py3
 
 #### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1.  python nearestPM.py
+2.  python mutualNearest.py
+3.  python probability.py
+4.  python improbability.py
+5.  python dbscanClustering.py
+6.  The test data is in "data\". "data\distance_cluster_data" is the result of DBSCAN distance clustering, which is used in dbscanclustering.py program, and fusion data is used in the rest of the algorithm.
+7.  The test output file is in "data\fusion_data\1.0\BW\map\data_Excel。
 
 
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
