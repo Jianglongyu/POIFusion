@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴顺园悦味轩,102.65852,25.0393,,,,,,,,,,,3,13456
+兴顺园悦味轩,102.65852,25.0391,,,,,,,,,,,3,26223
+西苑灯火阑珊社区卫生站,102.658511,25.038695,,,,,,,,,,,3,36743

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金马社区卫生服务中心,102.74634300000001,25.038099,,,,,,,,,,,3,24449
+金马社区卫生服务中心,102.74634300000001,25.037899,,,,,,,,,,,3,54238

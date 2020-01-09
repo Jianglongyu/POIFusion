@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红伟农家乐,102.83205,25.09188,,,,,,,,,,,3,16103
+红伟农家乐,102.83205,25.09168,,,,,,,,,,,3,35963

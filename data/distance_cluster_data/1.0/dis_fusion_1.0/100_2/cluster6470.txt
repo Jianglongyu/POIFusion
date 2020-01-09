@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县永丰小学,103.152676,24.976321,,,,,,,,,,,3,31884
+宜良县永丰小学,103.152676,24.976121,,,,,,,,,,,3,61673

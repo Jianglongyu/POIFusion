@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+钱柜KTV,102.739418,25.100375,,,,,,,,,,,1,2328
+钱柜KTV,102.739418,25.100575,,,,,,,,,,,1,56620

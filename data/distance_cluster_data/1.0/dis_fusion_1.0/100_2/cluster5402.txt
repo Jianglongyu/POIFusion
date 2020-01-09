@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南民族村西门,102.656886,24.962702999999998,,,,,,,,,,,3,28118
+云南民族村西门,102.656886,24.962502999999998,,,,,,,,,,,3,57907

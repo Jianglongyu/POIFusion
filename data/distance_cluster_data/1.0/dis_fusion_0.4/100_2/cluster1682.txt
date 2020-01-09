@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+米酒鸡肉烂饭,102.66123,24.9636,,,,,,,,,,,3,10498
+米酒鸡肉烂饭,102.66123,24.9634,,,,,,,,,,,3,17945
+佤族寨,102.661202,24.963298,,,,,,,,,,,3,35316
+苗族村,102.661229,24.963967999999998,,,,,,,,,,,3,35813

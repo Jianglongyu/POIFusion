@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+王家营收费站,102.802728,24.918383,,,,,,,,,,,1,1868
+王家营收费站,102.802728,24.918582999999998,,,,,,,,,,,1,56160

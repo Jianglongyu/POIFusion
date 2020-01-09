@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市八街镇摩所营小学,102.38744399999999,24.736773999999997,,,,,,,,,,,3,32586
+安宁市八街镇摩所营小学,102.38744399999999,24.736573999999997,,,,,,,,,,,3,62375

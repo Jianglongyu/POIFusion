@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南街诊所,103.120636,25.310654,,,,,,,,,,,3,26559
+嵩明小街城乡公交客运中心,103.120768,25.310958,,,,,,,,,,,3,36224

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金足阁足浴会所,102.76705,24.93703,,,,,,,,,,,3,46812
+舒享康体中心,102.76735,24.9369,,,,,,,,,,,3,47227

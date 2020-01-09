@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+清水佳湖雅居,102.76922900000001,25.100981,,,,,,,,,,,2,303
+清水佳湖雅居,102.76922900000001,25.101181,,,,,,,,,,,2,64524

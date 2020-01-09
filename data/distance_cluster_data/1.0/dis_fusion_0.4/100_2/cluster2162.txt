@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+风情湾住宿吧,102.6581,25.089892000000003,,,,,,,,,,,1,4042
+何香园瓦罐牛汤锅,102.6578,25.08942,,,,,,,,,,,3,7129
+何香园瓦罐牛汤锅,102.6578,25.08922,,,,,,,,,,,3,14576

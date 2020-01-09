@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南万通汽修学校,102.647889,25.051184,,,,,,,,,,,3,38499
+景秀西苑小区,102.6468455,25.05048204,,,,,,,,,,,1,3364
+地道川味馆,102.64716999999999,25.05116,,,,,,,,,,,3,18786

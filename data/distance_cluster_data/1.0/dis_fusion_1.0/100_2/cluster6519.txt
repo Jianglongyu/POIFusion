@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小街中心幼儿园,103.119497,25.312834,,,,,,,,,,,3,32091
+小街中心幼儿园,103.119497,25.312634,,,,,,,,,,,3,61880

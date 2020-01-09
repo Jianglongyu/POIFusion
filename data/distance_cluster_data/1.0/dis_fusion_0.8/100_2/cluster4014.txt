@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙银园KTV,102.66507,25.24877,,,,,,,,,,,3,20826
+龙银园KTV,102.66507,25.24857,,,,,,,,,,,3,40686

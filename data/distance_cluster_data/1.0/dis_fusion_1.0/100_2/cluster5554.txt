@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县牛栏江镇财政所,103.13794,25.277814,,,,,,,,,,,3,28786
+嵩明县牛栏江镇财政所,103.13794,25.277614,,,,,,,,,,,3,58575

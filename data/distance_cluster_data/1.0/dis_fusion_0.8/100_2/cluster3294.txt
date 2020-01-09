@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+祥龙山庄,102.82600000000001,25.09617,,,,,,,,,,,3,17735
+祥龙山庄,102.82600000000001,25.09597,,,,,,,,,,,3,37595

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+上蒜镇中心卫生院,102.70938699999999,24.678444,,,,,,,,,,,3,35186
+一心堂晋宁上蒜连锁店,102.70922900000001,24.678071,,,,,,,,,,,3,38864

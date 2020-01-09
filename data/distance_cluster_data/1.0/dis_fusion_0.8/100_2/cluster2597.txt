@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康康药房,103.128412,25.444441,,,,,,,,,,,3,22795
+康康药房,103.128412,25.444241,,,,,,,,,,,3,42655
+羊街镇中心学校,103.128961,25.445034,,,,,,,,,,,3,50372

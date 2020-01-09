@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县鹿阜镇铺兵小学,103.221703,24.762404999999998,,,,,,,,,,,3,32597
+石林县鹿阜镇铺兵小学,103.221703,24.762204999999998,,,,,,,,,,,3,62386

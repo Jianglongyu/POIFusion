@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市政府太平新城街道工作委员会,102.58205,24.948626,,,,,,,,,,,3,36778
+安宁市监察局第七监察分局,102.582052,24.948629999999998,,,,,,,,,,,3,37032
+安宁太平新城管委会,102.58205,24.948626,,,,,,,,,,,3,37310

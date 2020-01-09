@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+矣六乡自卫卫生所,102.77646899999999,24.914226,,,,,,,,,,,3,23975
+矣六乡自卫卫生所,102.77646899999999,24.914026,,,,,,,,,,,3,43835

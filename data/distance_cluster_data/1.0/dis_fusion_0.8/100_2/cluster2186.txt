@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+名典发艺,102.75961,24.95508,,,,,,,,,,,3,39229
+本色经典造型烫染中心,102.75895,24.95439,,,,,,,,,,,3,17147
+本色经典造型烫染中心,102.75895,24.95419,,,,,,,,,,,3,37007
+佳源招待所,102.75968,24.95465,,,,,,,,,,,3,46298

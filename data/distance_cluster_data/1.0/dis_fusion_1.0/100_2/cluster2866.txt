@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南莲幼儿园,102.53246,24.432052,,,,,,,,,,,3,30861
+莲池小学,102.53319,24.432806,,,,,,,,,,,3,30605
+莲池小学,102.53319,24.432606,,,,,,,,,,,3,60394
+南莲幼儿园,102.53246,24.431852,,,,,,,,,,,3,60650

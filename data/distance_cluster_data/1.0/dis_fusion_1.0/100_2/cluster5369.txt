@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+古灯寺,102.746997,24.924142,,,,,,,,,,,3,27983
+古灯寺,102.746997,24.923942,,,,,,,,,,,3,57772

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂柯渡店,102.855465,25.547123,,,,,,,,,,,3,25701
+同济堂柯渡店,102.855465,25.546923,,,,,,,,,,,3,55490

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+泽润里小学,102.30396999999999,25.103185,,,,,,,,,,,3,30178
+泽润里小学,102.30396999999999,25.102985,,,,,,,,,,,3,59967

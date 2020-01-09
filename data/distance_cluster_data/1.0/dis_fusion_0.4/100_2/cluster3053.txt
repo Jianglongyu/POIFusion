@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小咪喳足浴按摩,102.67081,25.05692,,,,,,,,,,,3,27405
+农村信用社西山信用联社营业室,102.67113,25.05733,,,,,,,,,,,3,40858

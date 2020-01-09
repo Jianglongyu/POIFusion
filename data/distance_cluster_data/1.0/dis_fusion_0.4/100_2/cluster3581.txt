@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+左所服务区－三所加油站,103.34679200000001,25.375072,,,,,,,,,,,3,5037
+左所服务区－三所加油站,103.34679200000001,25.374872,,,,,,,,,,,3,12484

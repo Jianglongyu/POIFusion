@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+张通小学,102.291536,25.22774,,,,,,,,,,,3,31860
+张通小学,102.291536,25.22754,,,,,,,,,,,3,61649

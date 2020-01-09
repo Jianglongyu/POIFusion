@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明晶华光学有限公司,102.703017,25.013446,,,,,,,,,,,1,3125
+昆明晶华光学有限公司,102.703017,25.013645999999998,,,,,,,,,,,1,67346

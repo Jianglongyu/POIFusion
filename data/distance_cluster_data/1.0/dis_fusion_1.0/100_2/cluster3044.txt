@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乡村幼儿园,103.29091,25.545489999999997,,,,,,,,,,,3,32812
+乡村幼儿园,103.29091,25.545289999999998,,,,,,,,,,,3,62601

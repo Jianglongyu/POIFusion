@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市盘龙区工商局小坝分局,102.73758000000001,25.065389,,,,,,,,,,,3,29636
+豪剪发艺,102.7371,25.06631,,,,,,,,,,,3,21330
+豪剪发艺,102.7371,25.066110000000002,,,,,,,,,,,3,51119

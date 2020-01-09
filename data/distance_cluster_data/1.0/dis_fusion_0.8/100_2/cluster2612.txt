@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三明鑫疆大药房连然街分店,102.487588,24.925742,,,,,,,,,,,3,23098
+三明鑫疆大药房连然街分店,102.487588,24.925542,,,,,,,,,,,3,42958
+亲亲宝贝幼儿园,102.487588,24.925245,,,,,,,,,,,3,52036

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市中小学卫生保健所,102.70444,25.033451999999997,,,,,,,,,,,3,23910
+云南省中小学健康促进研究中心,102.70444,25.033451999999997,,,,,,,,,,,3,31506

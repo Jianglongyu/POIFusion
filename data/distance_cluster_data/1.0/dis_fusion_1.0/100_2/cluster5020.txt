@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鼎立医院－门诊楼,102.46537,24.910487,,,,,,,,,,,3,24616
+鼎立医院－门诊楼,102.46537,24.910287,,,,,,,,,,,3,54405

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鼎尚食府,102.63557,24.96579,,,,,,,,,,,3,11350
+三只蛙火锅,102.63578000000001,24.965410000000002,,,,,,,,,,,3,11418
+阳光山水江湖菜馆,102.63545,24.96614,,,,,,,,,,,3,18512

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雅馨饼屋,102.775196,24.981138,,,,,,,,,,,1,1455
+新味族,102.77465500000001,24.981783,,,,,,,,,,,1,1566
+福建沙县特色小吃(世纪金源大饭店,102.775657,24.980604,,,,,,,,,,,1,4019

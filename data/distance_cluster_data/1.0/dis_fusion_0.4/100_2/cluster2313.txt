@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂金庭小区连锁店,102.74136700000001,25.070996,,,,,,,,,,,3,31133
+云南白药大药房金庭连锁,102.741311,25.070932,,,,,,,,,,,3,32540
+金庭双语幼儿园,102.741149,25.070491,,,,,,,,,,,3,38973

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+落索坡老饭店,102.74683,25.12381,,,,,,,,,,,3,14932
+玉华饭庄,102.74691,25.12402,,,,,,,,,,,3,19037

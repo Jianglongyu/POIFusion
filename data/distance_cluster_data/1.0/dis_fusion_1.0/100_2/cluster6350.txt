@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+勇辉幼儿园,102.970123,25.363082,,,,,,,,,,,3,31583
+勇辉幼儿园,102.970123,25.362882,,,,,,,,,,,3,61372

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+青龙山社区卫生服务站,102.76090500000001,25.090851999999998,,,,,,,,,,,3,23804
+青龙山社区卫生服务站,102.76090500000001,25.090652,,,,,,,,,,,3,43664

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县公安局杨桥派出所,103.055109,25.30943,,,,,,,,,,,3,33104
+嵩明县红苹果幼儿园,103.054381,25.308969,,,,,,,,,,,3,35515

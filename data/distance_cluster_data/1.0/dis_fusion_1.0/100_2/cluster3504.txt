@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华夏银行ATM,102.70669000000001,24.983520000000002,,,,,,,,,,,3,33699
+华夏银行ATM,102.70669000000001,24.983320000000003,,,,,,,,,,,3,63488

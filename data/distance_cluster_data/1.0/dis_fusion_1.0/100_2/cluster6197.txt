@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大千运输公司驾驶员培训站,102.771023,25.048097,,,,,,,,,,,3,31111
+大千运输公司驾驶员培训站,102.771023,25.047897,,,,,,,,,,,3,60900

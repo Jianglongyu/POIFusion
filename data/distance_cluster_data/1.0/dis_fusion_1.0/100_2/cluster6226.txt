@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大庄新发明德小学,103.470095,25.255348,,,,,,,,,,,3,31197
+大庄新发明德小学,103.470095,25.255148000000002,,,,,,,,,,,3,60986

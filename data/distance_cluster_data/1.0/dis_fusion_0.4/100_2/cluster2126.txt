@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县板桥镇人大主席团,103.258213,24.681816,,,,,,,,,,,3,36205
+怀德仁药房,103.25911500000001,24.680770000000003,,,,,,,,,,,3,33523
+石林彝族自治县工商局板桥工商所,103.258677,24.681546,,,,,,,,,,,3,37109

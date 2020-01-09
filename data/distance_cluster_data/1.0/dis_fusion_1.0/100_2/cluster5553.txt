@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县马过河镇人大主席团,103.393215,25.453387,,,,,,,,,,,3,28783
+马龙县马过河镇人大主席团,103.393215,25.453187,,,,,,,,,,,3,58572

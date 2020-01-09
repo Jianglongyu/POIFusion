@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云武温泉酒店,102.760417,25.024648000000003,,,,,,,,,,,1,859
+中国水电第十四工程局中心实验室,102.760124,25.024929,,,,,,,,,,,3,32997

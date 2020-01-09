@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市交通技工学校,102.62983,25.009017999999998,,,,,,,,,,,3,32248
+昆明市交通技工学校,102.62983,25.008817999999998,,,,,,,,,,,3,62037

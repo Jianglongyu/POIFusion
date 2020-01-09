@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂天颐家园小区连锁店,102.591565,24.687921,,,,,,,,,,,3,23903
+一心堂天颐家园小区连锁店,102.591565,24.687721,,,,,,,,,,,3,43763
+昆阳康健大药房,102.590738,24.687796,,,,,,,,,,,3,44898

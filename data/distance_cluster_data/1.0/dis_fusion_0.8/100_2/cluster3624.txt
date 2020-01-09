@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+和谐园,102.74504,25.273799999999998,,,,,,,,,,,3,18867
+和谐园,102.74504,25.2736,,,,,,,,,,,3,38727

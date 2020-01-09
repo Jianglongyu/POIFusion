@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阳光码头,102.66636,24.96037,,,,,,,,,,,3,19123
+阳光码头,102.66636,24.96017,,,,,,,,,,,3,38983

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+加油站,102.770664,25.021001000000002,,,,,,,,,,,3,4823
+加油站,102.770664,25.020801000000002,,,,,,,,,,,3,24683
+昆明市机动车培训中心第三十培训站,102.771179,25.020478,,,,,,,,,,,3,51856

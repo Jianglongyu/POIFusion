@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东旭骏城,102.78621,25.033533,,,,,,,,,,,2,92
+东旭骏城,102.78621,25.033732999999998,,,,,,,,,,,2,54384

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+平安大药房,102.67568299999999,25.516903,,,,,,,,,,,3,35499
+富民县康乐药店,102.675415,25.516851000000003,,,,,,,,,,,3,37516
+富民县公安局东村派出所,102.676176,25.517324,,,,,,,,,,,3,41716

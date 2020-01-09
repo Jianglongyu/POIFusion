@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+城关文丽大药房,103.257003,25.543549,,,,,,,,,,,3,36859
+寻甸回族彝族自治县公安局交警大队,103.256925,25.54317,,,,,,,,,,,3,42024
+寻甸县机动车驾校,103.25704,25.543745,,,,,,,,,,,3,44181

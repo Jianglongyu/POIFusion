@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省通信局,102.720813,25.022571,,,,,,,,,,,3,36739
+中国邮政储蓄银行双龙商场支行,102.72086999999999,25.02228,,,,,,,,,,,3,40677

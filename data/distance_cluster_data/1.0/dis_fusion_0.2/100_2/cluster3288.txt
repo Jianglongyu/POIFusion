@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黄土坡加油站,103.101187,25.48089,,,,,,,,,,,3,4897
+黄土坡加油站,103.101187,25.48069,,,,,,,,,,,3,8207

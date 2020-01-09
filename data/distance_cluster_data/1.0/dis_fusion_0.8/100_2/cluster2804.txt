@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广电苑,102.80752700000001,24.807375,,,,,,,,,,,2,113
+广电苑,102.80752700000001,24.807575,,,,,,,,,,,2,54405

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+湘缘酒店足疗,102.88762,25.04906,,,,,,,,,,,3,34023
+聚福园宾馆,102.88689000000001,25.048920000000003,,,,,,,,,,,3,39724

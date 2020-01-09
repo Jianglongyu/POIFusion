@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧桂园玺台,102.667129,25.096463,,,,,,,,,,,2,34
+碧桂园玺台,102.667129,25.096663,,,,,,,,,,,2,41913

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙池中心完小,102.953009,25.817216,,,,,,,,,,,3,30553
+龙池中心完小,102.953009,25.817016,,,,,,,,,,,3,60342

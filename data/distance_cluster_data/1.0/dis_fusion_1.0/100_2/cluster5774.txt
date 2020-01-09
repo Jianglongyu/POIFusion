@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市生产力促进中心,102.66049,25.056457,,,,,,,,,,,3,29840
+昆明市生产力促进中心,102.66049,25.056257000000002,,,,,,,,,,,3,59629

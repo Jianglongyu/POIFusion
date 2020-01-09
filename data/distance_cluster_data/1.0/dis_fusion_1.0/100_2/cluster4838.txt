@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县动物疾病预防控制中心,103.148837,24.919815,,,,,,,,,,,3,23125
+宜良县动物疾病预防控制中心,103.148837,24.919615,,,,,,,,,,,3,52914

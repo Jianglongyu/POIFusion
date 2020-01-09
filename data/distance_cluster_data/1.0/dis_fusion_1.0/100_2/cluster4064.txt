@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明机务段,102.790856,25.012522,,,,,,,,,,,1,3145
+昆明机务段,102.790856,25.012722,,,,,,,,,,,1,67366

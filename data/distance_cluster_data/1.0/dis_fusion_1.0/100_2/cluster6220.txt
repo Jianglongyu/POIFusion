@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蛇山小学,102.428504,24.768653,,,,,,,,,,,3,31185
+蛇山小学,102.428504,24.768453,,,,,,,,,,,3,60974

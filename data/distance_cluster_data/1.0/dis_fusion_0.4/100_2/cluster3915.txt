@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乌龙镇卫生院,103.097902,26.019779999999997,,,,,,,,,,,3,31819
+昆明市乌龙派出所,103.097831,26.020128,,,,,,,,,,,3,36803

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+羊街镇中心卫生院,103.126525,25.442176,,,,,,,,,,,3,26440
+寻甸县财政局羊街财政所,103.12593100000001,25.441549,,,,,,,,,,,3,32645

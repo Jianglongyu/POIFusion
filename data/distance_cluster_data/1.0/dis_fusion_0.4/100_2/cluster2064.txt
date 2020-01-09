@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盛高大城,102.6963758,25.01623768,,,,,,,,,,,1,2165
+昆明市中级人民法院食堂快餐部,102.695444,25.016315,,,,,,,,,,,1,2911
+东骏大药房滇池路连锁店,102.695883,25.016538,,,,,,,,,,,3,30565

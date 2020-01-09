@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆船一机公司图书室,102.803058,24.998114,,,,,,,,,,,1,3276
+昆船一机公司图书室,102.803058,24.998314,,,,,,,,,,,1,67497

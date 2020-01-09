@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸回族彝族自治县公安局凤仪派出所,102.993832,25.829607,,,,,,,,,,,3,41539
+寻甸县司法局凤仪司法所,102.99397900000001,25.830008,,,,,,,,,,,3,41548
+寻甸县凤合镇人大,102.993638,25.830037,,,,,,,,,,,3,42212

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+李浩药店,102.42764,24.782581,,,,,,,,,,,3,24938
+李浩药店,102.42764,24.782381,,,,,,,,,,,3,54727

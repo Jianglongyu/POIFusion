@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+抚仙湖农家乐木锅鱼,102.75539300000001,24.97329,,,,,,,,,,,1,3997
+太平寺,102.755408,24.973592,,,,,,,,,,,3,31292

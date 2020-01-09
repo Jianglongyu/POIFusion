@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+远洋新干线,102.825354,24.821294,,,,,,,,,,,2,459
+远洋新干线,102.825354,24.821494,,,,,,,,,,,2,54751

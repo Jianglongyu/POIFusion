@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县长湖镇纪检委,103.405491,24.705276,,,,,,,,,,,3,29912
+石林县长湖镇纪检委,103.405491,24.705076000000002,,,,,,,,,,,3,59701

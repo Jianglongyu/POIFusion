@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云天花苑酒店,102.676363,24.987546,,,,,,,,,,,1,864
+一号会议室(二号楼),102.675824,24.987142000000002,,,,,,,,,,,1,1396
+天锦苑,102.676733,24.988319,,,,,,,,,,,1,1960

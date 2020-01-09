@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁公路路政管理大队,102.598644,24.669683,,,,,,,,,,,3,29443
+晋宁公路路政管理大队,102.598644,24.669483,,,,,,,,,,,3,59232

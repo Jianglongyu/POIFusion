@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤踪加油站,102.622242,24.65106,,,,,,,,,,,3,5071
+凤踪加油站,102.622242,24.65086,,,,,,,,,,,3,34860

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+观音山卫生院,102.66335,24.832676999999997,,,,,,,,,,,3,25131
+观音山卫生院,102.66335,24.832476999999997,,,,,,,,,,,3,54920

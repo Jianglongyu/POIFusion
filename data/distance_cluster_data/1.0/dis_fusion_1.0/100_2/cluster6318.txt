@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牛街小学,103.09876899999999,25.447305,,,,,,,,,,,3,31488
+牛街小学,103.09876899999999,25.447105,,,,,,,,,,,3,61277

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+岩头小学,103.27708299999999,25.866218,,,,,,,,,,,3,31184
+岩头小学,103.27708299999999,25.866018,,,,,,,,,,,3,60973

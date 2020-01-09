@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鑫逸KTV量贩,102.86171999999999,24.85481,,,,,,,,,,,3,30619
+网恒网吧,102.86171,24.85472,,,,,,,,,,,3,34787

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+连然街道东湖社区卫生站,102.492356,24.923105,,,,,,,,,,,3,23133
+连然街道东湖社区卫生站,102.492356,24.922905,,,,,,,,,,,3,42993

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+山水云亭,106.14008000000001,34.7425273,,,,,,,,,,,2,320
+山水云亭,106.14008000000001,34.7427273,,,,,,,,,,,2,38062

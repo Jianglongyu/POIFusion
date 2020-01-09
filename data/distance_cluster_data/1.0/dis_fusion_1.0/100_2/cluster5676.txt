@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+陆良县大莫古派出所,103.517022,24.902869,,,,,,,,,,,3,29353
+陆良县大莫古派出所,103.517022,24.902669,,,,,,,,,,,3,59142

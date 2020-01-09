@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+忠窑小学,102.900673,24.686825,,,,,,,,,,,3,32015
+忠窑小学,102.900673,24.686625,,,,,,,,,,,3,61804

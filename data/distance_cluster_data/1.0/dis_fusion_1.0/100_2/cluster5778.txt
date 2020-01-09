@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区司法局乌龙司法所,103.09629,26.022868,,,,,,,,,,,3,29850
+东川区司法局乌龙司法所,103.09629,26.022668,,,,,,,,,,,3,59639

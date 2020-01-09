@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸康泰骨科医院,103.255975,25.569678,,,,,,,,,,,3,25073
+寻甸康泰骨科医院,103.255975,25.569478,,,,,,,,,,,3,54862

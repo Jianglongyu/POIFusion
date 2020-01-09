@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市长水国际机场,102.86742199999999,25.046933,,,,,,,,,,,1,2914
+昆明市长水国际机场,102.86742199999999,25.047133,,,,,,,,,,,1,57206

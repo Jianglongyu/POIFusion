@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+唐氏菜馆,102.83661,24.959039999999998,,,,,,,,,,,3,12319
+创逸养生会所,102.83661,24.95885,,,,,,,,,,,3,20790
+中国民生银行ATM,102.83686999999999,24.95862,,,,,,,,,,,3,37741

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县地方公路管理段,103.58467900000001,25.429610999999998,,,,,,,,,,,3,29364
+马龙县地方公路管理段,103.58467900000001,25.429410999999998,,,,,,,,,,,3,59153

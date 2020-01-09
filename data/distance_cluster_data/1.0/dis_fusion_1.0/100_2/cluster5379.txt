@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+祝国寺,103.197681,26.096854,,,,,,,,,,,3,28011
+祝国寺,103.197681,26.096654,,,,,,,,,,,3,57800

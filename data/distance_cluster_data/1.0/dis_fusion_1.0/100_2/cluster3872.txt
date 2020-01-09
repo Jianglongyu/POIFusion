@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牛街庄,102.783789,25.00579,,,,,,,,,,,1,2404
+牛街庄,102.783789,25.00599,,,,,,,,,,,1,66625

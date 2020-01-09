@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+汤德小学,102.55201600000001,26.300535999999997,,,,,,,,,,,3,32889
+汤德小学,102.55201600000001,26.300335999999998,,,,,,,,,,,3,62678

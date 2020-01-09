@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+山冲公园,102.58633,24.797929999999997,,,,,,,,,,,3,26192
+云南国防工业职业技术学院海口校区,102.58633499999999,24.79862,,,,,,,,,,,3,38201

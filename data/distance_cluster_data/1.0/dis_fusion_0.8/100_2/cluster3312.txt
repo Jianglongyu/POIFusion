@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+野鸭湖山林别墅,102.818539,25.099321,,,,,,,,,,,1,1405
+野鸭湖山林别墅,102.818539,25.099521,,,,,,,,,,,1,55697

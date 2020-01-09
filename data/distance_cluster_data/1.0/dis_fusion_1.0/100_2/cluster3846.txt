@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+清真寺食堂,102.741414,25.148888,,,,,,,,,,,1,2286
+清真寺食堂,102.741414,25.149088,,,,,,,,,,,1,66507

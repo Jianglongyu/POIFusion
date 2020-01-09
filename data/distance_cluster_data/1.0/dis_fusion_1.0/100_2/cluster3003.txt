@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市五华区邮政局,102.69655,25.043817,,,,,,,,,,,3,29938
+云南大学茶马古道文化研究所,102.69619499999999,25.043637,,,,,,,,,,,3,31517
+中国邮政储蓄银行ATM,102.69654,25.04384,,,,,,,,,,,3,33170

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省农垦干部学校,102.655284,25.064213,,,,,,,,,,,3,33530
+云南新东方烹饪学校,102.655096,25.064375,,,,,,,,,,,3,36011

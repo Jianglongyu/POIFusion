@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三鑫职业技术学院昆明校区,102.638434,25.049067,,,,,,,,,,,3,43131
+云南经贸管理学校,102.638434,25.049067,,,,,,,,,,,3,44629

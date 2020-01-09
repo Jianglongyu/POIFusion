@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+灵山寺,102.763746,25.320328,,,,,,,,,,,3,28190
+灵山寺,102.763746,25.320128,,,,,,,,,,,3,57979

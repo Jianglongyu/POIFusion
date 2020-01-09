@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+佳嘉客,102.7759,24.95247,,,,,,,,,,,3,6400
+佳嘉客,102.7759,24.952270000000002,,,,,,,,,,,3,26260
+铭庭商务酒店,102.77534,24.95228,,,,,,,,,,,3,46410

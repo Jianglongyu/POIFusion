@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+楊林鎮,103.085388,25.235822,,,,,,,,,,,1,1413
+楊林鎮,103.085388,25.236022,,,,,,,,,,,1,48612

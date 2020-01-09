@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+岭味餐厅,102.72001,24.98604,,,,,,,,,,,3,10428
+岭味餐厅,102.72001,24.98584,,,,,,,,,,,3,17875
+姬秀坊护肤沙龙,102.71986,24.98623,,,,,,,,,,,3,29374
+诺贝幼儿园,102.719859,24.986136,,,,,,,,,,,3,38580

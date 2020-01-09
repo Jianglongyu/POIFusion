@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+铭花都男性养生会所,102.76465,24.96784,,,,,,,,,,,3,17794
+铭花都男性养生会所,102.76465,24.96764,,,,,,,,,,,3,37654
+帝贝主题酒店,102.76406,24.96773,,,,,,,,,,,3,46356
+哈喽酒店,102.76475,24.96752,,,,,,,,,,,3,47221

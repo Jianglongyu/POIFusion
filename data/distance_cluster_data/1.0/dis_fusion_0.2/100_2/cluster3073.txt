@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+医锦诊所,102.66675500000001,25.085727,,,,,,,,,,,3,29060
+五华区康馨幼儿园,102.666687,25.086203,,,,,,,,,,,3,34759

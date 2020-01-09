@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+达贝小学,103.182824,26.061773000000002,,,,,,,,,,,3,32825
+达贝小学,103.182824,26.061573000000003,,,,,,,,,,,3,62614

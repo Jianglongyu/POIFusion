@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+君子农庄,102.63365999999999,24.94848,,,,,,,,,,,3,20610
+啰嗦猫之爱心城堡,102.63344000000001,24.9489,,,,,,,,,,,3,24200
+盆景小院,102.63385,24.94782,,,,,,,,,,,3,24734

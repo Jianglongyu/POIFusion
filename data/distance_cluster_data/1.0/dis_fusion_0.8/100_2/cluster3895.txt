@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+侯谷花园,102.74301,25.063748,,,,,,,,,,,1,3695
+官房集团,102.74329499999999,25.064401,,,,,,,,,,,1,3899

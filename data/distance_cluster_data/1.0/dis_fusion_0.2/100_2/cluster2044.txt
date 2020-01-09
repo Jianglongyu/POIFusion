@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+月润傣家,102.6675,25.00235,,,,,,,,,,,3,11643
+彭禧野菜馆,102.66731999999999,25.00234,,,,,,,,,,,3,14436
+富源一锅羊,102.66739,25.00239,,,,,,,,,,,3,14598

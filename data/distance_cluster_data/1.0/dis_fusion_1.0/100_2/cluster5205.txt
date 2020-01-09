@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸仁德民众药房,103.258503,25.541946,,,,,,,,,,,3,26107
+寻甸仁德民众药房,103.258503,25.541746,,,,,,,,,,,3,55896

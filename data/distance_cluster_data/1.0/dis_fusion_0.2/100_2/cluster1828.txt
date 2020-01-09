@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+夜思豪粤西海鲜,102.75541,24.96238,,,,,,,,,,,3,8912
+广东悦轩海鲜大排档,102.75535,24.962329999999998,,,,,,,,,,,3,11149
+潮盛潮汕牛肉丸火锅世纪城店,102.75529,24.96228,,,,,,,,,,,3,14725

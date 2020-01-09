@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+加油站,102.701666,24.980137,,,,,,,,,,,3,4886
+加油站,102.701666,24.979937,,,,,,,,,,,3,24746
+富滇银行ATM,102.70167,24.97994,,,,,,,,,,,3,54283

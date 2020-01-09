@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+春华园,103.00171999999999,25.23549,,,,,,,,,,,3,17052
+春华园,103.00171999999999,25.23529,,,,,,,,,,,3,36912

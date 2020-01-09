@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+长城小区,102.70711,25.076081,,,,,,,,,,,1,835
+长城小区,102.70711,25.076280999999998,,,,,,,,,,,1,55127

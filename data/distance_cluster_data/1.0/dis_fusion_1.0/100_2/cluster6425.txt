@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+沙坝小学,103.178167,26.102814000000002,,,,,,,,,,,3,31796
+沙坝小学,103.178167,26.102614000000003,,,,,,,,,,,3,61585

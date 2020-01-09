@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+村乡幼儿园,103.11834,25.726156,,,,,,,,,,,3,32746
+村乡幼儿园,103.11834,25.725956,,,,,,,,,,,3,62535

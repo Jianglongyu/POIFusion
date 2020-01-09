@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+温泉水公园,103.00684,24.96441,,,,,,,,,,,3,17842
+温泉水公园,103.00684,24.96421,,,,,,,,,,,3,37702

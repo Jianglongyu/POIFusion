@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定响塘凹加油站,102.41465,25.531741,,,,,,,,,,,3,5022
+武定响塘凹加油站,102.41465,25.531541,,,,,,,,,,,3,12469

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县康宁药房,103.379487,25.637287,,,,,,,,,,,3,24181
+寻甸县康宁药房,103.379487,25.637087,,,,,,,,,,,3,53970

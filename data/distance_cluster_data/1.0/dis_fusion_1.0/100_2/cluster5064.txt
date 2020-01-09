@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南小吃一条街,102.77547,24.937379999999997,,,,,,,,,,,3,8669
+云南小吃一条街,102.77547,24.937179999999998,,,,,,,,,,,3,38458

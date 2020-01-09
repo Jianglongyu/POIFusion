@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+通泉镇乐熙社区卫生站,103.575602,25.429132,,,,,,,,,,,3,36566
+马龙县通泉镇计划生育服务所,103.575203,25.429014000000002,,,,,,,,,,,3,42118
+马龙县国税局第一分局,103.57589,25.429713,,,,,,,,,,,3,42337

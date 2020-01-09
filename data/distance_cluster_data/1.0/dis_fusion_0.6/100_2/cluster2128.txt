@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+银城花园,102.747726,25.016899,,,,,,,,,,,1,1329
+深山仙株素食主题餐厅,102.748161,25.017491,,,,,,,,,,,1,2184
+银城花园,102.747726,25.017098999999998,,,,,,,,,,,1,48528

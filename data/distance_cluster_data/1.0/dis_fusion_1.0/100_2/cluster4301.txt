@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大宅门食府,102.831346,24.989881,,,,,,,,,,,1,4225
+大宅门食府,102.831346,24.990081,,,,,,,,,,,1,68446

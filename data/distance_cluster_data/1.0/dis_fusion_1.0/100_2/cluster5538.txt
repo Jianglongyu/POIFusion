@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池明珠广场,102.83038,24.86871,,,,,,,,,,,3,28670
+滇池明珠广场,102.83038,24.86851,,,,,,,,,,,3,58459

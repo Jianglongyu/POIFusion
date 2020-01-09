@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南农业大学建筑工程学院,102.75139899999999,25.157748,,,,,,,,,,,2,543
+昆明冶金高等专科学校物流与交通学院,102.751529,25.158635999999998,,,,,,,,,,,1,2831

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大五岳村刘氏宅院,102.321453,24.574635,,,,,,,,,,,3,28122
+大五岳村刘氏宅院,102.321453,24.574435,,,,,,,,,,,3,57911

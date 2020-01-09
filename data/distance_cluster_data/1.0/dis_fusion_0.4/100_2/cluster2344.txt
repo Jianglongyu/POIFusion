@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂昆阳磷都花园小区连锁店,102.609328,24.656103,,,,,,,,,,,3,31544
+晋宁昆阳济世大药房,102.60883100000001,24.656781,,,,,,,,,,,3,31551
+喜尔康药房昆阳店,102.60910600000001,24.656443,,,,,,,,,,,3,32956

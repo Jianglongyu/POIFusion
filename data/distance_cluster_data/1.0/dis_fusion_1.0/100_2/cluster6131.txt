@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+堡子小学,103.29861,24.794441,,,,,,,,,,,3,30944
+堡子小学,103.29861,24.794241,,,,,,,,,,,3,60733

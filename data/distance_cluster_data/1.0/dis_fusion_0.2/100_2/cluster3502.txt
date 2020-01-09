@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+帕帕珍味艺术学院店,102.82729,24.83134,,,,,,,,,,,3,13878
+大口九茶饮全国连锁,102.82699000000001,24.8314,,,,,,,,,,,3,14114

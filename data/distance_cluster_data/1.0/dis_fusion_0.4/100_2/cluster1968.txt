@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国建设银行锦苑花园分理处,102.728161,25.008681,,,,,,,,,,,1,749
+锦苑花园(官南大道),102.727811,25.008931,,,,,,,,,,,1,3385
+中国建设银行锦苑花园分理处,102.728161,25.008881,,,,,,,,,,,1,42628

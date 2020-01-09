@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市精神卫生防治医院,102.735714,25.067033,,,,,,,,,,,3,25823
+昆明市精神卫生防治医院,102.735714,25.066833,,,,,,,,,,,3,55612

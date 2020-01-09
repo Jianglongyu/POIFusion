@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+里仁大村公交站,102.594767,24.799379000000002,,,,,,,,,,,2,522
+里仁大村公交站,102.594767,24.799579,,,,,,,,,,,2,54814

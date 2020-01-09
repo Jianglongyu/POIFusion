@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+毛家坝和平希望小学,103.414614,25.51209,,,,,,,,,,,3,30502
+毛家坝和平希望小学,103.414614,25.51189,,,,,,,,,,,3,60291

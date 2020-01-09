@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+和风园(北门),102.70026899999999,25.011264,,,,,,,,,,,1,3772
+汉江,102.69982420000001,25.01103929,,,,,,,,,,,1,3802

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市地税局一分局办税服务厅,102.477428,24.918060999999998,,,,,,,,,,,3,28944
+安宁市地税局一分局办税服务厅,102.477428,24.917861,,,,,,,,,,,3,58733

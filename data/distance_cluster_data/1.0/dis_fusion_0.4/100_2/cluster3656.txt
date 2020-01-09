@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+贵生牛肉煲,103.0143,25.23824,,,,,,,,,,,3,21515
+曦元快捷酒店,103.01428,25.238960000000002,,,,,,,,,,,3,34856

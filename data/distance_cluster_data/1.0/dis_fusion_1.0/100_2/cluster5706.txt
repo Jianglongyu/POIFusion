@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+数字石林管理中心,103.326198,24.821466,,,,,,,,,,,3,29505
+数字石林管理中心,103.326198,24.821266,,,,,,,,,,,3,59294

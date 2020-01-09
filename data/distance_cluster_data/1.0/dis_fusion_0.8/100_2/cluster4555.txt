@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省红十字急救中心,102.660224,25.053369,,,,,,,,,,,3,22641
+云南省红十字急救中心,102.660224,25.053169,,,,,,,,,,,3,42501

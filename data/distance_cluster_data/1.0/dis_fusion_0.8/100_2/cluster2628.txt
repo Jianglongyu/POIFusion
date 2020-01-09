@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+怀德仁药房,102.657377,25.302063,,,,,,,,,,,3,23307
+怀德仁药房,102.657377,25.301863,,,,,,,,,,,3,43167
+散旦新药店,102.657531,25.302579,,,,,,,,,,,3,45806

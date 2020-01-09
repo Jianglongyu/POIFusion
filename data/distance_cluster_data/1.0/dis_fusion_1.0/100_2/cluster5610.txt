@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市滇池管理综合行政执法总队,102.649367,24.960760999999998,,,,,,,,,,,3,29008
+昆明市滇池管理综合行政执法总队,102.649367,24.960561,,,,,,,,,,,3,58797

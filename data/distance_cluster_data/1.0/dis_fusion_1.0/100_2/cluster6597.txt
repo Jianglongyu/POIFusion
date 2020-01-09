@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马街中心幼儿园,103.21554499999999,25.201060000000002,,,,,,,,,,,3,32320
+马街中心幼儿园,103.21554499999999,25.200860000000002,,,,,,,,,,,3,62109

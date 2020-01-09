@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+实力心城,102.830595,24.887261,,,,,,,,,,,2,335
+实力心城,102.830595,24.887461,,,,,,,,,,,2,54627

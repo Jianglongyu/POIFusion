@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宝丰小学,102.719181,24.922685,,,,,,,,,,,3,32036
+宝丰小学,102.719181,24.922485,,,,,,,,,,,3,61825

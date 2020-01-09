@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明海星培训学校,102.673986,25.083769,,,,,,,,,,,3,30839
+昆明海星培训学校,102.673986,25.083569,,,,,,,,,,,3,60628

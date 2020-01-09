@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林古崖画,103.326357,24.810538,,,,,,,,,,,3,27918
+石林古崖画,103.326357,24.810338,,,,,,,,,,,3,57707

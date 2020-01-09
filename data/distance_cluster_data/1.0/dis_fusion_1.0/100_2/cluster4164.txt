@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+惠泽庵,102.871894,25.039413,,,,,,,,,,,1,3607
+惠泽庵,102.871894,25.039613,,,,,,,,,,,1,67828

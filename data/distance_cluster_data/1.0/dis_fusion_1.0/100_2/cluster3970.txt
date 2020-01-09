@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明新迎北区综合商品批发商场,102.745972,25.061456,,,,,,,,,,,1,2849
+昆明新迎北区综合商品批发商场,102.745972,25.061656,,,,,,,,,,,1,67070

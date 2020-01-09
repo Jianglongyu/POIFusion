@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+现代精典发艺设计专业汤染店,102.72714,25.06693,,,,,,,,,,,3,15947
+美成,102.72717,25.06704,,,,,,,,,,,3,21119
+现代精典发艺设计专业汤染店,102.72714,25.06673,,,,,,,,,,,3,45736
+美成,102.72717,25.06684,,,,,,,,,,,3,50908

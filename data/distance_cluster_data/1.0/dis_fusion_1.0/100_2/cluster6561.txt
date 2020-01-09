@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山三育学校,102.637065,25.028671,,,,,,,,,,,3,32243
+西山三育学校,102.637065,25.028471,,,,,,,,,,,3,62032

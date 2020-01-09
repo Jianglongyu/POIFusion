@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大树营社区,102.747951,25.046298999999998,,,,,,,,,,,1,4235
+昙华寺公园南门,102.74824,25.04574,,,,,,,,,,,3,28754

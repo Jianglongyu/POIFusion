@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牧场高尔夫球会,102.99311999999999,25.187649999999998,,,,,,,,,,,3,19910
+牧场高尔夫球会,102.99311999999999,25.18745,,,,,,,,,,,3,39770

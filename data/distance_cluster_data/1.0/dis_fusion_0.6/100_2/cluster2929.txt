@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+文山人家,102.79182,24.891270000000002,,,,,,,,,,,3,8988
+文山人家,102.79182,24.891070000000003,,,,,,,,,,,3,21755

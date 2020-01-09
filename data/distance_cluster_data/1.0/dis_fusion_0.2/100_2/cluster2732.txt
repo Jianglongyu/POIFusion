@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康达堂大药房,102.400855,25.526283,,,,,,,,,,,3,26425
+武定县基督教清心堂,102.40095699999999,25.52627,,,,,,,,,,,3,31611

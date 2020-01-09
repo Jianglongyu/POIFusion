@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+初等农业机械化技术学校,102.401209,25.534416,,,,,,,,,,,3,31681
+初等农业机械化技术学校,102.401209,25.534216,,,,,,,,,,,3,61470

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁二街客运站,102.494247,24.692484,,,,,,,,,,,3,32953
+晋宁二街客运站,102.494247,24.692284,,,,,,,,,,,3,62742

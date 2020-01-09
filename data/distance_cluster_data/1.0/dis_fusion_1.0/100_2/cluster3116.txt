@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+玉苗小学,102.64060400000001,24.439789,,,,,,,,,,,3,32893
+玉苗小学,102.64060400000001,24.439589,,,,,,,,,,,3,62682

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+JINSEJIAXIN动漫,102.78603000000001,24.953120000000002,,,,,,,,,,,3,19416
+现代沙龙,102.78599,24.95295,,,,,,,,,,,3,19417
+JINSEJIAXIN动漫,102.78603000000001,24.952920000000002,,,,,,,,,,,3,49205
+现代沙龙,102.78599,24.95275,,,,,,,,,,,3,49206

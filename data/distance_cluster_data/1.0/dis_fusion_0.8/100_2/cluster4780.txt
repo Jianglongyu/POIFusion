@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明明珠医院,102.745979,25.031526,,,,,,,,,,,3,24011
+昆明明珠医院,102.745979,25.031326,,,,,,,,,,,3,43871

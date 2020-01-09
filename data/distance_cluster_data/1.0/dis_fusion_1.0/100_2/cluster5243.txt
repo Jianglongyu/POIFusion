@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+军预宾馆,102.7932,24.97297,,,,,,,,,,,3,26647
+军预宾馆,102.7932,24.97277,,,,,,,,,,,3,56436

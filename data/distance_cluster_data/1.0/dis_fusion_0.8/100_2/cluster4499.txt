@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+山水阁酒楼,102.83606,24.91036,,,,,,,,,,,3,13825
+山水阁酒楼,102.83606,24.91016,,,,,,,,,,,3,33685

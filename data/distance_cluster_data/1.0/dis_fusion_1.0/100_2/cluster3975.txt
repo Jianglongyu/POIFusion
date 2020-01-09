@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明现代工商旅游学校,102.688273,25.077339000000002,,,,,,,,,,,1,2859
+昆明现代工商旅游学校,102.688273,25.077539,,,,,,,,,,,1,67080

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海埂国家体育训练基地,102.67671419999999,24.96046006,,,,,,,,,,,1,3821
+海埂高尔夫俱乐部,102.67728000000001,24.96084,,,,,,,,,,,3,22526
+云南省农村信用社ATM,102.67715,24.960079999999998,,,,,,,,,,,3,37607

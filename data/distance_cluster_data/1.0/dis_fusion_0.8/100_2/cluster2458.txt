@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省呈贡县第三中学,102.831124,24.926758,,,,,,,,,,,3,52683
+大家利饭店,102.83015,24.92708,,,,,,,,,,,3,9970
+大家利饭店,102.83015,24.92688,,,,,,,,,,,3,29830

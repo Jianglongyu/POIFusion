@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+度假区乡村小榭饭店,102.6682,24.96865,,,,,,,,,,,3,11404
+度假区乡村小榭饭店,102.6682,24.96845,,,,,,,,,,,3,18851

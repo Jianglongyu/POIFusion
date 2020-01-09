@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡·滇池生态湿地公园,102.77839,24.893462,,,,,,,,,,,1,4373
+呈贡·滇池生态湿地公园,102.77839,24.893662,,,,,,,,,,,1,68594

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+周达农家,102.92099,25.28006,,,,,,,,,,,3,20222
+周达农家,102.92099,25.27986,,,,,,,,,,,3,40082

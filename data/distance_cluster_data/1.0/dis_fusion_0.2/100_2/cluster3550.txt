@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+溶盆,103.326673,24.80912,,,,,,,,,,,3,31195
+剑状峰林,103.326601,24.80911,,,,,,,,,,,3,31549

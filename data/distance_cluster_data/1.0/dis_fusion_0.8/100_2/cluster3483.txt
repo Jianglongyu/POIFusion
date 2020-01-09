@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+腾云楼,102.635003,24.954061,,,,,,,,,,,1,1973
+腾云楼,102.635003,24.954261,,,,,,,,,,,1,56265

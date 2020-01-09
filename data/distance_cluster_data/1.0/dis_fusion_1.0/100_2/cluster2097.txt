@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丝美专业烫染机构,102.7241,24.972,,,,,,,,,,,3,16411
+陈国芬诊所,102.724588,24.972514,,,,,,,,,,,3,24972
+丝美专业烫染机构,102.7241,24.9718,,,,,,,,,,,3,46200
+陈国芬诊所,102.724588,24.972314,,,,,,,,,,,3,54761

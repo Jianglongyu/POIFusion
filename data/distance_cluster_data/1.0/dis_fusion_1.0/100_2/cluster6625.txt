@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+春和中学,102.521084,24.406138,,,,,,,,,,,3,32404
+春和中学,102.521084,24.405938,,,,,,,,,,,3,62193

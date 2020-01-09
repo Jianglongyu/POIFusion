@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省体育工作大队,102.809811,24.859907,,,,,,,,,,,3,29890
+云南省体育工作大队,102.809811,24.859707,,,,,,,,,,,3,59679

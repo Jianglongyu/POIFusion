@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+领航外语学校,102.783339,25.000521,,,,,,,,,,,3,30625
+领航外语学校,102.783339,25.000321,,,,,,,,,,,3,60414

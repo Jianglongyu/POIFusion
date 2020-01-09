@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明医学院海源学院,103.000413,25.245459,,,,,,,,,,,1,2822
+昆明医学院海源学院,103.000413,25.245659,,,,,,,,,,,1,57114

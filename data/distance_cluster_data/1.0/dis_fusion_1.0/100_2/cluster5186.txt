@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县插甸乡卫生院,102.288547,25.647983999999997,,,,,,,,,,,3,25916
+武定县插甸乡卫生院,102.288547,25.647783999999998,,,,,,,,,,,3,55705

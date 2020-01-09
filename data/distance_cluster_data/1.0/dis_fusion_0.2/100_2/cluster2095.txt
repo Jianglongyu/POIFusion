@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+伊香园,102.97875,25.1729,,,,,,,,,,,3,12757
+兔耳全羊火锅,102.9784,25.17322,,,,,,,,,,,3,15746
+相约酒吧,102.97861,25.17297,,,,,,,,,,,3,23975

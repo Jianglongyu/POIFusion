@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安通实业公司安康生态园,102.59713,24.98615,,,,,,,,,,,3,17613
+安通实业公司安康生态园,102.59713,24.98595,,,,,,,,,,,3,37473

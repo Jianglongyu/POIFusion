@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+岭秀园,103.02620999999999,25.2466,,,,,,,,,,,3,19411
+岭秀园,103.02620999999999,25.2464,,,,,,,,,,,3,39271

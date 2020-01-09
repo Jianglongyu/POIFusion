@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南云铜锌业股份有限公司,102.683052,25.099413000000002,,,,,,,,,,,1,881
+云南云铜锌业股份有限公司,102.683052,25.099613,,,,,,,,,,,1,65102

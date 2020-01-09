@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨学林诊所,103.264985,24.759685,,,,,,,,,,,3,38538
+石林彝族自治县鹿阜小学,103.265549,24.759691,,,,,,,,,,,3,43786

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+清真饭店,102.84411300000001,25.028295999999997,,,,,,,,,,,1,2288
+清真饭店,102.84411300000001,25.028495999999997,,,,,,,,,,,1,66509

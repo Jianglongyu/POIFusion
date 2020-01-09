@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+群益康药房,102.655146,24.996042000000003,,,,,,,,,,,3,30688
+乡土农家菜馆,102.65519,24.99731,,,,,,,,,,,3,25069
+福海新河社区卫生服务站,102.655361,24.996579999999998,,,,,,,,,,,3,30919

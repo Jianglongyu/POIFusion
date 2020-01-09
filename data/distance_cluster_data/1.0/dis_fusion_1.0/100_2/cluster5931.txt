@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大营镇东元小学,102.55633900000001,25.225513,,,,,,,,,,,3,30382
+大营镇东元小学,102.55633900000001,25.225313,,,,,,,,,,,3,60171

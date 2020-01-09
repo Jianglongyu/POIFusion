@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昊邦大厦,102.64924,25.077289999999998,,,,,,,,,,,3,28431
+昊邦大厦,102.64924,25.07709,,,,,,,,,,,3,58220

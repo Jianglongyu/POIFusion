@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+锦夜宾馆,102.77835999999999,24.978849999999998,,,,,,,,,,,3,27407
+锦夜宾馆,102.77835999999999,24.97865,,,,,,,,,,,3,57196

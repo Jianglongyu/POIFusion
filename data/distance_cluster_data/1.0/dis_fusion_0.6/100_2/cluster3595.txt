@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+汉子火锅,102.8222,25.00411,,,,,,,,,,,3,12648
+汉子火锅,102.8222,25.00391,,,,,,,,,,,3,25415

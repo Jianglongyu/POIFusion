@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南海中心完小,102.790867,25.582618,,,,,,,,,,,3,32191
+南海中心完小,102.790867,25.582418,,,,,,,,,,,3,61980

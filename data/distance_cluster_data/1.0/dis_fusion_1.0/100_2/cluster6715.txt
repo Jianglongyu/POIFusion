@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东前小学,102.56813299999999,24.416711,,,,,,,,,,,3,32630
+东前小学,102.56813299999999,24.416511,,,,,,,,,,,3,62419

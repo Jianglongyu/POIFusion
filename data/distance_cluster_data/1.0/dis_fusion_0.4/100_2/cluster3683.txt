@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省财经学校,102.71664200000001,25.091929999999998,,,,,,,,,,,3,38126
+云南省农财干部培训中心,102.71718100000001,25.092449,,,,,,,,,,,3,38947

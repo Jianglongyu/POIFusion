@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市劳动就业服务局,102.832583,24.881582,,,,,,,,,,,3,36570
+昆明市人力资源和社会保障局,102.832583,24.881582,,,,,,,,,,,3,36955
+昆明市食品药品监督管理局,102.832583,24.881582,,,,,,,,,,,3,37486

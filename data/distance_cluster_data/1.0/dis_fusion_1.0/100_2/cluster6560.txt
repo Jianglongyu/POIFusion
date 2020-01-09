@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西核光彩小学,102.41270300000001,25.318289,,,,,,,,,,,3,32242
+西核光彩小学,102.41270300000001,25.318089,,,,,,,,,,,3,62031

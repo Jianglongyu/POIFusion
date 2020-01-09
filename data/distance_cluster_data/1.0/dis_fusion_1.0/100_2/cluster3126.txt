@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+象鼻小学,103.029635,26.464031,,,,,,,,,,,3,32905
+象鼻小学,103.029635,26.463831,,,,,,,,,,,3,62694

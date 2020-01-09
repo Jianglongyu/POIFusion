@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+荣发加油站,103.195076,25.556549999999998,,,,,,,,,,,3,5067
+荣发加油站,103.195076,25.55635,,,,,,,,,,,3,24927

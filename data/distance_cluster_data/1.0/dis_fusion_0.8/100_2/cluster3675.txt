@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乐居果园,102.52976,25.098667000000003,,,,,,,,,,,1,2692
+乐居果园,102.52976,25.098867000000002,,,,,,,,,,,1,56984

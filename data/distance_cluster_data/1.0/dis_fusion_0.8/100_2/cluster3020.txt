@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华区地税局车船税征收服务点,102.668269,25.071275,,,,,,,,,,,3,49680
+昆明市公安局车管所便民服务点,102.668222,25.071461,,,,,,,,,,,3,49961

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+荣宇花园餐厅,102.81963,24.89766,,,,,,,,,,,3,9395
+荣宇花园餐厅,102.81963,24.89746,,,,,,,,,,,3,22162

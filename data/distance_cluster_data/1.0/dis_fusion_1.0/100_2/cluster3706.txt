@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禧瑞都,102.745785,25.076833999999998,,,,,,,,,,,1,1691
+禧瑞都,102.745785,25.077033999999998,,,,,,,,,,,1,65912

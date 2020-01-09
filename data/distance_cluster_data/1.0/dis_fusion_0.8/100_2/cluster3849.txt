@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天语流香休闲山庄,102.76876999999999,25.14239,,,,,,,,,,,3,19780
+天语流香休闲山庄,102.76876999999999,25.14219,,,,,,,,,,,3,39640

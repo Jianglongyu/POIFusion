@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+沈机集团昆明机床股份有限公司,102.744484,25.158358,,,,,,,,,,,1,2181
+沈机集团昆明机床股份有限公司,102.744484,25.158558,,,,,,,,,,,1,56473

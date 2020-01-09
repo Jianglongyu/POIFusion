@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云安会堂,102.651788,25.031098,,,,,,,,,,,1,1226
+云安会堂,102.651788,25.031298,,,,,,,,,,,1,48425

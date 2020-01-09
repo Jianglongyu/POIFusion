@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普吉华福苑社区卫生站,102.67794599999999,25.079591,,,,,,,,,,,3,23867
+普吉华福苑社区卫生站,102.67794599999999,25.079391,,,,,,,,,,,3,43727

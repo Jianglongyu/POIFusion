@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+曼林足疗服务部,102.65647,25.0423,,,,,,,,,,,3,20267
+米永贵诊所,102.656288,25.042465,,,,,,,,,,,3,26602
+中国工商银行ATM,102.65648,25.04226,,,,,,,,,,,3,37147
+中国民生银行,102.6565,25.042360000000002,,,,,,,,,,,3,37538

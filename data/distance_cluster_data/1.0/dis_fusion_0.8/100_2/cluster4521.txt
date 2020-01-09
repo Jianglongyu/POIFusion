@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+抚仙湖野生菌石锅鱼,102.80165,24.9571,,,,,,,,,,,3,5902
+抚仙湖野生菌石锅鱼,102.80165,24.9569,,,,,,,,,,,3,25762

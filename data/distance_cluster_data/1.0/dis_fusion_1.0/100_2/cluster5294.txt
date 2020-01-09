@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市工人疗养院职工宿舍区,102.66579,24.8563,,,,,,,,,,,3,27630
+昆明市工人疗养院职工宿舍区,102.66579,24.8561,,,,,,,,,,,3,57419

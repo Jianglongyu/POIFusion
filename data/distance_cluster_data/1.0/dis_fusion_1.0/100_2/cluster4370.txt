@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+爱情海购物公园,102.69001800000001,24.98031,,,,,,,,,,,1,4551
+爱情海购物公园,102.69001800000001,24.98051,,,,,,,,,,,1,68772

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省粮油科学研究所,102.683379,25.060973,,,,,,,,,,,3,30216
+云南省粮油科学研究所,102.683379,25.060773,,,,,,,,,,,3,60005

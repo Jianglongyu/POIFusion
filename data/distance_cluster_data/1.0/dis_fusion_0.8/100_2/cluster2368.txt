@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+松林八一希望小学,102.904893,25.543271,,,,,,,,,,,3,50797
+军民共建松林卫生所,102.905078,25.544163,,,,,,,,,,,3,23831
+军民共建松林卫生所,102.905078,25.543963,,,,,,,,,,,3,43691

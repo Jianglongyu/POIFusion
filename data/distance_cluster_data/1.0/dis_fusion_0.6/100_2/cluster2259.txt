@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+许三药店,103.143935,24.787598000000003,,,,,,,,,,,3,36026
+福丽大药房,103.144492,24.787876,,,,,,,,,,,3,36513
+益宁堂福灵连锁店,103.14366,24.787902,,,,,,,,,,,3,37357

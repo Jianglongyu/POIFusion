@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+爱琴海购物公园,102.690214,24.998484,,,,,,,,,,,1,4552
+爱琴海购物公园,102.690214,24.998684,,,,,,,,,,,1,68773

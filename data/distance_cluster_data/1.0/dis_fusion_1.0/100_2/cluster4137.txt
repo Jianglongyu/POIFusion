@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金才兰园,102.793131,24.90546,,,,,,,,,,,1,3483
+金才兰园,102.793131,24.90566,,,,,,,,,,,1,67704

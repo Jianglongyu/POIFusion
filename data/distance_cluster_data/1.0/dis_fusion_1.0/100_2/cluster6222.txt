@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+银洞小学,103.202616,26.240713,,,,,,,,,,,3,31188
+银洞小学,103.202616,26.240513,,,,,,,,,,,3,60977

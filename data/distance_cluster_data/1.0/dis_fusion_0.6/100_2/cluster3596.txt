@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+储八方餐馆新铁公鸡店,102.82715999999999,24.962699999999998,,,,,,,,,,,3,12662
+储八方餐馆新铁公鸡店,102.82715999999999,24.9625,,,,,,,,,,,3,25429

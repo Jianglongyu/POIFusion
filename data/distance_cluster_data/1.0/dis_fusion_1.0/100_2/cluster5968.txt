@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南骨伤科中等专业学校,102.62375,24.649706,,,,,,,,,,,3,30466
+云南骨伤科中等专业学校,102.62375,24.649506,,,,,,,,,,,3,60255

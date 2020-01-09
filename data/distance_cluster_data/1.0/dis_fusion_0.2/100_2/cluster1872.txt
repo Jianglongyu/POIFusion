@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+学而书店,102.753588,25.136579,,,,,,,,,,,1,1470
+永都酒店,102.75228299999999,25.13648,,,,,,,,,,,1,1287
+后街量贩式KTV,102.752976,25.136319,,,,,,,,,,,1,3692

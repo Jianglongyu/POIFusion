@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县职业高级中学,102.944979,24.666372,,,,,,,,,,,3,31178
+澄江县职业高级中学,102.944979,24.666172,,,,,,,,,,,3,60967

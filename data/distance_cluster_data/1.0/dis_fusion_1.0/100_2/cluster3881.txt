@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+摩梭之家,102.66278,24.972739999999998,,,,,,,,,,,1,2458
+摩梭之家,102.66278,24.972939999999998,,,,,,,,,,,1,66679

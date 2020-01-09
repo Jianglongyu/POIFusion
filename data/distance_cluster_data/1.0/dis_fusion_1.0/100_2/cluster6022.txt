@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县CIT希望小学,102.412085,25.526673,,,,,,,,,,,3,30624
+武定县CIT希望小学,102.412085,25.526473,,,,,,,,,,,3,60413

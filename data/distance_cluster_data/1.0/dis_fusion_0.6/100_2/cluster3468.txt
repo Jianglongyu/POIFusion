@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康日健门诊部,102.77414,24.972248,,,,,,,,,,,3,36203
+明华幼儿园,102.773513,24.971726999999998,,,,,,,,,,,3,44491

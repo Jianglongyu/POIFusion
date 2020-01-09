@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三圣药店,103.579359,25.435475,,,,,,,,,,,3,22553
+三圣药店,103.579359,25.435275,,,,,,,,,,,3,52342

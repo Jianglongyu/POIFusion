@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+建设大厦,102.71978,25.032770000000003,,,,,,,,,,,3,31811
+官渡区北京路幼儿园,102.720151,25.03269,,,,,,,,,,,3,35333

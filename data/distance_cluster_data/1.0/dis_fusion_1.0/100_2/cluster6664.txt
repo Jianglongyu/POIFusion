@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+积德完小,103.099231,25.313685999999997,,,,,,,,,,,3,32549
+积德完小,103.099231,25.313485999999997,,,,,,,,,,,3,62338

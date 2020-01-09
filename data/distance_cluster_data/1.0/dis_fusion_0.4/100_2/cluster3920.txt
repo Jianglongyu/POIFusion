@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明桦中医馆,102.771033,24.963893,,,,,,,,,,,3,31920
+云南省交通运输厅工程质量监督局,102.770798,24.963757,,,,,,,,,,,3,37419

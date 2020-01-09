@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县国税局,103.26015799999999,25.567664999999998,,,,,,,,,,,3,28800
+寻甸县国税局,103.26015799999999,25.567465,,,,,,,,,,,3,58589

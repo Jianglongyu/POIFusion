@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+橡树庄园(北门),102.695278,24.979682999999998,,,,,,,,,,,1,1638
+云南省环境保护厅,102.694886,24.980007999999998,,,,,,,,,,,3,36733
+中国农业银行滇池国家旅游度假区支行,102.69447,24.98005,,,,,,,,,,,3,41274

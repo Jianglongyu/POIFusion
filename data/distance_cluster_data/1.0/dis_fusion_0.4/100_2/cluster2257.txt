@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南交通职业技术学院呈贡新校区校医院,102.861919,24.835389000000003,,,,,,,,,,,3,30478
+农村信用社ATM,102.86148,24.8353,,,,,,,,,,,3,41370
+中国农业银行ATM,102.86149,24.83513,,,,,,,,,,,3,41471

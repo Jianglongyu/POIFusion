@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+李氏农家乐,102.58752,25.08204,,,,,,,,,,,3,23775
+闲云村庄,102.58766,25.08239,,,,,,,,,,,3,24960

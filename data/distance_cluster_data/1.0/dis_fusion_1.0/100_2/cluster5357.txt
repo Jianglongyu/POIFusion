@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+郑和公园,102.591013,24.66755,,,,,,,,,,,3,27954
+郑和公园,102.591013,24.66735,,,,,,,,,,,3,57743

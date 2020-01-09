@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昌盛学校,102.666309,25.007192,,,,,,,,,,,3,30883
+昌盛学校,102.666309,25.006992,,,,,,,,,,,3,60672

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大观楼,102.673864,25.024517,,,,,,,,,,,3,27906
+彩云崖,102.67421,25.02452,,,,,,,,,,,3,28244
+大观楼,102.673864,25.024317,,,,,,,,,,,3,57695
+彩云崖,102.67421,25.02432,,,,,,,,,,,3,58033

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乾坤圣帝娱乐宫,102.75684,24.97835,,,,,,,,,,,3,31649
+东源休闲会所,102.75671,24.97825,,,,,,,,,,,3,34738
+新世纪妇女儿童医院,102.757368,24.978771,,,,,,,,,,,3,37029
+楚东酒店,102.75744,24.9783,,,,,,,,,,,3,40395

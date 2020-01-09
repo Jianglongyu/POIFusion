@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂鸡街店,102.781396,25.640279999999997,,,,,,,,,,,3,22794
+同济堂鸡街店,102.781396,25.640079999999998,,,,,,,,,,,3,42654
+阳光幼儿园,102.781548,25.639735,,,,,,,,,,,3,50782

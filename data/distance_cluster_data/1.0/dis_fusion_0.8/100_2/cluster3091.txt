@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+段氏道班带皮羊肉火锅,102.79915,25.18093,,,,,,,,,,,3,8839
+段氏道班带皮羊肉火锅,102.79915,25.18073,,,,,,,,,,,3,28699

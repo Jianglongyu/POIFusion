@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡服务区－呈贡（B）加油站,102.81459100000001,24.882628,,,,,,,,,,,3,4680
+呈贡服务区－呈贡（B）加油站,102.81459100000001,24.882428,,,,,,,,,,,3,12127

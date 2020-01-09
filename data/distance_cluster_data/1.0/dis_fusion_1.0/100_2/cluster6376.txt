@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双化希望小学,102.474397,26.049523999999998,,,,,,,,,,,3,31662
+双化希望小学,102.474397,26.049324,,,,,,,,,,,3,61451

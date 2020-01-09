@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+铭门高第,102.6951203,25.0211486,,,,,,,,,,,2,293
+铭门高第,102.6951203,25.0213486,,,,,,,,,,,2,47492

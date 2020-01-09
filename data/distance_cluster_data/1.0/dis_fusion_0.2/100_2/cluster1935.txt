@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+星星幼儿园,103.132849,24.847513,,,,,,,,,,,3,34984
+南羊加油站,103.132581,24.848436,,,,,,,,,,,3,4690
+南羊加油站,103.132581,24.848236,,,,,,,,,,,3,8000

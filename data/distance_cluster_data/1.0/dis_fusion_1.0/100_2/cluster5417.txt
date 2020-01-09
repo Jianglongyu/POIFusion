@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩阳基督教堂,103.03922800000001,25.344141,,,,,,,,,,,3,28163
+嵩阳基督教堂,103.03922800000001,25.343941,,,,,,,,,,,3,57952

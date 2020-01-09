@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南长兴医药保健有限公司春苑配送中心,102.67629699999999,25.042651,,,,,,,,,,,3,29437
+华光天子庙,102.676348,25.042070000000002,,,,,,,,,,,3,31464

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+民生诊所,102.74732900000001,25.119432,,,,,,,,,,,3,24503
+民生诊所,102.74732900000001,25.119232,,,,,,,,,,,3,54292
+怀德仁大药房,102.746985,25.119671,,,,,,,,,,,3,55045

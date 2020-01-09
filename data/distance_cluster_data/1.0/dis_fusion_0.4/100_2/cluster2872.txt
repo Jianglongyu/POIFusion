@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南嘉禾大酒店,102.695554,25.05534,,,,,,,,,,,1,1117
+云南嘉禾大酒店,102.695554,25.05554,,,,,,,,,,,1,42996

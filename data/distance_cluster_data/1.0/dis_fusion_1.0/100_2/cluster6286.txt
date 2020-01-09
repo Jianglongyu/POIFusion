@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+贝特尔幼儿园,102.591626,24.690973999999997,,,,,,,,,,,3,31391
+贝特尔幼儿园,102.591626,24.690773999999998,,,,,,,,,,,3,61180

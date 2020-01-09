@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南山小学,102.75475,24.633354,,,,,,,,,,,3,31050
+南山小学,102.75475,24.633154,,,,,,,,,,,3,60839

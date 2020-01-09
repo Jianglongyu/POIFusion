@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小村公交站,102.541251,25.073271,,,,,,,,,,,1,1629
+小村公交站,102.541251,25.073470999999998,,,,,,,,,,,1,55921

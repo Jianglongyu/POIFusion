@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+喜家乐购物中心,102.772498,24.945107,,,,,,,,,,,1,1696
+好再来饭店,102.77322,24.945,,,,,,,,,,,1,3778
+喜家乐购物中心,102.772498,24.945307,,,,,,,,,,,1,48895

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金马源温泉花园,102.744738,25.051493,,,,,,,,,,,1,3442
+美中美医疗整形,102.74401,25.05121,,,,,,,,,,,3,24882
+昆明市盘龙区地税局六分局,102.743916,25.051265,,,,,,,,,,,3,32219

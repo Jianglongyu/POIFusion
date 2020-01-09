@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宝珠寺,102.630262,25.035159,,,,,,,,,,,3,28214
+宝珠寺,102.630262,25.034959,,,,,,,,,,,3,58003

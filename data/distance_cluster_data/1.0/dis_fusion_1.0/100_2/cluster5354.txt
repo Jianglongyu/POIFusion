@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双龙寺,102.744812,25.079947,,,,,,,,,,,3,27939
+双龙寺,102.744812,25.079747,,,,,,,,,,,3,57728

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市化工小学,102.597414,24.919462,,,,,,,,,,,3,32703
+安宁市化工小学,102.597414,24.919262,,,,,,,,,,,3,62492

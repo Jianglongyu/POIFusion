@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+李附子中医馆,102.682349,25.017516,,,,,,,,,,,3,23159
+李附子中医馆,102.682349,25.017316,,,,,,,,,,,3,43019

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新闻中心昆明电台,102.684606,25.042996,,,,,,,,,,,1,1560
+昆明电视台广告部,102.685277,25.042895,,,,,,,,,,,1,3214
+集成大厦,102.685237,25.042955,,,,,,,,,,,1,3588

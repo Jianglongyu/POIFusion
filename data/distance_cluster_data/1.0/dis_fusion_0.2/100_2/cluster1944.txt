@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普洱,102.721079,25.051402,,,,,,,,,,,1,2359
+经贸宾馆,102.720759,25.05165,,,,,,,,,,,1,3378
+金鹰B座,102.720219,25.051268,,,,,,,,,,,1,3401

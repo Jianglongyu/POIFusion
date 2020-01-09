@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普吉街道办事处公交站,102.67827199999999,25.096360999999998,,,,,,,,,,,1,2357
+抚仙湖绿色生态石锅鱼,102.678053,25.096729,,,,,,,,,,,1,3998

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华夏银行ATM,102.84376,24.82781,,,,,,,,,,,3,45983
+馀味堂,102.84424,24.828599999999998,,,,,,,,,,,3,8073
+馀味堂,102.84424,24.8284,,,,,,,,,,,3,20840
+农村信用社ATM,102.84374,24.82787,,,,,,,,,,,3,46521

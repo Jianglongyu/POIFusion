@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+威哥银杏酒楼,102.68160999999999,24.976499999999998,,,,,,,,,,,3,9669
+威哥银杏酒楼,102.68160999999999,24.9763,,,,,,,,,,,3,39458

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天南中学,102.75356,25.050492000000002,,,,,,,,,,,1,1953
+同兴集团金苑住宅区,102.753078,25.051389999999998,,,,,,,,,,,1,1920
+昙华寺公交站,102.75322800000001,25.051237,,,,,,,,,,,1,1997

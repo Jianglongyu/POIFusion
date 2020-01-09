@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+剪锋时刻,102.65849,25.07078,,,,,,,,,,,3,17548
+乐足道,102.65845,25.07076,,,,,,,,,,,3,17801
+明珏快捷酒店,102.65916,25.070429999999998,,,,,,,,,,,3,26612

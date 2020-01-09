@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西仪社区卫生服务中心,102.584587,24.79843,,,,,,,,,,,3,23608
+西仪社区卫生服务中心,102.584587,24.79823,,,,,,,,,,,3,53397

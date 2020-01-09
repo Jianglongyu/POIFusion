@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+艾尚佳造型护肤SPA,102.72986999999999,25.10966,,,,,,,,,,,3,18063
+艾尚佳造型护肤SPA,102.72986999999999,25.109460000000002,,,,,,,,,,,3,47852

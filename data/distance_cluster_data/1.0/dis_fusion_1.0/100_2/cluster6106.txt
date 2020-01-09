@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金所幼儿园,103.194457,25.550712,,,,,,,,,,,3,30886
+金所幼儿园,103.194457,25.550512,,,,,,,,,,,3,60675

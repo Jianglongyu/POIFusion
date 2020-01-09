@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西街口镇宜耐小学,103.59931,24.841751000000002,,,,,,,,,,,3,32826
+西街口镇宜耐小学,103.59931,24.841551000000003,,,,,,,,,,,3,62615

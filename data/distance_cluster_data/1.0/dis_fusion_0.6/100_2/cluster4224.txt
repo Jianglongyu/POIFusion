@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大理风味园,102.77965999999999,24.97638,,,,,,,,,,,3,7767
+大理风味园,102.77965999999999,24.97618,,,,,,,,,,,3,20534

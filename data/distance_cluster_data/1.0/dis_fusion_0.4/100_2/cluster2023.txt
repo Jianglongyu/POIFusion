@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丰源农家园,102.74838000000001,25.12411,,,,,,,,,,,3,9716
+丰源农家园,102.74838000000001,25.123910000000002,,,,,,,,,,,3,17163
+盘龙高目莲诊所,102.748231,25.123882000000002,,,,,,,,,,,3,30605

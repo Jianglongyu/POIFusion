@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明巫家坝国际机场X2停机位,102.747947,24.996767000000002,,,,,,,,,,,1,2878
+昆明巫家坝国际机场X2停机位,102.747947,24.996967,,,,,,,,,,,1,57170

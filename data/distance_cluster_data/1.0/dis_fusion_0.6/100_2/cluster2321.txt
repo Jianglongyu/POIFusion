@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+群愈诊所,102.725767,25.008505,,,,,,,,,,,3,36847
+康乐药房,102.726201,25.008149,,,,,,,,,,,3,37683
+官渡安康诊所,102.725735,25.0086,,,,,,,,,,,3,37999

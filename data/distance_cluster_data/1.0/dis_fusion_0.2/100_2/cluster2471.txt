@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万科银海泊岸,102.69944100000001,24.962038,,,,,,,,,,,2,373
+万科银海泊岸,102.69944100000001,24.962238,,,,,,,,,,,2,38115

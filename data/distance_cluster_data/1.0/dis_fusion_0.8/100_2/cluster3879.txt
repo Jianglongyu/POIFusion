@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂金源店,103.128383,25.845470000000002,,,,,,,,,,,3,44539
+达康诊所,103.128403,25.846029,,,,,,,,,,,3,45862

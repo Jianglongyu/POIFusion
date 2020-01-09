@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝民族小学,102.47651,25.536112,,,,,,,,,,,3,32809
+禄劝民族小学,102.47651,25.535912,,,,,,,,,,,3,62598

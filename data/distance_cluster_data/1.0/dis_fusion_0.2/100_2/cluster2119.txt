@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+服务区－西园2加油站,102.655856,24.901332999999997,,,,,,,,,,,3,4791
+服务区－西园2加油站,102.655856,24.901132999999998,,,,,,,,,,,3,8101
+汇滇园,102.65503000000001,24.90095,,,,,,,,,,,3,17573

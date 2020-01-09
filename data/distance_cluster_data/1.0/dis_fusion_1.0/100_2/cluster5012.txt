@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+度假区华泰诊所,102.707784,24.9733,,,,,,,,,,,3,24528
+度假区华泰诊所,102.707784,24.9731,,,,,,,,,,,3,54317

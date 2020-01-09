@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+映灵庙,102.761818,24.700371999999998,,,,,,,,,,,3,27984
+映灵庙,102.761818,24.700172,,,,,,,,,,,3,57773

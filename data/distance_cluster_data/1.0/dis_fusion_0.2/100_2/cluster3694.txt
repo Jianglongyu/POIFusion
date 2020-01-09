@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市盘龙区委组织部,102.75197800000001,25.116216,,,,,,,,,,,3,32490
+昆明北部山水新区管委会,102.75197800000001,25.116216,,,,,,,,,,,3,32491

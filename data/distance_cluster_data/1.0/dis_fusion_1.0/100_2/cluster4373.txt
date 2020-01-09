@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿拉收费站,102.82437900000001,25.000518,,,,,,,,,,,1,4563
+阿拉收费站,102.82437900000001,25.000718,,,,,,,,,,,1,68784

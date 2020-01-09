@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南咖啡厂,102.787904,24.997417000000002,,,,,,,,,,,1,1101
+云南咖啡厂,102.787904,24.997617,,,,,,,,,,,1,55393

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+两面寺收费站,102.81049,25.040521,,,,,,,,,,,1,2649
+两面寺收费站,102.81049,25.040720999999998,,,,,,,,,,,1,56941

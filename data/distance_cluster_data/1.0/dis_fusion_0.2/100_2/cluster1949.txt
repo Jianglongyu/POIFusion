@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南诏苑公交站,102.684438,25.022298000000003,,,,,,,,,,,1,2413
+君顺农家菜,102.68496,25.021639999999998,,,,,,,,,,,3,13827
+好安逸川菜馆,102.68505,25.02178,,,,,,,,,,,3,13828

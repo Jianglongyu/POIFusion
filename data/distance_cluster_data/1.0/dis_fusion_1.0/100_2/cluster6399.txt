@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+河口镇化桃箐村完小,103.399374,25.694475,,,,,,,,,,,3,31730
+河口镇化桃箐村完小,103.399374,25.694275,,,,,,,,,,,3,61519

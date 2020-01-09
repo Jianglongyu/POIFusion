@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+民族团结文化广场,102.66127,24.96775,,,,,,,,,,,3,17092
+民族团结文化广场,102.66127,24.96755,,,,,,,,,,,3,29859
+云南民族村,102.661386,24.967708,,,,,,,,,,,3,41120

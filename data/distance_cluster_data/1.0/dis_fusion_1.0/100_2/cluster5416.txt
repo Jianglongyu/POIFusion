@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁水神峤风景区售票处,102.354454,25.059093999999998,,,,,,,,,,,3,28161
+安宁水神峤风景区售票处,102.354454,25.058894,,,,,,,,,,,3,57950

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+颜巍诊所,103.282664,24.757193,,,,,,,,,,,3,27116
+石林县幼儿园分园,103.282609,24.757185999999997,,,,,,,,,,,3,34907

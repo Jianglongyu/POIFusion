@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+太阳鸟药业公司宝义药店,102.798113,25.740653,,,,,,,,,,,3,25428
+太阳鸟药业公司宝义药店,102.798113,25.740453,,,,,,,,,,,3,55217

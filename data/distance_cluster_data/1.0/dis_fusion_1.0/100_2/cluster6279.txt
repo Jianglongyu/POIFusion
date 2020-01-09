@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万海小学,102.887723,24.630492,,,,,,,,,,,3,31365
+万海小学,102.887723,24.630292,,,,,,,,,,,3,61154

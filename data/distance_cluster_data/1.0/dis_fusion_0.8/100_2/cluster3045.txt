@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+沙滩酒吧,102.83024,24.83673,,,,,,,,,,,3,16940
+沙滩酒吧,102.83024,24.83653,,,,,,,,,,,3,36800

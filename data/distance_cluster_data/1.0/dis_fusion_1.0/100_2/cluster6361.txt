@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+假期BBQ户外休闲烧烤部落,102.62510999999999,25.07104,,,,,,,,,,,3,15236
+假期BBQ户外休闲烧烤部落,102.62510999999999,25.07084,,,,,,,,,,,3,45025

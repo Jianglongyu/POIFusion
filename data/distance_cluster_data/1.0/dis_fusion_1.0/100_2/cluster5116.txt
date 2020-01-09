@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+孙光诊所,102.727457,24.983088,,,,,,,,,,,3,25437
+孙光诊所,102.727457,24.982888,,,,,,,,,,,3,55226

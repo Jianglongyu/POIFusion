@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市东川区畜牧兽医局,103.191079,26.077772,,,,,,,,,,,3,49339
+云南省轻纺工业设计院第二设计所,103.191039,26.077485,,,,,,,,,,,3,50323

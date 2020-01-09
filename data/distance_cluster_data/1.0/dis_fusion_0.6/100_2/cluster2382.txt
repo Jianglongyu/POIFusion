@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济健康药房,102.77866999999999,24.757363,,,,,,,,,,,3,37620
+鸿仁堂中卫大药店,102.77852,24.758147,,,,,,,,,,,3,38024
+马金铺雨蒙药店,102.77884499999999,24.757754000000002,,,,,,,,,,,3,38906

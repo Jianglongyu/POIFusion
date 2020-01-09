@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+团结社区卫生站,103.18754799999999,26.084108999999998,,,,,,,,,,,3,37116
+陈医生口腔诊所,103.187607,26.084323,,,,,,,,,,,3,38185

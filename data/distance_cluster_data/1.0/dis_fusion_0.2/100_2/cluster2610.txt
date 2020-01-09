@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+香港魔发丝,102.79697,24.89131,,,,,,,,,,,3,25661
+昆明市呈贡区司法局,102.797195,24.891748,,,,,,,,,,,3,32440

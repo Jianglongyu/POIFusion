@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省工人疗养院,102.6547,24.80315,,,,,,,,,,,3,27181
+云南省工人疗养院,102.6547,24.80295,,,,,,,,,,,3,56970

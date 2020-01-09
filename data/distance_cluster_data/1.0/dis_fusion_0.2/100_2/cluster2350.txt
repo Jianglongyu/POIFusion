@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+江南水乡老年活动室,102.73085,25.08854,,,,,,,,,,,3,24697
+景福足疗,102.73079,25.08847,,,,,,,,,,,3,24699

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+祥和农家园,102.86808,24.83397,,,,,,,,,,,3,6013
+昌源饭店,102.86771,24.83472,,,,,,,,,,,3,15651
+祥和农家园,102.86808,24.83377,,,,,,,,,,,3,35802
+昌源饭店,102.86771,24.83452,,,,,,,,,,,3,45440

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂昆阳磷肥厂连锁店,102.58879300000001,24.712471,,,,,,,,,,,3,33542
+昆明市晋宁县工商局古城工商所,102.58908100000001,24.712114,,,,,,,,,,,3,37354

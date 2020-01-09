@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡区锦绣学校,102.81715600000001,24.990115,,,,,,,,,,,1,3913
+官渡区锦绣学校,102.81715600000001,24.990315,,,,,,,,,,,1,68134

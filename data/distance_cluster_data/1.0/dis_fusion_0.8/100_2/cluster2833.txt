@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华信悦峰,102.65805999999999,25.067062,,,,,,,,,,,2,170
+华信悦峰,102.65805999999999,25.067262,,,,,,,,,,,2,54462

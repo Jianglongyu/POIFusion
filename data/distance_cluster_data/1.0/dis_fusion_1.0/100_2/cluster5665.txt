@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市小板桥工商局,102.76575799999999,24.988446,,,,,,,,,,,3,29303
+昆明市小板桥工商局,102.76575799999999,24.988246,,,,,,,,,,,3,59092

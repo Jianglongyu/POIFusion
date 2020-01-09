@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白杨山庄,102.68482,25.11799,,,,,,,,,,,3,20998
+白杨山庄,102.68482,25.11779,,,,,,,,,,,3,40858

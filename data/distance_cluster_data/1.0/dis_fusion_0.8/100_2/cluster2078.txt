@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+勇勇发艺,102.79736,24.89112,,,,,,,,,,,3,20236
+香港魔发丝,102.79697,24.89151,,,,,,,,,,,3,22351
+香港魔发丝,102.79697,24.89131,,,,,,,,,,,3,42211
+昆明市呈贡区司法局,102.797195,24.891748,,,,,,,,,,,3,48990

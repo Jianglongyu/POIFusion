@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县阳宗镇北斗卫生所,102.986393,24.842237,,,,,,,,,,,3,25877
+澄江县阳宗镇北斗卫生所,102.986393,24.842037,,,,,,,,,,,3,55666

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小瓜鸡,102.635802,24.98558,,,,,,,,,,,1,1625
+小瓜鸡,102.635802,24.98578,,,,,,,,,,,1,55917

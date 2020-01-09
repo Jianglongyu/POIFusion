@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市社会保险局,102.482084,24.925085,,,,,,,,,,,3,28975
+安宁市社会保险局,102.482084,24.924885,,,,,,,,,,,3,58764

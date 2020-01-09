@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国光大银行ATM,102.71921,25.04712,,,,,,,,,,,3,40955
+欣旺旅社,102.72027,25.04697,,,,,,,,,,,3,34890
+盘龙区旧城改造和拆迁管理局,102.719595,25.046916,,,,,,,,,,,3,37461

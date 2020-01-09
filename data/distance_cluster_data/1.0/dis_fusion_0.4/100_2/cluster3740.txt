@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明侨联自平商贸学校,102.73508299999999,25.148442000000003,,,,,,,,,,,3,38667
+云南技师学院,102.73508299999999,25.148442000000003,,,,,,,,,,,3,40052

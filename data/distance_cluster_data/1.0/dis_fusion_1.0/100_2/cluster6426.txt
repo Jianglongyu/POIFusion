@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明商贸信息学校,102.64175999999999,25.064176,,,,,,,,,,,3,31797
+昆明商贸信息学校,102.64175999999999,25.063976,,,,,,,,,,,3,61586

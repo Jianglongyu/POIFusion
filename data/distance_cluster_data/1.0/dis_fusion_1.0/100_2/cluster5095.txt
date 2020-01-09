@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩阳镇木作卫生室,103.056314,25.323191,,,,,,,,,,,3,25319
+嵩阳镇木作卫生室,103.056314,25.322991000000002,,,,,,,,,,,3,55108

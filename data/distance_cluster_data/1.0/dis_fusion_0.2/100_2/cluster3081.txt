@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+夕阳乡计划生育服务所,102.28947,24.459920999999998,,,,,,,,,,,3,29144
+昆明市晋宁县夕阳乡人大主席团,102.28948299999999,24.46067,,,,,,,,,,,3,32119

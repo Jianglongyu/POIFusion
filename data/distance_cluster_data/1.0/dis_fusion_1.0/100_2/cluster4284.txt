@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池源居,102.713799,25.005929000000002,,,,,,,,,,,1,4153
+滇池源居,102.713799,25.006129,,,,,,,,,,,1,68374

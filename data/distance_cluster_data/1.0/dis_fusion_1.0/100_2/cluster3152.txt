@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华润中央公园,102.77873000000001,25.132772,,,,,,,,,,,2,163
+华润中央公园,102.77873000000001,25.132972,,,,,,,,,,,2,64384

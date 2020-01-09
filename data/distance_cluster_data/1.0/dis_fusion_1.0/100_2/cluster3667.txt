@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+涌金公园,103.03799000000001,24.958589999999997,,,,,,,,,,,3,17918
+涌金公园,103.03799000000001,24.958389999999998,,,,,,,,,,,3,47707

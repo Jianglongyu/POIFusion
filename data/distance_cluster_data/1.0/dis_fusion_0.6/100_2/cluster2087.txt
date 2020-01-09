@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县安全监督生产管理局,102.915133,24.673773,,,,,,,,,,,3,41852
+澄江县新闻出版（版权）局,102.915133,24.673773,,,,,,,,,,,3,42020
+澄江县城建监察大队,102.915184,24.672924,,,,,,,,,,,3,42135

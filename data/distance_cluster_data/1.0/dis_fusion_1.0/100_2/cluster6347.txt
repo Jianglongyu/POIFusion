@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+地马小学,103.06781600000001,24.871716,,,,,,,,,,,3,31572
+地马小学,103.06781600000001,24.871516,,,,,,,,,,,3,61361

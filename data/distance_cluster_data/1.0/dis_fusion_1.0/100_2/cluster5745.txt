@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明铁路局东川铁路支线管理中心,103.26165300000001,25.436255,,,,,,,,,,,3,29708
+昆明铁路局东川铁路支线管理中心,103.26165300000001,25.436055,,,,,,,,,,,3,59497

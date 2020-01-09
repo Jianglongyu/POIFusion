@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+铭惠中心,102.761399,24.934609,,,,,,,,,,,2,292
+铭惠中心,102.761399,24.934808999999998,,,,,,,,,,,2,38034

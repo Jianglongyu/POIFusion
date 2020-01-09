@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晓东幼儿园,102.757042,24.99253,,,,,,,,,,,3,37611
+云南电视台亨德森集团七彩影视艺术培训学校,102.757042,24.99253,,,,,,,,,,,3,38503

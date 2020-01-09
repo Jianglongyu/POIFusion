@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南经贸管理学校,102.64484200000001,25.054825,,,,,,,,,,,1,1108
+云南经贸管理学校,102.64484200000001,25.055025,,,,,,,,,,,1,65329

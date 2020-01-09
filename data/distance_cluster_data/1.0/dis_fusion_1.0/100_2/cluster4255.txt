@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙泉山庄,102.75241,25.13857,,,,,,,,,,,3,20377
+龙泉山庄,102.75241,25.138370000000002,,,,,,,,,,,3,50166

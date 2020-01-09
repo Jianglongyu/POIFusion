@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小新村加油站,102.816568,24.988138,,,,,,,,,,,3,5081
+小新村加油站,102.816568,24.987938,,,,,,,,,,,3,17848

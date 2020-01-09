@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县纳章中学,103.57624,25.264014,,,,,,,,,,,3,30212
+马龙县纳章中学,103.57624,25.263814,,,,,,,,,,,3,60001

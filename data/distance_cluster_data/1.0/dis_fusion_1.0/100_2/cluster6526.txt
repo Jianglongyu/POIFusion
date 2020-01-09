@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国科学院东川泥石流观测研究站,103.13639599999999,26.2421,,,,,,,,,,,3,32118
+中国科学院东川泥石流观测研究站,103.13639599999999,26.2419,,,,,,,,,,,3,61907

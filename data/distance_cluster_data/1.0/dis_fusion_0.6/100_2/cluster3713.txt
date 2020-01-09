@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东湖加油站,102.49548399999999,24.922379999999997,,,,,,,,,,,3,4769
+东湖加油站,102.49548399999999,24.922179999999997,,,,,,,,,,,3,17536

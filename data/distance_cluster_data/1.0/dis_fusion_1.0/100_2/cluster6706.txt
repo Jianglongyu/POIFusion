@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市盘龙区建华学校,102.749549,25.057557999999997,,,,,,,,,,,3,32612
+昆明市盘龙区建华学校,102.749549,25.057357999999997,,,,,,,,,,,3,62401

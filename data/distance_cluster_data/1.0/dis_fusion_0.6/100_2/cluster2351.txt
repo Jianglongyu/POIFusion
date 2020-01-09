@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宝珠寺(西南门),102.636687,25.040763000000002,,,,,,,,,,,1,4462
+小石锅鱼,102.6367,25.04149,,,,,,,,,,,3,9682
+小石锅鱼,102.6367,25.04129,,,,,,,,,,,3,22449

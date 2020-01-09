@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市盘龙区白沙河中学,102.79132299999999,25.057366000000002,,,,,,,,,,,1,2966
+昆明市盘龙区白沙河中学,102.79132299999999,25.057566,,,,,,,,,,,1,57258

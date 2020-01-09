@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阳宗海加油站,103.054612,24.961764000000002,,,,,,,,,,,3,4919
+阳宗海加油站,103.054612,24.961564000000003,,,,,,,,,,,3,12366

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+通达驾校,102.911214,25.063855999999998,,,,,,,,,,,3,31618
+通达驾校,102.911214,25.063655999999998,,,,,,,,,,,3,61407

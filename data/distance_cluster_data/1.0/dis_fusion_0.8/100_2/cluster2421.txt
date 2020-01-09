@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丽江野山药火锅园,102.807284,24.897493,,,,,,,,,,,1,2671
+春华园思茅野菜馆,102.807243,24.897388,,,,,,,,,,,1,4317
+丽江野山药火锅园,102.807284,24.897693,,,,,,,,,,,1,56963

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+莲花英语幼儿园菱角塘分园,102.680796,25.047473,,,,,,,,,,,3,30573
+莲花英语幼儿园菱角塘分园,102.680796,25.047273,,,,,,,,,,,3,60362

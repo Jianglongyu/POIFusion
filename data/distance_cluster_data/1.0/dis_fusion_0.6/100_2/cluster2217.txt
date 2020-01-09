@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+津桥源,102.65299999999999,25.0742,,,,,,,,,,,3,10889
+津桥源,102.65299999999999,25.074,,,,,,,,,,,3,23656
+中国工商银行ATM,102.65281,25.073710000000002,,,,,,,,,,,3,46397

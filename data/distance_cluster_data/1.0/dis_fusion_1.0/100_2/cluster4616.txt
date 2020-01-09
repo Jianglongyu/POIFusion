@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+隆宇加油站,102.83710699999999,24.977798999999997,,,,,,,,,,,3,4956
+隆宇加油站,102.83710699999999,24.977598999999998,,,,,,,,,,,3,34745

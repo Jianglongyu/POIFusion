@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+陆良县大莫古卫生院,103.512553,24.900542,,,,,,,,,,,3,25656
+陆良县大莫古卫生院,103.512553,24.900342000000002,,,,,,,,,,,3,55445

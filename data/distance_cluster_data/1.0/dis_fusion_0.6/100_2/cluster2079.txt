@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+猫猫箐金竹林生态农庄,102.62034,24.914189999999998,,,,,,,,,,,3,17215
+猫猫箐金竹林生态农庄,102.62034,24.91399,,,,,,,,,,,3,29982
+永康生态园,102.62038000000001,24.9139,,,,,,,,,,,3,31188

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山区圣联中西医药医馆,102.70736600000001,24.99203,,,,,,,,,,,3,26984
+中国邮政储蓄银行兴科路邮政储蓄所,102.70687,24.99173,,,,,,,,,,,3,36353
+招商银行兴科路支行,102.70742,24.99245,,,,,,,,,,,3,37390

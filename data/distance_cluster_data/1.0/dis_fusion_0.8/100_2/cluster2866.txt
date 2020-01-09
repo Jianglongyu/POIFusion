@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凯茵佳园,102.7549515,25.06600189,,,,,,,,,,,2,235
+凯茵佳园,102.7549515,25.06620189,,,,,,,,,,,2,54527

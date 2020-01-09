@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市煌达实验学校,102.643273,25.063478,,,,,,,,,,,3,30320
+昆明市煌达实验学校,102.643273,25.063278,,,,,,,,,,,3,60109

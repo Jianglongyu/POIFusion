@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+美思乐歌舞厅,102.71859,25.01251,,,,,,,,,,,3,22278
+美思乐歌舞厅,102.71859,25.01231,,,,,,,,,,,3,42138

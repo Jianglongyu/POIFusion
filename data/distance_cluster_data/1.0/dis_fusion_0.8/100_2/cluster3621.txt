@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明星汽修,102.64131,25.050449,,,,,,,,,,,1,2471
+明星汽修,102.64131,25.050649,,,,,,,,,,,1,56763

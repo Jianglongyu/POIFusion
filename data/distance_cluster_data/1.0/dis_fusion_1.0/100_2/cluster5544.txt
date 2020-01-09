@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县教育局先锋镇公路管理所,103.006008,25.485126,,,,,,,,,,,3,28729
+寻甸县教育局先锋镇公路管理所,103.006008,25.484926,,,,,,,,,,,3,58518

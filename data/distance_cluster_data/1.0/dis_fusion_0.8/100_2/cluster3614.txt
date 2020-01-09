@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+墨丽美容养生SPA会所,102.66086700000001,25.082783,,,,,,,,,,,1,2454
+墨丽美容养生SPA会所,102.66086700000001,25.082983,,,,,,,,,,,1,56746

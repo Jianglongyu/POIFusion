@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云鼎花园餐厅,102.68571,24.9952,,,,,,,,,,,3,5791
+云鼎花园餐厅,102.68571,24.995,,,,,,,,,,,3,25651

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+留留青丝坊,102.67868,25.01106,,,,,,,,,,,3,23768
+昆明尊阳汽车驾驶培训站,102.679182,25.011502,,,,,,,,,,,3,40236

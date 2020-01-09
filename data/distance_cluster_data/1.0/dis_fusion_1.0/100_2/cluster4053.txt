@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明南站,102.83138199999999,24.924274,,,,,,,,,,,1,3095
+昆明南站,102.83138199999999,24.924474,,,,,,,,,,,1,67316

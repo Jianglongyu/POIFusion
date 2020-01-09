@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五甲河公交站,102.747563,24.97289,,,,,,,,,,,1,1774
+三甲农家园,102.747924,24.973015,,,,,,,,,,,1,2217
+五甲河公交站,102.747563,24.97309,,,,,,,,,,,1,56066
+三甲农家园,102.747924,24.973215,,,,,,,,,,,1,56509

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+洛龙卫生所,102.824256,24.891164,,,,,,,,,,,3,24950
+洛龙卫生所,102.824256,24.890964,,,,,,,,,,,3,54739

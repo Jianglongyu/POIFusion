@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金地悦天下,102.71011800000001,25.016467000000002,,,,,,,,,,,2,189
+金地悦天下,102.71011800000001,25.016667,,,,,,,,,,,2,54481

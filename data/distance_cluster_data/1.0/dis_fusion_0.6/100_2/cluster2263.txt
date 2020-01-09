@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三明鑫疆大药房永安街分店,102.486852,24.919529,,,,,,,,,,,3,36078
+安宁贸易公司大药房总店,102.486255,24.919946,,,,,,,,,,,3,36368
+亨德森外国语学校,102.486874,24.919922,,,,,,,,,,,3,44689

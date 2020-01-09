@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+厂口乡政府公交站,102.683543,25.260437,,,,,,,,,,,1,4388
+厂口乡政府公交站,102.683543,25.260637,,,,,,,,,,,1,68609

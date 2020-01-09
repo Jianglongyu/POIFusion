@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+交通银行世纪城支行,102.76411999999999,24.974729999999997,,,,,,,,,,,3,33579
+交通银行世纪城支行,102.76411999999999,24.974529999999998,,,,,,,,,,,3,63368

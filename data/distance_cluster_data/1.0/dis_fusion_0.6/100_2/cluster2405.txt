@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国邮政储蓄银行ATM,102.82821,24.82069,,,,,,,,,,,3,46082
+农村信用社ATM,102.82885,24.82095,,,,,,,,,,,3,46147
+富滇银行ATM,102.82758000000001,24.820420000000002,,,,,,,,,,,3,46944

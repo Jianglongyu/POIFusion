@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+长水宾馆,102.92132,25.07234,,,,,,,,,,,3,35108
+同福宾馆,102.92132,25.07234,,,,,,,,,,,3,35109

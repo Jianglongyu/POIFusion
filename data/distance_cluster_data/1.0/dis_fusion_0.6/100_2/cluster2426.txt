@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小小饮吧炸鸡汉堡坊鸣泉村餐厅,102.77301,24.99537,,,,,,,,,,,3,13880
+小小饮吧炸鸡汉堡坊鸣泉村餐厅,102.77301,24.99517,,,,,,,,,,,3,26647
+鑫辉宾馆,102.77291,24.99511,,,,,,,,,,,3,39326

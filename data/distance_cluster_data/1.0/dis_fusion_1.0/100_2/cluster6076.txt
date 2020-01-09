@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙街镇小天鹅特色幼儿园,102.898513,24.648697,,,,,,,,,,,3,30791
+龙街镇小天鹅特色幼儿园,102.898513,24.648497,,,,,,,,,,,3,60580

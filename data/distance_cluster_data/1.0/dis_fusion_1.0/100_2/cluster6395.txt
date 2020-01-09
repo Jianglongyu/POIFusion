@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+童心教育集团（12幼古城）,103.227386,25.325692999999998,,,,,,,,,,,3,31720
+童心教育集团（12幼古城）,103.227386,25.325492999999998,,,,,,,,,,,3,61509

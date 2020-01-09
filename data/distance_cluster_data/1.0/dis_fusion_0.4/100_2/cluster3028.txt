@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+贝康乐儿童健身馆,102.71459,24.97643,,,,,,,,,,,3,27207
+唐韵文化传播公司文化艺术培训中心,102.714435,24.976538,,,,,,,,,,,3,39707

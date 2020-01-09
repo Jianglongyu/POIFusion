@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+邓家湾小学,102.187821,25.154093,,,,,,,,,,,3,32558
+邓家湾小学,102.187821,25.153893,,,,,,,,,,,3,62347

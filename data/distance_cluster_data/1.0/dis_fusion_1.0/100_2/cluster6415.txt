@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩阳三小,103.06544699999999,25.345603,,,,,,,,,,,3,31769
+嵩阳三小,103.06544699999999,25.345403,,,,,,,,,,,3,61558

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸甸沙康佳药店,103.108981,25.683101999999998,,,,,,,,,,,3,25640
+寻甸甸沙康佳药店,103.108981,25.682902,,,,,,,,,,,3,55429

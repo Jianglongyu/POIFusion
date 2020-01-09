@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+湘缘招待所,102.76991,24.96957,,,,,,,,,,,3,26453
+湘缘招待所,102.76991,24.96937,,,,,,,,,,,3,56242

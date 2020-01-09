@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县杨林开发区派出所,103.01111,25.244457,,,,,,,,,,,3,49337
+云南省嵩明职业教育基地管委会,103.011593,25.24436,,,,,,,,,,,3,49450

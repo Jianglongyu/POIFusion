@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+固地尚诚商务中心,102.668582,25.091613,,,,,,,,,,,2,110
+固地尚诚商务中心,102.668582,25.091813,,,,,,,,,,,2,41989

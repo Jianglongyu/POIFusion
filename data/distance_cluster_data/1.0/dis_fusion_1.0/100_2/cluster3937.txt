@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蓝谷,102.687218,24.979499,,,,,,,,,,,1,2739
+蓝谷,102.687218,24.979699,,,,,,,,,,,1,66960

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝彝族苗族自治县翠华乡客运站,102.586446,25.644763,,,,,,,,,,,3,32910
+禄劝彝族苗族自治县翠华乡客运站,102.586446,25.644563,,,,,,,,,,,3,62699

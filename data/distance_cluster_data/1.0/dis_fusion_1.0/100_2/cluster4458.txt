@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴东加油站,103.158417,24.92817,,,,,,,,,,,3,4747
+兴东加油站,103.158417,24.927970000000002,,,,,,,,,,,3,34536

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩阳镇倚伴村委会卫生所,103.070988,25.333345,,,,,,,,,,,3,23568
+嵩阳镇倚伴村委会卫生所,103.070988,25.333145000000002,,,,,,,,,,,3,53357

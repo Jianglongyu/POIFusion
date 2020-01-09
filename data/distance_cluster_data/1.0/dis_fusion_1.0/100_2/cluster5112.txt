@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云天医院天达医疗站,102.373509,24.932845999999998,,,,,,,,,,,3,25426
+云天医院天达医疗站,102.373509,24.932646,,,,,,,,,,,3,55215

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+傈僳香园牛菜馆,102.79646,24.8246,,,,,,,,,,,3,5342
+天宝缘,102.79669,24.825129999999998,,,,,,,,,,,3,5615
+傈僳香园牛菜馆,102.79646,24.8244,,,,,,,,,,,3,18109
+天宝缘,102.79669,24.82493,,,,,,,,,,,3,18382

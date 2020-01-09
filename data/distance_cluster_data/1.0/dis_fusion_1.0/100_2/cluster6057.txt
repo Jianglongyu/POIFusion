@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区俊发第一希望小学,103.00018299999999,26.056112,,,,,,,,,,,3,30731
+东川区俊发第一希望小学,103.00018299999999,26.055912,,,,,,,,,,,3,60520

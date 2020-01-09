@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙潭寺,102.486458,25.512607999999997,,,,,,,,,,,3,28194
+龙潭寺,102.486458,25.512407999999997,,,,,,,,,,,3,57983

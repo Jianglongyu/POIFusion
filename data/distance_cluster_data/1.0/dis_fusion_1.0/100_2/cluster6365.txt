@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武家庄幼儿园,102.481213,24.944668,,,,,,,,,,,3,31627
+武家庄幼儿园,102.481213,24.944468,,,,,,,,,,,3,61416

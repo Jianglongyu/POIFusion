@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明机场宾馆餐厅,102.73647700000001,25.014159,,,,,,,,,,,1,3148
+昆明机场宾馆餐厅,102.73647700000001,25.014359,,,,,,,,,,,1,67369

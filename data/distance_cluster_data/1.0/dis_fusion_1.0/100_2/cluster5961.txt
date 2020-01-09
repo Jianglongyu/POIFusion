@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+王四坝小学,103.0778,25.304823,,,,,,,,,,,3,30457
+王四坝小学,103.0778,25.304623,,,,,,,,,,,3,60246

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五条沟完小,103.13334300000001,25.331512,,,,,,,,,,,3,32555
+五条沟完小,103.13334300000001,25.331312,,,,,,,,,,,3,62344

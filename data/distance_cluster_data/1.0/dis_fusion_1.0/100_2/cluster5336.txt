@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆钢清真寺,102.502893,24.896570999999998,,,,,,,,,,,3,27890
+昆钢清真寺,102.502893,24.896371,,,,,,,,,,,3,57679

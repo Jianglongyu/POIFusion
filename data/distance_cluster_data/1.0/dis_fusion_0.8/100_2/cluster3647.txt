@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙森康城,102.799217,25.093019,,,,,,,,,,,1,2608
+龙森康城,102.799217,25.093219,,,,,,,,,,,1,56900

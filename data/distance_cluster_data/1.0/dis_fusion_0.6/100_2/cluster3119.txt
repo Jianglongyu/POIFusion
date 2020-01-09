@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨家地二村(北门),102.693027,25.011107,,,,,,,,,,,1,1423
+杨家地二村(北门),102.693027,25.011307,,,,,,,,,,,1,48622

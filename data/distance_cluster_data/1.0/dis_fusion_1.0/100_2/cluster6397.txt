@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中龙完小,103.239763,24.633155,,,,,,,,,,,3,31726
+中龙完小,103.239763,24.632955,,,,,,,,,,,3,61515

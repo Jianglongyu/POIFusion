@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+虹昆加油站,102.639752,24.653237,,,,,,,,,,,3,4732
+虹昆加油站,102.639752,24.653037,,,,,,,,,,,3,34521

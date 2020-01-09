@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水井潭垂钓农庄,102.95482,25.12546,,,,,,,,,,,3,23950
+土主财神庙,102.954989,25.125774,,,,,,,,,,,3,31585
+乌西小学,102.95464,25.12602,,,,,,,,,,,3,34807

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国移动广福指定专营店,102.701629,24.990706,,,,,,,,,,,1,718
+至舒茶楼,102.701748,24.99085,,,,,,,,,,,1,791
+红厨成都担担面(广福小区·东区北),102.70157900000001,24.990636,,,,,,,,,,,1,3736

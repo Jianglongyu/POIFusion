@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县国土局河口国土所,103.375991,25.640083999999998,,,,,,,,,,,3,36324
+寻甸县河口镇纪检委,103.37658,25.639666000000002,,,,,,,,,,,3,36891

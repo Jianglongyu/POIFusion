@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同乐园,102.65292,24.8028,,,,,,,,,,,3,16130
+翠竹农家园,102.6534,24.80294,,,,,,,,,,,3,16374
+同乐园,102.65292,24.8026,,,,,,,,,,,3,28897
+翠竹农家园,102.6534,24.80274,,,,,,,,,,,3,29141

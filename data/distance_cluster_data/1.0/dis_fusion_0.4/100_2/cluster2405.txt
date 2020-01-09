@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白龙新区,102.7481202,25.06748633,,,,,,,,,,,2,10
+白龙新区,102.7481202,25.06768633,,,,,,,,,,,2,41889

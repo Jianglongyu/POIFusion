@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤龙湾石板河风景区,103.378853,25.50105,,,,,,,,,,,3,28294
+凤龙湾石板河风景区,103.378853,25.50085,,,,,,,,,,,3,58083

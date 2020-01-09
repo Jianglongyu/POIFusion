@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+观音寺(观音寺卫生院北),102.671059,24.842004,,,,,,,,,,,2,562
+观音寺(观音寺卫生院北),102.671059,24.842204,,,,,,,,,,,2,42441

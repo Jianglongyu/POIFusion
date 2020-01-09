@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+希望幼儿园,102.492587,24.692745000000002,,,,,,,,,,,3,32864
+希望幼儿园,102.492587,24.692545000000003,,,,,,,,,,,3,62653

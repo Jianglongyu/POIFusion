@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小马清真牛菜馆,102.77702,24.97656,,,,,,,,,,,3,20891
+雅苑,102.77693000000001,24.9766,,,,,,,,,,,3,25204

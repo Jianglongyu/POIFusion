@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中共玉溪市委党校,102.518759,24.421236999999998,,,,,,,,,,,3,39615
+玉溪行政学院,102.518661,24.421474,,,,,,,,,,,3,39968
+华培外语实验学校,102.51795200000001,24.421112,,,,,,,,,,,3,40062

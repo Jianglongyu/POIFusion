@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宝龙寺,102.72078,24.978037,,,,,,,,,,,1,4467
+宝龙寺,102.72078,24.978237,,,,,,,,,,,1,68688

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四营加油站,103.138547,25.257165,,,,,,,,,,,3,4652
+四营加油站,103.138547,25.256965,,,,,,,,,,,3,24512
+四营卫生院,103.13892,25.257182999999998,,,,,,,,,,,3,44592

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴合农家园,102.79132,25.05284,,,,,,,,,,,3,11397
+滇西风味园,102.79119,25.052960000000002,,,,,,,,,,,3,17447

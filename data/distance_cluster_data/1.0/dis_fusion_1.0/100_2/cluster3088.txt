@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东旭御山湖,102.858304,24.971948,,,,,,,,,,,2,93
+东旭御山湖,102.858304,24.972148,,,,,,,,,,,2,64314

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+枫林盛景东区,0.0,0.0,,,,,,,,,,,2,98
+枫林盛景东区,0.0,0.0002,,,,,,,,,,,2,37840

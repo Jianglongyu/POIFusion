@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金月亮幼儿园,102.71584200000001,24.983144,,,,,,,,,,,3,31046
+金月亮幼儿园,102.71584200000001,24.982944,,,,,,,,,,,3,60835

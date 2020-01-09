@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+教场路口公交站,102.707753,25.069188,,,,,,,,,,,1,3507
+教场路口公交站,102.707753,25.069388,,,,,,,,,,,1,67728

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市人民法院昆钢法庭,102.491198,24.900259,,,,,,,,,,,3,49850
+昆钢跆拳道培训中心,102.491178,24.899783,,,,,,,,,,,3,50666

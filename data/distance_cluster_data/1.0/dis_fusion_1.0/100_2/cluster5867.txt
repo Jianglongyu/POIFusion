@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县雷锋希望小学,103.174734,25.562012,,,,,,,,,,,3,30189
+寻甸县雷锋希望小学,103.174734,25.561812,,,,,,,,,,,3,59978

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明贵金属研究所,102.647671,25.075246,,,,,,,,,,,3,31659
+昆明贵金属研究所,102.647671,25.075046,,,,,,,,,,,3,61448

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国人民银行昆明市中心支行,102.71060899999999,25.039897,,,,,,,,,,,3,42017
+云南省国家外汇管理局,102.709964,25.040419,,,,,,,,,,,3,42551
+正义坊购物中心,102.7102449,25.040316100000002,,,,,,,,,,,1,48007

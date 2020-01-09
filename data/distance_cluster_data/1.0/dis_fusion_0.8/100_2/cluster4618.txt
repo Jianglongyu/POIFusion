@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙门索道滇池站售票处,102.652114,24.960361,,,,,,,,,,,3,47764
+龙王庙,102.65256,24.959757,,,,,,,,,,,3,48089

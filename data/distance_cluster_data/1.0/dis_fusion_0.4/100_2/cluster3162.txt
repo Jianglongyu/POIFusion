@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝彝族苗族自治县云龙乡计划生育服务站,102.429383,25.844381,,,,,,,,,,,3,36366
+云龙中学,102.429009,25.84494,,,,,,,,,,,3,38179

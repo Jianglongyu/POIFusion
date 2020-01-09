@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市中医医院,102.48078000000001,24.920603,,,,,,,,,,,3,23541
+安宁市中医医院,102.48078000000001,24.920403,,,,,,,,,,,3,43401

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市黑林铺街道办,102.65400799999999,25.06322,,,,,,,,,,,3,41820
+云汽实业小学,102.654425,25.06243,,,,,,,,,,,3,45137

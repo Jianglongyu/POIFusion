@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+密枝科小学,103.12904,24.601706,,,,,,,,,,,3,30745
+密枝科小学,103.12904,24.601506,,,,,,,,,,,3,60534

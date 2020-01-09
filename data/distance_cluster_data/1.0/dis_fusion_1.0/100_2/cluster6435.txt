@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+平掌小学,102.175947,25.125163,,,,,,,,,,,3,31817
+平掌小学,102.175947,25.124963,,,,,,,,,,,3,61606

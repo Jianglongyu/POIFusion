@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北斗小学,102.984278,24.844661,,,,,,,,,,,3,31195
+北斗小学,102.984278,24.844461,,,,,,,,,,,3,60984

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+国家高原湿地研究中心,102.76281,25.063379,,,,,,,,,,,3,32480
+国家高原湿地研究中心,102.76281,25.063179,,,,,,,,,,,3,62269

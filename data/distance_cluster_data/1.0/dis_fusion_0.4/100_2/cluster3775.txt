@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南师大生物能源持续开发利用教育部工程研究中心,102.85794200000001,24.864772,,,,,,,,,,,3,38917
+云南省生物质能与环境生物技术重点实验室,102.85794200000001,24.864772,,,,,,,,,,,3,39037

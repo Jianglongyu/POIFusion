@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南花卉物流中心,102.78828299999999,24.906933,,,,,,,,,,,1,1125
+顺康大药房,102.788106,24.906935999999998,,,,,,,,,,,3,26580
+呈贡云康诊所,102.788276,24.906781,,,,,,,,,,,3,28963

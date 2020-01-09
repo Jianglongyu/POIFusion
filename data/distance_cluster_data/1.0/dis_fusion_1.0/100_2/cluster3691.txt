@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+湘粤豪庭,102.73934799999999,25.106685,,,,,,,,,,,1,1648
+湘粤豪庭,102.73934799999999,25.106885,,,,,,,,,,,1,65869

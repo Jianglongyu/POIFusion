@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金秋农家乐,102.76168,24.73794,,,,,,,,,,,3,13511
+金秋农家乐,102.76168,24.73774,,,,,,,,,,,3,26278

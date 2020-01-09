@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西游洞景区,102.642257,25.142351,,,,,,,,,,,3,28168
+西游洞景区,102.642257,25.142151000000002,,,,,,,,,,,3,57957

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+渝香园餐厅,102.7109,24.96506,,,,,,,,,,,3,7444
+古美发型设计烫染沙龙,102.71099,24.96525,,,,,,,,,,,3,16408
+渝香园餐厅,102.7109,24.96486,,,,,,,,,,,3,37233
+古美发型设计烫染沙龙,102.71099,24.96505,,,,,,,,,,,3,46197

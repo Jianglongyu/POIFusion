@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市官渡区小板桥中心卫生院,102.780546,24.982481,,,,,,,,,,,1,2994
+昆明市官渡区小板桥中心卫生院,102.780546,24.982681,,,,,,,,,,,1,57286

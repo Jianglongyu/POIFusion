@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+荣盛轩花园一号,102.69536,25.0339,,,,,,,,,,,3,11613
+新联宾馆,102.69536,25.0339,,,,,,,,,,,3,31061

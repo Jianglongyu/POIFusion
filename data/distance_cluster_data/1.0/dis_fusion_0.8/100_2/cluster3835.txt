@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+青兴一缢饭店,102.85226,24.74278,,,,,,,,,,,3,11488
+青兴一缢饭店,102.85226,24.74258,,,,,,,,,,,3,31348

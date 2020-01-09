@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盐之道酒楼,102.73431,25.01546,,,,,,,,,,,3,8446
+盐之道酒楼,102.73431,25.01526,,,,,,,,,,,3,15893
+天坤仁和丰味楼,102.73481,25.014870000000002,,,,,,,,,,,3,22484

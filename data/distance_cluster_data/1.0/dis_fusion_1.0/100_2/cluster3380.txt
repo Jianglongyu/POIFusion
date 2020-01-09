@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+恒大金碧天下,102.56851800000001,24.897563,,,,,,,,,,,2,557
+恒大金碧天下,102.56851800000001,24.897763,,,,,,,,,,,2,64778

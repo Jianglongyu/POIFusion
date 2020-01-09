@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市牛街庄派出所,102.775712,25.008591,,,,,,,,,,,3,30092
+昆明市牛街庄派出所,102.775712,25.008391,,,,,,,,,,,3,59881

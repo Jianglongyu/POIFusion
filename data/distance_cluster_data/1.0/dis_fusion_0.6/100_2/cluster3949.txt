@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙泉加油站,102.722877,25.106198,,,,,,,,,,,3,5075
+龙泉加油站,102.722877,25.105998,,,,,,,,,,,3,17842

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+名媛阁,102.82065,24.8868,,,,,,,,,,,3,21905
+名媛阁,102.82065,24.8866,,,,,,,,,,,3,51694

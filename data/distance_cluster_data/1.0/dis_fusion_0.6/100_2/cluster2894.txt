@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中航云玺大宅,102.721036,24.959283,,,,,,,,,,,1,696
+中航云玺大宅,102.721036,24.959483,,,,,,,,,,,1,47895

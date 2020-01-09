@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县抚仙湖林区派出所,102.953737,24.59722,,,,,,,,,,,3,30089
+澄江县抚仙湖林区派出所,102.953737,24.59702,,,,,,,,,,,3,59878

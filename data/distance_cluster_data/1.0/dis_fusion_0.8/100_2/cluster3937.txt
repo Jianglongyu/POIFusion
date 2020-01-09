@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡区中闸中心学校四甲分校,102.74068,24.971528,,,,,,,,,,,1,3904
+官渡区阳星幼儿园,102.740888,24.9709,,,,,,,,,,,3,51199

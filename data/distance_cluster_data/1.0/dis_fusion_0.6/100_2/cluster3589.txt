@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+懒德鹅,102.62635,24.98272,,,,,,,,,,,3,12567
+懒德鹅,102.62635,24.98252,,,,,,,,,,,3,25334

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县残疾人综合服务中心,103.256361,25.564933,,,,,,,,,,,3,28744
+寻甸县残疾人综合服务中心,103.256361,25.564733,,,,,,,,,,,3,58533

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天然福酒店,102.73250999999999,25.10378,,,,,,,,,,,3,47193
+美伦花乡,102.73260400000001,25.104516,,,,,,,,,,,1,56814

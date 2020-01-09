@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+祥和大药房中西药店,102.757754,24.955463,,,,,,,,,,,3,31009
+仙鹤堂,102.75744,24.956016,,,,,,,,,,,3,31586
+宝象坊,102.757755,24.955285,,,,,,,,,,,3,35564

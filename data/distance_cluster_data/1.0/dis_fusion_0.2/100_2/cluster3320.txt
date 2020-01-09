@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石油农机服务站,102.805603,24.862832,,,,,,,,,,,3,4941
+石油农机服务站,102.805603,24.862632,,,,,,,,,,,3,8251

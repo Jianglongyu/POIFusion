@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明人力资源中心,102.743932,25.028067,,,,,,,,,,,1,3084
+昆明人力资源中心,102.743932,25.028267,,,,,,,,,,,1,57376

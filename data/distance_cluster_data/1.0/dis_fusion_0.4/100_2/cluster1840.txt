@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+关锁中心学校矣六分校,102.765171,24.913634,,,,,,,,,,,3,39656
+鸿福轩饭庄NO．3,102.76459,24.91445,,,,,,,,,,,3,5931
+鸿福轩饭庄NO．3,102.76459,24.91425,,,,,,,,,,,3,13378
+官渡农村合作银行矣六分理处,102.76435,24.91461,,,,,,,,,,,3,40428

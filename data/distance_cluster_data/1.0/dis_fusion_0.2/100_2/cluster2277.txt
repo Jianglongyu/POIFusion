@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+客来喜农家菜,102.8217,24.99482,,,,,,,,,,,3,16288
+昆东文武学校,102.821849,24.995479,,,,,,,,,,,3,35699
+农村合作银行ATM,102.82155999999999,24.9952,,,,,,,,,,,3,37579

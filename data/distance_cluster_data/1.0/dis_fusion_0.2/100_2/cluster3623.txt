@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+御城休闲山庄,102.71425,25.10726,,,,,,,,,,,3,23661
+虚凝玉佛寺,102.713752,25.107839000000002,,,,,,,,,,,3,31511

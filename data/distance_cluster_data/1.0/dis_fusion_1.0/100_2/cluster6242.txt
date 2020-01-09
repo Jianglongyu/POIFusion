@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新星回民幼儿园,103.137651,25.460407999999997,,,,,,,,,,,3,31239
+新星回民幼儿园,103.137651,25.460207999999998,,,,,,,,,,,3,61028

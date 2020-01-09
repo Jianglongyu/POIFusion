@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市师专附小,102.725288,25.114969,,,,,,,,,,,3,50892
+昆明市盘龙区育林学校,102.724967,25.115779,,,,,,,,,,,3,51047

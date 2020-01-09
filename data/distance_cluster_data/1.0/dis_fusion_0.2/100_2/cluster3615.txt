@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盛世愉堂中医养生馆,102.65569,24.884510000000002,,,,,,,,,,,3,23577
+嫩江鱼农庄,102.65569,24.884510000000002,,,,,,,,,,,3,24304

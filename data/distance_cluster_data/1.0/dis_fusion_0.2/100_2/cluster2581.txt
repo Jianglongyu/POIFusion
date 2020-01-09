@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大脚足疗养生中心NO．2,102.82186,24.878320000000002,,,,,,,,,,,3,25478
+农村信用社斗南信用社,102.82177,24.8783,,,,,,,,,,,3,36372

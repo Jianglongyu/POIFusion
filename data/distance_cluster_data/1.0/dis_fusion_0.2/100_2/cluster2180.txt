@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+望湖宾馆－自助餐厅,102.65198000000001,24.9728,,,,,,,,,,,3,13902
+红塔体育中心乒乓球馆,102.65286,24.97296,,,,,,,,,,,3,20032
+华夏银行ATM,102.65286,24.97296,,,,,,,,,,,3,37688

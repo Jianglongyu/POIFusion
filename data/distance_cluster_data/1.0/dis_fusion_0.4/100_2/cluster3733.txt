@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华区运康门诊部,102.67620600000001,25.101989,,,,,,,,,,,3,30420
+贝佳幼儿园,102.676411,25.101794,,,,,,,,,,,3,38736

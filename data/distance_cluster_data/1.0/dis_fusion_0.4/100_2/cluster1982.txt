@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+学居天下酒店,103.01566,25.24043,,,,,,,,,,,3,33727
+鸿鑫源宾馆,103.01534000000001,25.24113,,,,,,,,,,,3,33756
+唯爱主题酒店,103.01534000000001,25.24101,,,,,,,,,,,3,35004

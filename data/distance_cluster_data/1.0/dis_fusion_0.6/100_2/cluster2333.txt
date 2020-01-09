@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+健之佳健康药房NO．165,103.268658,24.756447,,,,,,,,,,,3,36971
+一心堂石林连锁NO．2,103.269637,24.756925,,,,,,,,,,,3,36899
+石林县志宏药店,103.26871700000001,24.7567,,,,,,,,,,,3,37704

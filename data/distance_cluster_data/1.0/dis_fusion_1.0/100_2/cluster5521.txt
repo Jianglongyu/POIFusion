@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+耀龙大厦,102.68276,24.994979999999998,,,,,,,,,,,3,28402
+耀龙大厦,102.68276,24.99478,,,,,,,,,,,3,58191

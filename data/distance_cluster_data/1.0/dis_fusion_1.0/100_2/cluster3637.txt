@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阳光山水江湖菜馆,102.641235,24.972997,,,,,,,,,,,1,1430
+阳光山水江湖菜馆,102.641235,24.973197,,,,,,,,,,,1,65651

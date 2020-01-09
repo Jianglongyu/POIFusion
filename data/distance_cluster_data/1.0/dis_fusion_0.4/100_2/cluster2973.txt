@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+随心园,102.70486600000001,25.002585,,,,,,,,,,,1,2021
+源泉大药房,102.704167,25.003173,,,,,,,,,,,3,30024

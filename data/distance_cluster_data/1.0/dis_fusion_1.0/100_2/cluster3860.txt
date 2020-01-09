@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普照村公交站,102.811738,24.998238,,,,,,,,,,,1,2353
+普照村公交站,102.811738,24.998438,,,,,,,,,,,1,66574

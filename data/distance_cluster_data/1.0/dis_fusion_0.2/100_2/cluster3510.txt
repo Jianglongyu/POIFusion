@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+港式靓饮,102.71321,25.044179999999997,,,,,,,,,,,3,5806
+询健医疗器械公司长春路试用中心,102.713358,25.045067,,,,,,,,,,,3,28583

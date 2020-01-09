@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+景明教育体系私立晋宁晨光学校,102.57854300000001,24.670045000000002,,,,,,,,,,,3,32803
+景明教育体系私立晋宁晨光学校,102.57854300000001,24.669845000000002,,,,,,,,,,,3,62592

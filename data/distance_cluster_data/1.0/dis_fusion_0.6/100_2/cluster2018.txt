@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海伦国际,102.74995849999999,24.96968409,,,,,,,,,,,2,129
+世纪城(广福路)公交站,102.749748,24.970377,,,,,,,,,,,1,2118
+海伦国际,102.74995849999999,24.96988409,,,,,,,,,,,2,47328

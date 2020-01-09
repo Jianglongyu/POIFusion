@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三江口文化娱乐中心,102.60936099999999,24.787663000000002,,,,,,,,,,,2,568
+三江口文化娱乐中心,102.60936099999999,24.787863,,,,,,,,,,,2,54860

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+汤丹矿业加油站,103.076386,26.195963,,,,,,,,,,,3,5008
+汤丹矿业加油站,103.076386,26.195763,,,,,,,,,,,3,8318

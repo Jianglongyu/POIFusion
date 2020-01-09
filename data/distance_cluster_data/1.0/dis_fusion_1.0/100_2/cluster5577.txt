@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明铁路局昆明材料供应段,102.776431,25.015572,,,,,,,,,,,3,28884
+昆明铁路局昆明材料供应段,102.776431,25.015372,,,,,,,,,,,3,58673

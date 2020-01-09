@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中共云南省委党校云南行政学院,102.638421,24.980623,,,,,,,,,,,1,777
+中共云南省委党校云南行政学院,102.638421,24.980823,,,,,,,,,,,1,55069

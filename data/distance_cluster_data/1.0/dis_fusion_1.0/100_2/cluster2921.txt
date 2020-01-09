@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+超弟饭店,102.65178,24.9015,,,,,,,,,,,3,15807
+福顺农家,102.65169,24.9024,,,,,,,,,,,3,11464
+福顺农家,102.65169,24.9022,,,,,,,,,,,3,41253
+超弟饭店,102.65178,24.9013,,,,,,,,,,,3,45596

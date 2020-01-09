@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+首艺造型,102.66788000000001,25.05931,,,,,,,,,,,3,28049
+大运招待所,102.66766,25.05931,,,,,,,,,,,3,34029

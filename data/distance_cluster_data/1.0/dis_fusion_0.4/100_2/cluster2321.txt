@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康辉大药房,102.38203100000001,24.931367,,,,,,,,,,,3,31192
+李荣波诊所,102.382316,24.931978,,,,,,,,,,,3,31751
+政通幼儿园,102.381804,24.931870999999997,,,,,,,,,,,3,40128

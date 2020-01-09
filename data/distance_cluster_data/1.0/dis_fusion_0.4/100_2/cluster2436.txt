@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池俊府,102.75355,24.935845999999998,,,,,,,,,,,2,74
+滇池俊府,102.75355,24.936045999999997,,,,,,,,,,,2,41953

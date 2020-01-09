@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华怡商务会所洗浴,102.802011,24.895879,,,,,,,,,,,1,3643
+华怡商务会所洗浴,102.802011,24.896079,,,,,,,,,,,1,67864

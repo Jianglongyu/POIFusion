@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+银座小学,102.425609,25.790392,,,,,,,,,,,3,30856
+银座小学,102.425609,25.790192,,,,,,,,,,,3,60645

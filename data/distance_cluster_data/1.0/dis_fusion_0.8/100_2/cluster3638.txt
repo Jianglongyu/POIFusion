@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+麻园综合农贸市场,102.68285,25.058033,,,,,,,,,,,1,2570
+麻园综合农贸市场,102.68285,25.058232999999998,,,,,,,,,,,1,56862

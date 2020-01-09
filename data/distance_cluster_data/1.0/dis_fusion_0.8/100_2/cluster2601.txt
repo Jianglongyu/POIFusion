@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+九龙济晨大药房,102.800031,25.741838,,,,,,,,,,,3,22810
+九龙济晨大药房,102.800031,25.741638000000002,,,,,,,,,,,3,42670
+禄劝九龙正街药店,102.799245,25.741428,,,,,,,,,,,3,44637

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+佳源大药房,102.80386800000001,24.783585,,,,,,,,,,,3,23840
+佳源大药房,102.80386800000001,24.783385,,,,,,,,,,,3,43700

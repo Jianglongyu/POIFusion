@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+书多小学,102.635616,25.82573,,,,,,,,,,,3,32844
+书多小学,102.635616,25.82553,,,,,,,,,,,3,62633

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+玉溪市小石桥乡纪检委,102.615664,24.43994,,,,,,,,,,,3,29361
+玉溪市小石桥乡纪检委,102.615664,24.43974,,,,,,,,,,,3,59150

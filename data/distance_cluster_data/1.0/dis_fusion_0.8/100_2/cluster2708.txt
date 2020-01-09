@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+旺角养生会所,102.7259,25.01357,,,,,,,,,,,3,15983
+旺角养生会所,102.7259,25.013370000000002,,,,,,,,,,,3,35843
+中国人保财险银海中心服务站,102.72555,25.0133,,,,,,,,,,,3,53786

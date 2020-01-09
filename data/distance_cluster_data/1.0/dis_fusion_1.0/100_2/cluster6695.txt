@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省水利水电科学研究院,102.68005699999999,25.024421,,,,,,,,,,,3,32592
+云南省水利水电科学研究院,102.68005699999999,25.024221,,,,,,,,,,,3,62381

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县加油站,102.399251,25.537629,,,,,,,,,,,3,4669
+武定县加油站,102.399251,25.537429,,,,,,,,,,,3,17436

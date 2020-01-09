@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+运动员餐厅(前卫街道),102.683298,24.965823,,,,,,,,,,,1,848
+海埂高尔夫俱乐部,102.683477,24.965835000000002,,,,,,,,,,,1,3822
+运动员餐厅(前卫街道),102.683298,24.966023,,,,,,,,,,,1,42727

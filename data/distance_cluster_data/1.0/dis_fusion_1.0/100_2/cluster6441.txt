@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+名扬天然药物研究中心,102.868978,25.025,,,,,,,,,,,3,31831
+名扬天然药物研究中心,102.868978,25.0248,,,,,,,,,,,3,61620

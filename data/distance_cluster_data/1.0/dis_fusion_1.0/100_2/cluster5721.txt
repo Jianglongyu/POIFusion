@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市西山区团结街道谷律便民服务中心,102.445829,25.126392,,,,,,,,,,,3,29584
+昆明市西山区团结街道谷律便民服务中心,102.445829,25.126192,,,,,,,,,,,3,59373

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+铜都镇中心卫生院,103.18283199999999,26.087403,,,,,,,,,,,3,25733
+东电大药房NO．1,103.18240899999999,26.087602,,,,,,,,,,,3,29179

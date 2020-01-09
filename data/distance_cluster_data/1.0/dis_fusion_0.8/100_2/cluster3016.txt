@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+观音山公交站,102.66947900000001,24.840894,,,,,,,,,,,2,524
+观音山公交站,102.66947900000001,24.841094,,,,,,,,,,,2,54816

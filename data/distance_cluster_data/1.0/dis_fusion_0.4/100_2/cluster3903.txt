@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+秀姿女子减肥院呈贡分店,102.80022,24.89047,,,,,,,,,,,3,23519
+家家乐教育,102.80025,24.89049,,,,,,,,,,,3,39429

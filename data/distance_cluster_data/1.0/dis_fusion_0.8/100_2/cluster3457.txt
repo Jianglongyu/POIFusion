@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万能驾驶员培训处,102.75493,25.12479,,,,,,,,,,,1,1883
+万能驾驶员培训处,102.75493,25.12499,,,,,,,,,,,1,56175

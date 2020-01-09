@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市五华区水务局,102.671805,25.089151,,,,,,,,,,,3,32212
+昆明市普吉街道办,102.671805,25.089151,,,,,,,,,,,3,32223
+云南省农村信用社ATM,102.67181,25.08929,,,,,,,,,,,3,37307

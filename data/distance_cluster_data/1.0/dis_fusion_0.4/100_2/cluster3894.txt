@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+前卫前兴社区卫生站,102.709707,24.987663,,,,,,,,,,,3,31671
+水岸艺城幼儿园,102.709696,24.988265,,,,,,,,,,,3,38789

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂联合店,103.000249,25.933526999999998,,,,,,,,,,,3,23362
+同济堂联合店,103.000249,25.933327,,,,,,,,,,,3,43222

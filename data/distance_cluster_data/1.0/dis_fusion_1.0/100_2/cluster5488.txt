@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大象表演场,102.65949300000001,24.968876,,,,,,,,,,,3,28305
+大象表演场,102.65949300000001,24.968676000000002,,,,,,,,,,,3,58094

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区福升大药房碧云店,103.180472,26.08837,,,,,,,,,,,3,25158
+东川区福升大药房碧云店,103.180472,26.08817,,,,,,,,,,,3,54947

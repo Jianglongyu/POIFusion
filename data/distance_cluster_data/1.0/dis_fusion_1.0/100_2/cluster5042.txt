@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明滇大医院,102.48689399999999,24.915489,,,,,,,,,,,3,24881
+昆明滇大医院,102.48689399999999,24.915289,,,,,,,,,,,3,54670

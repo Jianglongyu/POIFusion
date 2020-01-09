@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明面粉厂,102.68991899999999,25.066592,,,,,,,,,,,1,3098
+昆明面粉厂,102.68991899999999,25.066792,,,,,,,,,,,1,67319

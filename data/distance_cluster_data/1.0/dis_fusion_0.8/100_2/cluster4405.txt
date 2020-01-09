@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康康乐足浴,102.6818,25.0403,,,,,,,,,,,3,21468
+中医精妙诊所,102.68245300000001,25.040257,,,,,,,,,,,3,43535

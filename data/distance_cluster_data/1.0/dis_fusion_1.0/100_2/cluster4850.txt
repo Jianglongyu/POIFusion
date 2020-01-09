@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+糯基村委会卫生所,103.405521,25.636774,,,,,,,,,,,3,23207
+糯基村委会卫生所,103.405521,25.636574,,,,,,,,,,,3,52996

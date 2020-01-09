@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤龙湾风景区,103.339298,25.489363,,,,,,,,,,,3,27892
+凤龙湾风景区,103.339298,25.489163,,,,,,,,,,,3,57681

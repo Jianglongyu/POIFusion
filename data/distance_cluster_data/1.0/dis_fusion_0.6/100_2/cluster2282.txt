@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+罗次中心卫生院,102.298103,25.305392,,,,,,,,,,,3,36324
+双鹤大药房罗次分店,102.29748599999999,25.306085999999997,,,,,,,,,,,3,36675
+禄丰县人民法院罗次中心法庭,102.298408,25.304738,,,,,,,,,,,3,42125

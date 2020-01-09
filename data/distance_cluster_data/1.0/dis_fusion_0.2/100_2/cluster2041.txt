@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华盛治疗仪,102.72710500000001,25.074151,,,,,,,,,,,3,27999
+盘龙区综合行政执法大队金辰中队,102.72629599999999,25.074322,,,,,,,,,,,3,32344
+昆明市检察院,102.726814,25.074898,,,,,,,,,,,3,32839

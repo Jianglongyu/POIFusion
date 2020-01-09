@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+姐妹饭店,102.57165,24.78824,,,,,,,,,,,3,8542
+天意娱乐会所,102.57183,24.78821,,,,,,,,,,,3,21939
+姐妹饭店,102.57165,24.78804,,,,,,,,,,,3,38331
+天意娱乐会所,102.57183,24.78801,,,,,,,,,,,3,51728

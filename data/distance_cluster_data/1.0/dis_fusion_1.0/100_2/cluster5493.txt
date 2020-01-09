@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+腊利清真寺,103.194909,26.065941,,,,,,,,,,,3,28313
+腊利清真寺,103.194909,26.065741,,,,,,,,,,,3,58102

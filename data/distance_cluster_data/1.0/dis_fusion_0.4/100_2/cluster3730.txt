@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂富民散旦连锁店,102.657717,25.300575,,,,,,,,,,,3,30396
+富民云进药店,102.657709,25.300816,,,,,,,,,,,3,32173

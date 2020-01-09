@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+军安组团（人民西路132号）,102.6865432,25.0415728,,,,,,,,,,,2,218
+昆明医学院学生宿舍区,102.6860094,25.04166504,,,,,,,,,,,1,2819
+军安组团（人民西路132号）,102.6865432,25.0417728,,,,,,,,,,,2,47417

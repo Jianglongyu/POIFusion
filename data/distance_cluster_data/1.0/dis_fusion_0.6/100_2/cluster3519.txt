@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大屯村卫生所,103.277532,24.748302,,,,,,,,,,,3,36580
+石林县鹿阜镇大屯幼儿园,103.277513,24.747872,,,,,,,,,,,3,43643

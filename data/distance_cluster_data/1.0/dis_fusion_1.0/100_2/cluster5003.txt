@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盘龙林有德诊所,102.729778,25.084391,,,,,,,,,,,3,24456
+魅俐莱发艺连锁,102.73024000000001,25.08426,,,,,,,,,,,3,49457

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中豪·优活城,102.8488172,24.92100533,,,,,,,,,,,2,495
+中豪·优活城,102.8488172,24.92120533,,,,,,,,,,,2,38237

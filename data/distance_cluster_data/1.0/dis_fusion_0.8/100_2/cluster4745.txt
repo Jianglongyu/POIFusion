@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东骏大药房耿家营连锁店,103.233449,25.030794,,,,,,,,,,,3,23811
+东骏大药房耿家营连锁店,103.233449,25.030594,,,,,,,,,,,3,43671

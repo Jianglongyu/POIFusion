@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤仪星星加油站,102.956264,25.81375,,,,,,,,,,,3,4693
+凤仪星星加油站,102.956264,25.81355,,,,,,,,,,,3,8003

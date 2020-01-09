@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凯旋利车博汇公寓,102.72788929999999,24.98174071,,,,,,,,,,,2,234
+凯旋利车博汇公寓,102.72788929999999,24.98194071,,,,,,,,,,,2,37976

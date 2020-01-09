@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+锦华苑(北门),102.704663,25.011111,,,,,,,,,,,1,3393
+洁尚公寓,102.70527,25.0111,,,,,,,,,,,1,3500

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同仁新华医院云南电大呈贡校区卫生院,102.827554,24.819520999999998,,,,,,,,,,,3,26773
+云南广播电视大学西门,102.82681600000001,24.820024,,,,,,,,,,,3,34289
+农村信用社ATM,102.82708000000001,24.82027,,,,,,,,,,,3,36966

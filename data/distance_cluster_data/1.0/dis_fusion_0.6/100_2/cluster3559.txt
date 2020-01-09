@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+真味园农家菜馆,102.61458,24.78196,,,,,,,,,,,3,12257
+真味园农家菜馆,102.61458,24.781760000000002,,,,,,,,,,,3,25024

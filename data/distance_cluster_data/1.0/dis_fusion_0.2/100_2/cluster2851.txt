@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+顺鑫彝家黑山羊馆,102.6368,25.0422,,,,,,,,,,,3,19070
+昆明企业管理培训学校汽车驾驶培训站,102.63709,25.041832,,,,,,,,,,,3,33995

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+郭沫若题词碑,102.745885,25.135587,,,,,,,,,,,3,35761
+中科院昆明植物研究所,102.74538199999999,25.13588,,,,,,,,,,,3,38822

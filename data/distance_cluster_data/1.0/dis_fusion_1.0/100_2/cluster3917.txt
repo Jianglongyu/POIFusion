@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+留苑,102.665727,25.07706,,,,,,,,,,,1,2629
+留苑,102.665727,25.07726,,,,,,,,,,,1,66850

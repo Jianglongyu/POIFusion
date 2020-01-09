@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县教师进修学校,102.59086500000001,24.664507,,,,,,,,,,,3,51060
+晋宁一中,102.59070200000001,24.664424,,,,,,,,,,,3,52319

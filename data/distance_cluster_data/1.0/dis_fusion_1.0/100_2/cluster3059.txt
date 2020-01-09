@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+春之城,102.7412712,25.11372338,,,,,,,,,,,2,59
+春之城,102.7412712,25.11392338,,,,,,,,,,,2,64280

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金刚青松诊所,102.74720699999999,24.969521,,,,,,,,,,,3,26390
+一心堂昆明金刚村连锁店,102.746903,24.96951,,,,,,,,,,,3,27007
+欣康泰门诊,102.746667,24.970257,,,,,,,,,,,3,29272

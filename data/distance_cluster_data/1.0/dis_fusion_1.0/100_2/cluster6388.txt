@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县晋城第一小学,102.74376099999999,24.703167,,,,,,,,,,,3,31689
+晋宁县晋城第一小学,102.74376099999999,24.702967,,,,,,,,,,,3,61478

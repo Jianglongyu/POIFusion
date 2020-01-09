@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+圣爱综合门诊部,103.039408,25.335916,,,,,,,,,,,3,23183
+圣爱综合门诊部,103.039408,25.335716,,,,,,,,,,,3,43043

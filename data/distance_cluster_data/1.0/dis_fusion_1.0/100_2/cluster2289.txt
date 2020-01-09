@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东冬发型设计室,102.79645,24.98874,,,,,,,,,,,3,19532
+春源保险,102.79645,24.98872,,,,,,,,,,,3,33649
+东冬发型设计室,102.79645,24.98854,,,,,,,,,,,3,49321
+春源保险,102.79645,24.98852,,,,,,,,,,,3,63438

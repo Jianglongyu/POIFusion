@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云师大文理学英语伊斋园,102.99871999999999,25.24389,,,,,,,,,,,3,11402
+农村信用社ATM,102.99844,25.244310000000002,,,,,,,,,,,3,37215

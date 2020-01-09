@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+ORIGIN原点,102.708873,25.054733,,,,,,,,,,,1,4582
+ORIGIN原点,102.708873,25.054933,,,,,,,,,,,1,68803

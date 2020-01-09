@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+开远鑫茂烧烤城,102.793308,24.987415,,,,,,,,,,,1,3318
+开远鑫茂烧烤城,102.793308,24.987614999999998,,,,,,,,,,,1,67539

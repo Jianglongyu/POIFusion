@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小河加油站,103.110455,24.566979999999997,,,,,,,,,,,3,4715
+小河加油站,103.110455,24.566779999999998,,,,,,,,,,,3,12162

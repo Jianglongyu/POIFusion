@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+七杯茶机电学院店,102.73252,25.14696,,,,,,,,,,,3,12564
+七杯茶机电学院店,102.73252,25.14676,,,,,,,,,,,3,25331
+富滇银行ATM,102.73284,25.14709,,,,,,,,,,,3,46434

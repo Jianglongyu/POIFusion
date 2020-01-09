@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明海关机关服务中心体能训练基地,102.672926,24.982442000000002,,,,,,,,,,,1,3170
+昆明海关机关服务中心体能训练基地,102.672926,24.982642000000002,,,,,,,,,,,1,67391

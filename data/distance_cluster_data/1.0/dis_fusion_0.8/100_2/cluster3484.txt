@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+腾俊国际陆港,102.593006,24.733423000000002,,,,,,,,,,,1,1974
+腾俊国际陆港,102.593006,24.733623,,,,,,,,,,,1,56266

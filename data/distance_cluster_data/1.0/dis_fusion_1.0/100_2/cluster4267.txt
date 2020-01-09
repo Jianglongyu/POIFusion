@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+翡翠珠宝商城,102.853667,24.985471,,,,,,,,,,,1,4045
+翡翠珠宝商城,102.853667,24.985671,,,,,,,,,,,1,68266

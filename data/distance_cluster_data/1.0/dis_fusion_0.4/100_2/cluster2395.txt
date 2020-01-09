@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乾胜牛菜馆,102.73396,25.06544,,,,,,,,,,,3,16235
+官渡李记小吃,102.73348,25.06542,,,,,,,,,,,3,21508
+贵州六盘水羊肉米线,102.73319000000001,25.06549,,,,,,,,,,,3,21884

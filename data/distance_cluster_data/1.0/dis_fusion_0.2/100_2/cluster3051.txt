@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+渝川饭店,102.93794,24.8961,,,,,,,,,,,3,12470
+农村信用社马郎分社,102.9373,24.89627,,,,,,,,,,,3,37429

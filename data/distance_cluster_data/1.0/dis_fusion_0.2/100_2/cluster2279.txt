@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三道菜昆明滇池路西贡码头店,102.66274,24.98564,,,,,,,,,,,3,16296
+云南省中医医院滇池度假区医院－急诊,102.663125,24.985452,,,,,,,,,,,3,25963
+海埂社区卫生服务中心,102.663125,24.985452,,,,,,,,,,,3,25978

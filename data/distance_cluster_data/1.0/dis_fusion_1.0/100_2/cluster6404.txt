@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普达小学,102.60684499999999,24.640201,,,,,,,,,,,3,31751
+普达小学,102.60684499999999,24.640001,,,,,,,,,,,3,61540

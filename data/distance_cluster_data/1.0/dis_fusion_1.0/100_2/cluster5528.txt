@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+环球广场,102.82369,24.88397,,,,,,,,,,,3,28482
+环球广场,102.82369,24.883770000000002,,,,,,,,,,,3,58271

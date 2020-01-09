@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省王家营贮木场(南)货场,102.849377,24.93469,,,,,,,,,,,1,951
+云南省王家营贮木场(南)货场,102.849377,24.93489,,,,,,,,,,,1,65172

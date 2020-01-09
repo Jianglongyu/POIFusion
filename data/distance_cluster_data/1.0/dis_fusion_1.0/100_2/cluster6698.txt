@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明交通运输集团公司昆东机动车驾驶培训学校,102.807858,24.99296,,,,,,,,,,,3,32596
+昆明交通运输集团公司昆东机动车驾驶培训学校,102.807858,24.99276,,,,,,,,,,,3,62385

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县委宣传部,103.25478000000001,25.559911,,,,,,,,,,,3,29189
+寻甸县委宣传部,103.25478000000001,25.559711,,,,,,,,,,,3,58978

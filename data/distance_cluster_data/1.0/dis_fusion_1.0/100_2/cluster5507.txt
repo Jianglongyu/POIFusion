@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+长春寺,102.77024,25.143113,,,,,,,,,,,3,28356
+长春寺,102.77024,25.142913,,,,,,,,,,,3,58145

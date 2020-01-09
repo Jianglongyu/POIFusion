@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县嵩阳镇通健大药房,103.10333100000001,25.41237,,,,,,,,,,,3,23420
+嵩明县嵩阳镇通健大药房,103.10333100000001,25.41217,,,,,,,,,,,3,43280

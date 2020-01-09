@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+堡孜小学,102.606486,24.659287,,,,,,,,,,,3,30776
+堡孜小学,102.606486,24.659087,,,,,,,,,,,3,60565

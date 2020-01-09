@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+聚一堂餐厅,102.7097,24.96397,,,,,,,,,,,3,7213
+聚一堂餐厅,102.7097,24.96377,,,,,,,,,,,3,19980
+金色阳光温泉浴场,102.70999,24.964029999999998,,,,,,,,,,,3,31081

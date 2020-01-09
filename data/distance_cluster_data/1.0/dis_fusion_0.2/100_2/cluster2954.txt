@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+味美轩酒楼,102.6802,24.97499,,,,,,,,,,,3,11584
+滇池国家旅游度假区大坝中心学校大河分学,102.680152,24.975688,,,,,,,,,,,3,34022

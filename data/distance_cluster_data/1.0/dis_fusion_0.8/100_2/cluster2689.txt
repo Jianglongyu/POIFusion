@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明圣康医院,102.67570500000001,25.017798,,,,,,,,,,,3,24048
+大观公园(南门),102.6748462,25.01726915,,,,,,,,,,,1,4276
+昆明圣康医院,102.67570500000001,25.017598,,,,,,,,,,,3,43908

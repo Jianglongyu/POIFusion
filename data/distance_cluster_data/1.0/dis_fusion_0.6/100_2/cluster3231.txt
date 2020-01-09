@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+温馨饭店,102.685918,24.964057,,,,,,,,,,,1,1828
+温馨饭店,102.685918,24.964257,,,,,,,,,,,1,49027

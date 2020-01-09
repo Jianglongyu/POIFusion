@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙农机加油站,103.57676,25.268791,,,,,,,,,,,3,4785
+马龙农机加油站,103.57676,25.268591,,,,,,,,,,,3,17552

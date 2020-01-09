@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县人民医院－住院部,102.500135,25.218215999999998,,,,,,,,,,,3,22661
+富民县人民医院－住院部,102.500135,25.218016,,,,,,,,,,,3,52450

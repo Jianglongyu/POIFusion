@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+松茂小学,102.906449,24.901629999999997,,,,,,,,,,,3,30620
+松茂小学,102.906449,24.901429999999998,,,,,,,,,,,3,60409

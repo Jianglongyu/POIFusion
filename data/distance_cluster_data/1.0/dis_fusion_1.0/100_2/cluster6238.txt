@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南艺术学院,102.823691,24.833232,,,,,,,,,,,3,31223
+云南艺术学院,102.823691,24.833032,,,,,,,,,,,3,61012

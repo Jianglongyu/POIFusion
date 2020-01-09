@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+浅草堂景怡山庄,102.96731,25.145129999999998,,,,,,,,,,,3,15946
+浅草堂景怡山庄,102.96731,25.14493,,,,,,,,,,,3,28713

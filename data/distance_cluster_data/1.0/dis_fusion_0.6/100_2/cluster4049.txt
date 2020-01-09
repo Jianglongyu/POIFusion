@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金刚村委会卫生所,102.745763,24.971119,,,,,,,,,,,3,38466
+小燕子幼儿园,102.74570200000001,24.971624,,,,,,,,,,,3,45585

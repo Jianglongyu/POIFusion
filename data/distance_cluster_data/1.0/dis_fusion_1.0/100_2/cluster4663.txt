@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东电加油站,103.172413,26.109215,,,,,,,,,,,3,5020
+东电加油站,103.172413,26.109015,,,,,,,,,,,3,34809

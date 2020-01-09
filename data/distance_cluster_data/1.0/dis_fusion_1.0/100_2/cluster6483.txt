@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+汤丹同心·藤泽希望小学,103.025791,26.198169,,,,,,,,,,,3,31944
+汤丹同心·藤泽希望小学,103.025791,26.197969,,,,,,,,,,,3,61733

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福照楼云瑞分店,102.70674,25.0409,,,,,,,,,,,3,18789
+昆明眼科医院,102.706766,25.041635,,,,,,,,,,,3,29087
+云南东方经济地理研究院,102.706824,25.040824,,,,,,,,,,,3,35342

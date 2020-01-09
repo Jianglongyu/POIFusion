@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+汇通加油站,102.507999,25.352551000000002,,,,,,,,,,,3,4678
+汇通加油站,102.507999,25.352351000000002,,,,,,,,,,,3,24538
+富民县计划生育服务所赤就镇所,102.508214,25.35236,,,,,,,,,,,3,49133

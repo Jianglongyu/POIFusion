@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄丰县碧城镇纪检委,102.301425,25.306172,,,,,,,,,,,3,32864
+罗次派出所,102.301425,25.306172,,,,,,,,,,,3,33280

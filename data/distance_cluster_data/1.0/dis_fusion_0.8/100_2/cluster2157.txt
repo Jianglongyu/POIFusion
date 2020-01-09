@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嫩鱼庄,102.70583,24.95938,,,,,,,,,,,3,5849
+天天园,102.70574,24.95901,,,,,,,,,,,3,8951
+嫩鱼庄,102.70583,24.95918,,,,,,,,,,,3,25709
+天天园,102.70574,24.95881,,,,,,,,,,,3,28811

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普吉收费站,102.656274,25.117051,,,,,,,,,,,1,2355
+普吉收费站,102.656274,25.117251,,,,,,,,,,,1,66576

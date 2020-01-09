@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晖湾公交站,102.65509300000001,24.914454,,,,,,,,,,,1,3616
+晖湾公交站,102.65509300000001,24.914654,,,,,,,,,,,1,67837

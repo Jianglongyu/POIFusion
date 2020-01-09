@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡区公安局城关派出所,102.799231,24.895491,,,,,,,,,,,3,28887
+呈贡区公安局城关派出所,102.799231,24.895291,,,,,,,,,,,3,58676

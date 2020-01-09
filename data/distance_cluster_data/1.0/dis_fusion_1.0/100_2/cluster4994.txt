@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山区爱民诊所,102.70038100000001,24.970572,,,,,,,,,,,3,24378
+西山区爱民诊所,102.70038100000001,24.970372,,,,,,,,,,,3,54167

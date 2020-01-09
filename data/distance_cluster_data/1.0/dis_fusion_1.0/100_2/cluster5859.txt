@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+沙龙小学,102.27979599999999,25.073555,,,,,,,,,,,3,30175
+沙龙小学,102.27979599999999,25.073355,,,,,,,,,,,3,59964

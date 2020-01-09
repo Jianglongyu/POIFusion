@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+爵士空间,102.73605,25.14617,,,,,,,,,,,3,19730
+舒美发型设计,102.73663,25.14621,,,,,,,,,,,3,50473

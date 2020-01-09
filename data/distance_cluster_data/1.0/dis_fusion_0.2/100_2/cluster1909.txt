@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+修正堂连锁大药房众康大药房,102.826356,24.983654,,,,,,,,,,,3,26568
+周记宾馆,102.82721,24.98338,,,,,,,,,,,3,30218
+云南省公安厅交警总队高速公路交巡警支队昆石大队,102.826962,24.983846,,,,,,,,,,,3,33099

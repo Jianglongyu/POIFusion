@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝县皎平渡镇委,102.452086,26.124592999999997,,,,,,,,,,,3,28724
+禄劝县皎平渡镇委,102.452086,26.124392999999998,,,,,,,,,,,3,58513

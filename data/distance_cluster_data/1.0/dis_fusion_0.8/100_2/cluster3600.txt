@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+跑马山公交站,102.796021,24.949145,,,,,,,,,,,1,2372
+跑马山公交站,102.796021,24.949345,,,,,,,,,,,1,56664

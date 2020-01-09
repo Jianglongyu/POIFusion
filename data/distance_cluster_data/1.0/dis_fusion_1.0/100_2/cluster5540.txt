@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县烟草专卖局羊街镇烟草专卖管理所,103.12014599999999,25.43528,,,,,,,,,,,3,28710
+寻甸县烟草专卖局羊街镇烟草专卖管理所,103.12014599999999,25.43508,,,,,,,,,,,3,58499

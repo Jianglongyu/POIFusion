@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤麓幼儿园,102.91728499999999,24.671094,,,,,,,,,,,3,31945
+凤麓幼儿园,102.91728499999999,24.670894,,,,,,,,,,,3,61734

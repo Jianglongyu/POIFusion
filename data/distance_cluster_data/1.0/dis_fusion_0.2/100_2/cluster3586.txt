@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海慧寺,102.701314,24.973379,,,,,,,,,,,3,31509
+金河小学,102.701284,24.973211,,,,,,,,,,,3,34119

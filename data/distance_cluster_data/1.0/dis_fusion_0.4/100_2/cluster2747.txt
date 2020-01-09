@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+千和佳人,102.654,25.034470000000002,,,,,,,,,,,3,25258
+昆明市西山区保康药店,102.654127,25.034468,,,,,,,,,,,3,31912

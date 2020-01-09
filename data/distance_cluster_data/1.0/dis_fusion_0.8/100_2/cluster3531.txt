@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+食尚味道,102.786684,24.992016,,,,,,,,,,,1,2133
+食尚味道,102.786684,24.992216,,,,,,,,,,,1,56425

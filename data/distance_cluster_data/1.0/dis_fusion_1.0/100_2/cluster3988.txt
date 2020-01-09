@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明铁路机车厂,102.832269,25.010960999999998,,,,,,,,,,,1,2894
+昆明铁路机车厂,102.832269,25.011160999999998,,,,,,,,,,,1,67115

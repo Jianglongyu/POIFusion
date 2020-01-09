@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+售票处,103.383449,25.068263,,,,,,,,,,,3,31333
+九乡风景区,103.383969,25.068232000000002,,,,,,,,,,,3,31685
+云南省宜良县九乡风景名胜区管理局,103.382926,25.068828,,,,,,,,,,,3,32656

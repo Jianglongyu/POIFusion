@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林彝族自治县基督教堂,103.264114,24.749722,,,,,,,,,,,3,28288
+石林彝族自治县基督教堂,103.264114,24.749522,,,,,,,,,,,3,58077

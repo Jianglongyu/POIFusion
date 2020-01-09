@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县国土局,102.910475,24.673453,,,,,,,,,,,3,29414
+澄江县国土局,102.910475,24.673253,,,,,,,,,,,3,59203

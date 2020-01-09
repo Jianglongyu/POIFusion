@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+玉溪高等级公路管理段北城公路管理所,102.547336,24.427954,,,,,,,,,,,3,29941
+玉溪高等级公路管理段北城公路管理所,102.547336,24.427754,,,,,,,,,,,3,59730

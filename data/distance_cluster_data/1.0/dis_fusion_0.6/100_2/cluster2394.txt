@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+好人家健康药房爱佳店,103.03796,25.331754999999998,,,,,,,,,,,3,37754
+昆明市公路运输管理局嵩明县分局,103.037591,25.331717,,,,,,,,,,,3,41767
+嵩明县政府行政审批服务中心,103.037327,25.331916,,,,,,,,,,,3,42238

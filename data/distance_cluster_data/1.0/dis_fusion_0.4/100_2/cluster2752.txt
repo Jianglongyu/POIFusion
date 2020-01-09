@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中豪·螺蛳湾国际商贸城,102.781339,24.942356,,,,,,,,,,,1,695
+中豪·螺蛳湾国际商贸城,102.781339,24.942556,,,,,,,,,,,1,42574

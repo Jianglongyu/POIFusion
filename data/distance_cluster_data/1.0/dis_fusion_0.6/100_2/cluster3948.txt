@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+谭官营加油站,103.149635,24.90145,,,,,,,,,,,3,5074
+谭官营加油站,103.149635,24.90125,,,,,,,,,,,3,17841

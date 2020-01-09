@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+柯渡清真寺,102.857446,25.549146,,,,,,,,,,,3,28269
+柯渡清真寺,102.857446,25.548946,,,,,,,,,,,3,58058

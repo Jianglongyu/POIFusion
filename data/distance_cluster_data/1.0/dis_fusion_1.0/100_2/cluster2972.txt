@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盘龙邓芳诊所,102.75322,25.109935999999998,,,,,,,,,,,3,22591
+立康药房龙头街店,102.753253,25.110301,,,,,,,,,,,3,25826
+立康药房龙头街店,102.753253,25.110101,,,,,,,,,,,3,55615

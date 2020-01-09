@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+佳佳乐农家饭,102.8299,25.08854,,,,,,,,,,,3,17666
+佳佳乐农家饭,102.8299,25.08834,,,,,,,,,,,3,37526

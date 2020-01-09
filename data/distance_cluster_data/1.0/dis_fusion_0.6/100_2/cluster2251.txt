@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明佳华文武学校,102.749224,25.04831,,,,,,,,,,,1,3144
+味研小黄牛大海碗,102.74882,25.04842,,,,,,,,,,,3,11131
+味研小黄牛大海碗,102.74882,25.04822,,,,,,,,,,,3,23898

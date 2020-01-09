@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁晋城浩康综合门诊部,102.751152,24.707901999999997,,,,,,,,,,,3,24921
+晋宁晋城浩康综合门诊部,102.751152,24.707701999999998,,,,,,,,,,,3,54710

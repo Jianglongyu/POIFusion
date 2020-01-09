@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+和顺食坊,102.66771,25.05808,,,,,,,,,,,3,18351
+漫生活,102.66799999999999,25.057779999999998,,,,,,,,,,,3,19022

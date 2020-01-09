@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+岩泉禅寺,103.12786,24.924456,,,,,,,,,,,3,31460
+售票处,103.128168,24.924574,,,,,,,,,,,3,31514

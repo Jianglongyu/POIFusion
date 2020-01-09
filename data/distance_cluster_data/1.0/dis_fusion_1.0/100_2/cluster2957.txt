@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+梁源小区(秀苑路),102.671939,25.039601,,,,,,,,,,,1,2652
+小燕子养生足疗,102.67187,25.03989,,,,,,,,,,,3,50773
+梁源小区(秀苑路),102.671939,25.039801,,,,,,,,,,,1,66873

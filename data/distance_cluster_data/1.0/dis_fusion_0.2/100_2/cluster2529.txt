@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中天城理想中心,102.7322242,25.09255526,,,,,,,,,,,2,507
+中天城理想中心,102.7322242,25.09275526,,,,,,,,,,,2,38249

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+曲靖兴文特色火锅,102.76498000000001,24.91033,,,,,,,,,,,3,6150
+曲靖兴文特色火锅,102.76498000000001,24.91013,,,,,,,,,,,3,26010

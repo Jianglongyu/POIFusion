@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+加油站,102.79643,24.998755,,,,,,,,,,,3,4775
+加油站,102.79643,24.998555,,,,,,,,,,,3,17542
+昆明铁路局昆明工务机械段,102.796701,24.997949,,,,,,,,,,,3,42586

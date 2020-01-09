@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市东川区公安局绿茂派出所,103.126269,26.219853999999998,,,,,,,,,,,3,29171
+昆明市东川区公安局绿茂派出所,103.126269,26.219654,,,,,,,,,,,3,58960

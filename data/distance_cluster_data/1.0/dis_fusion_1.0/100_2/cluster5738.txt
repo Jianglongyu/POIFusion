@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄丰县和平镇人大主席团,102.20156899999999,25.205605,,,,,,,,,,,3,29668
+禄丰县和平镇人大主席团,102.20156899999999,25.205405,,,,,,,,,,,3,59457

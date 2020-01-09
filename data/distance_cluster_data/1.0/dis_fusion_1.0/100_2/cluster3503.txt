@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南师范大学文理学院(西北门),103.005548,25.254222,,,,,,,,,,,1,931
+云南师范大学文理学院(西北门),103.005548,25.254421999999998,,,,,,,,,,,1,65152

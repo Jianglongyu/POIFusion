@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+风剪云造型,102.73046,25.10523,,,,,,,,,,,3,18064
+风剪云造型,102.73046,25.10503,,,,,,,,,,,3,37924

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+贵州六盘水(阳光客栈东南),102.71328100000001,25.001632,,,,,,,,,,,1,3872
+贵州六盘水(阳光客栈东南),102.71328100000001,25.001832,,,,,,,,,,,1,68093

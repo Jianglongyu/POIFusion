@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆石加油站,103.16535400000001,24.917118,,,,,,,,,,,3,5005
+昆石加油站,103.16535400000001,24.916918,,,,,,,,,,,3,8315

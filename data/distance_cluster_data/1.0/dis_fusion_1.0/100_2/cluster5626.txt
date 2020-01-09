@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县防震减灾局,103.034993,25.343027,,,,,,,,,,,3,29086
+嵩明县防震减灾局,103.034993,25.342827,,,,,,,,,,,3,58875

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+城东加油站,103.58364300000001,25.418336999999998,,,,,,,,,,,3,5014
+城东加油站,103.58364300000001,25.418136999999998,,,,,,,,,,,3,24874

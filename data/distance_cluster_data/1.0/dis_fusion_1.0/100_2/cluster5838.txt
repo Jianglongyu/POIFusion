@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市团结街道办,102.534707,25.071651,,,,,,,,,,,3,30074
+昆明市团结街道办,102.534707,25.071451,,,,,,,,,,,3,59863

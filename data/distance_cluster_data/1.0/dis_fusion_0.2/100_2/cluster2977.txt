@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+博导健康大药房,102.65858399999999,24.997674,,,,,,,,,,,3,28182
+云南省公安厅国际合作局,102.658598,24.998096,,,,,,,,,,,3,32230

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+转龙镇中心卫生院,102.85438,25.907926999999997,,,,,,,,,,,3,25496
+转龙镇中心卫生院,102.85438,25.907726999999998,,,,,,,,,,,3,55285

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+佳佳乐,102.77749,24.7566,,,,,,,,,,,3,13935
+佳佳乐,102.77749,24.7564,,,,,,,,,,,3,33795

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杜医生诊所,102.926524,25.768135,,,,,,,,,,,3,24847
+杜医生诊所,102.926524,25.767935,,,,,,,,,,,3,54636

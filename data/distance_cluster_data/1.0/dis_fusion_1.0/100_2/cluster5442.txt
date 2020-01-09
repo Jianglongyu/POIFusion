@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金色螳川之旅,102.43202099999999,24.988426,,,,,,,,,,,3,28202
+金色螳川之旅,102.43202099999999,24.988226,,,,,,,,,,,3,57991

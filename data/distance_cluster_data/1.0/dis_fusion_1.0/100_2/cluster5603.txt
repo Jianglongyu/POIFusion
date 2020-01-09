@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝彝族苗族自治县森林公安局,102.489468,25.565394,,,,,,,,,,,3,28977
+禄劝彝族苗族自治县森林公安局,102.489468,25.565194,,,,,,,,,,,3,58766

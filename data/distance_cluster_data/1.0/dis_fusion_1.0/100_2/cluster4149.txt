@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+江南春赛马场公园,102.633346,25.021109,,,,,,,,,,,1,3525
+江南春赛马场公园,102.633346,25.021309,,,,,,,,,,,1,67746

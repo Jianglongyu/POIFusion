@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明天盛植物营养研究所,103.15705600000001,25.470986,,,,,,,,,,,3,30378
+昆明天盛植物营养研究所,103.15705600000001,25.470786,,,,,,,,,,,3,60167

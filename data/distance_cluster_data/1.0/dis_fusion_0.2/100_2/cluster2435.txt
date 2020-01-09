@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+顺意美发工作室,102.72501,25.08233,,,,,,,,,,,3,24880
+盘龙温孝燕诊所,102.725034,25.082364000000002,,,,,,,,,,,3,26054

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+伊兰园农家乐,102.97363,25.152929999999998,,,,,,,,,,,3,12434
+伊兰园农家乐,102.97363,25.15273,,,,,,,,,,,3,25201

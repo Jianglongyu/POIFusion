@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盲人康复按摩,102.73311,25.13764,,,,,,,,,,,3,20868
+宏兴如意美容馆,102.73317,25.13788,,,,,,,,,,,3,24816
+农村信用社ATM,102.73295999999999,25.13734,,,,,,,,,,,3,36964

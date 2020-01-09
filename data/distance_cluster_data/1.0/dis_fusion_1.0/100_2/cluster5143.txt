@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+益民药店,103.27355,24.81515,,,,,,,,,,,3,25614
+益民药店,103.27355,24.81495,,,,,,,,,,,3,55403

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南广播电视大学南门,102.831749,24.81851,,,,,,,,,,,3,35125
+云南电大学生会堂,102.831059,24.818375,,,,,,,,,,,3,35433

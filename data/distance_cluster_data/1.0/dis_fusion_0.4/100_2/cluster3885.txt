@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+正宗富源酸汤猪脚,102.76078000000001,25.006729999999997,,,,,,,,,,,3,7015
+正宗富源酸汤猪脚,102.76078000000001,25.006529999999998,,,,,,,,,,,3,14462

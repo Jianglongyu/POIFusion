@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+经开区康美诊所,102.787145,25.008075,,,,,,,,,,,3,44396
+晶童幼儿园,102.787387,25.008079000000002,,,,,,,,,,,3,50788

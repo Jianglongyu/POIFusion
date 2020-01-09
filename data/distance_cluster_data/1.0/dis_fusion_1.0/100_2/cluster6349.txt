@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+团山小学,103.13749200000001,24.629216,,,,,,,,,,,3,31581
+团山小学,103.13749200000001,24.629016,,,,,,,,,,,3,61370

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+泰丽公寓,102.647446,25.030822,,,,,,,,,,,1,2001
+泰丽公寓,102.647446,25.031022,,,,,,,,,,,1,56293

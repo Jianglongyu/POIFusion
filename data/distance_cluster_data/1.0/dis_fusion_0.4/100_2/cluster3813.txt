@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+生达新世界大药房,102.46106,24.910076999999998,,,,,,,,,,,3,31103
+小龙人早教馆,102.460575,24.91072,,,,,,,,,,,3,39398

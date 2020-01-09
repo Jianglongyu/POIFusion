@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+上福加油站,102.68667099999999,24.681232,,,,,,,,,,,3,4675
+上福加油站,102.68667099999999,24.681032000000002,,,,,,,,,,,3,12122

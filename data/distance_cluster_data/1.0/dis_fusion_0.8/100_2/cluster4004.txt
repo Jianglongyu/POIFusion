@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雪山卫生院,102.80579300000001,26.139678,,,,,,,,,,,3,45335
+雪山中心小学,102.80601300000001,26.140157000000002,,,,,,,,,,,3,50396

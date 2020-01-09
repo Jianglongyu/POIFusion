@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省北教场体育训练基地,102.703838,25.082235,,,,,,,,,,,1,1044
+云南省北教场体育训练基地,102.703838,25.082435,,,,,,,,,,,1,48243

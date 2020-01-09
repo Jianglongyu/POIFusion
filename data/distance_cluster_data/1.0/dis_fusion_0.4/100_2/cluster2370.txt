@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸嘉华妇科医院,103.254645,25.556031,,,,,,,,,,,3,31963
+吉安诊所,103.2549,25.556597,,,,,,,,,,,3,32822
+清真寺,103.25449499999999,25.556642,,,,,,,,,,,3,35425

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+紫园,102.6264,24.98007,,,,,,,,,,,3,7652
+紫园,102.6264,24.979870000000002,,,,,,,,,,,3,10962
+云南省药物研究所西门,102.62647199999999,24.980411,,,,,,,,,,,3,33875

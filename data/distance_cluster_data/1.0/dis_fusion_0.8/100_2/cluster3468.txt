@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡五甲塘湿地,102.71595,24.94887,,,,,,,,,,,3,18310
+官渡五甲塘湿地,102.71595,24.94867,,,,,,,,,,,3,38170

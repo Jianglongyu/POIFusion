@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牛栏江镇花箐完全小学,103.146913,25.198135999999998,,,,,,,,,,,3,32843
+牛栏江镇花箐完全小学,103.146913,25.197936,,,,,,,,,,,3,62632

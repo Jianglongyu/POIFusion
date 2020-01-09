@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同兴民族茶文化公园,102.80606999999999,25.053214999999998,,,,,,,,,,,1,1919
+同兴民族茶文化公园,102.80606999999999,25.053414999999998,,,,,,,,,,,1,49118

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省水上运动项目训练基地综合训练馆,102.88888,24.87726,,,,,,,,,,,3,16676
+云南省水上运动项目训练基地综合训练馆,102.88888,24.87706,,,,,,,,,,,3,36536

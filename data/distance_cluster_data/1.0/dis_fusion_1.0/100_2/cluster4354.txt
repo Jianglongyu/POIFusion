@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+半岛咖啡屋,102.696446,24.995952,,,,,,,,,,,1,4483
+半岛咖啡屋,102.696446,24.996152,,,,,,,,,,,1,68704

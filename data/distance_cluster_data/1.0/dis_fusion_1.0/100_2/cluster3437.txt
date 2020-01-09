@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国云南电视台,102.657678,25.054779999999997,,,,,,,,,,,1,699
+中国云南电视台,102.657678,25.054979999999997,,,,,,,,,,,1,64920

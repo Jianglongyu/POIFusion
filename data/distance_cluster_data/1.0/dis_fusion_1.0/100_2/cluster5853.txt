@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+成通清真园,102.82804,24.86685,,,,,,,,,,,3,13746
+成通清真园,102.82804,24.86665,,,,,,,,,,,3,43535

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+者北加油站,102.461764,25.3341,,,,,,,,,,,3,4735
+者北加油站,102.461764,25.3339,,,,,,,,,,,3,17502
+富民县公安局交警大队者北中队,102.462626,25.334408,,,,,,,,,,,3,41971

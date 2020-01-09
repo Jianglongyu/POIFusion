@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+德华生物研究所,102.97091999999999,24.955527,,,,,,,,,,,3,30645
+德华生物研究所,102.97091999999999,24.955327,,,,,,,,,,,3,60434

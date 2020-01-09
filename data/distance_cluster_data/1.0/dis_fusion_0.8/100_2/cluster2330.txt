@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昭宗大村公交站,102.642875,25.053584,,,,,,,,,,,1,820
+昆明平板玻璃厂幼儿园,102.643102,25.053213,,,,,,,,,,,3,50739
+昭宗大村公交站,102.642875,25.053784,,,,,,,,,,,1,55112

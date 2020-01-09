@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市西山区团结卫生院,102.535957,25.07283,,,,,,,,,,,3,25726
+团结社区卫生服务中心,102.535957,25.07283,,,,,,,,,,,3,26092
+修正堂连锁大药堂团结连锁店,102.535744,25.073229,,,,,,,,,,,3,28456

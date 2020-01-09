@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南门社区卫生所,103.26371400000001,24.75392,,,,,,,,,,,3,27052
+鹿阜镇紫玉小学,103.263563,24.753719,,,,,,,,,,,3,33884

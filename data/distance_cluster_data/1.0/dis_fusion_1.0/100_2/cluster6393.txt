@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+尹武完小,103.438146,25.826549,,,,,,,,,,,3,31705
+尹武完小,103.438146,25.826349,,,,,,,,,,,3,61494

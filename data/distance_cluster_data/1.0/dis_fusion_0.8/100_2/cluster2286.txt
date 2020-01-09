@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池源居别墅,102.6994279,24.99791164,,,,,,,,,,,2,81
+第二天堂,102.698511,24.998171,,,,,,,,,,,1,4181
+滇池源居别墅,102.6994279,24.99811164,,,,,,,,,,,2,54373

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+麦地塘幼儿园,102.832729,25.115251999999998,,,,,,,,,,,3,31887
+麦地塘幼儿园,102.832729,25.115052,,,,,,,,,,,3,61676

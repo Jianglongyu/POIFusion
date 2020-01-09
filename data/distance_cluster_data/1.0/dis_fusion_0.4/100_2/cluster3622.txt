@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宣威农家乐,102.80663,25.09875,,,,,,,,,,,3,21470
+竹里农家园,102.80678,25.09866,,,,,,,,,,,3,23612

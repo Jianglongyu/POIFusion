@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国中铁二院,102.72582320000001,25.01456538,,,,,,,,,,,1,698
+金粮花苑,102.726046,25.014511,,,,,,,,,,,1,3455

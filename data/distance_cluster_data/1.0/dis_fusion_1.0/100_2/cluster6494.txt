@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市西山区西华园小学,102.682948,25.028007,,,,,,,,,,,3,31969
+昆明市西山区西华园小学,102.682948,25.027807,,,,,,,,,,,3,61758

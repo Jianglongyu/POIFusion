@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+望江楼餐厅,102.779271,25.145185,,,,,,,,,,,1,1861
+松花坝招待所,102.78012199999999,25.145219,,,,,,,,,,,1,2036

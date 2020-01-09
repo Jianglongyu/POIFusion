@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省食品药品监督管理局,102.661555,25.071111,,,,,,,,,,,3,29213
+昆明医学院海源学院北门,102.662278,25.071143,,,,,,,,,,,3,30292
+昆明医学院海源学院北门,102.662278,25.070943,,,,,,,,,,,3,60081

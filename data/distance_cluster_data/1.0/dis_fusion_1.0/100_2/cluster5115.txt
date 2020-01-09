@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+罗荣庄卫生所,103.123478,25.22883,,,,,,,,,,,3,25432
+罗荣庄卫生所,103.123478,25.22863,,,,,,,,,,,3,55221

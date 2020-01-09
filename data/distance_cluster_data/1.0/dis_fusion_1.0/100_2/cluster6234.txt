@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+上游小学,103.103204,25.417517,,,,,,,,,,,3,31211
+上游小学,103.103204,25.417317,,,,,,,,,,,3,61000

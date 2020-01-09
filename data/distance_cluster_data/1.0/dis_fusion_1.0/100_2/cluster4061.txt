@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金河游园,102.74939,25.10333,,,,,,,,,,,3,19513
+金河游园,102.74939,25.10313,,,,,,,,,,,3,49302

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+星巴克昆明长水机场店,102.93444699999999,25.101572,,,,,,,,,,,1,1516
+百事特悦航酒店,102.934455,25.101943,,,,,,,,,,,1,4490

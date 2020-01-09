@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中豪·螺蛳湾国际商贸城二期51号门,102.776937,24.938763,,,,,,,,,,,3,27810
+中豪·螺蛳湾国际商贸城二期51号门,102.776937,24.938563000000002,,,,,,,,,,,3,57599

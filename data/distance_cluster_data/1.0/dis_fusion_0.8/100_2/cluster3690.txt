@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+来思尔乳业(Z032),102.789224,25.015297,,,,,,,,,,,1,2755
+来思尔乳业(Z032),102.789224,25.015497,,,,,,,,,,,1,57047

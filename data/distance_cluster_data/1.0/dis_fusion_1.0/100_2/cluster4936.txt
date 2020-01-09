@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+斗南镇小古城卫生所,102.78364499999999,24.916339999999998,,,,,,,,,,,3,23859
+斗南镇小古城卫生所,102.78364499999999,24.91614,,,,,,,,,,,3,53648

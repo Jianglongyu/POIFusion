@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+刘振富诊所,102.746155,24.987506,,,,,,,,,,,3,24348
+刘振富诊所,102.746155,24.987306,,,,,,,,,,,3,54137

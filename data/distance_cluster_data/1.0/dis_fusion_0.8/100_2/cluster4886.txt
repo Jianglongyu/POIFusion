@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丝丝味道金马店,102.76965,25.01935,,,,,,,,,,,3,8084
+丝丝味道金马店,102.76965,25.01915,,,,,,,,,,,3,27944

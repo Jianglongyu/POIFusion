@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县蓬莱小学,103.157446,24.940977999999998,,,,,,,,,,,3,32157
+宜良县蓬莱小学,103.157446,24.940777999999998,,,,,,,,,,,3,61946

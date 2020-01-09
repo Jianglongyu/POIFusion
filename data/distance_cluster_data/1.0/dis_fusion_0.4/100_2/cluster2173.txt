@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大理白族风味第二分店,102.679671,25.045998,,,,,,,,,,,1,4266
+昆明市妇幼保健院分院,102.679098,25.046067999999998,,,,,,,,,,,3,30625
+菱角塘社区卫生服务站,102.679098,25.046067999999998,,,,,,,,,,,3,32215

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂鸣矣河连锁店,102.428235,24.784031,,,,,,,,,,,3,35971
+县街卫生院鸣矣河分院,102.427525,24.784523,,,,,,,,,,,3,36641

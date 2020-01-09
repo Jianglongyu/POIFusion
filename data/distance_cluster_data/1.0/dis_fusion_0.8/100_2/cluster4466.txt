@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+川味农夫鱼,102.57739000000001,24.96014,,,,,,,,,,,3,13534
+川味农夫鱼,102.57739000000001,24.95994,,,,,,,,,,,3,33394

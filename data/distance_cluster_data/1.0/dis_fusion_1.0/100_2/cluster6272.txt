@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明春城双语幼儿园,102.645438,25.101052,,,,,,,,,,,3,31344
+昆明春城双语幼儿园,102.645438,25.100852,,,,,,,,,,,3,61133

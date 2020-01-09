@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南林业职业技术学院教场校区,102.693176,25.068184,,,,,,,,,,,3,38237
+昆明市林业技工学校,102.693176,25.068184,,,,,,,,,,,3,39845
+昆明市劳动力转移培训基地,102.693176,25.068184,,,,,,,,,,,3,40231

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市疾病预防控制中心,102.66705,24.978226,,,,,,,,,,,3,25517
+昆明市疾病预防控制中心,102.66705,24.978026,,,,,,,,,,,3,55306

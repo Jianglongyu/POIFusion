@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海口圆正社区卫生站,102.58652099999999,24.78567,,,,,,,,,,,3,23878
+海口圆正社区卫生站,102.58652099999999,24.78547,,,,,,,,,,,3,43738
+兴隆宾馆,102.58697,24.78603,,,,,,,,,,,3,46594

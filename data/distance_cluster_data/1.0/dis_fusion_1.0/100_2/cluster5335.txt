@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乃古石林风景区,103.349379,24.904107999999997,,,,,,,,,,,3,27880
+乃古石林风景区,103.349379,24.903907999999998,,,,,,,,,,,3,57669

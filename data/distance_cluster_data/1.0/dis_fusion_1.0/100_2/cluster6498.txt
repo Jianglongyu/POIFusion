@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南工商管理学院教学幼儿园,102.914265,24.665457,,,,,,,,,,,3,31984
+云南工商管理学院教学幼儿园,102.914265,24.665257,,,,,,,,,,,3,61773

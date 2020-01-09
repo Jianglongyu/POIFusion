@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+市级机关大树营生活小区北区,102.74626500000001,25.046822,,,,,,,,,,,1,2101
+大树营公交站,102.74685699999999,25.046194,,,,,,,,,,,1,4236
+市级机关大树营生活小区北区,102.74626500000001,25.047022,,,,,,,,,,,1,56393

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东骏大药房阿子营连锁店,102.77887700000001,25.337689,,,,,,,,,,,3,35177
+彩云诊所,102.779061,25.338110999999998,,,,,,,,,,,3,38073
+精艺药店,102.779001,25.338376999999998,,,,,,,,,,,3,38141

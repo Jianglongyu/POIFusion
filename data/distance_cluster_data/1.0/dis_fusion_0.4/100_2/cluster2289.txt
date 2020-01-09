@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+姚永华诊所,103.13887700000001,24.921836,,,,,,,,,,,3,30848
+宜良县财政局,103.139178,24.921153,,,,,,,,,,,3,36617
+宜良县国税局匡远税务分局,103.13924499999999,24.921362,,,,,,,,,,,3,36787

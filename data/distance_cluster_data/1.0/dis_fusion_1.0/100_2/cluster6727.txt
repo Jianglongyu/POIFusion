@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+草铺幼儿园,102.378866,24.930455,,,,,,,,,,,3,32651
+草铺幼儿园,102.378866,24.930255,,,,,,,,,,,3,62440

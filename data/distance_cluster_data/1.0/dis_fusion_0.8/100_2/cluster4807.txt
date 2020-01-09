@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+好医生连锁药房永定店,102.499072,25.219026,,,,,,,,,,,3,24149
+好医生连锁药房永定店,102.499072,25.218826,,,,,,,,,,,3,44009

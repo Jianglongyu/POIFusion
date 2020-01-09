@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县长湖派出所,103.401834,24.709736,,,,,,,,,,,3,29998
+石林县长湖派出所,103.401834,24.709536,,,,,,,,,,,3,59787

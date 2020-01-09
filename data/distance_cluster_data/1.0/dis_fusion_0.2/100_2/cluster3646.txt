@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丰源谷,102.76699,25.14321,,,,,,,,,,,3,23936
+俊荣山庄,102.76725,25.14291,,,,,,,,,,,3,24020

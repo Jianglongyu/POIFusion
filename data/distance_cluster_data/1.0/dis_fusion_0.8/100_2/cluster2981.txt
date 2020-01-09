@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红春酒楼,102.83794,24.92472,,,,,,,,,,,3,8677
+红春酒楼,102.83794,24.92452,,,,,,,,,,,3,28537

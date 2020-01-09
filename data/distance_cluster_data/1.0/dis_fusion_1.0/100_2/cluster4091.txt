@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石记农庄,102.62729,24.952289999999998,,,,,,,,,,,3,19640
+石记农庄,102.62729,24.95209,,,,,,,,,,,3,49429

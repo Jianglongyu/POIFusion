@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明武当山少林寺硬气功功夫院,102.612031,25.060566,,,,,,,,,,,3,31070
+昆明武当山少林寺硬气功功夫院,102.612031,25.060366000000002,,,,,,,,,,,3,60859

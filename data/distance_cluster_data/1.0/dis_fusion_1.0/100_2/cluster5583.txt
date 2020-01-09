@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县知识产权局,102.589045,24.651937,,,,,,,,,,,3,28907
+晋宁县知识产权局,102.589045,24.651737,,,,,,,,,,,3,58696

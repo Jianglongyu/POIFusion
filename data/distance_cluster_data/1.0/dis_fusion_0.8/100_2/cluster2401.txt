@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+清水木华(2号门),102.777433,25.10526,,,,,,,,,,,1,2295
+海贝中英文幼儿园,102.777778,25.104870000000002,,,,,,,,,,,3,50356
+清水木华(2号门),102.777433,25.10546,,,,,,,,,,,1,56587

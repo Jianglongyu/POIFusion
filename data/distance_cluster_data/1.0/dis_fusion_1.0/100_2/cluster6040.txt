@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北城镇刺桐关小学,102.56044399999999,24.504526000000002,,,,,,,,,,,3,30668
+北城镇刺桐关小学,102.56044399999999,24.504326000000002,,,,,,,,,,,3,60457

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市启航中英文学校,102.80986899999999,24.926499,,,,,,,,,,,3,50981
+呈贡县农村信用合作联社朝阳分社,102.81016,24.926479999999998,,,,,,,,,,,3,53975

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市公安局官渡分局日新派出所,102.73654300000001,24.994543,,,,,,,,,,,3,29457
+昆明市公安局官渡分局日新派出所,102.73654300000001,24.994343,,,,,,,,,,,3,59246

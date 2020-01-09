@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+九龙农机加油站,102.791528,25.739901,,,,,,,,,,,3,5089
+九龙农机加油站,102.791528,25.739701,,,,,,,,,,,3,24949

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+国际标榜NO．9,102.71831999999999,25.08097,,,,,,,,,,,3,23249
+中国滇菜,102.718288,25.08062,,,,,,,,,,,3,35968

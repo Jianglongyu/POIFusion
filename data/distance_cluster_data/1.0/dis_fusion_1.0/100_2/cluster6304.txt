@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝幼儿园,102.47182099999999,25.554151,,,,,,,,,,,3,31443
+禄劝幼儿园,102.47182099999999,25.553951,,,,,,,,,,,3,61232

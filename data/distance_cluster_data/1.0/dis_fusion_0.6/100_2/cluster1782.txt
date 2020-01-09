@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+诗美诗格美容美体养生馆,102.68904,24.9651,,,,,,,,,,,3,34607
+梵蒂诗美容SPA私人会所,102.68956,24.96503,,,,,,,,,,,3,34740
+尚品名丝连锁,102.6888,24.96515,,,,,,,,,,,3,35161
+云南省农村信用社ATM,102.68947,24.96506,,,,,,,,,,,3,46811

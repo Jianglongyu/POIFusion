@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+青龙园,102.833,25.19519,,,,,,,,,,,3,7115
+青龙园,102.833,25.19499,,,,,,,,,,,3,10425
+松华乡小河中心学校,102.833844,25.195180999999998,,,,,,,,,,,3,33902

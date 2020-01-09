@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+团结完小,102.86416700000001,25.274949,,,,,,,,,,,3,31772
+团结完小,102.86416700000001,25.274749,,,,,,,,,,,3,61561

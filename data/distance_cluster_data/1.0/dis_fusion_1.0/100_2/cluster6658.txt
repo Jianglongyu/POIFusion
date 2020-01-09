@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+思想政治理论课教学教研部,102.821653,24.835375,,,,,,,,,,,3,32542
+思想政治理论课教学教研部,102.821653,24.835175,,,,,,,,,,,3,62331

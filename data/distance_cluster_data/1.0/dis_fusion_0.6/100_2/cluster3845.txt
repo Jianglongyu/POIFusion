@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+储运公司梁王加油站,102.813686,24.781679999999998,,,,,,,,,,,3,4943
+储运公司梁王加油站,102.813686,24.78148,,,,,,,,,,,3,17710

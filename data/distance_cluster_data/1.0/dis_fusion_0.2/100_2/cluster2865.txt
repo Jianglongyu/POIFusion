@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆铁工程修配小区,102.791247,25.009733999999998,,,,,,,,,,,1,2772
+昆明润都大酒店,102.791152,25.009426,,,,,,,,,,,1,3082

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牛栏江镇荒田卫生所,103.276344,25.311874,,,,,,,,,,,3,25152
+牛栏江镇荒田卫生所,103.276344,25.311674,,,,,,,,,,,3,54941

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山森林公园,102.633375,24.958026,,,,,,,,,,,3,28361
+西山森林公园,102.633375,24.957826,,,,,,,,,,,3,58150

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+加油站,103.578024,25.441823,,,,,,,,,,,3,5106
+加油站,103.578024,25.441623,,,,,,,,,,,3,24966
+马龙县公安局交警大队,103.578176,25.442328,,,,,,,,,,,3,49606
+平安机动车驾校,103.578203,25.442432,,,,,,,,,,,3,50725

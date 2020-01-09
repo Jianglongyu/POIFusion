@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县晋城幼儿园,102.747692,24.699073000000002,,,,,,,,,,,3,31585
+晋宁县晋城幼儿园,102.747692,24.698873000000003,,,,,,,,,,,3,61374

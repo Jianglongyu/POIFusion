@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池卫城社区卫生服务站,102.68857690000002,24.97550998,,,,,,,,,,,1,4158
+中国民生银行ATM,102.68784000000001,24.97578,,,,,,,,,,,3,41518

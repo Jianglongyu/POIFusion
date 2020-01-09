@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+老寨加油站,103.547691,24.645769,,,,,,,,,,,3,5048
+老寨加油站,103.547691,24.645569000000002,,,,,,,,,,,3,17815

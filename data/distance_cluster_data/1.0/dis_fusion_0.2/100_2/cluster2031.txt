@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+博医堂振邦博采日用品店,102.689015,25.041981,,,,,,,,,,,3,27834
+昆明市西山区丰伟医疗器械经营部,102.68899,25.042302,,,,,,,,,,,3,28243
+现代口腔医学临床专家门诊,102.689008,25.042031,,,,,,,,,,,3,28385

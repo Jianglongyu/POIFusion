@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县草甸派出所,103.051637,24.866173999999997,,,,,,,,,,,3,37164
+草甸中学,103.052538,24.866486,,,,,,,,,,,3,39815

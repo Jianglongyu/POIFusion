@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小板桥社区服务中心,102.78474,24.983167,,,,,,,,,,,1,1635
+小板桥社区服务中心,102.78474,24.983367,,,,,,,,,,,1,65856

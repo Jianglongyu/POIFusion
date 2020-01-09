@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东骏大药房海口连锁店,102.606507,24.794656,,,,,,,,,,,2,535
+东骏大药房海口连锁店,102.606507,24.794856,,,,,,,,,,,2,64756

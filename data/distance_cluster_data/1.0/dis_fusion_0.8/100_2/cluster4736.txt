@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+幸福诊所,103.263561,25.551916,,,,,,,,,,,3,23776
+幸福诊所,103.263561,25.551716,,,,,,,,,,,3,43636

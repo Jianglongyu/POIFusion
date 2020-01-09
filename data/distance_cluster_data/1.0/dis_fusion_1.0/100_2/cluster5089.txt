@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸鼎兴大药房,102.87620600000001,25.479114000000003,,,,,,,,,,,3,25254
+寻甸鼎兴大药房,102.87620600000001,25.478914000000003,,,,,,,,,,,3,55043

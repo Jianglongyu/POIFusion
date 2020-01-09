@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中凰酒店－餐厅,102.77834,24.99775,,,,,,,,,,,3,13470
+交通银行ATM,102.77829,24.99742,,,,,,,,,,,3,36322

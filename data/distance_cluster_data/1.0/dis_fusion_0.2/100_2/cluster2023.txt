@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县幼儿园,103.263673,25.561329999999998,,,,,,,,,,,3,35958
+寻甸回族彝族自治县公安局仁德派出所,103.263109,25.560456,,,,,,,,,,,3,32757
+雏鹰艺术培训中心,103.263927,25.560504,,,,,,,,,,,3,36138

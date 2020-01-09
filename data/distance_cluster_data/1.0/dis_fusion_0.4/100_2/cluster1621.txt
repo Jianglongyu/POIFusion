@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+超级玩家,102.66019,25.07444,,,,,,,,,,,3,25375
+名雅足疗按摩,102.65953,25.07473,,,,,,,,,,,3,27396
+吉安诊所,102.659915,25.074563,,,,,,,,,,,3,30987
+中国民生银行ATM,102.65965,25.07467,,,,,,,,,,,3,41731

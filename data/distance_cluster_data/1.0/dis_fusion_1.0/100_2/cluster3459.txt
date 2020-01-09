@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禅心养生,102.71932,25.07244,,,,,,,,,,,3,17167
+禅心养生,102.71932,25.07224,,,,,,,,,,,3,46956

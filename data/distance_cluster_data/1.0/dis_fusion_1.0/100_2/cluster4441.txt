@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+佳得利加油站,102.878199,24.964885,,,,,,,,,,,3,4726
+佳得利加油站,102.878199,24.964685,,,,,,,,,,,3,34515

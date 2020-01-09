@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+顶尚美烫染沙龙,102.76004,24.99767,,,,,,,,,,,3,19708
+卸颜,102.75968,24.99834,,,,,,,,,,,3,20771
+同兴药店,102.760181,24.997954,,,,,,,,,,,3,28745
+永庆庵,102.759731,24.998239,,,,,,,,,,,3,31646

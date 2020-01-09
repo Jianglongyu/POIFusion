@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国品味．主题酒楼,102.70414,24.9879,,,,,,,,,,,3,10756
+中国品味．主题酒楼,102.70414,24.9877,,,,,,,,,,,3,30616
+鑫跃商务酒店,102.70447,24.98767,,,,,,,,,,,3,46900

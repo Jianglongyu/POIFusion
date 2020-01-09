@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+基督教大尖山教堂,102.506771,25.699652999999998,,,,,,,,,,,3,28297
+基督教大尖山教堂,102.506771,25.699453,,,,,,,,,,,3,58086

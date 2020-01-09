@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黑森林酒吧,102.72063,25.077672,,,,,,,,,,,1,3747
+金晨幼儿园,102.719757,25.078013000000002,,,,,,,,,,,3,52543

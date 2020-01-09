@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂月山中路连锁店,102.59135500000001,24.660284,,,,,,,,,,,3,25096
+一心堂月山中路连锁店,102.59135500000001,24.660084,,,,,,,,,,,3,54885

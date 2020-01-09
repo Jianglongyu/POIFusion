@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市呈贡区政协,102.821573,24.887317000000003,,,,,,,,,,,3,48665
+昆明呈贡新区工作委员会,102.821573,24.887317000000003,,,,,,,,,,,3,49123
+呈贡区委组织部,102.821573,24.887317000000003,,,,,,,,,,,3,49690

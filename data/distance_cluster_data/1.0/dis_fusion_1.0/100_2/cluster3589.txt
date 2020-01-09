@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金氏纯植物自然美容,102.72301999999999,25.0304,,,,,,,,,,,3,17607
+韩美口腔,102.72300200000001,25.030562,,,,,,,,,,,1,68025

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国医学科学院医学生物学研究所,102.612525,25.055973,,,,,,,,,,,3,30925
+中国医学科学院医学生物学研究所,102.612525,25.055773000000002,,,,,,,,,,,3,60714

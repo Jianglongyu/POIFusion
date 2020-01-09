@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市呈贡区人民法院,102.81408,24.890538,,,,,,,,,,,3,29647
+昆明市呈贡区人民法院,102.81408,24.890338,,,,,,,,,,,3,59436

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+健之佳健康大药房,103.18628000000001,26.076163,,,,,,,,,,,3,23293
+健之佳健康大药房,103.18628000000001,26.075963,,,,,,,,,,,3,43153
+东川区体育职业中学,103.185692,26.076743,,,,,,,,,,,3,52701

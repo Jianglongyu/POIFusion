@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华区江东小康城社区卫生服务站,102.74060899999999,25.102191,,,,,,,,,,,1,1783
+聚茗阁茶艺馆,102.740268,25.102465,,,,,,,,,,,1,3338
+五华区江东小康城社区卫生服务站,102.74060899999999,25.102391,,,,,,,,,,,1,48982

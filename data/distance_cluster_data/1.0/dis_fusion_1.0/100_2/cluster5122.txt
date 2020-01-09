@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+唐春济民药店,102.530664,26.003832999999997,,,,,,,,,,,3,25466
+唐春济民药店,102.530664,26.003632999999997,,,,,,,,,,,3,55255

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国昆明斗南花卉市场,102.78925699999999,24.903005,,,,,,,,,,,1,740
+中国昆明斗南花卉市场,102.78925699999999,24.903205,,,,,,,,,,,1,42619

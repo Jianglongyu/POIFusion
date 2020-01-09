@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市温泉卫生院,102.45264,24.95594,,,,,,,,,,,3,26146
+安宁市温泉卫生院,102.45264,24.95574,,,,,,,,,,,3,55935

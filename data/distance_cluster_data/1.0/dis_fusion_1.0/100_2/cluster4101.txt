@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康盛电器城,102.770574,24.947179000000002,,,,,,,,,,,1,3307
+康盛电器城,102.770574,24.947379,,,,,,,,,,,1,67528

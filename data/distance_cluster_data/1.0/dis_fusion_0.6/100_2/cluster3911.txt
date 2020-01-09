@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+护林加油站,103.243462,25.545469,,,,,,,,,,,3,5021
+护林加油站,103.243462,25.545269,,,,,,,,,,,3,17788

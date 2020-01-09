@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+化所小学,103.159911,24.754907999999997,,,,,,,,,,,3,32111
+化所小学,103.159911,24.754707999999997,,,,,,,,,,,3,61900

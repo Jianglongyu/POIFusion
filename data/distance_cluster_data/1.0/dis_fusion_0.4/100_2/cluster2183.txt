@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市双龙街道办,102.85037700000001,25.110711,,,,,,,,,,,3,37260
+双龙中心卫生院,102.848892,25.110051000000002,,,,,,,,,,,3,31207
+盘龙区滇池管理综合行政执法中队,102.84977099999999,25.11022,,,,,,,,,,,3,37259

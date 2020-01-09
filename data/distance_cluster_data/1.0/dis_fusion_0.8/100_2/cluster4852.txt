@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县右所镇为民服务中心,102.916104,24.643898,,,,,,,,,,,3,48906
+澄江右所汽车客运站,102.91601,24.643298,,,,,,,,,,,3,52805

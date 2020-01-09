@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县古城中学,102.595354,24.744451,,,,,,,,,,,2,530
+晋宁县古城中学,102.595354,24.744651,,,,,,,,,,,2,47729

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西南林业大学第三食堂,102.75267,25.05653,,,,,,,,,,,3,5876
+西南林业大学第三食堂,102.75267,25.05633,,,,,,,,,,,3,25736

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+景观阁饭店,102.66174000000001,24.86182,,,,,,,,,,,3,22040
+景观阁饭店,102.66174000000001,24.861620000000002,,,,,,,,,,,3,51829

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林巴江中学,103.288054,24.767044,,,,,,,,,,,3,32587
+石林巴江中学,103.288054,24.766844,,,,,,,,,,,3,62376

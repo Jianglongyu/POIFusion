@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩阳镇龙院完全小学,103.10361400000001,25.407882,,,,,,,,,,,3,30803
+嵩阳镇龙院完全小学,103.10361400000001,25.407682,,,,,,,,,,,3,60592

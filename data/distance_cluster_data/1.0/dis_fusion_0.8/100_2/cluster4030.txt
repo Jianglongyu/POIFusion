@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小小饮吧,102.73095,25.08617,,,,,,,,,,,3,12767
+昆明市盘龙区兴云药店,102.73111999999999,25.086485999999997,,,,,,,,,,,3,44960

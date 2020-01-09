@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盼盼幼儿园,102.517131,25.204217999999997,,,,,,,,,,,3,32548
+盼盼幼儿园,102.517131,25.204017999999998,,,,,,,,,,,3,62337

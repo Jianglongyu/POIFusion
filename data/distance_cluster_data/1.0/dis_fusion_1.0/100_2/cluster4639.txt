@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双通加油站,103.242936,24.885996,,,,,,,,,,,3,4987
+双通加油站,103.242936,24.885796,,,,,,,,,,,3,34776

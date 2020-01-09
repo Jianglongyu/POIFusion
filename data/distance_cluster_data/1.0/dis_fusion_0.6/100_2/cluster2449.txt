@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鲜香园,102.80255,24.879279999999998,,,,,,,,,,,3,14314
+鲜香园,102.80255,24.87908,,,,,,,,,,,3,27081
+年安保险超市呈贡辉煌服务部,102.80249,24.87953,,,,,,,,,,,3,46706

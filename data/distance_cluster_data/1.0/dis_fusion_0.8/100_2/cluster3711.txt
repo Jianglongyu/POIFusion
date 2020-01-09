@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天然居休闲会所,102.82038,24.8781,,,,,,,,,,,3,19196
+天然居休闲会所,102.82038,24.8779,,,,,,,,,,,3,39056

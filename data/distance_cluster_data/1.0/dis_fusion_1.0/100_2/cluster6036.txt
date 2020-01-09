@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省武定民族中学,102.399028,25.52159,,,,,,,,,,,3,30655
+云南省武定民族中学,102.399028,25.52139,,,,,,,,,,,3,60444

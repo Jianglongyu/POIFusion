@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乌龙卫生所,102.790267,24.856337,,,,,,,,,,,3,36998
+农村信用社乌龙分社,102.79047,24.85647,,,,,,,,,,,3,47131

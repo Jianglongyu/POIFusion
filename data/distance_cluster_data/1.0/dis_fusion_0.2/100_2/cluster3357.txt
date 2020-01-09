@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新慧宾馆,102.70203000000001,24.954710000000002,,,,,,,,,,,3,29558
+海祺幼儿园,102.70137199999999,24.954569,,,,,,,,,,,3,35609

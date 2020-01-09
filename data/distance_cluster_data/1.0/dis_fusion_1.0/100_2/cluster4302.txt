@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大音观,102.714469,25.075827,,,,,,,,,,,1,4228
+大音观,102.714469,25.076027,,,,,,,,,,,1,68449

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸君康大药房,103.26117099999999,25.560722,,,,,,,,,,,3,30432
+一心堂寻甸凤梧路连锁店,103.26050699999999,25.560064999999998,,,,,,,,,,,3,32770

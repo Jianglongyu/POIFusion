@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+圭山镇计划生育服务站,103.557735,24.641773999999998,,,,,,,,,,,3,23838
+圭山镇计划生育服务站,103.557735,24.641574,,,,,,,,,,,3,53627

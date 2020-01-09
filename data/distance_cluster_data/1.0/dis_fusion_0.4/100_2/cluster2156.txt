@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+高原明珠国际五金机电商城,102.753747,24.988229,,,,,,,,,,,1,3964
+昆明心桥妇产医院,102.754014,24.988943,,,,,,,,,,,3,33514
+国雅办公楼,102.75401,24.98894,,,,,,,,,,,3,36005

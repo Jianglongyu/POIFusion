@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宏达利民个体诊所,102.52735899999999,25.99566,,,,,,,,,,,3,23141
+宏达利民个体诊所,102.52735899999999,25.99546,,,,,,,,,,,3,52930

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市教工第一幼儿园子君分园,102.78072,24.953246,,,,,,,,,,,3,32552
+昆明市教工第一幼儿园子君分园,102.78072,24.953046,,,,,,,,,,,3,62341

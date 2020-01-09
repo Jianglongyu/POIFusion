@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+俊发风华商业街,102.851692,24.894197,,,,,,,,,,,2,220
+俊发风华商业街,102.851692,24.894396999999998,,,,,,,,,,,2,47419

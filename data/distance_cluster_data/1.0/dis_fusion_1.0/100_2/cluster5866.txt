@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴实达机动车驾驶员培训站,102.497321,25.236311999999998,,,,,,,,,,,3,30188
+兴实达机动车驾驶员培训站,102.497321,25.236112,,,,,,,,,,,3,59977

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+关锁中心学校矣六乡中心学校,102.75850200000001,24.921462,,,,,,,,,,,3,32522
+关锁中心学校矣六乡中心学校,102.75850200000001,24.921262,,,,,,,,,,,3,62311

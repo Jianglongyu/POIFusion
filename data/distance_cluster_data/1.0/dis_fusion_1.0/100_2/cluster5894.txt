@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+唐丹阳光希望小学,102.554929,25.373571,,,,,,,,,,,3,30282
+唐丹阳光希望小学,102.554929,25.373371,,,,,,,,,,,3,60071

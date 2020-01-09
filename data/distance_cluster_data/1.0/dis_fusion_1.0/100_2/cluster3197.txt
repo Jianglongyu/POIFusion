@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+锦悦四季花园小区,115.53291189999999,38.89751051,,,,,,,,,,,2,212
+锦悦四季花园小区,115.53291189999999,38.897710509999996,,,,,,,,,,,2,64433

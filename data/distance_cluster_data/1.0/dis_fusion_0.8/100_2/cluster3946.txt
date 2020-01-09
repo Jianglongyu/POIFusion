@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+高新火炬大厦,102.663589,25.080414,,,,,,,,,,,1,3974
+高新管委会,102.66342900000001,25.080956,,,,,,,,,,,1,3975

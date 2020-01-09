@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+迷你乡村菜,102.67517,24.96216,,,,,,,,,,,3,9723
+迷你乡村菜,102.67517,24.96196,,,,,,,,,,,3,17170
+海埂迷你高尔夫,102.67517,24.96196,,,,,,,,,,,3,23259

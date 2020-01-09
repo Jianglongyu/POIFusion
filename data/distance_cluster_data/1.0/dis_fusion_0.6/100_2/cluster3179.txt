@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小板桥公交站,102.779115,24.983979,,,,,,,,,,,1,1636
+小板桥公交站,102.779115,24.984179,,,,,,,,,,,1,48835

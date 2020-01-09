@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+谷律中学,102.449936,25.134719,,,,,,,,,,,1,3933
+谷律中学,102.449936,25.134919,,,,,,,,,,,1,68154

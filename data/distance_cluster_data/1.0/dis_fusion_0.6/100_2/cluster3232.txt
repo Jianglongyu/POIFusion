@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+味源蜀香坊 世纪城店,102.75263199999999,24.973094,,,,,,,,,,,1,1840
+味源蜀香坊 世纪城店,102.75263199999999,24.973294,,,,,,,,,,,1,49039

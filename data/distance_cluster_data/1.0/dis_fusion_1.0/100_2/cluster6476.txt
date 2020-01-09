@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+册峨小学,102.596997,24.856894,,,,,,,,,,,3,31902
+册峨小学,102.596997,24.856694,,,,,,,,,,,3,61691

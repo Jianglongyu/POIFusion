@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙源寺,102.884107,25.271247,,,,,,,,,,,3,28228
+龙源寺,102.884107,25.271047,,,,,,,,,,,3,58017

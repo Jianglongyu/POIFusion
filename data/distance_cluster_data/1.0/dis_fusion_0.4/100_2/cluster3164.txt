@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红桥园前旺路分店,102.70481,24.99346,,,,,,,,,,,3,11792
+红桥园前旺路分店,102.70481,24.99326,,,,,,,,,,,3,19239

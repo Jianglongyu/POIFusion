@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴冶国际,102.8220978,24.89557076,,,,,,,,,,,2,423
+兴冶国际,102.8220978,24.895770759999998,,,,,,,,,,,2,64644

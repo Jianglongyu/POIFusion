@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+潘冲全诊所,103.287511,24.757945,,,,,,,,,,,3,38409
+一心堂石林连锁NO．3,103.288251,24.757134,,,,,,,,,,,3,35579
+昆明医学院附二院石林天奇医院,103.288238,24.757545999999998,,,,,,,,,,,3,35743

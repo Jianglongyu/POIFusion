@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+健之佳NO．089,103.261299,25.562304,,,,,,,,,,,3,31841
+王波中医理疗康复诊所,103.26036500000001,25.561523,,,,,,,,,,,3,31835
+基督教堂,103.260977,25.56204,,,,,,,,,,,3,35718

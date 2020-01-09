@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福音教堂,102.47763,26.046429999999997,,,,,,,,,,,3,28090
+福音教堂,102.47763,26.046229999999998,,,,,,,,,,,3,57879

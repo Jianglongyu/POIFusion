@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+生态石锅鱼庄,102.82682,24.86676,,,,,,,,,,,3,15585
+生态石锅鱼庄,102.82682,24.86656,,,,,,,,,,,3,45374

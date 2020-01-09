@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明铁路机械学校,102.824978,24.993159,,,,,,,,,,,3,31403
+昆明铁路机械学校,102.824978,24.992959,,,,,,,,,,,3,61192
+昆明铁路局党校,102.825514,24.993884,,,,,,,,,,,3,61492

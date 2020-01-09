@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县经济局,103.2904,24.771949,,,,,,,,,,,3,28771
+石林行政办公中心,103.2904,24.771949,,,,,,,,,,,3,29344
+石林县经济局,103.2904,24.771749,,,,,,,,,,,3,58560
+石林行政办公中心,103.2904,24.771749,,,,,,,,,,,3,59133

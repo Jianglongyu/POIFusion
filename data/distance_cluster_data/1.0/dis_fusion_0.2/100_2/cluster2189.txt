@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南烟草科技园接待中心,102.66603,25.05578,,,,,,,,,,,3,30498
+中国工商银行昆明科医路支行,102.66624,25.055770000000003,,,,,,,,,,,3,36383
+中国邮政储蓄银行ATM,102.66676,25.05574,,,,,,,,,,,3,36752

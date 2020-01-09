@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂宜良玉龙街连锁店,103.140813,24.92107,,,,,,,,,,,3,27925
+吴艳江口腔诊所,103.140812,24.921869,,,,,,,,,,,3,29240

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+六街康福源大药房,102.684831,24.532957999999997,,,,,,,,,,,3,25891
+六街康福源大药房,102.684831,24.532757999999998,,,,,,,,,,,3,55680

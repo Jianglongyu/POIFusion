@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东村小学,102.662114,25.165596999999998,,,,,,,,,,,3,30307
+东村小学,102.662114,25.165397,,,,,,,,,,,3,60096

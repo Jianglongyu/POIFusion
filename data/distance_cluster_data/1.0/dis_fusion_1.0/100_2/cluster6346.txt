@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晨梦幼儿园,103.194373,25.655291,,,,,,,,,,,3,31571
+晨梦幼儿园,103.194373,25.655091,,,,,,,,,,,3,61360

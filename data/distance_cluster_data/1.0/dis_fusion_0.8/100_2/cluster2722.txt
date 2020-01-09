@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+益寿堂大药房,103.124523,25.311826999999997,,,,,,,,,,,3,24305
+益寿堂大药房,103.124523,25.311626999999998,,,,,,,,,,,3,44165
+小街便民门诊,103.124746,25.311637,,,,,,,,,,,3,44524

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+喇吧,102.686996,25.072846,,,,,,,,,,,1,2760
+喇吧,102.686996,25.073045999999998,,,,,,,,,,,1,57052

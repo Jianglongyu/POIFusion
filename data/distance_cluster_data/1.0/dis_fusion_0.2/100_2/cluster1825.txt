@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+伊天园,102.75545,25.07155,,,,,,,,,,,3,17068
+世博园售票亭,102.755955,25.071437,,,,,,,,,,,3,31515
+平安银行ATM,102.75562,25.071620000000003,,,,,,,,,,,3,36659

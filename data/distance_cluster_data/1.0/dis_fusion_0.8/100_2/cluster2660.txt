@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂甸沙店,103.109158,25.686619,,,,,,,,,,,3,23812
+同济堂甸沙店,103.109158,25.686419,,,,,,,,,,,3,43672
+欣乐幼儿园,103.109236,25.68627,,,,,,,,,,,3,50496

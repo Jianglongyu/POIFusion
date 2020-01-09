@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县北古城镇纪检委,103.19106,24.97587,,,,,,,,,,,3,29845
+宜良县北古城镇纪检委,103.19106,24.97567,,,,,,,,,,,3,59634

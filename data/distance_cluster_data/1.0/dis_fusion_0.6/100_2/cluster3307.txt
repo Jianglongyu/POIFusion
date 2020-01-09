@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+艺剪烫染吧,102.59329,24.96582,,,,,,,,,,,3,35140
+昆明市西山区康宁药店,102.593239,24.965920999999998,,,,,,,,,,,3,38891

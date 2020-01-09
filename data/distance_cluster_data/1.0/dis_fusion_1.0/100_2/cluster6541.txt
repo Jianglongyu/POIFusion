@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鸣矣河兴街幼儿园,102.429649,24.78341,,,,,,,,,,,3,32161
+鸣矣河兴街幼儿园,102.429649,24.78321,,,,,,,,,,,3,61950

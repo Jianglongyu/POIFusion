@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南宝悦,102.783337,25.046722,,,,,,,,,,,1,1190
+云南宝悦,102.783337,25.046922,,,,,,,,,,,1,65411

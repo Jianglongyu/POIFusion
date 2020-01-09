@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南西仪工业股份有限公司,102.59243599999999,24.812074,,,,,,,,,,,2,538
+云南西仪工业股份有限公司,102.59243599999999,24.812274,,,,,,,,,,,2,47737

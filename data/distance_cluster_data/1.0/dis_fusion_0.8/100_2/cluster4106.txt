@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+欣瑞加油站,102.61142099999999,24.653076000000002,,,,,,,,,,,3,4722
+欣瑞加油站,102.61142099999999,24.652876000000003,,,,,,,,,,,3,24582

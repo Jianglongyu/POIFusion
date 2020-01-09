@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东华街道办事处,102.74332199999999,25.045388,,,,,,,,,,,3,48902
+大地幼儿园,102.743052,25.045358,,,,,,,,,,,3,51771
+昆明外国语学校,102.744099,25.044982,,,,,,,,,,,1,57178

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤凰梳翅,103.326735,24.814326,,,,,,,,,,,3,57682
+象距台,103.326048,24.813993,,,,,,,,,,,3,57914

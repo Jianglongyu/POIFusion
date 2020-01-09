@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+洋蒲幼儿园,102.78886800000001,24.975072,,,,,,,,,,,3,30354
+金竹源,102.78954,24.97515,,,,,,,,,,,3,37302
+洋蒲幼儿园,102.78886800000001,24.974872,,,,,,,,,,,3,60143

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仁爱药店,102.54496,24.452441,,,,,,,,,,,3,23361
+仁爱药店,102.54496,24.452241,,,,,,,,,,,3,43221

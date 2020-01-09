@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+春漫时光,102.879981,24.961003,,,,,,,,,,,2,57
+春漫时光,102.879981,24.961203,,,,,,,,,,,2,64278

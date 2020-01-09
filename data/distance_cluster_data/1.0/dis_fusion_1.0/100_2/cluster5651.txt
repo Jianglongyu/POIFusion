@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县防震减灾局,102.492852,25.212688,,,,,,,,,,,3,29195
+富民县防震减灾局,102.492852,25.212488,,,,,,,,,,,3,58984

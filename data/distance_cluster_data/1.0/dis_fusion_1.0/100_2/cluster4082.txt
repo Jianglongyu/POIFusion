@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明发电厂生活区1区,102.623582,25.002036999999998,,,,,,,,,,,1,3202
+昆明发电厂生活区1区,102.623582,25.002236999999997,,,,,,,,,,,1,67423

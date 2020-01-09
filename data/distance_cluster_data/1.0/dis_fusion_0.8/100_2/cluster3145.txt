@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+河北同乡会所,102.74208,24.95662,,,,,,,,,,,3,17210
+河北同乡会所,102.74208,24.95642,,,,,,,,,,,3,37070

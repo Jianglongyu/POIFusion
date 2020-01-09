@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华丰国际商城,102.748765,24.982264999999998,,,,,,,,,,,1,3659
+华丰国际商城,102.748765,24.982464999999998,,,,,,,,,,,1,67880

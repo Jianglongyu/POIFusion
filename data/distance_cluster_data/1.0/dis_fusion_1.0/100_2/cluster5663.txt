@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县凤麓国土所办证厅,102.918576,24.670663,,,,,,,,,,,3,29275
+澄江县凤麓国土所办证厅,102.918576,24.670463,,,,,,,,,,,3,59064

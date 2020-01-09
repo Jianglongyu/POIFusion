@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蝴蝶山庄,102.778224,25.103535,,,,,,,,,,,1,3684
+蝴蝶山庄,102.778224,25.103735,,,,,,,,,,,1,67905

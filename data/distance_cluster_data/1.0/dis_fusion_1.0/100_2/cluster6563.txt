@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+芋头塘小学,103.268451,25.899701,,,,,,,,,,,3,32249
+芋头塘小学,103.268451,25.899501,,,,,,,,,,,3,62038

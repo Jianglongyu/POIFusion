@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鼎膳轩,102.67008,25.10481,,,,,,,,,,,3,11746
+鼎膳轩,102.67008,25.10461,,,,,,,,,,,3,19193
+家园网吧,102.67018,25.104689999999998,,,,,,,,,,,3,26961

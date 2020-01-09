@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+沾化酒店,102.75094200000001,25.045673999999998,,,,,,,,,,,1,844
+沾化酒店,102.75094200000001,25.045873999999998,,,,,,,,,,,1,65065

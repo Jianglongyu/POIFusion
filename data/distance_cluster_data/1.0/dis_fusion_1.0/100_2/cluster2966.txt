@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白塔路口(人民东路)公交站,102.73155899999999,25.049363,,,,,,,,,,,1,4510
+古得·郭楠美发室,102.7316,25.04864,,,,,,,,,,,3,21867
+白塔路口(人民东路)公交站,102.73155899999999,25.049563,,,,,,,,,,,1,68731

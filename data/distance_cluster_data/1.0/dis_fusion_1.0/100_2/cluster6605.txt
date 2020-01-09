@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白汉场中心幼儿园,102.964761,25.166458,,,,,,,,,,,3,32336
+白汉场中心幼儿园,102.964761,25.166258,,,,,,,,,,,3,62125

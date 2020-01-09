@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+服务区－两面寺加油站,102.801973,25.037257,,,,,,,,,,,3,4953
+服务区－两面寺加油站,102.801973,25.037057,,,,,,,,,,,3,17720

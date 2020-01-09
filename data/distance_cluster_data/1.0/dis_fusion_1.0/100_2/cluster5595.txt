@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市工商局,102.464735,24.917098,,,,,,,,,,,3,28956
+安宁市工商局,102.464735,24.916898,,,,,,,,,,,3,58745

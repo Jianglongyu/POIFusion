@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧鸡饭店,102.67128000000001,25.03474,,,,,,,,,,,3,27614
+碧鸡饭店,102.67128000000001,25.03454,,,,,,,,,,,3,57403

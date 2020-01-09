@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白家村清真寺,103.252838,25.487857,,,,,,,,,,,3,27997
+白家村清真寺,103.252838,25.487657000000002,,,,,,,,,,,3,57786

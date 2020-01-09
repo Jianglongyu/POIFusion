@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+享瘦减肥,102.64688000000001,25.08621,,,,,,,,,,,3,19131
+昆明市公安局五华分局海源派出所,102.64647,25.086497,,,,,,,,,,,3,29815
+昆明市公安局五华分局海源派出所,102.64647,25.086297000000002,,,,,,,,,,,3,59604

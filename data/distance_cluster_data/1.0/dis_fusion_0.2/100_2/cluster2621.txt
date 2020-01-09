@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南广播电视大学昆明铁路分校,102.83086800000001,25.000656,,,,,,,,,,,1,1139
+昆明铁路机械学校北院,102.83086800000001,25.000656,,,,,,,,,,,1,2893

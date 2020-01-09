@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定停车区－武定服务区加油站B站,102.397358,25.509107999999998,,,,,,,,,,,3,4767
+武定停车区－武定服务区加油站B站,102.397358,25.508907999999998,,,,,,,,,,,3,8077

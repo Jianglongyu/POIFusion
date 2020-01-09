@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+服务区－高楼房加油站,102.80699,24.955126,,,,,,,,,,,3,5030
+服务区－高楼房加油站,102.80699,24.954926,,,,,,,,,,,3,8340

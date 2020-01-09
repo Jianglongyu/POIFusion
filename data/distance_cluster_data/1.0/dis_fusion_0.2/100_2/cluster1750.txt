@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一碗香农家菜,102.76773,25.02222,,,,,,,,,,,3,7606
+一碗香农家菜,102.76773,25.02202,,,,,,,,,,,3,10916
+枫尚宾馆,102.76801,25.02199,,,,,,,,,,,3,29613
+云南冶金技工学校,102.768606,25.021984,,,,,,,,,,,3,35928

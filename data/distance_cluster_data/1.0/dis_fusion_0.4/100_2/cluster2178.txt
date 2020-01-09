@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宏欣园小吃,102.72182,25.05846,,,,,,,,,,,3,20794
+品美造型,102.72213,25.05864,,,,,,,,,,,3,29507
+农村信用社ATM,102.72258000000001,25.05868,,,,,,,,,,,3,41376

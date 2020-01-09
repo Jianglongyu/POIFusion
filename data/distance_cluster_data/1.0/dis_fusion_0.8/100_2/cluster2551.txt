@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县二街光大药行,102.49259599999999,24.693652,,,,,,,,,,,3,46046
+复康药店,102.492581,24.694654999999997,,,,,,,,,,,3,23849
+复康药店,102.492581,24.694454999999998,,,,,,,,,,,3,43709

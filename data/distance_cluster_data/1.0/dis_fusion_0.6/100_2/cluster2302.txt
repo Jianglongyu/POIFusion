@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普自村聪华诊所,102.757793,24.941499,,,,,,,,,,,3,36640
+普自小学,102.75715600000001,24.94207,,,,,,,,,,,3,43567
+官渡区普自幼儿园,102.757011,24.941742,,,,,,,,,,,3,44025

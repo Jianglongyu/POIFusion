@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市东川区人民法院汤丹人民法庭,103.06579,26.177173,,,,,,,,,,,3,32903
+东川区司法局汤丹司法所,103.066507,26.177325,,,,,,,,,,,3,33020
+昆明公路管理总段东川管理段汤丹管理所,103.066073,26.177075,,,,,,,,,,,3,33153

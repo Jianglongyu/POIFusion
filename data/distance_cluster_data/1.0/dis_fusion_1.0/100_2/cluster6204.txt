@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新欣希望小学,102.928823,26.091419,,,,,,,,,,,3,31136
+新欣希望小学,102.928823,26.091219,,,,,,,,,,,3,60925

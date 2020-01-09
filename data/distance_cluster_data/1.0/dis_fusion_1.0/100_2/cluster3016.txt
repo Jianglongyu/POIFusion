@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小龙井村大益希望小学,103.57280899999999,25.508673,,,,,,,,,,,3,32772
+小龙井村大益希望小学,103.57280899999999,25.508473000000002,,,,,,,,,,,3,62561

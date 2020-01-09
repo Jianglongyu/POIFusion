@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四季春酒楼旗舰店,102.68587,25.0265,,,,,,,,,,,3,16630
+警民餐厅,102.68551,25.0272,,,,,,,,,,,3,18844

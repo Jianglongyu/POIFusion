@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中海加油站,103.260474,25.708415,,,,,,,,,,,3,4805
+中海加油站,103.260474,25.708215,,,,,,,,,,,3,17572

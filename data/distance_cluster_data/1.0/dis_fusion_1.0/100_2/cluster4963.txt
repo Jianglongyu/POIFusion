@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新春邑村民委员会卫生所,103.095959,25.393641,,,,,,,,,,,3,24150
+新春邑村民委员会卫生所,103.095959,25.393441,,,,,,,,,,,3,53939

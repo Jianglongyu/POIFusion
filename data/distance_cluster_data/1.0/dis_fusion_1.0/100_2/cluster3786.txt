@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县兰茂纪念馆,103.071539,25.219693,,,,,,,,,,,1,2033
+嵩明县兰茂纪念馆,103.071539,25.219893,,,,,,,,,,,1,66254

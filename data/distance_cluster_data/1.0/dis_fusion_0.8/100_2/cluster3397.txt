@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+和木养生馆,102.70943,25.012379999999997,,,,,,,,,,,3,18071
+和木养生馆,102.70943,25.012179999999997,,,,,,,,,,,3,37931

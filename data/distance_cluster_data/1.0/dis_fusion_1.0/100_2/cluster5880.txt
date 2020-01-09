@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+德馨学校,102.735943,25.142564999999998,,,,,,,,,,,3,30235
+德馨学校,102.735943,25.142364999999998,,,,,,,,,,,3,60024

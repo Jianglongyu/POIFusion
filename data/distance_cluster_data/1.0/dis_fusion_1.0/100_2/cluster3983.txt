@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+高夫尔康苑,102.97077,25.17663,,,,,,,,,,,3,19264
+高夫尔康苑,102.97077,25.17643,,,,,,,,,,,3,49053

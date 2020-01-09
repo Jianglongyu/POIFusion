@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省委,102.67692199999999,25.001649999999998,,,,,,,,,,,3,29503
+云南省委,102.67692199999999,25.00145,,,,,,,,,,,3,59292

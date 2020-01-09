@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省交通职业技术学院驾驶培训学校,102.836398,24.9268,,,,,,,,,,,3,31134
+云南省交通职业技术学院驾驶培训学校,102.836398,24.9266,,,,,,,,,,,3,60923

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆阳镇墩子老年大学,102.62197900000001,24.673673,,,,,,,,,,,3,32282
+昆阳镇墩子老年大学,102.62197900000001,24.673473,,,,,,,,,,,3,62071

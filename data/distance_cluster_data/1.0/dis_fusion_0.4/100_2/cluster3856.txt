@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+睡不着,102.6527,25.06025,,,,,,,,,,,3,23235
+顺意诊所,102.65269599999999,25.060248,,,,,,,,,,,3,31290

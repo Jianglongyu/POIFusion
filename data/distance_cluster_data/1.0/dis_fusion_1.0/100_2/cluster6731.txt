@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+坪子小学,103.097688,26.057366,,,,,,,,,,,3,32663
+坪子小学,103.097688,26.057166,,,,,,,,,,,3,62452

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林镇中学,103.36040799999999,24.864128,,,,,,,,,,,3,32576
+石林镇中学,103.36040799999999,24.863928,,,,,,,,,,,3,62365

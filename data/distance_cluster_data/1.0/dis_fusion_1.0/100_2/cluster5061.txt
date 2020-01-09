@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小水井路加诊所,102.628793,25.26942,,,,,,,,,,,3,25018
+小水井路加诊所,102.628793,25.26922,,,,,,,,,,,3,54807

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市东川区阿旺镇人大主席团,103.253982,25.916967,,,,,,,,,,,3,32686
+阿旺中心卫生院,103.253644,25.916121,,,,,,,,,,,3,27453
+小博士幼儿园,103.253454,25.916562,,,,,,,,,,,3,34152

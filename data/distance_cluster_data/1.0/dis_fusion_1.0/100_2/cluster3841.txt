@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+任家菜,102.702096,25.072651999999998,,,,,,,,,,,1,2262
+任家菜,102.702096,25.072851999999997,,,,,,,,,,,1,66483

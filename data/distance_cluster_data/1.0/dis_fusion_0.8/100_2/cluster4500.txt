@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+柳记美食花园云大西路店,102.78093,24.977420000000002,,,,,,,,,,,3,13840
+柳记美食花园云大西路店,102.78093,24.977220000000003,,,,,,,,,,,3,33700

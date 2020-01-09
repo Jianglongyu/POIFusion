@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+胤,102.72983,25.103129999999997,,,,,,,,,,,3,19542
+美刻酒店,102.72965,25.10289,,,,,,,,,,,3,26701
+M3客回佳公寓酒店,102.72989,25.10321,,,,,,,,,,,3,27304
+爱之家宠物医院,102.729846,25.103056,,,,,,,,,,,3,52374

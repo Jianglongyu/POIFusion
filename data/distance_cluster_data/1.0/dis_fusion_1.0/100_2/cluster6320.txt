@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨桥镇云林完全小学,103.03653100000001,25.211282999999998,,,,,,,,,,,3,31490
+杨桥镇云林完全小学,103.03653100000001,25.211083,,,,,,,,,,,3,61279

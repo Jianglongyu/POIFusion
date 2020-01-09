@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红星公社酒庄,102.66334,25.176489999999998,,,,,,,,,,,3,16036
+红星公社酒庄,102.66334,25.176289999999998,,,,,,,,,,,3,28803

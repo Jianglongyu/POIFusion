@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广源小区康贝儿幼儿园,102.744061,24.962411,,,,,,,,,,,3,32535
+广源小区康贝儿幼儿园,102.744061,24.962211,,,,,,,,,,,3,62324

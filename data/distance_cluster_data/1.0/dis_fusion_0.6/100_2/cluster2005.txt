@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+知味堂,102.8523,24.82345,,,,,,,,,,,3,8244
+知味堂,102.8523,24.82325,,,,,,,,,,,3,21011
+中国工商银行ATM,102.85254,24.82401,,,,,,,,,,,3,45982

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙潭小学,103.275817,25.832834,,,,,,,,,,,3,31821
+龙潭小学,103.275817,25.832634,,,,,,,,,,,3,61610

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+纤手专业发型设计,102.79605,24.86636,,,,,,,,,,,3,23223
+上可乐社区卫生服务站,102.795707,24.86664,,,,,,,,,,,3,29423
+农村信用合作联社可乐分社,102.79518,24.86665,,,,,,,,,,,3,36577

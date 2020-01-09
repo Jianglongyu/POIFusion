@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+旺兴园饭店,102.771264,24.942941,,,,,,,,,,,1,1863
+老重庆面馆,102.771535,24.942298,,,,,,,,,,,1,2694
+旺兴园饭店,102.771264,24.943141,,,,,,,,,,,1,66084
+老重庆面馆,102.771535,24.942498,,,,,,,,,,,1,66915

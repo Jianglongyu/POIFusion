@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县工商局仁德工商分局,103.25348699999999,25.556079999999998,,,,,,,,,,,3,29144
+寻甸县工商局仁德工商分局,103.25348699999999,25.55588,,,,,,,,,,,3,58933

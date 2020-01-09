@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县规划建设局,103.041442,25.340126,,,,,,,,,,,3,28743
+嵩明县园林绿化局,103.041442,25.340126,,,,,,,,,,,3,29650
+嵩明县城市管理综合行政执法局,103.041442,25.340126,,,,,,,,,,,3,29786

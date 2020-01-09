@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+绿地iHome（绿地云都会）,102.66855290000001,25.09388564,,,,,,,,,,,2,275
+昆明市五华区农村信用合作联社普吉信用社,102.66779,25.09435,,,,,,,,,,,3,46483
+绿地iHome（绿地云都会）,102.66855290000001,25.09408564,,,,,,,,,,,2,47474

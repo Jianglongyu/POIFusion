@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蕊丝美发店,102.64104,25.0763,,,,,,,,,,,3,17826
+威旺发型设计,102.64103,25.07645,,,,,,,,,,,3,21492
+蕊丝美发店,102.64104,25.0761,,,,,,,,,,,3,47615
+威旺发型设计,102.64103,25.07625,,,,,,,,,,,3,51281

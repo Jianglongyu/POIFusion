@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南师范大学体育馆,102.85899,24.86585,,,,,,,,,,,3,19428
+云南师范大学体育馆,102.85899,24.86565,,,,,,,,,,,3,39288

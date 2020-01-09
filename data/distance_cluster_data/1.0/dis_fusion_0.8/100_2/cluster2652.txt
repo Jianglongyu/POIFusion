@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+聚源诊所,102.49789100000001,25.218287,,,,,,,,,,,3,23668
+聚源诊所,102.49789100000001,25.218087,,,,,,,,,,,3,43528
+新蕾幼儿园,102.49749,25.218199,,,,,,,,,,,3,51593

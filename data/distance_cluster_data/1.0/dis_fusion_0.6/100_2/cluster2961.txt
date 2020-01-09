@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南众锐-上海大众,102.81326899999999,24.96881,,,,,,,,,,,1,874
+云南众锐-上海大众,102.81326899999999,24.96901,,,,,,,,,,,1,48073

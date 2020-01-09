@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市教育局,102.48518299999999,24.917541,,,,,,,,,,,3,29229
+安宁市教育局,102.48518299999999,24.917341,,,,,,,,,,,3,59018

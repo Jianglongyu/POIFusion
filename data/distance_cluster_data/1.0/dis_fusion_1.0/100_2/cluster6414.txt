@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋城镇第四小学,102.73855,24.719857,,,,,,,,,,,3,31768
+晋城镇第四小学,102.73855,24.719657,,,,,,,,,,,3,61557

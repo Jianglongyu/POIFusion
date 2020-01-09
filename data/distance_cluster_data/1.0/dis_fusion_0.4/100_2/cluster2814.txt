@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南盐化股份有限公司昆明分公司(双凤东路),102.738228,24.996945999999998,,,,,,,,,,,1,903
+云南盐化股份有限公司昆明分公司(双凤东路),102.738228,24.997145999999997,,,,,,,,,,,1,42782

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南民族村广场,102.66734,24.96707,,,,,,,,,,,3,21789
+云南民族村广场,102.66734,24.96687,,,,,,,,,,,3,41649

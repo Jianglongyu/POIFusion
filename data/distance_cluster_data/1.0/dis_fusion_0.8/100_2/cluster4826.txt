@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+养生大药房,102.45175,24.956757,,,,,,,,,,,3,24209
+养生大药房,102.45175,24.956557,,,,,,,,,,,3,44069

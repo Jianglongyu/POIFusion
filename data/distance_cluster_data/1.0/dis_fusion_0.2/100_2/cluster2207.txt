@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+威龙造型,102.70156,25.036189999999998,,,,,,,,,,,3,22971
+东骏大药房国防路连锁店,102.701419,25.036360000000002,,,,,,,,,,,3,28108
+恒安写字楼,102.70146,25.0363,,,,,,,,,,,3,31864

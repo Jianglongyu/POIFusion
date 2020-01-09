@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民公路管理段,102.524728,25.225004000000002,,,,,,,,,,,3,29918
+富民公路管理段,102.524728,25.224804000000002,,,,,,,,,,,3,59707

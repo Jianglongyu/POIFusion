@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南映象(西南门),102.75071899999999,25.087052,,,,,,,,,,,1,886
+云南映象(西南门),102.75071899999999,25.087252,,,,,,,,,,,1,55178

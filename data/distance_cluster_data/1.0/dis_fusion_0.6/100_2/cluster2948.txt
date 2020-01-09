@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+战友渔家乐,102.773489,25.134674,,,,,,,,,,,1,840
+战友渔家乐,102.773489,25.134874,,,,,,,,,,,1,48039

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿子营乡牧羊完全小学,102.839636,25.392011999999998,,,,,,,,,,,3,32136
+阿子营乡牧羊完全小学,102.839636,25.391811999999998,,,,,,,,,,,3,61925

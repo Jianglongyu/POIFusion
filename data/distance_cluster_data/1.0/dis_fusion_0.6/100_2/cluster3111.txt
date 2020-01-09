@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+发动青春美发沙龙,102.85044,24.822210000000002,,,,,,,,,,,3,34164
+中国邮政储蓄银行ATM,102.85044,24.822370000000003,,,,,,,,,,,3,46959

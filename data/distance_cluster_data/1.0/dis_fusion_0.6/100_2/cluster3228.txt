@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+卧龙山庄,102.809035,25.092254,,,,,,,,,,,1,1801
+卧龙山庄,102.809035,25.092454,,,,,,,,,,,1,49000

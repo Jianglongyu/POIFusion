@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+羊街东山加油站,103.148655,25.47264,,,,,,,,,,,3,4955
+羊街东山加油站,103.148655,25.47244,,,,,,,,,,,3,8265

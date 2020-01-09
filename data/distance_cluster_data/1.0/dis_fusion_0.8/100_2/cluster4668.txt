@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小街镇牛足卫生室,103.174587,25.355873,,,,,,,,,,,3,23430
+小街镇牛足卫生室,103.174587,25.355673,,,,,,,,,,,3,43290

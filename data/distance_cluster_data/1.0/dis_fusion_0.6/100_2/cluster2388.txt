@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+茂山加油站,102.497961,25.664254,,,,,,,,,,,3,4937
+茂山加油站,102.497961,25.664054,,,,,,,,,,,3,17704
+茂山乡卫生院,102.497297,25.664127,,,,,,,,,,,3,38225

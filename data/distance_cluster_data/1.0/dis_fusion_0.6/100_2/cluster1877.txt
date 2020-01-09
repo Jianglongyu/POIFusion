@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+加油站,102.910066,25.07819,,,,,,,,,,,3,4824
+景尚春天海鲜酒楼,102.9096,25.07767,,,,,,,,,,,3,10036
+加油站,102.910066,25.07799,,,,,,,,,,,3,17591
+景尚春天海鲜酒楼,102.9096,25.07747,,,,,,,,,,,3,22803

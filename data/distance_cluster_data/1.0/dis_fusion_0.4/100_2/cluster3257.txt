@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金柯回族食堂,102.73925,25.07372,,,,,,,,,,,3,20756
+云波社区小游园,102.73969,25.07391,,,,,,,,,,,3,25141

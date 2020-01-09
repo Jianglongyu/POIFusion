@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆阳磷肥厂公交站,102.59660600000001,24.716676,,,,,,,,,,,1,2764
+昆阳磷肥厂公交站,102.59660600000001,24.716876,,,,,,,,,,,1,66985

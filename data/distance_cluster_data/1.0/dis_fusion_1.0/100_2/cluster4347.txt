@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北部汽车客运站,102.76840899999999,25.11761,,,,,,,,,,,1,4458
+北部汽车客运站,102.76840899999999,25.11781,,,,,,,,,,,1,68679

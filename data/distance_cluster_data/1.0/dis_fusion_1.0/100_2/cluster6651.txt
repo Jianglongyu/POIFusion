@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+童星艺术幼儿园,102.751178,24.969904,,,,,,,,,,,3,32525
+童星艺术幼儿园,102.751178,24.969704,,,,,,,,,,,3,62314

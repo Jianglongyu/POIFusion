@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+橄榄树国际美语幼稚园海口分园,102.609054,24.785484,,,,,,,,,,,3,31186
+橄榄树国际美语幼稚园海口分园,102.609054,24.785284,,,,,,,,,,,3,60975

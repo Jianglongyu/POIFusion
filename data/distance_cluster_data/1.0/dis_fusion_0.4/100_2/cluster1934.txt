@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+全家乐牛菜馆,102.6363,24.96431,,,,,,,,,,,3,8561
+全家乐牛菜馆,102.6363,24.96411,,,,,,,,,,,3,16008
+二郎田鸡龙门店,102.63611999999999,24.964579999999998,,,,,,,,,,,3,20013

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南财经大学银杏餐厅,102.72235,25.08207,,,,,,,,,,,3,7230
+云南财经大学银杏餐厅,102.72235,25.081870000000002,,,,,,,,,,,3,19997

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明交通运输集团公司昆安驾驶培训学校,102.453152,24.920348,,,,,,,,,,,3,39091
+安宁市宁湖小学,102.45276700000001,24.920937,,,,,,,,,,,3,39271

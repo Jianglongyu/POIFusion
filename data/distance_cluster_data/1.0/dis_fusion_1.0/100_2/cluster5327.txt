@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+下村清真寺,102.849701,25.532393,,,,,,,,,,,3,27844
+下村清真寺,102.849701,25.532193,,,,,,,,,,,3,57633

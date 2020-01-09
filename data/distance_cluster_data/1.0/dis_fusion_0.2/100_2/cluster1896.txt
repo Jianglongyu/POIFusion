@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+健之佳健康药房NO．110,102.748364,24.706057,,,,,,,,,,,3,26422
+老百姓大药房,102.74818,24.706792999999998,,,,,,,,,,,3,27433
+益康药堂,102.74832099999999,24.706134,,,,,,,,,,,3,29019

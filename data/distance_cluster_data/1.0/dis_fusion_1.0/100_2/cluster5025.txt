@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县疾病预防控制中心,103.03414599999999,25.335088,,,,,,,,,,,3,24651
+嵩明县疾病预防控制中心,103.03414599999999,25.334888,,,,,,,,,,,3,54440

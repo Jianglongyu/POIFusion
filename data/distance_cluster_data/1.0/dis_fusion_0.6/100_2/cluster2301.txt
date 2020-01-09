@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+撒营盘王氏药店,102.527672,26.000014999999998,,,,,,,,,,,3,36623
+康宁诊所,102.52691300000001,25.999668,,,,,,,,,,,3,37590
+康蕊药业公司吉瑞堂NO．7,102.527112,25.999288,,,,,,,,,,,3,38203

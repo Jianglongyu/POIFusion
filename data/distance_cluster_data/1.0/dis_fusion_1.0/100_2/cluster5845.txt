@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县人民法院古城法庭,103.188214,24.98473,,,,,,,,,,,3,30088
+宜良县人民法院古城法庭,103.188214,24.98453,,,,,,,,,,,3,59877

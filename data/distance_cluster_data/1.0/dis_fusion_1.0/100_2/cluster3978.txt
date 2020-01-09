@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明西山综合商场(春雨路),102.642614,25.035560999999998,,,,,,,,,,,1,2865
+昆明西山综合商场(春雨路),102.642614,25.035760999999997,,,,,,,,,,,1,67086

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明学院图书馆,102.80629,24.981903,,,,,,,,,,,1,2838
+昆明学院图书馆,102.80629,24.982103,,,,,,,,,,,1,57130

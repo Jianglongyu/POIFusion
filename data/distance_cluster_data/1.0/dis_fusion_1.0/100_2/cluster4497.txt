@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+愉扬足浴,102.66372,25.0235,,,,,,,,,,,3,21178
+愉扬足浴,102.66372,25.0233,,,,,,,,,,,3,50967

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+刘洋诊所,102.469686,25.550151,,,,,,,,,,,3,27522
+怀德仁连锁大药房广场店,102.469643,25.550187,,,,,,,,,,,3,28591
+红玲药店,102.469154,25.550384,,,,,,,,,,,3,29155

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南三环中化嘉吉希望小学,102.581615,25.075243,,,,,,,,,,,3,30324
+云南三环中化嘉吉希望小学,102.581615,25.075043,,,,,,,,,,,3,60113

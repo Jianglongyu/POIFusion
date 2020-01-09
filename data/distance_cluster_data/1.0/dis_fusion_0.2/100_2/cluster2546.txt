@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+棕树营派出所(昆明市塑料八厂南),102.69035600000001,25.048068,,,,,,,,,,,1,626
+李火火串串香,102.689948,25.047898,,,,,,,,,,,1,2686

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水景园,102.768523,25.082935,,,,,,,,,,,3,28298
+水景园,102.768523,25.082735,,,,,,,,,,,3,58087

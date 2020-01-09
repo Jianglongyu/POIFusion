@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福海小学,102.667045,25.005124,,,,,,,,,,,3,32686
+福海小学,102.667045,25.004924,,,,,,,,,,,3,62475

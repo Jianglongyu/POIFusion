@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明星小学,102.86512900000001,24.487320999999998,,,,,,,,,,,3,30525
+明星小学,102.86512900000001,24.487121,,,,,,,,,,,3,60314

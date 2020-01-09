@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+多宜甲向荣希望小学,102.687556,25.456702,,,,,,,,,,,3,30808
+多宜甲向荣希望小学,102.687556,25.456502,,,,,,,,,,,3,60597

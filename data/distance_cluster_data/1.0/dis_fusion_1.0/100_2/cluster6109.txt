@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小石桥中心小学,102.618054,24.442535999999997,,,,,,,,,,,3,30895
+小石桥中心小学,102.618054,24.442335999999997,,,,,,,,,,,3,60684

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡县七甸乡水塘小学,102.965346,24.940897,,,,,,,,,,,3,31960
+呈贡县七甸乡水塘小学,102.965346,24.940697,,,,,,,,,,,3,61749

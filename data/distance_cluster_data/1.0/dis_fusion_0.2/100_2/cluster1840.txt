@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富源酸汤猪脚火锅云秀店,102.73055,24.936339999999998,,,,,,,,,,,3,17356
+中天招待所,102.73076999999999,24.936510000000002,,,,,,,,,,,3,29509
+龙马爱心幼儿园,102.730953,24.936662,,,,,,,,,,,3,34961

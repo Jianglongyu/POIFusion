@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂牛街庄连锁NO．2,102.774799,25.002779999999998,,,,,,,,,,,3,23815
+一心堂牛街庄连锁NO．2,102.774799,25.00258,,,,,,,,,,,3,53604

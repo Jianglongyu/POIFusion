@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+亿发形象会所,102.65442,25.079,,,,,,,,,,,3,19888
+五兴源,102.65465999999999,25.07911,,,,,,,,,,,3,33416

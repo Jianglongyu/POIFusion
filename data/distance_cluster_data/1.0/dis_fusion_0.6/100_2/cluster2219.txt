@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+启荣幼儿园,102.741058,25.024613000000002,,,,,,,,,,,3,43712
+家香菜家香小吃,102.74161,25.02543,,,,,,,,,,,3,20868
+芦荟美容美体护肤中心,102.74117,25.02495,,,,,,,,,,,3,31582

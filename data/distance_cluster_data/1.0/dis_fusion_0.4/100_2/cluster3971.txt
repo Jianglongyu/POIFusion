@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+者北便民药店,102.458424,25.333073000000002,,,,,,,,,,,3,32538
+富民二中附属幼儿园,102.458471,25.332657,,,,,,,,,,,3,38586

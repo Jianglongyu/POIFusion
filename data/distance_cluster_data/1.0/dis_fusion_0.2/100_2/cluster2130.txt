@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黄记老武成路豆花米线店NO．2,102.70232,25.0743,,,,,,,,,,,3,13079
+味香园贵州六盘水牛羊肉米线店,102.70227,25.074270000000002,,,,,,,,,,,3,13207
+红盛小吃店,102.70208000000001,25.07416,,,,,,,,,,,3,17156

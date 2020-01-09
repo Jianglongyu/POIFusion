@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金河社区卫生服务中心,102.701295,24.972208,,,,,,,,,,,3,30519
+金河社区幼儿园,102.70129399999999,24.972191,,,,,,,,,,,3,39239
+农村信用社滇池信用社,102.70048,24.97253,,,,,,,,,,,3,40910

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晨农淮扬村,102.84299999999999,24.90113,,,,,,,,,,,3,12733
+晨农淮扬村,102.84299999999999,24.90093,,,,,,,,,,,3,25500
+中国农业银行ATM,102.84305,24.9007,,,,,,,,,,,3,46239

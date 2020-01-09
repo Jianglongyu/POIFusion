@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福兴庄园,102.60194,25.04082,,,,,,,,,,,3,21216
+福兴庄园,102.60194,25.04062,,,,,,,,,,,3,41076

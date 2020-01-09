@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南电信网信集团王大桥营业厅,102.754324,25.047520000000002,,,,,,,,,,,1,1154
+昆明监狱,102.755167,25.047647,,,,,,,,,,,1,3139
+云南电信网信集团王大桥营业厅,102.754324,25.04772,,,,,,,,,,,1,55446

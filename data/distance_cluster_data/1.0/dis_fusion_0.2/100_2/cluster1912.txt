@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+太平收费站,102.591516,24.965478,,,,,,,,,,,1,2008
+昆安诊所,102.592228,24.965831,,,,,,,,,,,3,28317
+长坡小学,102.591655,24.965789,,,,,,,,,,,3,34591

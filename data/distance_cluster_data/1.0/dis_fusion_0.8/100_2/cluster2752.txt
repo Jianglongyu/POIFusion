@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省公安厅交警总队外勤二中队,103.151416,24.933016000000002,,,,,,,,,,,3,49179
+高速公路交巡警支队昆石大队外勤二中队,103.151416,24.933016000000002,,,,,,,,,,,3,49766

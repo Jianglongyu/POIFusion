@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明理工大学津桥学院,102.662576,25.078557,,,,,,,,,,,1,3115
+昆明理工大学津桥学院,102.662576,25.078757,,,,,,,,,,,1,67336

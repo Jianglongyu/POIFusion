@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南师大游泳馆,102.85131,24.85963,,,,,,,,,,,3,21610
+云南师大游泳馆,102.85131,24.85943,,,,,,,,,,,3,41470

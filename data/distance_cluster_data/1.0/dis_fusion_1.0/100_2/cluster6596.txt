@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆阳磷矿幼儿园,102.55797700000001,24.70937,,,,,,,,,,,3,32319
+昆阳磷矿幼儿园,102.55797700000001,24.70917,,,,,,,,,,,3,62108

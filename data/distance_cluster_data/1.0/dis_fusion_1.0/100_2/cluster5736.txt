@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明杨林工业园区管委会,103.03739200000001,25.245614999999997,,,,,,,,,,,3,29651
+嵩明杨林工业园区管委会,103.03739200000001,25.245414999999998,,,,,,,,,,,3,59440

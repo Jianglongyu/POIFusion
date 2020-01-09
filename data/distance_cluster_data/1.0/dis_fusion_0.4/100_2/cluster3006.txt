@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+摩西俱乐部,102.710371,25.052081,,,,,,,,,,,1,2457
+BREAD WORKS,102.71022099999999,25.051989000000003,,,,,,,,,,,1,4618

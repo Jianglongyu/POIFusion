@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县九厂财政所,102.358804,25.468501,,,,,,,,,,,3,29715
+武定县九厂财政所,102.358804,25.468301,,,,,,,,,,,3,59504

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡马郎加油站,102.946163,24.900689,,,,,,,,,,,3,4888
+呈贡马郎加油站,102.946163,24.900489,,,,,,,,,,,3,24748

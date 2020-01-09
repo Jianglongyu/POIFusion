@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市东川区新田卫生院,103.103225,25.958278,,,,,,,,,,,3,25467
+昆明市东川区新田卫生院,103.103225,25.958078,,,,,,,,,,,3,55256

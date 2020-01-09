@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市预防职务犯罪警示教育基地报,102.700408,25.079221,,,,,,,,,,,1,2917
+昆明市预防职务犯罪警示教育基地报,102.700408,25.079421,,,,,,,,,,,1,67138

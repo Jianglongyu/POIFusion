@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县档案局,103.267267,24.761089000000002,,,,,,,,,,,3,29956
+石林县档案局,103.267267,24.760889000000002,,,,,,,,,,,3,59745

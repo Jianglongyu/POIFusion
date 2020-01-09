@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+清真餐厅,102.69229,25.07602,,,,,,,,,,,3,9397
+清真餐厅,102.69229,25.07582,,,,,,,,,,,3,16844

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大板桥加油站,102.88368299999999,25.046553,,,,,,,,,,,3,4659
+大板桥加油站,102.88368299999999,25.046353,,,,,,,,,,,3,7969

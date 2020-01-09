@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市公安局盘龙分局云波派出所,102.756603,25.089019,,,,,,,,,,,1,3017
+昆明市公安局盘龙分局云波派出所,102.756603,25.089219,,,,,,,,,,,1,67238

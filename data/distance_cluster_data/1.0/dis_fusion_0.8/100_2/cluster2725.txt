@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福林堂和乐国药店,102.647357,25.047285,,,,,,,,,,,3,24328
+福林堂和乐国药店,102.647357,25.047085,,,,,,,,,,,3,44188
+滇缅公路纪念雕塑碑,102.646392,25.047392000000002,,,,,,,,,,,3,47957

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+玉溪兴达加油站,102.549779,24.42282,,,,,,,,,,,3,4815
+玉溪兴达加油站,102.549779,24.422620000000002,,,,,,,,,,,3,8125
+康泰医院,102.549759,24.422238,,,,,,,,,,,3,28646

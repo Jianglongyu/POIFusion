@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白子村小学,102.96374399999999,25.480570999999998,,,,,,,,,,,3,32412
+白子村小学,102.96374399999999,25.480370999999998,,,,,,,,,,,3,62201

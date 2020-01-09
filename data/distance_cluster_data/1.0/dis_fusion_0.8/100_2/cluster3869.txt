@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+网安公众电脑屋,102.7348,25.08533,,,,,,,,,,,3,19908
+网安公众电脑屋,102.7348,25.08513,,,,,,,,,,,3,39768

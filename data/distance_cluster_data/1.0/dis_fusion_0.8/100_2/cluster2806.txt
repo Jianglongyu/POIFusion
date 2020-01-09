@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广瑞中心,102.73817,25.071332,,,,,,,,,,,2,117
+广瑞中心,102.73817,25.071532,,,,,,,,,,,2,54409

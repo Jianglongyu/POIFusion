@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+步硝山顶,103.32922099999999,24.814826,,,,,,,,,,,3,27917
+步硝山顶,103.32922099999999,24.814626,,,,,,,,,,,3,57706

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+农行云南省分行营业部安宁培训中心,102.44917199999999,24.9542,,,,,,,,,,,3,32256
+农行云南省分行营业部安宁培训中心,102.44917199999999,24.954,,,,,,,,,,,3,62045

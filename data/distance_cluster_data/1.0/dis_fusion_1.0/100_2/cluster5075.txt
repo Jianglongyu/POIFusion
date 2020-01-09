@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁珍燕诊所,102.270491,24.967677,,,,,,,,,,,3,25142
+安宁珍燕诊所,102.270491,24.967477,,,,,,,,,,,3,54931

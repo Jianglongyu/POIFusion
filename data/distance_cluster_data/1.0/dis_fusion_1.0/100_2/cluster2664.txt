@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凯瑞华晟国际度假村,102.74555,25.16365,,,,,,,,,,,3,27006
+中国工商银行ATM,102.7449,25.16375,,,,,,,,,,,3,34323
+凯瑞华晟国际度假村,102.74555,25.16345,,,,,,,,,,,3,56795
+中国工商银行ATM,102.7449,25.16355,,,,,,,,,,,3,64112

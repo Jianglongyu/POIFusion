@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+筇竹寺,102.631672,25.071132000000002,,,,,,,,,,,1,2281
+筇竹寺,102.631672,25.071332,,,,,,,,,,,1,66502

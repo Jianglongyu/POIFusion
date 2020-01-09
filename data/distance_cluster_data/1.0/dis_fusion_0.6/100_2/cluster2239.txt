@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿子营村委会卫生所,102.778227,25.340201999999998,,,,,,,,,,,3,35808
+嵩明县阿子营国土所,102.777574,25.340692999999998,,,,,,,,,,,3,42248
+昆明市嵩明县政府阿子营街道纪检委,102.777742,25.340089000000003,,,,,,,,,,,3,42320

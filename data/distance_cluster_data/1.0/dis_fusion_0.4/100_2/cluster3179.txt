@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+法者计生所,103.01408599999999,26.025389,,,,,,,,,,,3,36467
+昆明市东川区轿子山自然保护区管理所,103.014253,26.024992,,,,,,,,,,,3,37351

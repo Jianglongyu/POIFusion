@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+谭氏重庆石锅鱼NO．2,102.78001,24.93616,,,,,,,,,,,3,5655
+红河憨憨一锅牛,102.78034,24.93647,,,,,,,,,,,3,7485
+红河憨憨一锅牛,102.78034,24.93627,,,,,,,,,,,3,10795

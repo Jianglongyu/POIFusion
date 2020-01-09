@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新庄完小,102.820636,25.470689999999998,,,,,,,,,,,3,31941
+新庄完小,102.820636,25.470489999999998,,,,,,,,,,,3,61730

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南盘江漂流,103.327157,25.000245,,,,,,,,,,,3,27878
+南盘江漂流,103.327157,25.000045,,,,,,,,,,,3,57667

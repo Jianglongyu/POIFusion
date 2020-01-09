@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+没租哨小学,103.06511400000001,25.50235,,,,,,,,,,,3,30431
+没租哨小学,103.06511400000001,25.50215,,,,,,,,,,,3,60220

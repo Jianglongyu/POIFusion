@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西三镇大麦地希望小学,103.38629399999999,24.584054000000002,,,,,,,,,,,3,31586
+西三镇大麦地希望小学,103.38629399999999,24.583854000000002,,,,,,,,,,,3,61375

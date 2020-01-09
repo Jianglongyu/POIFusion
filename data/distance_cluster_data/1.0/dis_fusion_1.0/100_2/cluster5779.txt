@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县尖山派出所,102.84568399999999,24.590014999999998,,,,,,,,,,,3,29857
+澄江县尖山派出所,102.84568399999999,24.589814999999998,,,,,,,,,,,3,59646

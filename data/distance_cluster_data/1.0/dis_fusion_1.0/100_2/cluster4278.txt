@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东岸紫园(东门),102.684874,24.977346,,,,,,,,,,,1,4126
+东岸紫园(东门),102.684874,24.977546,,,,,,,,,,,1,68347

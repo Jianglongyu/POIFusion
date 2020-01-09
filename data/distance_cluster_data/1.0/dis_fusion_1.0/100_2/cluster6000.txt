@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县提古小学,102.850583,24.740167,,,,,,,,,,,3,30556
+澄江县提古小学,102.850583,24.739967,,,,,,,,,,,3,60345

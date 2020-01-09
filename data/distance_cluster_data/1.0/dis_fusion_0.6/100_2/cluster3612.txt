@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+12棵橡树庄园小区,102.761278,24.992608999999998,,,,,,,,,,,1,4643
+富滇银行昆明华洋支行,102.76187,24.99294,,,,,,,,,,,3,45803

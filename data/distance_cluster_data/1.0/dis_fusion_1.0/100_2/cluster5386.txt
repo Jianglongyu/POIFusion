@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+狮虎山庄,102.798372,25.09576,,,,,,,,,,,3,28058
+狮虎山庄,102.798372,25.09556,,,,,,,,,,,3,57847

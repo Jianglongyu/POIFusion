@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明官渡农村合作银行ATM,102.77426,24.994220000000002,,,,,,,,,,,3,34426
+昆明官渡农村合作银行ATM,102.77426,24.994020000000003,,,,,,,,,,,3,64215

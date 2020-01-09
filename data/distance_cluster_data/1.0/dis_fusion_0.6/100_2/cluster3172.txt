@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小墨雨公交站,102.595208,25.086766,,,,,,,,,,,1,1619
+小墨雨公交站,102.595208,25.086966,,,,,,,,,,,1,48818

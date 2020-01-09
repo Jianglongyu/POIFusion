@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+耀远加油站,103.17128000000001,24.811989,,,,,,,,,,,3,4654
+耀远加油站,103.17128000000001,24.811789,,,,,,,,,,,3,24514

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富侨养生会所,102.74874,24.95642,,,,,,,,,,,3,19563
+逸家商务酒店,102.74874,24.95642,,,,,,,,,,,3,30578
+昆明官渡农村合作银行ATM,102.7485,24.956210000000002,,,,,,,,,,,3,36626

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂东川白云街连锁店,103.186125,26.07444,,,,,,,,,,,3,33369
+昆明市东川区检察院反渎职侵权局,103.1865,26.075016,,,,,,,,,,,3,36296
+昆明市东川区国税局办税服务厅,103.18612399999999,26.07372,,,,,,,,,,,3,36386

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小街镇第二中学,103.119918,25.342464,,,,,,,,,,,3,32830
+小街镇第二中学,103.119918,25.342264,,,,,,,,,,,3,62619

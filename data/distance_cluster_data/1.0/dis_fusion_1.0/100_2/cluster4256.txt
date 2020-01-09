@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+抚仙湖石锅鱼(082乡道),102.744966,25.147837,,,,,,,,,,,1,3996
+抚仙湖石锅鱼(082乡道),102.744966,25.148037,,,,,,,,,,,1,68217

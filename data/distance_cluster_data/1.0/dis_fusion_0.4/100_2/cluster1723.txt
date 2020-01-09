@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+茴香酒馆,102.712086,25.053501,,,,,,,,,,,1,3615
+麦当劳甜品站,102.71218,25.05344,,,,,,,,,,,3,22572
+昆明动物园侏罗纪恐龙馆,102.71189,25.05348,,,,,,,,,,,3,23313
+轩舜游乐园,102.71262,25.05361,,,,,,,,,,,3,25014

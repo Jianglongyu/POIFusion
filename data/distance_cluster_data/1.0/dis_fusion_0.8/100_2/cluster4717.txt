@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东骏大药房馨苑小区连锁店,103.25698,25.551333,,,,,,,,,,,3,23678
+东骏大药房馨苑小区连锁店,103.25698,25.551133,,,,,,,,,,,3,43538

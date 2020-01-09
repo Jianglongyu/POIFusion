@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明理工大学津桥学院－体育场,102.65411,25.07339,,,,,,,,,,,3,22253
+昆明理工大学津桥学院－体育场,102.65411,25.07319,,,,,,,,,,,3,42113
+交通银行ATM,102.65456,25.07412,,,,,,,,,,,3,53767

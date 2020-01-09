@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县司法局旧县镇司法所,103.412889,25.382258999999998,,,,,,,,,,,3,28993
+马龙县司法局旧县镇司法所,103.412889,25.382058999999998,,,,,,,,,,,3,58782

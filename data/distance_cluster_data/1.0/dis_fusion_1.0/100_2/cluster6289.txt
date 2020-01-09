@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小河村委会国家级烟叶标准化生产培训学校,103.29848299999999,24.874726,,,,,,,,,,,3,31397
+小河村委会国家级烟叶标准化生产培训学校,103.29848299999999,24.874526,,,,,,,,,,,3,61186

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+崔勇农家乐,102.80546,25.09959,,,,,,,,,,,3,31488
+义富院,102.8047,25.09992,,,,,,,,,,,3,32368
+锡伯龙,102.80535,25.099629999999998,,,,,,,,,,,3,32611

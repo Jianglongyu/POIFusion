@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县第一医院功山分院,103.264167,25.739048999999998,,,,,,,,,,,3,32064
+寻甸回族彝族自治县司法局功山司法所,103.26355,25.73905,,,,,,,,,,,3,37044

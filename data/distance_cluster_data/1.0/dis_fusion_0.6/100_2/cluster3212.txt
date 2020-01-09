@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西华街公交站,102.664654,24.876648,,,,,,,,,,,1,1746
+西华街公交站,102.664654,24.876848,,,,,,,,,,,1,48945

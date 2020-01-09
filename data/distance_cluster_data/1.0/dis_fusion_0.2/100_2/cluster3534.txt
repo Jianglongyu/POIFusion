@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+银杏竹荪火腿鸡,102.86704,24.835729999999998,,,,,,,,,,,3,14493
+CO8时尚音乐酒吧,102.86675,24.83606,,,,,,,,,,,3,21475

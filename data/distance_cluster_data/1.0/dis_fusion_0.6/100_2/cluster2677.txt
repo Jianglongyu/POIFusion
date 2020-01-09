@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+润城,102.70308,25.005948,,,,,,,,,,,2,316
+润城,102.70308,25.006148,,,,,,,,,,,2,47515

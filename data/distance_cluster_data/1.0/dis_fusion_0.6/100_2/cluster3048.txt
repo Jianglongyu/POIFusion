@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+竹源春饭店,102.8587,25.03511,,,,,,,,,,,3,9339
+竹源春饭店,102.8587,25.03491,,,,,,,,,,,3,22106

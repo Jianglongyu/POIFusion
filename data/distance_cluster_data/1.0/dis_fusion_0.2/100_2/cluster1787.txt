@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇湘菜馆,102.76711999999999,24.95831,,,,,,,,,,,3,16542
+经道养生会所,102.76655,24.958070000000003,,,,,,,,,,,3,20863
+中国银行ATM,102.76705,24.9583,,,,,,,,,,,3,37279

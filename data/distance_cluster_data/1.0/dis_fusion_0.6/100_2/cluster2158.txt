@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山区杨家社区卫生所,102.692018,25.014571,,,,,,,,,,,1,1721
+Daozao料理美术馆,102.692014,25.014649,,,,,,,,,,,1,4611
+西山区杨家社区卫生所,102.692018,25.014771,,,,,,,,,,,1,48920

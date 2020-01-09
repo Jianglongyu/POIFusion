@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+古滇食府,102.66763,25.079349999999998,,,,,,,,,,,3,9640
+博色KTV,102.66763,25.079349999999998,,,,,,,,,,,3,21373
+古滇食府,102.66763,25.07915,,,,,,,,,,,3,39429
+博色KTV,102.66763,25.07915,,,,,,,,,,,3,51162

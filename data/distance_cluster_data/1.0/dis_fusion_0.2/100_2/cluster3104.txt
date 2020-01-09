@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+竞东加油站,102.983085,25.143196,,,,,,,,,,,3,4666
+竞东加油站,102.983085,25.142996,,,,,,,,,,,3,7976

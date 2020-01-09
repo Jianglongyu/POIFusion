@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+波西米亚花园,102.672779,24.987042000000002,,,,,,,,,,,1,4420
+波西米亚花园,102.672779,24.987242000000002,,,,,,,,,,,1,68641

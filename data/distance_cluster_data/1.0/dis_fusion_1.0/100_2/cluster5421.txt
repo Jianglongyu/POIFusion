@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+惠民饭店,102.71258,24.96145,,,,,,,,,,,3,44552
+虹瑶歌舞厅,102.7128,24.96136,,,,,,,,,,,3,48926

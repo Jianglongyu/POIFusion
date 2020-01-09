@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+耿家营乡民族小学幼儿园,103.271047,25.106879,,,,,,,,,,,3,30818
+耿家营乡民族小学幼儿园,103.271047,25.106679,,,,,,,,,,,3,60607

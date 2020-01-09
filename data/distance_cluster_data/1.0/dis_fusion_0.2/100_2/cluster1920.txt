@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世纪金源购物中心,102.765789,25.00962,,,,,,,,,,,1,2113
+新南界,102.764826,25.010114,,,,,,,,,,,1,1571
+和甸营村公交站,102.764886,25.009963,,,,,,,,,,,1,3773

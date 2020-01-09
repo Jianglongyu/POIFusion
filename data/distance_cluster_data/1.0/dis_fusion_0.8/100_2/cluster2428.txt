@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明永中天成学校,102.76025,24.983684,,,,,,,,,,,1,2814
+古溪寺,102.76016,24.984085999999998,,,,,,,,,,,1,3935
+昆明永中天成学校,102.76025,24.983884,,,,,,,,,,,1,57106

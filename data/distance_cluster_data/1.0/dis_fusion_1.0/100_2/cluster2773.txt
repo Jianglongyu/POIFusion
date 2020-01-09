@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明市经融办,102.835847,24.8791,,,,,,,,,,,3,29299
+昆明市供销杜,102.836371,24.878198,,,,,,,,,,,3,28739
+昆明市供销杜,102.836371,24.877998,,,,,,,,,,,3,58528
+明市经融办,102.835847,24.8789,,,,,,,,,,,3,59088

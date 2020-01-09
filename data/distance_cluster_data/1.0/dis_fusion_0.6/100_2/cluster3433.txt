@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+湘味邵东土菜馆,102.77114,24.93227,,,,,,,,,,,3,11388
+湘味邵东土菜馆,102.77114,24.93207,,,,,,,,,,,3,24155

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+名之剪,102.65972,25.07112,,,,,,,,,,,3,32394
+进源汗蒸馆,102.65961,25.07122,,,,,,,,,,,3,32759
+中国太平洋财产保险股份有限公司昆明中心支公司,102.65989,25.0719,,,,,,,,,,,3,47171

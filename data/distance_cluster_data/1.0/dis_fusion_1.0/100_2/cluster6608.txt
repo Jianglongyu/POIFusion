@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨桥乡中心幼儿圆,103.04640500000001,25.308392,,,,,,,,,,,3,32347
+杨桥乡中心幼儿圆,103.04640500000001,25.308192000000002,,,,,,,,,,,3,62136

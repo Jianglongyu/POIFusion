@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黄翠仙越南小火锅,102.692338,25.016988,,,,,,,,,,,1,3625
+阳光米诺岛幼儿园·亲子园,102.691766,25.016966,,,,,,,,,,,3,39251

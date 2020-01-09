@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+渡口加油站,103.160155,24.918992,,,,,,,,,,,3,4765
+渡口加油站,103.160155,24.918792,,,,,,,,,,,3,24625

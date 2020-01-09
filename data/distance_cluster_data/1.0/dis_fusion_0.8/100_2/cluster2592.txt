@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东骏大药房宜良连锁NO．1,103.149725,24.925521,,,,,,,,,,,3,22716
+东骏大药房宜良连锁NO．1,103.149725,24.925321,,,,,,,,,,,3,42576
+蓬莱乡成人文化技术学校,103.149384,24.925777,,,,,,,,,,,3,50568

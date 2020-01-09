@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+太平蜀香苑长坡分店,102.600622,24.970075,,,,,,,,,,,1,2007
+太平蜀香苑长坡分店,102.600622,24.970275,,,,,,,,,,,1,56299

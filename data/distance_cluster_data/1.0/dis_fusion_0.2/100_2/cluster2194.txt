@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乡里人饭庄,102.75464000000001,25.07089,,,,,,,,,,,3,14216
+鸿云招待所,102.75444,25.07065,,,,,,,,,,,3,29511
+钟云庵,102.754232,25.071337,,,,,,,,,,,3,31185

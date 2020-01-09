@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省火电公司基地,102.817064,25.007783,,,,,,,,,,,1,997
+云南省火电公司基地,102.817064,25.007983,,,,,,,,,,,1,42876

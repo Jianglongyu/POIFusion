@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙栖池足浴,102.65878000000001,25.07177,,,,,,,,,,,3,22518
+津桥校外台球,102.65852,25.07186,,,,,,,,,,,3,22645

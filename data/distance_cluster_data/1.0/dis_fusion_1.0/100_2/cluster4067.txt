@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明华狮啤酒有限公司,103.042334,25.251804,,,,,,,,,,,1,3157
+昆明华狮啤酒有限公司,103.042334,25.252004,,,,,,,,,,,1,67378

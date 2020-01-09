@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+正义坊购物中心南馆,102.70362800000001,25.069499,,,,,,,,,,,1,807
+正义坊购物中心南馆,102.70362800000001,25.069699,,,,,,,,,,,1,55099

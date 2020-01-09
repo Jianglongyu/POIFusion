@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金辰办事处青龙山社区卫生服务站,102.767441,25.096405999999998,,,,,,,,,,,2,588
+金辰办事处青龙山社区卫生服务站,102.767441,25.096605999999998,,,,,,,,,,,2,54880

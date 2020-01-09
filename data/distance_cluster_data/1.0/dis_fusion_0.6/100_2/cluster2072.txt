@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县农村社会保险局,103.03519399999999,25.334270999999998,,,,,,,,,,,3,41725
+嵩明县供销合作社联合社,103.035448,25.33444,,,,,,,,,,,3,41977
+中国人民银行嵩明支行,103.035736,25.333639,,,,,,,,,,,3,42783

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国科学院昆明植物研究所,102.751007,25.140939000000003,,,,,,,,,,,1,743
+中国科学院昆明植物研究所,102.751007,25.141139000000003,,,,,,,,,,,1,42622

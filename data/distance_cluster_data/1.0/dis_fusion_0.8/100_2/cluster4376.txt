@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+加油站,102.289727,24.465515,,,,,,,,,,,3,5043
+加油站,102.289727,24.465315,,,,,,,,,,,3,24903

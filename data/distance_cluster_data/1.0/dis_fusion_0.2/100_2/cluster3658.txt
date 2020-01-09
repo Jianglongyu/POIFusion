@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市县街镇纪检委,102.418935,24.854632000000002,,,,,,,,,,,3,32190
+安宁市监察局第八监察分局,102.418935,24.854632000000002,,,,,,,,,,,3,32778

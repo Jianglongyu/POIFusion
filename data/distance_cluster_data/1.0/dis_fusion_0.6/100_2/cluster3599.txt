@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+先锋乡华星幼儿园,103.004987,25.485545000000002,,,,,,,,,,,3,45464
+先锋乡初级中学,103.005064,25.485733,,,,,,,,,,,3,45574

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金源中学,103.124655,25.868126,,,,,,,,,,,3,32820
+金源中学,103.124655,25.867926,,,,,,,,,,,3,62609

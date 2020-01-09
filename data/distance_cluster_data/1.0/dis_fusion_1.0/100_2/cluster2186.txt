@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南丰泽源植物园,102.887872,25.276285,,,,,,,,,,,1,1151
+黑龙潭寺,102.887862,25.276325,,,,,,,,,,,1,3751
+云南丰泽源植物园,102.887872,25.276485,,,,,,,,,,,1,65372
+黑龙潭寺,102.887862,25.276525,,,,,,,,,,,1,67972

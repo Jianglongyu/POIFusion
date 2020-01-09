@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨林闻老三酸菜鱼总店,103.050273,25.226131,,,,,,,,,,,1,1420
+杨林闻老三酸菜鱼总店,103.050273,25.226331,,,,,,,,,,,1,55712

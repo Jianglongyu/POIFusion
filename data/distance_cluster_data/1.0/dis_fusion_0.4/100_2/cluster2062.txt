@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世博赏石馆,102.770184,25.080976999999997,,,,,,,,,,,1,2127
+天鹿渔港(白龙路世博园),102.769231,25.080482,,,,,,,,,,,1,1956
+梅园,102.769817,25.081185,,,,,,,,,,,3,35443

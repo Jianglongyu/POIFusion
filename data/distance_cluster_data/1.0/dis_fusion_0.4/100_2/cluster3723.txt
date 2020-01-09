@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晨星幼儿园,102.903826,25.046464999999998,,,,,,,,,,,3,38541
+沙沟中心学校,102.90458100000001,25.046616,,,,,,,,,,,3,39790

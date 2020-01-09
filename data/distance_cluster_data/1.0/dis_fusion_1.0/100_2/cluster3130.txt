@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+恒安新邻居,102.704255,25.07055801,,,,,,,,,,,2,142
+恒安新邻居,102.704255,25.07075801,,,,,,,,,,,2,64363

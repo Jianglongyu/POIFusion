@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+永兆春蕾小学,102.27104200000001,25.602144,,,,,,,,,,,3,31177
+永兆春蕾小学,102.27104200000001,25.601944,,,,,,,,,,,3,60966

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国农业银行(大板桥镇西南),102.884692,25.051157,,,,,,,,,,,1,734
+宝利商务酒店,102.88525,25.05113,,,,,,,,,,,3,47385
+中国农业银行(大板桥镇西南),102.884692,25.051357,,,,,,,,,,,1,55026

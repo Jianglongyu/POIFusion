@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+健之佳健康药房,103.036964,25.336589999999998,,,,,,,,,,,3,22398
+健之佳健康药房,103.036964,25.336389999999998,,,,,,,,,,,3,52187

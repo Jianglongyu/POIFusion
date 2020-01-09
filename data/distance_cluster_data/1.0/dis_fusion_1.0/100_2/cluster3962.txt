@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+老倌箐,102.61588,25.06761,,,,,,,,,,,3,19211
+老倌箐,102.61588,25.06741,,,,,,,,,,,3,49000

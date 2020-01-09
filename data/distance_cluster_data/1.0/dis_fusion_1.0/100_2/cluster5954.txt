@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+花箐哨幼儿园,103.188101,25.509114999999998,,,,,,,,,,,3,30442
+花箐哨幼儿园,103.188101,25.508915,,,,,,,,,,,3,60231

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+满记甜品,102.731854,25.071012,,,,,,,,,,,1,2544
+鹏腾餐厅,102.73184,25.07055,,,,,,,,,,,3,12115
+云南新华医院,102.731022,25.070729,,,,,,,,,,,3,28430

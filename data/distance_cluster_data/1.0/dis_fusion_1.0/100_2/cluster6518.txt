@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南师大呈贡校区南门,102.85538199999999,24.859201,,,,,,,,,,,3,32072
+云南师大呈贡校区南门,102.85538199999999,24.859001,,,,,,,,,,,3,61861

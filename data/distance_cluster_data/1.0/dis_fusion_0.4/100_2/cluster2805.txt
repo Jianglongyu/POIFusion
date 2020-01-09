@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云铜时代年华小区公交站,102.706446,25.011377,,,,,,,,,,,1,860
+云铜时代年华小区公交站,102.706446,25.011577,,,,,,,,,,,1,42739

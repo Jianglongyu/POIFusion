@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南远安昆星奔驰,102.74770190000001,25.07143969,,,,,,,,,,,1,883
+云交羽毛球馆,102.74727,25.07099,,,,,,,,,,,3,23764
+昆明市交通管理便民服务站,102.747272,25.070988,,,,,,,,,,,3,33419

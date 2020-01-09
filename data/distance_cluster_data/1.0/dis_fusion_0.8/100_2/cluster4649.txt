@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云集福康药店,103.260587,25.433145,,,,,,,,,,,3,23355
+云集福康药店,103.260587,25.432945,,,,,,,,,,,3,43215

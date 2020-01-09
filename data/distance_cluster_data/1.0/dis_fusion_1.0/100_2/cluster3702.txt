@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仙湖缘,102.835938,24.929879,,,,,,,,,,,1,1683
+仙湖缘,102.835938,24.930079,,,,,,,,,,,1,65904

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+董家花园休闲餐厅,102.62803100000001,25.011854999999997,,,,,,,,,,,1,4086
+董家花园休闲餐厅,102.62803100000001,25.012054999999997,,,,,,,,,,,1,68307

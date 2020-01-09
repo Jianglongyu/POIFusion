@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中南云境,102.749276,24.997906,,,,,,,,,,,2,504
+中南云境,102.749276,24.998106,,,,,,,,,,,2,47703

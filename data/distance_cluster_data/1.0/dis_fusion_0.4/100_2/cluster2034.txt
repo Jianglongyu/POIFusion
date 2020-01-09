@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+润泽健康管理服务中心,102.74189,25.08426,,,,,,,,,,,3,26224
+昆明市盘龙区工商局,102.741692,25.083880999999998,,,,,,,,,,,3,36572
+云南省农村信用社ATM,102.74166,25.08373,,,,,,,,,,,3,40625

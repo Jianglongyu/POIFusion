@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水井小学,103.115713,26.124244,,,,,,,,,,,3,31244
+水井小学,103.115713,26.124044,,,,,,,,,,,3,61033

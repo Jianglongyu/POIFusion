@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明华幼儿园,102.773513,24.971726999999998,,,,,,,,,,,3,51584
+康日健门诊部,102.77414,24.972448,,,,,,,,,,,3,23436
+康日健门诊部,102.77414,24.972248,,,,,,,,,,,3,43296

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大屯卫生所,102.46906800000001,24.905926,,,,,,,,,,,3,23260
+大屯卫生所,102.46906800000001,24.905726,,,,,,,,,,,3,43120
+安宁宜康药店,102.468735,24.905704,,,,,,,,,,,3,44908

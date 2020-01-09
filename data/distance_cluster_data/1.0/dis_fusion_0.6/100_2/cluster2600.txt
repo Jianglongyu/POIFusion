@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+花香四季,102.6829019,25.08132327,,,,,,,,,,,2,156
+花香四季,102.6829019,25.081523269999998,,,,,,,,,,,2,47355

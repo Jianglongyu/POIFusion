@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+童乐幼儿园,102.600262,25.214945,,,,,,,,,,,3,32837
+童乐幼儿园,102.600262,25.214745,,,,,,,,,,,3,62626

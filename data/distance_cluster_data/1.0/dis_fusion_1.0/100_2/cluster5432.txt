@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海会寺,103.238749,25.535017999999997,,,,,,,,,,,3,28183
+海会寺,103.238749,25.534817999999998,,,,,,,,,,,3,57972

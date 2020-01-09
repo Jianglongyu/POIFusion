@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大庆完小,103.023866,25.83748,,,,,,,,,,,3,38591
+仕杰幼儿园,103.023945,25.837722,,,,,,,,,,,3,39085

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+锦大驾驶员培训有限公司,102.764013,25.061239,,,,,,,,,,,3,31319
+锦大驾驶员培训有限公司,102.764013,25.061039,,,,,,,,,,,3,61108

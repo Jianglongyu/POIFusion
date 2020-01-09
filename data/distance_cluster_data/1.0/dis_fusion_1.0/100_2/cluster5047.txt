@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+德仁堂药店,103.213948,25.198987,,,,,,,,,,,3,24909
+德仁堂药店,103.213948,25.198787,,,,,,,,,,,3,54698

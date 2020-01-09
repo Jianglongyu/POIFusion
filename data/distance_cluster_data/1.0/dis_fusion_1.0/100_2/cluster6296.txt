@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡中山驾校,102.812392,24.858555,,,,,,,,,,,3,31421
+呈贡中山驾校,102.812392,24.858355,,,,,,,,,,,3,61210

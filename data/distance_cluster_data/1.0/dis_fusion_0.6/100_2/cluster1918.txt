@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+农家菌王鸡,102.80678,25.09582,,,,,,,,,,,3,14022
+农家菌王鸡,102.80678,25.09562,,,,,,,,,,,3,26789
+锦尚农庄,102.80718,25.09573,,,,,,,,,,,3,32609
+农家生态炊锅山庄,102.80709,25.09619,,,,,,,,,,,3,32610

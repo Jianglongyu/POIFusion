@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大渔中心小学,102.799424,24.824243,,,,,,,,,,,3,32313
+大渔中心小学,102.799424,24.824043,,,,,,,,,,,3,62102

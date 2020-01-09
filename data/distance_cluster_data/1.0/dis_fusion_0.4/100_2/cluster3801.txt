@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仕家大院,102.77459,25.04221,,,,,,,,,,,3,6397
+仕家大院,102.77459,25.04201,,,,,,,,,,,3,13844

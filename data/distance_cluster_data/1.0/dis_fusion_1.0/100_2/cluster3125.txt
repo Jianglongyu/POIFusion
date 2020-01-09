@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+航空艺术港,102.91860799999999,24.944281,,,,,,,,,,,2,137
+航空艺术港,102.91860799999999,24.944481,,,,,,,,,,,2,64358

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县林业局,103.59164100000001,25.431969,,,,,,,,,,,3,29950
+马龙县林业局,103.59164100000001,25.431769,,,,,,,,,,,3,59739

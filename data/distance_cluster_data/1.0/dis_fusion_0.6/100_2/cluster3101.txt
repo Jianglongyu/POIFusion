@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+太阳历广场,102.65816,24.967679999999998,,,,,,,,,,,3,34139
+彝族村,102.65843000000001,24.967531,,,,,,,,,,,3,40767

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鑫荣农家乐,102.83919,25.08902,,,,,,,,,,,3,18803
+鑫成园,102.83834,25.08906,,,,,,,,,,,3,22147
+鑫荣农家乐,102.83919,25.088820000000002,,,,,,,,,,,3,48592
+鑫成园,102.83834,25.08886,,,,,,,,,,,3,51936

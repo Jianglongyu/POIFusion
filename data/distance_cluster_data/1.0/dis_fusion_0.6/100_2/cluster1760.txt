@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蒙古人家,102.83434,25.09386,,,,,,,,,,,3,9628
+福禄桃,102.83511,25.09423,,,,,,,,,,,3,14914
+蒙古人家,102.83434,25.09366,,,,,,,,,,,3,22395
+福禄桃,102.83511,25.09403,,,,,,,,,,,3,27681

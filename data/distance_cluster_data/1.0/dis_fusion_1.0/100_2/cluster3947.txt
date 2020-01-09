@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆铁利民小区(西南门),102.804652,25.001804,,,,,,,,,,,1,2769
+昆铁利民小区(西南门),102.804652,25.002004,,,,,,,,,,,1,66990

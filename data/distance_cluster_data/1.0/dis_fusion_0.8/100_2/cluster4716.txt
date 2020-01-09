@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂先锋店,103.03364599999999,25.494288,,,,,,,,,,,3,23670
+同济堂先锋店,103.03364599999999,25.494088,,,,,,,,,,,3,43530

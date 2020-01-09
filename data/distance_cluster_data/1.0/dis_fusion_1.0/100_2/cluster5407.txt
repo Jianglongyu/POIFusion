@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙基督教教堂,103.577003,25.4195,,,,,,,,,,,3,28132
+马龙基督教教堂,103.577003,25.4193,,,,,,,,,,,3,57921

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤凰谷大桥,102.813564,25.033561,,,,,,,,,,,1,4034
+盘龙悦康门诊部,102.813624,25.033676999999997,,,,,,,,,,,3,37461
+两面寺,102.813261,25.033519000000002,,,,,,,,,,,3,40949

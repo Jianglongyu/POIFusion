@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马可波罗空间艺术馆(东聚大厦南),102.759822,24.992342,,,,,,,,,,,1,2564
+马可波罗空间艺术馆(东聚大厦南),102.759822,24.992542,,,,,,,,,,,1,66785

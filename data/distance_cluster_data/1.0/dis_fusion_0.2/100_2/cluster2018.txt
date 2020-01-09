@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+亨德森外国语学校,102.712192,25.039959,,,,,,,,,,,3,35923
+兰州牛肉拉面,102.7131,25.039170000000002,,,,,,,,,,,3,12276
+安尼美容美发,102.71265,25.03973,,,,,,,,,,,3,20688

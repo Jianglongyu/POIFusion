@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+荣军康复医院,102.79435699999999,24.988391,,,,,,,,,,,1,2252
+荣军康复医院,102.79435699999999,24.988591,,,,,,,,,,,1,66473

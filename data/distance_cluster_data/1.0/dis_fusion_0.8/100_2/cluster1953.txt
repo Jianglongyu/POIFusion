@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雨蒙咖啡,102.752453,25.000799,,,,,,,,,,,1,1262
+星巴克(昆明机场店),102.752461,25.0008,,,,,,,,,,,1,1522
+雨蒙咖啡,102.752453,25.000999,,,,,,,,,,,1,55554
+星巴克(昆明机场店),102.752461,25.001,,,,,,,,,,,1,55814

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省电力学校,102.75145699999999,25.160837,,,,,,,,,,,1,1024
+云南省电力学校,102.75145699999999,25.161037,,,,,,,,,,,1,48223

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盘龙杨晓成诊所,102.79591500000001,25.052442,,,,,,,,,,,3,23468
+盘龙杨晓成诊所,102.79591500000001,25.052242,,,,,,,,,,,3,43328
+青龙宾馆,102.79598,25.05229,,,,,,,,,,,3,47624

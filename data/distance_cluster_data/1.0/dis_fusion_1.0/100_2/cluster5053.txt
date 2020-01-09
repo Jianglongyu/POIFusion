@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明良煤矿职工医院,103.067195,24.969532,,,,,,,,,,,3,24943
+明良煤矿职工医院,103.067195,24.969332,,,,,,,,,,,3,54732

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+哈鲜族,102.71552,25.004360000000002,,,,,,,,,,,3,26066
+小小饮吧炸鸡汉堡坊北大附中店,102.71552,25.00431,,,,,,,,,,,3,32230
+水南寺,102.715857,25.004166,,,,,,,,,,,3,47873

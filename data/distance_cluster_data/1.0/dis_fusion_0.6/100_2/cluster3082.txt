@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+游泳馆,102.69903599999999,25.08193,,,,,,,,,,,1,1274
+游泳馆,102.69903599999999,25.08213,,,,,,,,,,,1,48473

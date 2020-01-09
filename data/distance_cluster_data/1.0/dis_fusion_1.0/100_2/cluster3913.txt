@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙华寺,102.64406,25.058967000000003,,,,,,,,,,,1,2621
+龙华寺,102.64406,25.059167000000002,,,,,,,,,,,1,66842

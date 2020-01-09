@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县国税局,102.48966,25.224849,,,,,,,,,,,3,29889
+富民县国税局,102.48966,25.224649,,,,,,,,,,,3,59678

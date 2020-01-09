@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金博索道餐厅,102.77125,25.07722,,,,,,,,,,,3,8275
+索道售票处,102.771225,25.077144,,,,,,,,,,,3,27851
+金博索道餐厅,102.77125,25.07702,,,,,,,,,,,3,38064
+索道售票处,102.771225,25.076944,,,,,,,,,,,3,57640

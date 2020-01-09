@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富源会馆西江月,102.77258,25.0923,,,,,,,,,,,3,13296
+蓝天小太阳学校,102.772364,25.092188,,,,,,,,,,,3,35121

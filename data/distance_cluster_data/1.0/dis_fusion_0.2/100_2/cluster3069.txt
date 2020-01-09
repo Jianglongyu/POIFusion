@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+博康诊所,102.711573,24.970764000000003,,,,,,,,,,,3,29017
+贝迪雅幼儿园,102.71136899999999,24.971348000000003,,,,,,,,,,,3,35802

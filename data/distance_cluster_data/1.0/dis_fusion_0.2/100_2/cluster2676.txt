@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+生达新世界大药房福济堂NO．1,102.496139,24.898485,,,,,,,,,,,3,26068
+一心堂昆钢建设街连锁店,102.496448,24.898091,,,,,,,,,,,3,27405

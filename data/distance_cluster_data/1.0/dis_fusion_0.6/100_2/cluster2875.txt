@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+庄跷故城杨林分店,103.029129,25.176478,,,,,,,,,,,1,643
+庄跷故城杨林分店,103.029129,25.176678,,,,,,,,,,,1,47842

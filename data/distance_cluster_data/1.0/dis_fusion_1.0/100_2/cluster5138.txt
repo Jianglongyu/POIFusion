@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+铁冲村委会卫生室,102.819487,25.381884,,,,,,,,,,,3,25586
+铁冲村委会卫生室,102.819487,25.381684,,,,,,,,,,,3,55375

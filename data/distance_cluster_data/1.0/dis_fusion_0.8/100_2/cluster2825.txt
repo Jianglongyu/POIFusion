@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+花花世界,102.795659,24.908233,,,,,,,,,,,2,155
+花花世界,102.795659,24.908433,,,,,,,,,,,2,54447

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明福郎里会议休闲度假庄园－健身房,103.02431,25.24646,,,,,,,,,,,3,16701
+昆明福郎里会议休闲度假庄园－健身房,103.02431,25.24626,,,,,,,,,,,3,46490

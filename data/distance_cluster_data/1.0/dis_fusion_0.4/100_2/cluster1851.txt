@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康顺石坝药店,102.825417,25.005062,,,,,,,,,,,3,31868
+羽毛球馆,102.82579,25.0042,,,,,,,,,,,3,23381
+昆明小石坝同康医院,102.825801,25.004772,,,,,,,,,,,3,30046
+育星幼儿园,102.825479,25.005369,,,,,,,,,,,3,38174

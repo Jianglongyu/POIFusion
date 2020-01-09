@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁加油站,102.46781899999999,24.926652999999998,,,,,,,,,,,3,5062
+安宁加油站,102.46781899999999,24.926453,,,,,,,,,,,3,24922

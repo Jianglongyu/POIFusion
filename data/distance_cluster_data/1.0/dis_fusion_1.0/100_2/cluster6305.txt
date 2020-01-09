@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+块河小学,103.12955699999999,26.037338,,,,,,,,,,,3,31445
+块河小学,103.12955699999999,26.037138,,,,,,,,,,,3,61234

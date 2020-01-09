@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明俊发城,102.75597900000001,25.120176,,,,,,,,,,,1,3121
+昆明俊发城,102.75597900000001,25.120376,,,,,,,,,,,1,67342

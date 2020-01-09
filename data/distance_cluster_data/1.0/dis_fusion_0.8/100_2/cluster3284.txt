@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+咏春苑,102.760734,24.973514,,,,,,,,,,,1,1279
+咏春苑,102.760734,24.973714,,,,,,,,,,,1,55571

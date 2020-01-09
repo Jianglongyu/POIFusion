@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东城山庄,102.8367,24.90621,,,,,,,,,,,3,18336
+东城山庄,102.8367,24.906010000000002,,,,,,,,,,,3,48125

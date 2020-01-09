@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+庆沣祥,102.843861,24.983259,,,,,,,,,,,1,2283
+庆沣祥,102.843861,24.983459,,,,,,,,,,,1,56575

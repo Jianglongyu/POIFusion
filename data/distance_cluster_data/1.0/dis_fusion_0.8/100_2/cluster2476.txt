@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+流向连锁美业董家湾店,102.7358,25.03446,,,,,,,,,,,3,20332
+泸西正良土鸡米线,102.73575,25.03442,,,,,,,,,,,3,33268
+流向连锁美业董家湾店,102.7358,25.03426,,,,,,,,,,,3,40192

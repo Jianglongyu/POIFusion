@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+木树朗小学,103.19230999999999,26.050499,,,,,,,,,,,3,32600
+木树朗小学,103.19230999999999,26.050299,,,,,,,,,,,3,62389

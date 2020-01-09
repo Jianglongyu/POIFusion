@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县司法局大可司法所,103.239889,24.605849,,,,,,,,,,,3,42331
+大可中学,103.239536,24.606182999999998,,,,,,,,,,,3,43714

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市林业科技综合楼,102.69206,25.06822,,,,,,,,,,,3,28588
+昆明市林业科技综合楼,102.69206,25.06802,,,,,,,,,,,3,58377

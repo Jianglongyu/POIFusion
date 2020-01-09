@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双河彝族乡计划生育服务所,102.433863,24.562597,,,,,,,,,,,3,36363
+昆明市晋宁县双河乡人大主席团,102.434106,24.563205,,,,,,,,,,,3,41476

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县委宣传部,103.146636,24.911476999999998,,,,,,,,,,,3,28940
+宜良县委宣传部,103.146636,24.911277,,,,,,,,,,,3,58729

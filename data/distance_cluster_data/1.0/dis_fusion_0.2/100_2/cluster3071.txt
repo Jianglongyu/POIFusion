@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丰宁社区卫生服务中心,102.67114000000001,25.05219,,,,,,,,,,,3,29036
+一心堂二环西路连锁店,102.671138,25.052042,,,,,,,,,,,3,29307

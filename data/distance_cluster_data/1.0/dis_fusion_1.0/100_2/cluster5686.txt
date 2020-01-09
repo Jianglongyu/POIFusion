@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+会龙园食府,102.78954,24.922,,,,,,,,,,,3,13029
+会龙园食府,102.78954,24.9218,,,,,,,,,,,3,42818

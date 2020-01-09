@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+团结镇律则客运站,102.421226,25.112434,,,,,,,,,,,3,32957
+团结镇律则客运站,102.421226,25.112234,,,,,,,,,,,3,62746

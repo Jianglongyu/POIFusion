@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+玉龙村小学,103.178557,24.840764,,,,,,,,,,,3,32333
+玉龙村小学,103.178557,24.840564,,,,,,,,,,,3,62122

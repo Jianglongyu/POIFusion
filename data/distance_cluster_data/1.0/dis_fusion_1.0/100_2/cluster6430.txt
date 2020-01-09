@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆钢二小,102.509791,24.887947,,,,,,,,,,,3,31810
+昆钢二小,102.509791,24.887747,,,,,,,,,,,3,61599

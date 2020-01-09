@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+布依族寨,102.66229399999999,24.963185,,,,,,,,,,,3,27870
+布依族寨,102.66229399999999,24.962985,,,,,,,,,,,3,57659

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡区洛羊派出所,102.832898,24.902223,,,,,,,,,,,3,29145
+呈贡区洛羊派出所,102.832898,24.902023,,,,,,,,,,,3,58934

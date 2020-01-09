@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盘龙区司法局鼓楼司法所,102.718417,25.046143999999998,,,,,,,,,,,3,28973
+盘龙区司法局鼓楼司法所,102.718417,25.045944,,,,,,,,,,,3,58762

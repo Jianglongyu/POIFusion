@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+理想小镇,102.7153145,25.00291955,,,,,,,,,,,2,252
+北大附中云南实验学校,102.715427,25.003115,,,,,,,,,,,3,33631
+理想小镇,102.7153145,25.00311955,,,,,,,,,,,2,37994

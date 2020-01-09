@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+加油站,102.66605600000001,25.029735,,,,,,,,,,,3,4971
+加油站,102.66605600000001,25.029535,,,,,,,,,,,3,8281
+明波大酒店,102.66624,25.03004,,,,,,,,,,,3,30070

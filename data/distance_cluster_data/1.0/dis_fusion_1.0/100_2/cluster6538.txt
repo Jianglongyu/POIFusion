@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小叮当幼儿园,102.499501,25.214379,,,,,,,,,,,3,32156
+小叮当幼儿园,102.499501,25.214179,,,,,,,,,,,3,61945

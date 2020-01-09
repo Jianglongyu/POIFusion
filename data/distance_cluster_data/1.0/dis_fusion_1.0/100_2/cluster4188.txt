@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福保水上蔬菜公园,102.6877,24.9336,,,,,,,,,,,3,20081
+福保水上蔬菜公园,102.6877,24.9334,,,,,,,,,,,3,49870

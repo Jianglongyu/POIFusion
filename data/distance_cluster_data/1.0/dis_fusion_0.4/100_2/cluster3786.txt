@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+千弘药业公司千弘连锁NO．3,102.59436,24.668167,,,,,,,,,,,3,30833
+晋宁县乡镇企业局,102.594628,24.667417999999998,,,,,,,,,,,3,36212

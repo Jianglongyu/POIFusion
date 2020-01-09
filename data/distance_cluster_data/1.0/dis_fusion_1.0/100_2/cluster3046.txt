@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡老城小区,102.8488464,24.84241867,,,,,,,,,,,2,46
+呈贡老城小区,102.8488464,24.84261867,,,,,,,,,,,2,64267

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市长热线办,102.833807,24.877182,,,,,,,,,,,3,36161
+昆明市非税收入管理局,102.833807,24.877182,,,,,,,,,,,3,36716
+国家统计局昆明调查队,102.833807,24.877182,,,,,,,,,,,3,36717

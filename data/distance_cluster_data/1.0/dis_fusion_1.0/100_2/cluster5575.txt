@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县竹山乡纪检委,103.113411,24.570470999999998,,,,,,,,,,,3,28866
+宜良县竹山乡纪检委,103.113411,24.570270999999998,,,,,,,,,,,3,58655

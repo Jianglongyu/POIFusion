@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴隆加油站,102.593685,24.679941,,,,,,,,,,,3,5011
+兴隆加油站,102.593685,24.679741,,,,,,,,,,,3,12458
+晋宁县法院昆阳法庭,102.593301,24.68001,,,,,,,,,,,3,37245

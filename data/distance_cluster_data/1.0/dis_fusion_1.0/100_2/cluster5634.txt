@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市呈贡区质监局,102.808647,24.892220000000002,,,,,,,,,,,3,29128
+昆明市呈贡区质监局,102.808647,24.892020000000002,,,,,,,,,,,3,58917

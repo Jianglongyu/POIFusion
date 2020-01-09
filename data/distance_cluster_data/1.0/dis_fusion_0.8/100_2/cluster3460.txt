@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万达广场,102.712193,25.094938,,,,,,,,,,,1,1893
+万达广场,102.712193,25.095138,,,,,,,,,,,1,56185

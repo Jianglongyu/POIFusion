@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丽江纳西腊排骨火锅坊昆明店,102.659648,25.072929000000002,,,,,,,,,,,1,2675
+丽江纳西腊排骨火锅坊昆明店,102.659648,25.073129,,,,,,,,,,,1,56967

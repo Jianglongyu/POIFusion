@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市婚姻登记服务中心,102.48590300000001,24.924585,,,,,,,,,,,3,49048
+安宁市水土保持委员会,102.485398,24.924384,,,,,,,,,,,3,49069
+安宁市公安局水利派出所,102.485398,24.924384,,,,,,,,,,,3,49084

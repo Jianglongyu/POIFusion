@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+国茶港,102.66972,25.092892000000003,,,,,,,,,,,2,122
+国茶港,102.66972,25.093092000000002,,,,,,,,,,,2,37864

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广南卫火车站,102.895033,24.919833999999998,,,,,,,,,,,3,32947
+广南卫火车站,102.895033,24.919634,,,,,,,,,,,3,62736

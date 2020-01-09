@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乡村农家园,102.76799999999999,25.04999,,,,,,,,,,,3,14255
+昆明良方兽医有限公司,102.767833,25.050010999999998,,,,,,,,,,,3,29140

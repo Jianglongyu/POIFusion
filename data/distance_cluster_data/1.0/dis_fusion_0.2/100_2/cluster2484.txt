@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新希望白麓城,102.658443,25.102501999999998,,,,,,,,,,,2,403
+新希望白麓城,102.658443,25.102701999999997,,,,,,,,,,,2,38145

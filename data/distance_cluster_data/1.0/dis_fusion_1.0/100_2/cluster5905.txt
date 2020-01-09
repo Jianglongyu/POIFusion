@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明医药职业技术学校,103.04556600000001,25.309299,,,,,,,,,,,3,30308
+昆明医药职业技术学校,103.04556600000001,25.309099,,,,,,,,,,,3,60097

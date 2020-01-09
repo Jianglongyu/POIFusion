@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市云化小学,102.453477,24.894356,,,,,,,,,,,3,30613
+安宁市云化小学,102.453477,24.894156,,,,,,,,,,,3,60402

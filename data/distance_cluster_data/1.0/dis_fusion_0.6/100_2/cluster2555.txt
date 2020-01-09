@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池时代,102.684884,25.011817999999998,,,,,,,,,,,2,79
+滇池时代,102.684884,25.012017999999998,,,,,,,,,,,2,47278

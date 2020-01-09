@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡区职业高级中学,102.82437900000001,24.997979,,,,,,,,,,,1,3905
+官渡区职业高级中学,102.82437900000001,24.998179,,,,,,,,,,,1,68126

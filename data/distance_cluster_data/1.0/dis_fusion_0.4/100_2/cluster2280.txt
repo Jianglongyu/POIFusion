@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南工商管理学院附属中学,102.670231,25.0773,,,,,,,,,,,3,38905
+云南省司法学校西校区,102.670231,25.0773,,,,,,,,,,,3,39450
+国家基础教育实验中心外语教育研究中心外语实验学校,102.670231,25.0773,,,,,,,,,,,3,40126

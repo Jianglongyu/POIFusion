@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市西山区猫猫箐小学,102.625345,24.932343,,,,,,,,,,,3,32012
+昆明市西山区猫猫箐小学,102.625345,24.932143,,,,,,,,,,,3,61801

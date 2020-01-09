@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金沙幼儿园,102.76393900000001,25.043214000000003,,,,,,,,,,,3,30608
+金沙幼儿园,102.76393900000001,25.043014000000003,,,,,,,,,,,3,60397

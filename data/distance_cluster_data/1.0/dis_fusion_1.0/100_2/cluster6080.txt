@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池度假区实验学校,102.68405899999999,24.967046,,,,,,,,,,,3,30804
+滇池度假区实验学校,102.68405899999999,24.966846,,,,,,,,,,,3,60593

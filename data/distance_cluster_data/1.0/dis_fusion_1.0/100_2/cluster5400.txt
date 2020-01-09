@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+狄青寺,102.639913,25.05753,,,,,,,,,,,3,28096
+狄青寺,102.639913,25.05733,,,,,,,,,,,3,57885

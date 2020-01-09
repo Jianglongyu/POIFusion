@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县国税局办税服务厅,103.271279,24.764376000000002,,,,,,,,,,,3,48803
+兴隆机动车驾驶培训站,103.271372,24.763651,,,,,,,,,,,3,50044

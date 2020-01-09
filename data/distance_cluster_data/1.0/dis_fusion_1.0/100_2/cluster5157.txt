@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南羊镇卫生院,103.133629,24.846187,,,,,,,,,,,3,25717
+南羊镇卫生院,103.133629,24.845987,,,,,,,,,,,3,55506

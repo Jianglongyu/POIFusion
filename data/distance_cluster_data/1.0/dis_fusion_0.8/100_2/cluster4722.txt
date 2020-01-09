@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黎明诊所,103.270894,24.746573,,,,,,,,,,,3,23712
+黎明诊所,103.270894,24.746373000000002,,,,,,,,,,,3,43572

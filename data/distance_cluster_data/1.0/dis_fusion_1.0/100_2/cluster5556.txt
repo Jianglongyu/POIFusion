@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县交通局三月三公路管理所,103.222494,25.544651,,,,,,,,,,,3,28793
+寻甸县交通局三月三公路管理所,103.222494,25.544451000000002,,,,,,,,,,,3,58582

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雪峰饭庄,102.64448,25.10373,,,,,,,,,,,3,13212
+雪峰饭庄,102.64448,25.10353,,,,,,,,,,,3,25979

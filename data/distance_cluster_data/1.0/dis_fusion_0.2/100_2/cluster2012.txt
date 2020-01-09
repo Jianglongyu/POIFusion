@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+八仙饭庄,102.70522,25.00788,,,,,,,,,,,3,11295
+一心堂昆明前卫连锁店,102.704802,25.007614999999998,,,,,,,,,,,3,26708
+慈群诊所,102.705043,25.007768,,,,,,,,,,,3,27370

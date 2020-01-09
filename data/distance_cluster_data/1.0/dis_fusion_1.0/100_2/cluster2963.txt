@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新世纪田业美发设计室,102.67532,25.0498,,,,,,,,,,,3,20088
+贵州六盘水张傻羊肉米线NO．18,102.67508000000001,25.050079999999998,,,,,,,,,,,3,35879
+热土地傣味园,102.67505,25.05002,,,,,,,,,,,3,45521

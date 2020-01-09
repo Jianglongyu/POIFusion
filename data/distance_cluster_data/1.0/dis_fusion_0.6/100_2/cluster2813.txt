@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南经贸外事职业学院,102.609542,24.801592000000003,,,,,,,,,,,2,550
+云南经贸外事职业学院,102.609542,24.801792000000003,,,,,,,,,,,2,47749

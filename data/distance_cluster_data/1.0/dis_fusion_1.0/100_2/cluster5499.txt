@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池国家重点风景名胜区石城景区,102.58268000000001,24.800372,,,,,,,,,,,3,28324
+滇池国家重点风景名胜区石城景区,102.58268000000001,24.800172,,,,,,,,,,,3,58113

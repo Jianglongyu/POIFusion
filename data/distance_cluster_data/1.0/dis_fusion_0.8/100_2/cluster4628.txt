@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+车城餐厅,102.76485,24.99826,,,,,,,,,,,3,6852
+车城餐厅,102.76485,24.99806,,,,,,,,,,,3,26712

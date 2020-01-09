@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明世纪城(东南门),102.769671,24.980178,,,,,,,,,,,1,3067
+昆明金色池塘五分店,102.769442,24.981034,,,,,,,,,,,1,3132
+春城佳墅,102.768734,24.980169,,,,,,,,,,,1,4327

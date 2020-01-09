@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南大学,102.848703,24.827498000000002,,,,,,,,,,,3,31788
+云南大学,102.848703,24.827298000000003,,,,,,,,,,,3,61577

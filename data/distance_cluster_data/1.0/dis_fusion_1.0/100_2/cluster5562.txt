@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县检察院,102.905474,24.674146,,,,,,,,,,,3,28813
+澄江县检察院,102.905474,24.673946,,,,,,,,,,,3,58602

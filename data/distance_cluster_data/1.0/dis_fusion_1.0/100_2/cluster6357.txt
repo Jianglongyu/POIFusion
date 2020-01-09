@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡区子君中心学校,102.77950200000001,24.950851999999998,,,,,,,,,,,3,31607
+官渡区子君中心学校,102.77950200000001,24.950651999999998,,,,,,,,,,,3,61396

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨林镇大树营完全小学,103.061194,25.1833,,,,,,,,,,,3,32328
+杨林镇大树营完全小学,103.061194,25.1831,,,,,,,,,,,3,62117

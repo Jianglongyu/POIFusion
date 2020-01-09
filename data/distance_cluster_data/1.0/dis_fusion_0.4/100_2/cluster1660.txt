@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宝善台球城,102.7149,25.03696,,,,,,,,,,,3,26156
+陈余农家园,102.71398,25.03758,,,,,,,,,,,3,11794
+香圣客护国店,102.71465,25.03782,,,,,,,,,,,3,13689
+中国邮政储蓄银行护国桥支行,102.71444,25.03775,,,,,,,,,,,3,40448

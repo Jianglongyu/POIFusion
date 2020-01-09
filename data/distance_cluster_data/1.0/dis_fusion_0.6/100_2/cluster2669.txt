@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+七彩云南古滇名城,102.752028,24.775004,,,,,,,,,,,2,301
+七彩云南古滇名城,102.752028,24.775204,,,,,,,,,,,2,47500

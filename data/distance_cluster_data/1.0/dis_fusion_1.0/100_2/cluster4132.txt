@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+绿色庄园,102.84549,25.10866,,,,,,,,,,,3,19846
+绿色庄园,102.84549,25.10846,,,,,,,,,,,3,49635

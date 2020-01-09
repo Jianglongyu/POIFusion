@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+汤郎卫生院,102.278409,26.190266,,,,,,,,,,,3,23113
+汤郎卫生院,102.278409,26.190066,,,,,,,,,,,3,42973
+禄劝彝族苗族自治县公安局汤郎派出所,102.278841,26.189976,,,,,,,,,,,3,49954

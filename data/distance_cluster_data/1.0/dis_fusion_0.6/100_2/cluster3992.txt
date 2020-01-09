@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨翠仙诊所,102.494825,24.928696,,,,,,,,,,,3,37927
+鑫兴幼儿园,102.494883,24.927867000000003,,,,,,,,,,,3,44750

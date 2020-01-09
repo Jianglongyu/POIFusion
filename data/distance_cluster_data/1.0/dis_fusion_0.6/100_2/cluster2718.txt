@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新城经开区项目,102.872113,24.966374,,,,,,,,,,,2,399
+新城经开区项目,102.872113,24.966573999999998,,,,,,,,,,,2,47598

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+驴友客栈,102.69899000000001,25.05937,,,,,,,,,,,3,40005
+昆明理工大学国家大学科技园创业大厦C栋,102.69859,25.05977,,,,,,,,,,,3,41404
+真空冶金国家工程实验室,102.698087,25.05905,,,,,,,,,,,3,45348

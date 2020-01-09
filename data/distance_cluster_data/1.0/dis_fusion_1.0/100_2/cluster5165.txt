@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+戚守坤骨伤科诊所,102.598128,24.674148,,,,,,,,,,,3,25795
+戚守坤骨伤科诊所,102.598128,24.673948,,,,,,,,,,,3,55584

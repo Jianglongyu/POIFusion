@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡斗南正飞花卉,102.797022,24.907316,,,,,,,,,,,1,4371
+呈贡斗南正飞花卉,102.797022,24.907516,,,,,,,,,,,1,68592

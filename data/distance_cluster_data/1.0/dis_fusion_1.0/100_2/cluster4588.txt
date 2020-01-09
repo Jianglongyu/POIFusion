@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金桥人家,102.65609,25.15673,,,,,,,,,,,3,21308
+金桥人家,102.65609,25.15653,,,,,,,,,,,3,51097

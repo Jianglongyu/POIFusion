@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石化服务区加油站,102.466427,25.284851999999997,,,,,,,,,,,3,4957
+石化服务区加油站,102.466427,25.284651999999998,,,,,,,,,,,3,12404

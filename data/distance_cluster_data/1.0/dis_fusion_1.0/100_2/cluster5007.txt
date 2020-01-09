@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+极寿堂药房,102.48881300000001,24.930799,,,,,,,,,,,3,24487
+极寿堂药房,102.48881300000001,24.930599,,,,,,,,,,,3,54276

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鑫源美容养生会所,102.75237,25.03051,,,,,,,,,,,3,23692
+金马万泰社区卫生站,102.75184300000001,25.030962,,,,,,,,,,,3,31397
+东骏大药房东骧神骏连锁店,102.751974,25.030597,,,,,,,,,,,3,31455

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆阳快乐宝贝幼儿园,102.587906,24.674142,,,,,,,,,,,3,32095
+昆阳快乐宝贝幼儿园,102.587906,24.673942,,,,,,,,,,,3,61884

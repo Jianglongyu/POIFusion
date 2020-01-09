@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+为尔康平价药房,103.04632,26.370219,,,,,,,,,,,3,29257
+拖布卡镇春苗幼儿园,103.046921,26.370573999999998,,,,,,,,,,,3,34575

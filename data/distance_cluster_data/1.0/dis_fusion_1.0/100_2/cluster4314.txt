@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大板桥镇公交站,102.887913,25.051792000000003,,,,,,,,,,,1,4286
+大板桥镇公交站,102.887913,25.051992000000002,,,,,,,,,,,1,68507

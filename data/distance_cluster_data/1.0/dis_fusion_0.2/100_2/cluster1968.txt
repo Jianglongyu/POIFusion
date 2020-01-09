@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+螺蛳湾国际商贸城北公交站,102.783351,24.962475,,,,,,,,,,,1,2587
+义路加油站,102.78326700000001,24.962513,,,,,,,,,,,3,4688
+义路加油站,102.78326700000001,24.962313,,,,,,,,,,,3,7998

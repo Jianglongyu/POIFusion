@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南汽车修理一厂,102.63909699999999,25.01861,,,,,,,,,,,1,1052
+云南汽车修理一厂,102.63909699999999,25.01881,,,,,,,,,,,1,48251

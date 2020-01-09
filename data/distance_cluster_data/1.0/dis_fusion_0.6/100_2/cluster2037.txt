@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+溪麓南郡,102.78486690000001,25.09703534,,,,,,,,,,,2,391
+大型动物表演场,102.784003,25.097337,,,,,,,,,,,3,40774
+溪麓南郡,102.78486690000001,25.09723534,,,,,,,,,,,2,47590

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明经开区华丰普照药店,102.803214,24.9887,,,,,,,,,,,3,35257
+普照村委会社区卫生站,102.803499,24.988166,,,,,,,,,,,3,36765
+官渡农村合作银行普照分理处,102.80320999999999,24.988870000000002,,,,,,,,,,,3,46613

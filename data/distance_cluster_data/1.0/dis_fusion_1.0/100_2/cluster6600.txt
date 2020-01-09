@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县海潮幼儿园,103.119167,25.254279999999998,,,,,,,,,,,3,32327
+嵩明县海潮幼儿园,103.119167,25.25408,,,,,,,,,,,3,62116

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市传染医院,102.58991800000001,24.953516,,,,,,,,,,,3,35175
+昆明结核病防治院,102.58991800000001,24.953516,,,,,,,,,,,3,35713
+昆明慢性阻塞性肺病康复治疗中心,102.58991800000001,24.953516,,,,,,,,,,,3,38925

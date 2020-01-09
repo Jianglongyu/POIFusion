@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中航·驼峰私人飞机俱乐部,102.72474,24.951249999999998,,,,,,,,,,,3,21935
+中航·驼峰私人飞机俱乐部,102.72474,24.95105,,,,,,,,,,,3,41795

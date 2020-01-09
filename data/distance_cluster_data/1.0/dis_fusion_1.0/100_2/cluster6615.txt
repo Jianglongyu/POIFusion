@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北羊街中学,103.181821,25.06139,,,,,,,,,,,3,32366
+北羊街中学,103.181821,25.06119,,,,,,,,,,,3,62155

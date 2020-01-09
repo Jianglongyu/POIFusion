@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新靓颜美容院,102.73104000000001,25.03381,,,,,,,,,,,3,18916
+新靓颜美容院,102.73104000000001,25.03361,,,,,,,,,,,3,38776

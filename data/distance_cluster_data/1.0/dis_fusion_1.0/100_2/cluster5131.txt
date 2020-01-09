@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红福缘,103.05421,25.24565,,,,,,,,,,,3,9141
+红福缘,103.05421,25.24545,,,,,,,,,,,3,38930

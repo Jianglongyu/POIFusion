@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+德茂井基督教堂,102.620664,25.863998000000002,,,,,,,,,,,3,40978
+尚佳药店,102.620796,25.863024,,,,,,,,,,,3,35463
+太阳鸟药业公司恒泰大药房,102.620641,25.863848,,,,,,,,,,,3,38598

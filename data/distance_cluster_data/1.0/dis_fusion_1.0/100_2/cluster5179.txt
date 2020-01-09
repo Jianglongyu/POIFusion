@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+经开区小新册保健门诊,102.838515,24.899766,,,,,,,,,,,3,25887
+经开区小新册保健门诊,102.838515,24.899566,,,,,,,,,,,3,55676

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+果林小学,102.843006,24.955923000000002,,,,,,,,,,,3,32338
+果林小学,102.843006,24.955723000000003,,,,,,,,,,,3,62127

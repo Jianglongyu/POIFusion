@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+团结镇花红园卫生所,102.608323,25.05239,,,,,,,,,,,3,23435
+团结镇花红园卫生所,102.608323,25.05219,,,,,,,,,,,3,53224

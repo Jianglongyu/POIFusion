@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+恒瑞商业中心,102.74614,25.01269,,,,,,,,,,,3,28661
+恒瑞商业中心,102.74614,25.01249,,,,,,,,,,,3,58450

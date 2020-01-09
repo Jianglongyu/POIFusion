@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县工商局杨桥工商所,103.051912,25.307837,,,,,,,,,,,3,48675
+嵩明一品堂药房,103.050919,25.306988,,,,,,,,,,,3,45990
+天佑幼儿园,103.051478,25.307559,,,,,,,,,,,3,51599

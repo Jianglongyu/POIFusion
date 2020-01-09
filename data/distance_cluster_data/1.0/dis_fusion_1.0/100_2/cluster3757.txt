@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+团结镇,102.54046899999999,25.084266,,,,,,,,,,,1,1909
+团结镇,102.54046899999999,25.084466,,,,,,,,,,,1,66130

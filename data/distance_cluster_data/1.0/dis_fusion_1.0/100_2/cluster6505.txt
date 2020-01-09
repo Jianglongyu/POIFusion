@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市委党校,102.778327,25.046457,,,,,,,,,,,3,32017
+昆明市委党校,102.778327,25.046257,,,,,,,,,,,3,61806

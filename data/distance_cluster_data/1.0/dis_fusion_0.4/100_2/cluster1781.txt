@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+德莱客,102.86092,24.86301,,,,,,,,,,,3,21654
+地下铁,102.86102,24.86363,,,,,,,,,,,3,22606
+大拇指休闲小站,102.86092,24.86295,,,,,,,,,,,3,22824
+富滇银行ATM,102.86121,24.86294,,,,,,,,,,,3,41584

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北大资源颐和1898,102.720219,24.93672,,,,,,,,,,,2,25
+北大资源颐和1898,102.720219,24.93692,,,,,,,,,,,2,64246

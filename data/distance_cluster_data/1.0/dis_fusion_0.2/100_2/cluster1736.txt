@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+国云饭店,102.83921,24.90097,,,,,,,,,,,3,7189
+国云饭店,102.83921,24.90077,,,,,,,,,,,3,10499
+瑞源川菜馆,102.83945,24.90069,,,,,,,,,,,3,14274
+迎龙寺,102.839919,24.90054,,,,,,,,,,,3,31530

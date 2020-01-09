@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县郑和大益希望小学,102.563878,24.708894,,,,,,,,,,,3,30359
+晋宁县郑和大益希望小学,102.563878,24.708694,,,,,,,,,,,3,60148

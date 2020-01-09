@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新圆春物流城,102.738552,24.979710999999998,,,,,,,,,,,1,1545
+新圆春物流城,102.738552,24.979910999999998,,,,,,,,,,,1,65766

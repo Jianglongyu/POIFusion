@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明第十八中学,102.599999,24.797248,,,,,,,,,,,2,533
+昆明第十八中学,102.599999,24.797448,,,,,,,,,,,2,47732

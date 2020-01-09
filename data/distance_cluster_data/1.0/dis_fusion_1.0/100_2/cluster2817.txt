@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明机务段,102.788576,25.003009,,,,,,,,,,,3,30072
+青龙文武学校,102.787964,25.002789,,,,,,,,,,,3,32019
+昆明机务段,102.788576,25.002809,,,,,,,,,,,3,59861
+青龙文武学校,102.787964,25.002589,,,,,,,,,,,3,61808

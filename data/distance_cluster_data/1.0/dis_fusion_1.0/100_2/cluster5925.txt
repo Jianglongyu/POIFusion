@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+山脚完全小学,103.02348,25.352912,,,,,,,,,,,3,30360
+山脚完全小学,103.02348,25.352712,,,,,,,,,,,3,60149

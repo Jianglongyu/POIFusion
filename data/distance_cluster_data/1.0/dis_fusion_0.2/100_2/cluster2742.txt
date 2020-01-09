@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+七甸康复诊所,102.947047,24.95249,,,,,,,,,,,3,26475
+农村信用社七甸信用社,102.94703,24.952560000000002,,,,,,,,,,,3,37154

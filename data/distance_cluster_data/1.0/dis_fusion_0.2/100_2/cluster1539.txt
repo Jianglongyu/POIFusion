@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+我家餐桌,102.68034,25.04259,,,,,,,,,,,3,18201
+精顶发艺,102.68005,25.042460000000002,,,,,,,,,,,3,20599
+抚正康体堂,102.68024,25.04255,,,,,,,,,,,3,21666
+俏丽美容中心,102.67957,25.04223,,,,,,,,,,,3,21667

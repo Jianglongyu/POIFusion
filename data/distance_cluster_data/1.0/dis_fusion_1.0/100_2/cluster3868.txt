@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+农工商超市(康复路店),102.722053,24.972262,,,,,,,,,,,1,2396
+农工商超市(康复路店),102.722053,24.972462,,,,,,,,,,,1,66617

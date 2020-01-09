@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+长春苑小区,102.808882,25.000795999999998,,,,,,,,,,,1,833
+长春苑小区,102.808882,25.000995999999997,,,,,,,,,,,1,65054

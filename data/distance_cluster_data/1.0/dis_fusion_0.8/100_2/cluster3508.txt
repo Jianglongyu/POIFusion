@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水木清华,102.7705,24.955222,,,,,,,,,,,1,2068
+水木清华,102.7705,24.955422,,,,,,,,,,,1,56360

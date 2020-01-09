@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云波五社新村,102.74865,25.085683,,,,,,,,,,,1,1223
+一锅,102.748689,25.085202,,,,,,,,,,,1,1397
+云波五社新村,102.74865,25.085883,,,,,,,,,,,1,65444
+一锅,102.748689,25.085402,,,,,,,,,,,1,65618

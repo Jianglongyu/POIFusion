@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+傣家风情园,102.754304,25.012998,,,,,,,,,,,1,4222
+傣家风情园,102.754304,25.013198,,,,,,,,,,,1,68443

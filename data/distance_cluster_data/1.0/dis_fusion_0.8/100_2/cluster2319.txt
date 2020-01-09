@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+美莎发屋,102.73773,25.14495,,,,,,,,,,,3,41512
+温馨招待所,102.73779,25.144920000000003,,,,,,,,,,,3,46321
+永华客房部,102.73738,25.14485,,,,,,,,,,,3,47375

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南工商学院,103.01021999999999,25.246466,,,,,,,,,,,1,1146
+云南工商学院,103.01021999999999,25.246666,,,,,,,,,,,1,65367

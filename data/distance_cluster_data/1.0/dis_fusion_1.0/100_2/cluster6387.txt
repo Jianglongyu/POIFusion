@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+可乐小学,102.795005,24.870232,,,,,,,,,,,3,31688
+可乐小学,102.795005,24.870032000000002,,,,,,,,,,,3,61477

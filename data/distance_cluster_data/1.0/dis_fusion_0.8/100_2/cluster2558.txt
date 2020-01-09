@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+老边民小吃,102.63758,25.03343,,,,,,,,,,,3,13461
+阿芬绝对牛清真小吃,102.63721,25.03249,,,,,,,,,,,3,13183
+老边民小吃,102.63758,25.03323,,,,,,,,,,,3,33321

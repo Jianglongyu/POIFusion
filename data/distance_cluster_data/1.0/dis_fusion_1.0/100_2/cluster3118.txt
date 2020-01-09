@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+河北医科大学中医药研究所高血压糖尿病研究所,103.035093,25.338145,,,,,,,,,,,3,32896
+河北医科大学中医药研究所高血压糖尿病研究所,103.035093,25.337945,,,,,,,,,,,3,62685

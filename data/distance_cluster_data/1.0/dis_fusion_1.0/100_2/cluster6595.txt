@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市第三中学,102.837678,24.885170000000002,,,,,,,,,,,3,32318
+昆明市第三中学,102.837678,24.884970000000003,,,,,,,,,,,3,62107

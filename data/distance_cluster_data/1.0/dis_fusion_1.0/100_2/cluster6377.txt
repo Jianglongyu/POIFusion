@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县红苹果幼儿园分园,103.043146,25.290622,,,,,,,,,,,3,31664
+嵩明县红苹果幼儿园分园,103.043146,25.290422,,,,,,,,,,,3,61453

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+佳敏美容养生,102.76045,24.9488,,,,,,,,,,,3,22524
+中国银行ATM,102.76006,24.948539999999998,,,,,,,,,,,3,37450

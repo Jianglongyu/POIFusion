@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+梅苑餐厅,102.74728,25.13938,,,,,,,,,,,3,15729
+梅苑餐厅,102.74728,25.13918,,,,,,,,,,,3,35589
+龙观泉,102.74818,25.139471,,,,,,,,,,,3,47917

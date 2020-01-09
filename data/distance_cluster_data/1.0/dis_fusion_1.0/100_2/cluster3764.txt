@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天怡峰景花园小区,102.752126,25.089151,,,,,,,,,,,1,1942
+天怡峰景花园小区,102.752126,25.089351,,,,,,,,,,,1,66163

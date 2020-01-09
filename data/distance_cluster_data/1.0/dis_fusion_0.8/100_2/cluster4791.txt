@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仁杏堂中西诊所,103.278633,24.764729,,,,,,,,,,,3,24074
+仁杏堂中西诊所,103.278633,24.764529,,,,,,,,,,,3,43934

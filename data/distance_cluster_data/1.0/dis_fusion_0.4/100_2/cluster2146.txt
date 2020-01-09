@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝县云龙乡纪检委,102.426592,25.843864,,,,,,,,,,,3,36471
+云龙乡社区卫生院,102.427192,25.842537,,,,,,,,,,,3,33115
+禄劝彝族苗族自治县公安局云龙派出所,102.426851,25.843081,,,,,,,,,,,3,36538

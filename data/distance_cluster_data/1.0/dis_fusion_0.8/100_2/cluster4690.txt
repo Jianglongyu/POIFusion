@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+唤醒楼,102.636247,25.025559,,,,,,,,,,,3,48097
+世纪双语幼儿园马街分园,102.636593,25.026165,,,,,,,,,,,3,50021

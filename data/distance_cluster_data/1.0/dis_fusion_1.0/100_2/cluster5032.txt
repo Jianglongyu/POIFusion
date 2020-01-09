@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+二郎田鸡月牙谭店,102.72055999999999,25.09023,,,,,,,,,,,3,8433
+二郎田鸡月牙谭店,102.72055999999999,25.09003,,,,,,,,,,,3,38222

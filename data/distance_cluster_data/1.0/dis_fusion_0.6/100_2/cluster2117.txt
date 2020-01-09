@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南驰泰汽车销售服务有限公司,102.692415,24.993719,,,,,,,,,,,1,1180
+昆明市政府三幼培奇分园,102.692807,24.993622,,,,,,,,,,,3,43555
+云南驰泰汽车销售服务有限公司,102.692415,24.993918999999998,,,,,,,,,,,1,48379

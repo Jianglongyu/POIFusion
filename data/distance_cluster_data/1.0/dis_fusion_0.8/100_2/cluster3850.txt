@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水云山庄,102.8605,25.00028,,,,,,,,,,,3,19781
+水云山庄,102.8605,25.00008,,,,,,,,,,,3,39641

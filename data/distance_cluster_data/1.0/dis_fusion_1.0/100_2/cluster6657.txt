@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+七星中学,103.33385,25.529706,,,,,,,,,,,3,32539
+七星中学,103.33385,25.529506,,,,,,,,,,,3,62328

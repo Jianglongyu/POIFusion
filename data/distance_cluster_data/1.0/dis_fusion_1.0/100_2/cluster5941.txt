@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县长湖镇豆黑小学,103.369605,24.683474,,,,,,,,,,,3,30414
+石林县长湖镇豆黑小学,103.369605,24.683274,,,,,,,,,,,3,60203

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丽江市古城区,102.735885,24.966770999999998,,,,,,,,,,,1,2673
+丽江市古城区,102.735885,24.966970999999997,,,,,,,,,,,1,56965

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国滇池花田国际度假区,102.768704,24.897123999999998,,,,,,,,,,,2,486
+中国滇池花田国际度假区,102.768704,24.897323999999998,,,,,,,,,,,2,42365

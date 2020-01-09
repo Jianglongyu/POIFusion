@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明西亚大酒店,102.86655999999999,24.96971,,,,,,,,,,,3,27756
+昆明西亚大酒店,102.86655999999999,24.96951,,,,,,,,,,,3,57545

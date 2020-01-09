@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+虹鳟鱼城,102.777727,25.095226,,,,,,,,,,,1,3701
+虹鳟鱼城,102.777727,25.095426,,,,,,,,,,,1,67922

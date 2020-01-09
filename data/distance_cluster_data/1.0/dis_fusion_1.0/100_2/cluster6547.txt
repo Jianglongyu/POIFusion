@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤山小学北院,102.919296,24.674547,,,,,,,,,,,3,32180
+凤山小学北院,102.919296,24.674347,,,,,,,,,,,3,61969

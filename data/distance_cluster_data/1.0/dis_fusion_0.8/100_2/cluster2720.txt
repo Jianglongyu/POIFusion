@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+从小桥豆花米线,102.71536,25.02825,,,,,,,,,,,3,7917
+从小桥豆花米线,102.71536,25.02805,,,,,,,,,,,3,27777
+好人家健康药房双龙桥路店,102.715393,25.028083,,,,,,,,,,,3,44989

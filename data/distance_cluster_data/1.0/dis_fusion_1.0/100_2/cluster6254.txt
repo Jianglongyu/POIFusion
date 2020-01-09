@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+月湖办事处小学,103.43414200000001,24.831498999999997,,,,,,,,,,,3,31290
+月湖办事处小学,103.43414200000001,24.831298999999998,,,,,,,,,,,3,61079

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+团结镇和平村公交站,102.565999,25.075356,,,,,,,,,,,1,1907
+团结镇和平村公交站,102.565999,25.075556,,,,,,,,,,,1,66128

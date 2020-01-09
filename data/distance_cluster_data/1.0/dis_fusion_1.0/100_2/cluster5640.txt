@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县交通局,102.917633,24.673924,,,,,,,,,,,3,29153
+澄江县交通局,102.917633,24.673724,,,,,,,,,,,3,58942

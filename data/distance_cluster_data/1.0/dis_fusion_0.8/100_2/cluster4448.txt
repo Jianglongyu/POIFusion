@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+谭氏重庆石锅鱼,102.68563,25.01972,,,,,,,,,,,3,13396
+谭氏重庆石锅鱼,102.68563,25.01952,,,,,,,,,,,3,33256

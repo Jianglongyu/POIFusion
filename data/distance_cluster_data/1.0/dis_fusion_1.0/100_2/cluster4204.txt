@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西西,102.84414,24.8413,,,,,,,,,,,3,20164
+西西,102.84414,24.8411,,,,,,,,,,,3,49953

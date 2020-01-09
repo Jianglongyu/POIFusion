@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明北车辆段,102.772028,25.010248,,,,,,,,,,,3,28718
+昆明北车辆段,102.772028,25.010048,,,,,,,,,,,3,58507

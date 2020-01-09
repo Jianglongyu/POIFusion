@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县监察局,102.51548199999999,25.220059,,,,,,,,,,,3,29040
+富民县监察局,102.51548199999999,25.219859,,,,,,,,,,,3,58829

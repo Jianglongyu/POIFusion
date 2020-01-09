@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雪山中学,102.808898,26.139953,,,,,,,,,,,3,30863
+雪山中学,102.808898,26.139753,,,,,,,,,,,3,60652

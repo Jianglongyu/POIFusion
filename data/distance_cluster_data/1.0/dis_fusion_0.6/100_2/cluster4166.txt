@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+厨语餐厅,102.57522,24.90279,,,,,,,,,,,3,6993
+厨语餐厅,102.57522,24.90259,,,,,,,,,,,3,19760

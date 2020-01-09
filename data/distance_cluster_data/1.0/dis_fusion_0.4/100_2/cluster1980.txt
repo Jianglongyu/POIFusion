@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华建传速网吧,102.7675,24.97735,,,,,,,,,,,3,25484
+鑫泰动漫城,102.76754,24.97737,,,,,,,,,,,3,26808
+昆明官渡农村合作银行ATM,102.76756999999999,24.977339999999998,,,,,,,,,,,3,41591

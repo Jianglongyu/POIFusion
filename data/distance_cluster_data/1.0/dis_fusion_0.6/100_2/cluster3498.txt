@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华都花园(南门),102.718574,24.979835,,,,,,,,,,,1,3661
+昆明市官渡区交通运输局,102.718874,24.979078,,,,,,,,,,,3,41885

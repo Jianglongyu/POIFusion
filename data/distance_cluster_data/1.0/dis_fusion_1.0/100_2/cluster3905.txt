@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙头街回族餐厅,102.748281,25.133211,,,,,,,,,,,1,2606
+龙头街回族餐厅,102.748281,25.133411,,,,,,,,,,,1,66827

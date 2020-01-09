@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明铁路局会议中心－8号楼,102.66450999999999,24.9723,,,,,,,,,,,3,5353
+昆明铁路局会议中心－8号楼,102.66450999999999,24.9721,,,,,,,,,,,3,12800
+昆明航天疗养院,102.66471,24.972479999999997,,,,,,,,,,,3,35127

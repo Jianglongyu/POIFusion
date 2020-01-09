@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省农村信用社ATM,102.91893,24.95855,,,,,,,,,,,3,34330
+云南省农村信用社ATM,102.91893,24.95835,,,,,,,,,,,3,64119

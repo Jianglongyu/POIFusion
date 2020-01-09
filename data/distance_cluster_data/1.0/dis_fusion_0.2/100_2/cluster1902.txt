@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+农家大院NO．1,102.63419,25.03831,,,,,,,,,,,3,18291
+洪来居农家乐,102.63405999999999,25.037879999999998,,,,,,,,,,,3,25234
+童馨阳光幼儿园,102.634817,25.038611,,,,,,,,,,,3,34535

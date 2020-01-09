@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市行政学院,102.777091,25.04621,,,,,,,,,,,3,30505
+昆明市行政学院,102.777091,25.04601,,,,,,,,,,,3,60294

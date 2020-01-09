@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+土官中心学校,102.195971,24.949507,,,,,,,,,,,3,31062
+土官中心学校,102.195971,24.949307,,,,,,,,,,,3,60851

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新营小学,103.132176,25.276774,,,,,,,,,,,3,32543
+新营小学,103.132176,25.276574,,,,,,,,,,,3,62332

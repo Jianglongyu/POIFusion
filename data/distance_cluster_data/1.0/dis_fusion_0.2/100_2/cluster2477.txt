@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西翥园,102.66950229999999,25.0438633,,,,,,,,,,,2,389
+西翥园,102.66950229999999,25.0440633,,,,,,,,,,,2,38131

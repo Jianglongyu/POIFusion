@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+关景路公交站,102.757999,25.012129,,,,,,,,,,,1,3929
+关景路公交站,102.757999,25.012329,,,,,,,,,,,1,68150

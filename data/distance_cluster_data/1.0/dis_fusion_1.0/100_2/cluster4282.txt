@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇菌王,102.750244,25.017671,,,,,,,,,,,1,4150
+滇菌王,102.750244,25.017871,,,,,,,,,,,1,68371

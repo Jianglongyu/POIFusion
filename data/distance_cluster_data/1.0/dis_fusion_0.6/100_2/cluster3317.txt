@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县昆阳镇古城医院,102.590422,24.733497,,,,,,,,,,,3,35192
+古城镇恢厂幼儿园,102.591131,24.733467,,,,,,,,,,,3,43722

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨氏中医馆,102.470795,25.556801999999998,,,,,,,,,,,3,36946
+禄劝县畜牧兽医局,102.470109,25.557144,,,,,,,,,,,3,42011
+创想电脑学习中心,102.470062,25.556310999999997,,,,,,,,,,,3,43820

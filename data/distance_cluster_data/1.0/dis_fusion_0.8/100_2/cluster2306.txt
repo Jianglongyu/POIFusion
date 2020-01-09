@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+琳荷养生会所,102.69894000000001,24.950879999999998,,,,,,,,,,,3,41311
+凤合宾馆,102.69865,24.95048,,,,,,,,,,,3,46766
+银湖宾馆,102.69844,24.95022,,,,,,,,,,,3,46869

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝彝族苗族自治县国土局九龙国土所,102.799019,25.74285,,,,,,,,,,,3,28814
+禄劝彝族苗族自治县国土局九龙国土所,102.799019,25.74265,,,,,,,,,,,3,58603

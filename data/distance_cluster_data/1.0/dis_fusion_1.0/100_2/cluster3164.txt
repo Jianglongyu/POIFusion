@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+王家营西站,102.82493000000001,24.918364999999998,,,,,,,,,,,3,32941
+王家营西站,102.82493000000001,24.918165,,,,,,,,,,,3,62730

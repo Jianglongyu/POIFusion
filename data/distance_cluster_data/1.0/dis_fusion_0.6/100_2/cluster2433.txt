@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+有谷煮品,102.80053000000001,24.85584,,,,,,,,,,,3,14032
+有谷煮品,102.80053000000001,24.85564,,,,,,,,,,,3,26799
+星辰公园,102.80011,24.855520000000002,,,,,,,,,,,3,34345

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杰莉冷饮店,102.63679,25.04948,,,,,,,,,,,3,7622
+杰莉冷饮店,102.63679,25.04928,,,,,,,,,,,3,10932
+佳易网吧,102.63672,25.049220000000002,,,,,,,,,,,3,21554

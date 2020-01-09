@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇源生态鱼庄,102.87397,25.26425,,,,,,,,,,,3,19281
+滇源生态鱼庄,102.87397,25.26405,,,,,,,,,,,3,39141

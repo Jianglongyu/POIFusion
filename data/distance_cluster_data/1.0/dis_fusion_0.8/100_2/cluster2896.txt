@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南天门,102.7311437,24.99679668,,,,,,,,,,,2,294
+南天门,102.7311437,24.99699668,,,,,,,,,,,2,54586

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝基督教会址教堂,102.460071,25.552707,,,,,,,,,,,3,28299
+禄劝基督教会址教堂,102.460071,25.552507000000002,,,,,,,,,,,3,58088

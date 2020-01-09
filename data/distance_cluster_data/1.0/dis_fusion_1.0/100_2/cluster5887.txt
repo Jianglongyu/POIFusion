@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡新区（县）老年大学洛龙街道分校洛龙社区校点,102.826263,24.893882,,,,,,,,,,,3,30266
+呈贡新区（县）老年大学洛龙街道分校洛龙社区校点,102.826263,24.893682000000002,,,,,,,,,,,3,60055

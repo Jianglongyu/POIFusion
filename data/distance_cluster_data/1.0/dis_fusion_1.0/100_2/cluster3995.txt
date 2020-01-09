@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明唐韵大酒店(新螺蛳湾店),102.781688,24.948653,,,,,,,,,,,1,2904
+昆明唐韵大酒店(新螺蛳湾店),102.781688,24.948853,,,,,,,,,,,1,67125

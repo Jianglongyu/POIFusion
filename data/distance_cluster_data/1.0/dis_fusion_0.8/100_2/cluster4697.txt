@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普济寺,102.756424,25.142073999999997,,,,,,,,,,,3,48136
+地藏宝殿,102.756424,25.142073999999997,,,,,,,,,,,3,48152

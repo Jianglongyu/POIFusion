@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明老字号羊肉馆,102.87314,25.0442,,,,,,,,,,,3,7907
+嵩明老字号羊肉馆,102.87314,25.044,,,,,,,,,,,3,15354

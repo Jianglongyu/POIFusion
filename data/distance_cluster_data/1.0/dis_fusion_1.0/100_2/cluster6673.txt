@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区汤丹镇中心学校,103.066311,26.187008,,,,,,,,,,,3,32562
+东川区汤丹镇中心学校,103.066311,26.186808,,,,,,,,,,,3,62351

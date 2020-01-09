@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天山牧羊庄,102.6979,24.94416,,,,,,,,,,,3,5624
+永昌驴肉馆,102.69819,24.94386,,,,,,,,,,,3,11673
+天山牧羊庄,102.6979,24.94396,,,,,,,,,,,3,25484
+永昌驴肉馆,102.69819,24.94366,,,,,,,,,,,3,31533

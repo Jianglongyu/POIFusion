@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金福源餐馆,102.92684,25.18701,,,,,,,,,,,3,7113
+金福源餐馆,102.92684,25.18681,,,,,,,,,,,3,19880

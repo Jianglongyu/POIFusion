@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁贸易公司大药房金方店,102.485268,24.923294,,,,,,,,,,,3,24051
+安宁贸易公司大药房金方店,102.485268,24.923094,,,,,,,,,,,3,43911
+安宁市卫生局,102.484987,24.922647,,,,,,,,,,,3,48810

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新潭二号路加油站,102.84576,24.911947,,,,,,,,,,,3,5097
+新潭二号路加油站,102.84576,24.911747000000002,,,,,,,,,,,3,12544

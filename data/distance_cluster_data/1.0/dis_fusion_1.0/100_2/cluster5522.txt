@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金柯洪秀园沙朗NO．2,102.67051,25.11544,,,,,,,,,,,3,12024
+金柯洪秀园沙朗NO．2,102.67051,25.11524,,,,,,,,,,,3,41813

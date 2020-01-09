@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县食品药品监督管理局,103.262876,24.759901,,,,,,,,,,,3,29869
+石林县食品药品监督管理局,103.262876,24.759701,,,,,,,,,,,3,59658

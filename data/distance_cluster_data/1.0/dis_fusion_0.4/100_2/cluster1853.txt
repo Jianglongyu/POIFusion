@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四川老坛酸萝卜乌江鱼,102.57581,24.95596,,,,,,,,,,,3,7386
+味上佳餐厅,102.57582,24.95583,,,,,,,,,,,3,12068
+四川老坛酸萝卜乌江鱼,102.57581,24.95576,,,,,,,,,,,3,14833
+味上佳餐厅,102.57582,24.95563,,,,,,,,,,,3,19515

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凌波社区卫生站,102.504649,24.886681,,,,,,,,,,,3,23140
+凌波社区卫生站,102.504649,24.886481,,,,,,,,,,,3,43000

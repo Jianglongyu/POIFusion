@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县公安局交警大队,102.596725,24.659253,,,,,,,,,,,3,29494
+晋宁县公安局交警大队,102.596725,24.659053,,,,,,,,,,,3,59283

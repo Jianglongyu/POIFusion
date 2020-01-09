@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南工程职业学院,102.45435,24.941246,,,,,,,,,,,3,30231
+云南工程职业学院,102.45435,24.941046,,,,,,,,,,,3,60020

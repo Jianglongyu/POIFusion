@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+渔村农家,102.65034,24.79916,,,,,,,,,,,3,18608
+渔村农家,102.65034,24.79896,,,,,,,,,,,3,48397

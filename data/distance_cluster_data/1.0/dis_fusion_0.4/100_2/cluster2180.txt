@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧鸡关公交站,102.62266,24.993617999999998,,,,,,,,,,,1,4433
+云南新华电脑学院,102.62347199999999,24.992908,,,,,,,,,,,1,917
+云南新华电脑学院,102.62347199999999,24.993108,,,,,,,,,,,1,42796

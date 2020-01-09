@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县人民医院－急诊科,103.254191,25.562504999999998,,,,,,,,,,,3,35169
+寻甸县依院平价大药房,103.254403,25.562267000000002,,,,,,,,,,,3,35533

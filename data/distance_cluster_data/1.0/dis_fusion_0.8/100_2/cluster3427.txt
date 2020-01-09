@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五戒寺,102.792149,24.986639,,,,,,,,,,,1,1772
+五戒寺,102.792149,24.986839,,,,,,,,,,,1,56064

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+虹山幼儿园,102.679563,25.058585,,,,,,,,,,,3,50177
+昆明市虹山派出所,102.678474,25.059264000000002,,,,,,,,,,,3,49257
+云南省测绘工程院,102.67912,25.058641,,,,,,,,,,,3,50029

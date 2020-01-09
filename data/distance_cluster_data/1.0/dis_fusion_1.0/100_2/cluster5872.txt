@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+瓦窑完全小学,103.39033,25.183556,,,,,,,,,,,3,30211
+瓦窑完全小学,103.39033,25.183356,,,,,,,,,,,3,60000

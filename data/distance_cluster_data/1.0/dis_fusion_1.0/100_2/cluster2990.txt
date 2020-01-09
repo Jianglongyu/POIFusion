@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东宏旅馆,102.78012,25.01341,,,,,,,,,,,3,27635
+会宾招待所,102.77946,25.01291,,,,,,,,,,,3,27668
+东宏旅馆,102.78012,25.01321,,,,,,,,,,,3,57424

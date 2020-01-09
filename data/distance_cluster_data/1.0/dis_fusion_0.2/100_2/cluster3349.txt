@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明石油公司慧达加油站,102.553768,25.219644,,,,,,,,,,,3,4974
+昆明石油公司慧达加油站,102.553768,25.219444,,,,,,,,,,,3,8284

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+春城湖畔高尔夫俱乐部,103.02716,24.930120000000002,,,,,,,,,,,3,22007
+春城湖畔高尔夫俱乐部,103.02716,24.929920000000003,,,,,,,,,,,3,41867

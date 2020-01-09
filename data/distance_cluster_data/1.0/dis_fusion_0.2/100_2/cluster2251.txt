@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县通泉镇财政所,103.577653,25.431348999999997,,,,,,,,,,,3,32151
+云南地税马龙县地税局办税服务厅,103.577126,25.431715,,,,,,,,,,,3,32292
+马龙县监察局派出第二监察分局,103.577242,25.431347,,,,,,,,,,,3,32355

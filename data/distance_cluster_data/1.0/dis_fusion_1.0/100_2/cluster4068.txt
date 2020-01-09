@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明华德花园酒店,102.78999,24.98462,,,,,,,,,,,1,3159
+昆明华德花园酒店,102.78999,24.98482,,,,,,,,,,,1,67380

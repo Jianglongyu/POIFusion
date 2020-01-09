@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+崇德加油站,102.501327,25.485729,,,,,,,,,,,3,4948
+崇德加油站,102.501327,25.485529,,,,,,,,,,,3,24808

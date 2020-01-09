@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林火车站,103.329336,24.863643,,,,,,,,,,,3,32965
+石林火车站,103.329336,24.863443,,,,,,,,,,,3,62754

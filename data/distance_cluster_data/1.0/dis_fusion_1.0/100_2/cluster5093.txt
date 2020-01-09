@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+永健大药房,102.473072,25.552038,,,,,,,,,,,3,25300
+永健大药房,102.473072,25.551838,,,,,,,,,,,3,55089

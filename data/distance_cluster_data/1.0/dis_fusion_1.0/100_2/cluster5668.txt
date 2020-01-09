@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县发窝乡主席团,102.286798,25.88184,,,,,,,,,,,3,29311
+武定县发窝乡主席团,102.286798,25.88164,,,,,,,,,,,3,59100

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+好来屋,102.74664,25.0592,,,,,,,,,,,3,15900
+好来屋,102.74664,25.059,,,,,,,,,,,3,28667
+济寿堂药店,102.746721,25.05922,,,,,,,,,,,3,38923

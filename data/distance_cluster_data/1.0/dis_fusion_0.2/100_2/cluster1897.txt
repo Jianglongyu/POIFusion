@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨瑞伟诊所,103.140026,24.91535,,,,,,,,,,,3,26436
+复春堂中医按摩养生馆,103.140413,24.915715,,,,,,,,,,,3,28380
+启蒙幼儿园,103.140146,24.914623000000002,,,,,,,,,,,3,33611

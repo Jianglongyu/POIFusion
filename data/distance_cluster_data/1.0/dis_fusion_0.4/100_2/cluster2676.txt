@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南水泥厂,102.628941,24.786908,,,,,,,,,,,2,532
+云南水泥厂,102.628941,24.787108,,,,,,,,,,,2,42411

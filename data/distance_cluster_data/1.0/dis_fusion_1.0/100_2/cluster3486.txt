@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国民生银行ATM,102.78293000000001,24.94754,,,,,,,,,,,3,33655
+中国民生银行ATM,102.78293000000001,24.94734,,,,,,,,,,,3,63444

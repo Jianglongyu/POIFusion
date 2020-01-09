@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+百合缘,102.83564,24.90912,,,,,,,,,,,3,21221
+百合缘,102.83564,24.908920000000002,,,,,,,,,,,3,41081

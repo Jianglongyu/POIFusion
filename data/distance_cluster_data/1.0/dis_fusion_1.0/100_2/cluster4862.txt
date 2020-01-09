@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜明诊所,103.646173,25.022143,,,,,,,,,,,3,23315
+宜明诊所,103.646173,25.021943,,,,,,,,,,,3,53104

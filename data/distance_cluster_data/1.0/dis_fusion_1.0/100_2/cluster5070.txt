@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+皎平渡乡吉祥大药店,102.450976,26.123047,,,,,,,,,,,3,25108
+皎平渡乡吉祥大药店,102.450976,26.122847,,,,,,,,,,,3,54897

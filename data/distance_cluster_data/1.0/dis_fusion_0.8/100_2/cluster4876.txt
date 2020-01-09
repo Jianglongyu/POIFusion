@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晨农生态园羽毛球馆,102.84033000000001,24.9038,,,,,,,,,,,3,16218
+晨农生态园羽毛球馆,102.84033000000001,24.9036,,,,,,,,,,,3,36078

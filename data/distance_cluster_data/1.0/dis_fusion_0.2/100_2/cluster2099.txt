@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+联盟社区卫生服务中心,102.724691,25.051617,,,,,,,,,,,3,29202
+颐华园豆花米线建水药膳砂锅过桥米线环城北路店,102.72435,25.05251,,,,,,,,,,,3,16577
+中国建设银行环城北路分理处,102.72463,25.05224,,,,,,,,,,,3,37719

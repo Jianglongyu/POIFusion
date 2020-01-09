@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+再回首小吃店,102.72408,25.055220000000002,,,,,,,,,,,3,5458
+意圆大厦,102.724776,25.056032000000002,,,,,,,,,,,1,1332
+武大郎烧饼,102.724766,25.055512,,,,,,,,,,,1,1766

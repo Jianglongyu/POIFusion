@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+生达新世界大药房,102.50415799999999,24.88841,,,,,,,,,,,3,31471
+益寿堂大药房,102.504689,24.88786,,,,,,,,,,,3,32812

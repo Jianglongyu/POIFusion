@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+打磨箐完小,102.96283299999999,25.451534,,,,,,,,,,,3,31908
+打磨箐完小,102.96283299999999,25.451334,,,,,,,,,,,3,61697

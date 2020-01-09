@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明西山万达广场,102.70962,25.00645,,,,,,,,,,,3,28408
+昆明西山万达广场,102.70962,25.00625,,,,,,,,,,,3,58197

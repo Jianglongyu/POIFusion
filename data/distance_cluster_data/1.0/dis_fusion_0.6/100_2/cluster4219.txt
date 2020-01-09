@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普洱市思茅烟草专卖局,102.73353,25.09384,,,,,,,,,,,3,32287
+图拉柏BAR,102.73380999999999,25.09385,,,,,,,,,,,3,34016

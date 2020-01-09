@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小海星文化艺术培训中心,102.48342199999999,24.917858,,,,,,,,,,,3,32473
+小海星文化艺术培训中心,102.48342199999999,24.917658,,,,,,,,,,,3,62262

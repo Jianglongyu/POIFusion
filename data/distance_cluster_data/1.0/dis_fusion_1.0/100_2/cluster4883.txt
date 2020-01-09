@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+德仁堂药店NO．1,102.41757,24.854287,,,,,,,,,,,3,23431
+德仁堂药店NO．1,102.41757,24.854087,,,,,,,,,,,3,53220

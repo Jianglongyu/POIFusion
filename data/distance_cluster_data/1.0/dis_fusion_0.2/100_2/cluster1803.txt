@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同德极少墅,102.6740516,24.98673648,,,,,,,,,,,2,360
+云天化集团,102.674566,24.986932999999997,,,,,,,,,,,1,863
+同德极少墅,102.6740516,24.98693648,,,,,,,,,,,2,38102

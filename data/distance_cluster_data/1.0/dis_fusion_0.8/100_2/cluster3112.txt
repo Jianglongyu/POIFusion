@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国科学院云南天文台,102.796613,25.027763,,,,,,,,,,,1,741
+中国科学院云南天文台,102.796613,25.027963,,,,,,,,,,,1,55033

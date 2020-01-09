@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+竹园山庄,102.62025,24.92636,,,,,,,,,,,3,18395
+竹园山庄,102.62025,24.92616,,,,,,,,,,,3,48184

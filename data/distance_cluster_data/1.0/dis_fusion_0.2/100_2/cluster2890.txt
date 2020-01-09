@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+育艺幼儿园,102.771454,25.007647,,,,,,,,,,,3,35719
+昆明官渡农村合作银行金马支行牛街分理处,102.77181999999999,25.00755,,,,,,,,,,,3,36855

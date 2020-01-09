@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+轻机厂幼儿园,102.661113,25.108114999999998,,,,,,,,,,,3,31646
+轻机厂幼儿园,102.661113,25.107915,,,,,,,,,,,3,61435

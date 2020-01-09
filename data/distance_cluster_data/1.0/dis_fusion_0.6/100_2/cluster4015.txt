@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石弘屹饭店,102.86853,24.96913,,,,,,,,,,,3,13535
+石弘屹饭店,102.86853,24.96893,,,,,,,,,,,3,26302

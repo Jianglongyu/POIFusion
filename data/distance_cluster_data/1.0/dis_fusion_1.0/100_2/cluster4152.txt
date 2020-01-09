@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+美人峰农家乐,102.62925,24.95245,,,,,,,,,,,3,19924
+美人峰农家乐,102.62925,24.95225,,,,,,,,,,,3,49713

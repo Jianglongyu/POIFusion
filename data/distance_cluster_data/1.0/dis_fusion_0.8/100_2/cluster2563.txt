@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+如家酒店连锁昆明经开区昌宏路店,102.78081999999999,24.998920000000002,,,,,,,,,,,3,46368
+爱因森教育,102.780709,24.998319,,,,,,,,,,,3,51933
+昆明阿拉沪农商村镇银行,102.78011,24.99842,,,,,,,,,,,3,53199

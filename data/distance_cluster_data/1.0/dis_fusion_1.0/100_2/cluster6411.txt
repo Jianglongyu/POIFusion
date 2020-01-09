@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大龙井小学,103.569488,25.40557,,,,,,,,,,,3,31763
+大龙井小学,103.569488,25.40537,,,,,,,,,,,3,61552

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明植物园,102.746349,25.153579,,,,,,,,,,,1,2791
+云南省粮食技工学校,102.746282,25.153375,,,,,,,,,,,3,37893
+云南商务信息工程学校,102.746282,25.153375,,,,,,,,,,,3,38280

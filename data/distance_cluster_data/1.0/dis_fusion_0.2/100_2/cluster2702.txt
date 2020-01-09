@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县私立潘忠五官科诊所,102.59863100000001,24.664645999999998,,,,,,,,,,,3,26255
+昆阳社区卫生服务中心,102.598444,24.664424,,,,,,,,,,,3,27225

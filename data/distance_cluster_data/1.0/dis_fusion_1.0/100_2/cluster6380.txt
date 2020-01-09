@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+绿茂村幼儿园,103.126094,26.216357,,,,,,,,,,,3,31669
+绿茂村幼儿园,103.126094,26.216157,,,,,,,,,,,3,61458

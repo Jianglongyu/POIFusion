@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+易门县六街镇人大,102.227432,24.818077,,,,,,,,,,,3,28846
+易门县六街镇人大,102.227432,24.817877,,,,,,,,,,,3,58635

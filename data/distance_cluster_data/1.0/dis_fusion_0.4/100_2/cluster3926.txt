@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+好医生小莫古老百姓大药房,103.514689,24.900919000000002,,,,,,,,,,,3,31997
+陆良县大莫古镇人大主席团,103.514742,24.900489999999998,,,,,,,,,,,3,36491

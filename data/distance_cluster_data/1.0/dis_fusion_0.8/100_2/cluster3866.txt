@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南大学滇池学院食堂,102.67421999999999,24.97249,,,,,,,,,,,3,11703
+云南大学滇池学院食堂,102.67421999999999,24.97229,,,,,,,,,,,3,31563

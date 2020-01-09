@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明公交集团第二公司大羊甫车场,102.800887,24.978107,,,,,,,,,,,1,3188
+昆明公交集团第二公司大羊甫车场,102.800887,24.978307,,,,,,,,,,,1,67409

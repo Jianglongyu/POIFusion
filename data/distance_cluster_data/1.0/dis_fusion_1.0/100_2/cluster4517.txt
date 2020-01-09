@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明宜良云岭山高尔夫球场,103.02864,24.88883,,,,,,,,,,,3,21206
+昆明宜良云岭山高尔夫球场,103.02864,24.88863,,,,,,,,,,,3,50995

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+草坪加油站,102.757439,24.726817,,,,,,,,,,,3,4711
+草坪加油站,102.757439,24.726617,,,,,,,,,,,3,12158

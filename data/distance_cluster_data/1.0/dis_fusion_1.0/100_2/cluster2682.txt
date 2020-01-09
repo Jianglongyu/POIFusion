@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿诗玛,103.3293,24.817395,,,,,,,,,,,3,27897
+小石林景区,103.3293,24.817395,,,,,,,,,,,3,27898
+阿诗玛,103.3293,24.817195,,,,,,,,,,,3,57686
+小石林景区,103.3293,24.817195,,,,,,,,,,,3,57687

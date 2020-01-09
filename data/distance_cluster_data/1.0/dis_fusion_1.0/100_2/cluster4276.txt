@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东聚汽配城,102.77069,24.996907,,,,,,,,,,,1,4107
+东聚汽配城,102.77069,24.997107,,,,,,,,,,,1,68328

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+矣旧小学,102.951493,24.621164999999998,,,,,,,,,,,3,32695
+矣旧小学,102.951493,24.620964999999998,,,,,,,,,,,3,62484

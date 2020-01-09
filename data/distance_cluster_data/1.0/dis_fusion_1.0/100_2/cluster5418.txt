@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五源亭,102.744794,25.13315,,,,,,,,,,,3,28165
+五源亭,102.744794,25.13295,,,,,,,,,,,3,57954

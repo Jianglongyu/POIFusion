@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县己衣乡卫生院,102.256451,26.096664999999998,,,,,,,,,,,3,25727
+东骏大药房己衣乡平价连锁店,102.25627,26.096830999999998,,,,,,,,,,,3,26147

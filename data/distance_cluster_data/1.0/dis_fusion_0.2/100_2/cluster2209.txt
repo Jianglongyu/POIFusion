@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大理风味小吃,102.77889,24.96025,,,,,,,,,,,3,6605
+大理风味小吃,102.77889,24.96005,,,,,,,,,,,3,9915
+大理金花卤面馆,102.77911,24.95954,,,,,,,,,,,3,17198

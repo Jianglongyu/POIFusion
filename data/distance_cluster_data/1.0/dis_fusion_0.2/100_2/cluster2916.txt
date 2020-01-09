@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+玉溪刺桐关麻辣鸡杂菜鸡聚味轩分店山水店,102.86239,25.00414,,,,,,,,,,,3,11291
+又一春农家园,102.86233,25.00398,,,,,,,,,,,3,13581

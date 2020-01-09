@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明理工大学－健身房,102.69662,25.06409,,,,,,,,,,,3,19156
+世洲酒店,102.69667,25.06465,,,,,,,,,,,3,26335
+昆明理工大学－健身房,102.69662,25.06389,,,,,,,,,,,3,48945
+世洲酒店,102.69667,25.06445,,,,,,,,,,,3,56124

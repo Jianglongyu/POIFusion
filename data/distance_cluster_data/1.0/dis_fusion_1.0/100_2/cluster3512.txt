@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+农村信用社下庄分社,102.83148,24.834970000000002,,,,,,,,,,,3,33714
+农村信用社下庄分社,102.83148,24.834770000000002,,,,,,,,,,,3,63503

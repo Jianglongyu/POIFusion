@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙花蕾幼儿园,103.577548,25.427085,,,,,,,,,,,3,30916
+马龙花蕾幼儿园,103.577548,25.426885000000002,,,,,,,,,,,3,60705

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东风广场地铁站A口,102.781302,25.115148,,,,,,,,,,,2,575
+东风广场地铁站A口,102.781302,25.115348,,,,,,,,,,,2,64796

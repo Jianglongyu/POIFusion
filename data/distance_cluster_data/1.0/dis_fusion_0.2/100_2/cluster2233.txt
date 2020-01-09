@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+粤华造型屋,102.7218,25.01148,,,,,,,,,,,3,23633
+玉清诊所,102.722088,25.011058,,,,,,,,,,,3,25857
+官渡区南坝幼儿园,102.721947,25.011243,,,,,,,,,,,3,35171

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南白药大药房安宁连锁店,102.472576,24.914907,,,,,,,,,,,3,30255
+生达新世界大药房,102.47244599999999,24.915528,,,,,,,,,,,3,30976

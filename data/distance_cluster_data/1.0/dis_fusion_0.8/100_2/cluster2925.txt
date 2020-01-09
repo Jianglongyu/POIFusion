@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天宇·葡萄街区,102.722534,25.068695,,,,,,,,,,,2,358
+天宇·葡萄街区,102.722534,25.068895,,,,,,,,,,,2,54650

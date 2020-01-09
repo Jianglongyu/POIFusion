@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林镇三家村小学,103.337721,24.848904,,,,,,,,,,,3,30508
+石林镇三家村小学,103.337721,24.848704,,,,,,,,,,,3,60297

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+重庆饭店,102.71358000000001,25.01532,,,,,,,,,,,3,13037
+重庆饭店,102.71358000000001,25.01512,,,,,,,,,,,3,25804

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东港宾馆,102.89053,25.05593,,,,,,,,,,,3,27678
+东港宾馆,102.89053,25.05573,,,,,,,,,,,3,57467

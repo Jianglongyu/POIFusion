@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市广电局,102.678001,25.037074,,,,,,,,,,,3,32542
+亨德森外国语学校丹霞路教学区,102.67850899999999,25.037084,,,,,,,,,,,3,34034

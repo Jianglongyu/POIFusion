@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明中药厂,102.721866,25.017741,,,,,,,,,,,1,2785
+建新园过桥米线,102.7216262,25.01697243,,,,,,,,,,,1,3539
+大东药店,102.721326,25.017833,,,,,,,,,,,3,28717

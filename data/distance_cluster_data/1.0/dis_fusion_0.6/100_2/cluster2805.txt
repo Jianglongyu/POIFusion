@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县水政监察大队,102.59026999999999,24.658835,,,,,,,,,,,3,41500
+晋宁县公安局水利派出所,102.59026999999999,24.658835,,,,,,,,,,,3,42509

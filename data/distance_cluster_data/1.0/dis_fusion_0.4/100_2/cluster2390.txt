@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+国家安监总局昆明尘肺康复中心,102.65724499999999,24.97554,,,,,,,,,,,3,32493
+中国煤矿工人昆明疗养院,102.65725,24.97554,,,,,,,,,,,3,34541
+云南省政法干部学校干警教育培训基地,102.65724499999999,24.97554,,,,,,,,,,,3,38241

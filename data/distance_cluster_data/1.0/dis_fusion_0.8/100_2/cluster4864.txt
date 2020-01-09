@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明经开区华丰康民药店,102.824451,25.005993,,,,,,,,,,,3,24363
+昆明经开区华丰康民药店,102.824451,25.005793,,,,,,,,,,,3,44223

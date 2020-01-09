@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山区团结谷律中心学校乐亩分校,102.422322,25.143268,,,,,,,,,,,3,32689
+西山区团结谷律中心学校乐亩分校,102.422322,25.143068,,,,,,,,,,,3,62478

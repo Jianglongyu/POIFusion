@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆铁益民小区,102.785508,25.011775,,,,,,,,,,,1,2767
+昆铁益民小区,102.785508,25.011975,,,,,,,,,,,1,66988

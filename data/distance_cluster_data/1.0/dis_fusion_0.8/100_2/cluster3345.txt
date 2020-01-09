@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+星光雅园(西北门),102.755158,25.045107,,,,,,,,,,,1,1512
+星光雅园(西北门),102.755158,25.045307,,,,,,,,,,,1,55804

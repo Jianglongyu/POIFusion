@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新卧龙山庄,102.7856,25.08756,,,,,,,,,,,3,19041
+新卧龙山庄,102.7856,25.08736,,,,,,,,,,,3,48830

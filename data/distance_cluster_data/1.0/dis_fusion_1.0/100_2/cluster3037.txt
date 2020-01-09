@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市技工学校南门,102.68401300000001,25.067287,,,,,,,,,,,3,32800
+昆明市技工学校南门,102.68401300000001,25.067087,,,,,,,,,,,3,62589

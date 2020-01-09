@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康宏兴药店,102.750895,24.705468,,,,,,,,,,,3,27430
+竹音药店,102.75202900000001,24.705592000000003,,,,,,,,,,,3,27158
+昆明公路管理总段晋宁公路管理段,102.75171800000001,24.705562,,,,,,,,,,,3,32962

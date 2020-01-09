@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+美的顺城府,102.786199,25.054736,,,,,,,,,,,2,285
+云南新兴职业学院,102.78568,25.054984,,,,,,,,,,,3,39097
+美的顺城府,102.786199,25.054935999999998,,,,,,,,,,,2,42164

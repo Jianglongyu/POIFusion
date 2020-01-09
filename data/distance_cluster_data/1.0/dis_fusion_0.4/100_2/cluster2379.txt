@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+度假区大渔街道社区卫生中心,102.801671,24.822793,,,,,,,,,,,3,32149
+怡和幼儿园,102.801558,24.823335999999998,,,,,,,,,,,3,39130
+农村信用社ATM,102.80175,24.82303,,,,,,,,,,,3,41257

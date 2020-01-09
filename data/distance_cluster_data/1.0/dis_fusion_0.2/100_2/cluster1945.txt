@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区仁和医院,103.179864,26.094109,,,,,,,,,,,3,26972
+一心堂丽水金沙连锁店,103.179946,26.093546,,,,,,,,,,,3,29159
+金美康大药房,103.1799,26.093760999999997,,,,,,,,,,,3,29373

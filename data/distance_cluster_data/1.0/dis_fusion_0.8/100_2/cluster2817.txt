@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+和谐世纪（和谐家园）,102.73976640000001,25.10926682,,,,,,,,,,,2,139
+和谐世纪（和谐家园）,102.73976640000001,25.109466819999998,,,,,,,,,,,2,54431

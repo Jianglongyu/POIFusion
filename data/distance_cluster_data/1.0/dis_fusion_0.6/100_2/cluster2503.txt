@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大溶盆,103.31874,24.806759,,,,,,,,,,,3,40649
+蘑菇状石林,103.31855300000001,24.806601,,,,,,,,,,,3,40650
+万年灵芝,103.31855300000001,24.806601,,,,,,,,,,,3,40651

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官发寺,103.166865,25.287152,,,,,,,,,,,3,28002
+官发寺,103.166865,25.286952,,,,,,,,,,,3,57791

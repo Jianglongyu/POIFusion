@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明重工中学,102.7289564,25.13479112,,,,,,,,,,,1,2783
+重工社区卫生服务中心,102.72926,25.135548999999997,,,,,,,,,,,3,38126

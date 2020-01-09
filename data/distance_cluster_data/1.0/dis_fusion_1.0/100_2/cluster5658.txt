@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+易门县公安局交警大队六街中队,102.232922,24.815135,,,,,,,,,,,3,29234
+易门县公安局交警大队六街中队,102.232922,24.814935000000002,,,,,,,,,,,3,59023

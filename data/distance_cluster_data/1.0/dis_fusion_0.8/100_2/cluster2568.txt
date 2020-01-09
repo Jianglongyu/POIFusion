@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南大学滇池学院－回族食堂,103.00293,25.23266,,,,,,,,,,,3,5665
+云南大学滇池学院－回族食堂,103.00293,25.23246,,,,,,,,,,,3,25525
+中国邮政储蓄银行ATM,103.00327,25.23259,,,,,,,,,,,3,53946

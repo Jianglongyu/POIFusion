@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南荣苹科技研究所,102.487636,25.23996,,,,,,,,,,,3,30283
+云南荣苹科技研究所,102.487636,25.23976,,,,,,,,,,,3,60072

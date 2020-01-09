@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+山里人家猪脚酸汤园NO．3,102.87165,25.04366,,,,,,,,,,,3,10247
+艳鸿羊肉,102.87169,25.04357,,,,,,,,,,,3,10286
+山里人家猪脚酸汤园NO．3,102.87165,25.04346,,,,,,,,,,,3,23014
+艳鸿羊肉,102.87169,25.04337,,,,,,,,,,,3,23053

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新世纪加油站,103.049988,25.347694,,,,,,,,,,,3,4949
+新世纪加油站,103.049988,25.347494,,,,,,,,,,,3,17716

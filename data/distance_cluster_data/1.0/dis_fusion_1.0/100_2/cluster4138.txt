@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金博花园(南门),102.76945500000001,25.094329000000002,,,,,,,,,,,1,3485
+金博花园(南门),102.76945500000001,25.094529,,,,,,,,,,,1,67706

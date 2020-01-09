@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盛高大城二期,102.6992944,25.01591736,,,,,,,,,,,2,325
+盛高大城二期,102.6992944,25.01611736,,,,,,,,,,,2,42204

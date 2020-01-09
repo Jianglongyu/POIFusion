@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+经开国际金融中心,102.838273,24.950105999999998,,,,,,,,,,,2,215
+经开国际金融中心,102.838273,24.950305999999998,,,,,,,,,,,2,37957

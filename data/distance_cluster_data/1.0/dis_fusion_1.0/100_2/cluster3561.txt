@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南海埂会议服务中心,102.666248,24.980265,,,,,,,,,,,1,1132
+云南海埂会议服务中心,102.666248,24.980465,,,,,,,,,,,1,65353

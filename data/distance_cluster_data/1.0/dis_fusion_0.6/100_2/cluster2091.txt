@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省林业科学院,102.752493,25.146933999999998,,,,,,,,,,,1,970
+黑龙潭公园,102.752629,25.147463000000002,,,,,,,,,,,1,3752
+云南省林业科学院,102.752493,25.147133999999998,,,,,,,,,,,1,48169

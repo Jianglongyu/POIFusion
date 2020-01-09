@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙腾加油站,102.778214,25.634798999999997,,,,,,,,,,,3,4810
+龙腾加油站,102.778214,25.634598999999998,,,,,,,,,,,3,17577
+寻甸平安医院,102.778302,25.63499,,,,,,,,,,,3,38245

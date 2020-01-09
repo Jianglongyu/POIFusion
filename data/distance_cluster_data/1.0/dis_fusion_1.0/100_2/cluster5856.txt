@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+刘记花椒鸡,102.78546,24.9192,,,,,,,,,,,3,13789
+刘记花椒鸡,102.78546,24.919,,,,,,,,,,,3,43578

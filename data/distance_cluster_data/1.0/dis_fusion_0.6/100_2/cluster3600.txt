@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明老传统大酥牛肉面苏家村店,102.63353000000001,24.9706,,,,,,,,,,,3,12707
+昆明老传统大酥牛肉面苏家村店,102.63353000000001,24.9704,,,,,,,,,,,3,25474

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南经济管理职业学院－体育馆,102.64965,25.08738,,,,,,,,,,,3,23166
+中国银行ATM,102.64972,25.086489999999998,,,,,,,,,,,3,36742

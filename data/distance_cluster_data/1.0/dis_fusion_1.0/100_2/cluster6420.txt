@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+彝州风味园,102.92067,25.06935,,,,,,,,,,,3,15392
+彝州风味园,102.92067,25.06915,,,,,,,,,,,3,45181

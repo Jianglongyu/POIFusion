@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+八街社区卫生服务站,102.35945500000001,24.659565,,,,,,,,,,,3,23035
+八街社区卫生服务站,102.35945500000001,24.659365,,,,,,,,,,,3,42895
+安宁八街乡村药店,102.359372,24.660397,,,,,,,,,,,3,43240

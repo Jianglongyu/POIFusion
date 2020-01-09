@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鹏翔山庄,102.62468,24.95584,,,,,,,,,,,3,16240
+特种兵生态山庄,102.62414,24.95636,,,,,,,,,,,3,19994
+鹏翔山庄,102.62468,24.95564,,,,,,,,,,,3,36100
+特种兵生态山庄,102.62414,24.95616,,,,,,,,,,,3,39854

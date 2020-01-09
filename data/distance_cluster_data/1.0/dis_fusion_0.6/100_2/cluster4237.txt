@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池大酒店－训练馆,102.65456999999999,24.98131,,,,,,,,,,,3,16077
+滇池大酒店－训练馆,102.65456999999999,24.98111,,,,,,,,,,,3,28844

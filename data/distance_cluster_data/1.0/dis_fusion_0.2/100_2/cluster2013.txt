@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+高记广州大排档总店,102.72238,25.024060000000002,,,,,,,,,,,3,11299
+好渔翁生态火锅NO．2,102.7226,25.024070000000002,,,,,,,,,,,3,12652
+昆明铁路局招待所－餐饮楼,102.72296,25.02383,,,,,,,,,,,3,15539

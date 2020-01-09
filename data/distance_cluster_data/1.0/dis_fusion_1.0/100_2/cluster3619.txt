@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华夏银行经开区支行,102.79834,24.965439999999997,,,,,,,,,,,3,34148
+华夏银行经开区支行,102.79834,24.965239999999998,,,,,,,,,,,3,63937

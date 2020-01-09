@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+沙靠人家,102.68382,25.13187,,,,,,,,,,,3,10345
+沙靠人家,102.68382,25.13167,,,,,,,,,,,3,23112

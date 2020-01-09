@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+百大国际派,102.654576,25.084723999999998,,,,,,,,,,,2,14
+百大国际派,102.654576,25.084923999999997,,,,,,,,,,,2,64235

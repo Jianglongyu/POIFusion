@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国馆三号门,102.767485,25.080241,,,,,,,,,,,1,759
+中国馆三号门,102.767485,25.080441,,,,,,,,,,,1,55051

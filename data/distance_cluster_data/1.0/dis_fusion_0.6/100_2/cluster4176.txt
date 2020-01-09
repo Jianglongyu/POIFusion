@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+有得火锅,102.74240999999999,25.19136,,,,,,,,,,,3,7069
+有得火锅,102.74240999999999,25.19116,,,,,,,,,,,3,19836

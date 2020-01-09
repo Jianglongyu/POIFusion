@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海口特大桥,102.617653,24.781038,,,,,,,,,,,2,540
+海口特大桥,102.617653,24.781238,,,,,,,,,,,2,47739

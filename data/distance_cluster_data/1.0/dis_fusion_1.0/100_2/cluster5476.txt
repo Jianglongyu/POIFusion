@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金宝山艺术园林北门,102.642149,24.915875,,,,,,,,,,,3,28282
+金宝山艺术园林北门,102.642149,24.915675,,,,,,,,,,,3,58071

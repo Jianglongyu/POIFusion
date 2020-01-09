@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+飞来寺,102.473775,25.231520999999997,,,,,,,,,,,3,27842
+飞来寺,102.473775,25.231320999999998,,,,,,,,,,,3,57631

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县花蕊药店,103.555846,24.64263,,,,,,,,,,,3,37588
+昆明市石林县工商局圭山工商所,103.556613,24.642763000000002,,,,,,,,,,,3,41932

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+果林水库大桥,102.851209,24.967779,,,,,,,,,,,1,3842
+果林水库大桥,102.851209,24.967979,,,,,,,,,,,1,68063

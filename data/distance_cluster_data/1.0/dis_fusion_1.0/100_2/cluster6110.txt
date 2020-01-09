@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市青龙学校,102.32289899999999,25.015833999999998,,,,,,,,,,,3,30896
+安宁市青龙学校,102.32289899999999,25.015634,,,,,,,,,,,3,60685

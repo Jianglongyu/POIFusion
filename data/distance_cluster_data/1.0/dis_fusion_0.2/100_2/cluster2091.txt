@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天助缘苦笋鸡NO．1,102.79674,25.08636,,,,,,,,,,,3,12670
+玉劳勐海烤鸡金殿店,102.79613,25.08682,,,,,,,,,,,3,14430
+清真马小记壮羊馆,102.79644,25.08646,,,,,,,,,,,3,18417

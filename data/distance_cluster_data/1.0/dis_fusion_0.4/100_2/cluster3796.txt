@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马街老字号罗非鱼庄,102.83695,24.9047,,,,,,,,,,,3,6331
+马街老字号罗非鱼庄,102.83695,24.9045,,,,,,,,,,,3,13778

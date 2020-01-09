@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+如家香饭店,103.02557,25.18151,,,,,,,,,,,3,7977
+如家香饭店,103.02557,25.18131,,,,,,,,,,,3,15424

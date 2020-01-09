@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+邵东家常菜,102.77889,24.93737,,,,,,,,,,,3,10670
+名之彩美发美容会所,102.77891,24.93715,,,,,,,,,,,3,20143

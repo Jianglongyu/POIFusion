@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+汁汁优味,102.85943,24.836779999999997,,,,,,,,,,,3,12995
+新潮艺人,102.85945,24.83711,,,,,,,,,,,3,20502

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明国际机场医疗急救中心,102.740612,24.997047,,,,,,,,,,,3,26863
+昆明市交警支队机场大队,102.740134,24.996454,,,,,,,,,,,3,32589
+云南省公安厅民用机场公安局交巡警大队,102.740134,24.996454,,,,,,,,,,,3,32643

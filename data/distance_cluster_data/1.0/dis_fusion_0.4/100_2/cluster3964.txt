@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鸿仁堂中医门诊部,102.821585,24.883222,,,,,,,,,,,3,32448
+中国人民财产保险昆明洛龙湖社区服务站,102.82162,24.8839,,,,,,,,,,,3,41678

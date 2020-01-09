@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂三环店,103.264282,25.550473999999998,,,,,,,,,,,3,24730
+同济堂三环店,103.264282,25.550273999999998,,,,,,,,,,,3,54519

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝县财政局则黑财政所,102.684026,26.128904,,,,,,,,,,,3,28964
+禄劝县财政局则黑财政所,102.684026,26.128704,,,,,,,,,,,3,58753

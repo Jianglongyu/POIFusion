@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马田幼儿园,103.248654,25.350006,,,,,,,,,,,3,32290
+马田幼儿园,103.248654,25.349806,,,,,,,,,,,3,62079

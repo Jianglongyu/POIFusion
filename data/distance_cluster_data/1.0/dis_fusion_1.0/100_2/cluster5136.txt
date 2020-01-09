@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山区红庙药店,102.69079599999999,24.984956,,,,,,,,,,,3,25560
+西山区红庙药店,102.69079599999999,24.984756,,,,,,,,,,,3,55349

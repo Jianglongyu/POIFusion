@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+俊发观云海,102.773239,24.928732999999998,,,,,,,,,,,2,221
+俊发观云海,102.773239,24.928932999999997,,,,,,,,,,,2,42100

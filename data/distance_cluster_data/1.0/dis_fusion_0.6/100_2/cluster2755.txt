@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+招商海公馆,102.7153854,24.95216751,,,,,,,,,,,2,480
+招商海公馆,102.7153854,24.95236751,,,,,,,,,,,2,47679

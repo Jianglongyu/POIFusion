@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+银河TPARK,102.843779,24.948303,,,,,,,,,,,2,443
+银河TPARK,102.843779,24.948503,,,,,,,,,,,2,54735

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马过河小学,103.401073,25.452942,,,,,,,,,,,3,30933
+马过河小学,103.401073,25.452742,,,,,,,,,,,3,60722

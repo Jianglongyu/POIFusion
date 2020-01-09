@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+桐君阁大药房,102.79796999999999,25.051294,,,,,,,,,,,3,25513
+桐君阁大药房,102.79796999999999,25.051094,,,,,,,,,,,3,55302

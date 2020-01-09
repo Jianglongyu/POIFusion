@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+克丽缇娜(碧水云天4号门西北),102.753609,25.096319,,,,,,,,,,,1,3302
+克丽缇娜(碧水云天4号门西北),102.753609,25.096519,,,,,,,,,,,1,67523

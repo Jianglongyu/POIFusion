@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+解放军第五三三医院－急诊,102.744162,25.071361,,,,,,,,,,,3,30085
+交通银行ATM,102.74453000000001,25.07139,,,,,,,,,,,3,41569

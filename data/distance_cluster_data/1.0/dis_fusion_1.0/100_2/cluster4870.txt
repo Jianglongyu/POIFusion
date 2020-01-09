@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海口源泉大药店,102.542346,24.786728,,,,,,,,,,,3,23360
+海口源泉大药店,102.542346,24.786528,,,,,,,,,,,3,53149

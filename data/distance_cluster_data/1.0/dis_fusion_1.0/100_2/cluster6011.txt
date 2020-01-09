@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡县职业高级中学,102.810609,24.893435,,,,,,,,,,,3,30587
+呈贡县职业高级中学,102.810609,24.893235,,,,,,,,,,,3,60376

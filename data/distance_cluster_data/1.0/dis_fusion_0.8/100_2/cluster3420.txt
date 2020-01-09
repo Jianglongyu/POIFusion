@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西华湿地公园,102.670691,24.882094,,,,,,,,,,,1,1744
+西华湿地公园,102.670691,24.882293999999998,,,,,,,,,,,1,56036

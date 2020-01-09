@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+松林园餐厅,102.91253,24.9046,,,,,,,,,,,3,8991
+青松农家,102.91325,24.90479,,,,,,,,,,,3,19447
+松林园餐厅,102.91253,24.9044,,,,,,,,,,,3,38780
+青松农家,102.91325,24.90459,,,,,,,,,,,3,49236

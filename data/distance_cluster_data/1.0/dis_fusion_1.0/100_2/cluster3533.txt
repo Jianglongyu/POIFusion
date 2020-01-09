@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国人民财产保险杨林营销部,103.03819,25.24479,,,,,,,,,,,3,33817
+中国人民财产保险杨林营销部,103.03819,25.24459,,,,,,,,,,,3,63606

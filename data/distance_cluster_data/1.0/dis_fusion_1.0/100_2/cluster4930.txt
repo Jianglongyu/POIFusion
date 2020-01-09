@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乌龙镇半坡村卫生室,103.089265,26.073692,,,,,,,,,,,3,23834
+乌龙镇半坡村卫生室,103.089265,26.073492,,,,,,,,,,,3,53623

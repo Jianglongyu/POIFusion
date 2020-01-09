@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+怀德仁药房,103.180115,26.08403,,,,,,,,,,,3,25156
+微笑口腔诊所,103.180359,26.083095,,,,,,,,,,,3,24900
+微笑口腔诊所,103.180359,26.082895,,,,,,,,,,,3,54689
+怀德仁药房,103.180115,26.08383,,,,,,,,,,,3,54945

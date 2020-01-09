@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂日月湖广场连锁店,102.498722,24.891023999999998,,,,,,,,,,,3,23774
+一心堂日月湖广场连锁店,102.498722,24.890824,,,,,,,,,,,3,43634

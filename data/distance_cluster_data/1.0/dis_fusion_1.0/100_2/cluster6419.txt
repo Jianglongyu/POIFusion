@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+古城现代双语幼儿园,102.28021700000001,25.369819,,,,,,,,,,,3,31774
+古城现代双语幼儿园,102.28021700000001,25.369619,,,,,,,,,,,3,61563

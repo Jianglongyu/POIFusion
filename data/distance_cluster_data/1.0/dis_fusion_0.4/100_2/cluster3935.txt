@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+九厂乡卫生院,102.360085,25.465595999999998,,,,,,,,,,,3,32117
+大源平价大药房,102.360239,25.465933,,,,,,,,,,,3,32991

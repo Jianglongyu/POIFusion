@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中豪悦城,102.79476170000001,24.94329643,,,,,,,,,,,2,498
+中豪悦城,102.79476170000001,24.94349643,,,,,,,,,,,2,64719

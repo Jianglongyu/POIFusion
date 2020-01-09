@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+道院加油站,103.286901,25.549177999999998,,,,,,,,,,,3,5004
+道院加油站,103.286901,25.548977999999998,,,,,,,,,,,3,12451
+仁德镇社区卫生中心道院社区卫生站,103.287413,25.548935,,,,,,,,,,,3,30979

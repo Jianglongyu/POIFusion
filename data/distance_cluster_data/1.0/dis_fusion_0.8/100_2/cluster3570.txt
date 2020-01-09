@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+瑞丽傣家风味,102.75869300000001,25.031682999999997,,,,,,,,,,,1,2234
+瑞丽傣家风味,102.75869300000001,25.031882999999997,,,,,,,,,,,1,56526

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双湖饭店,102.60444,24.856479999999998,,,,,,,,,,,3,21981
+双湖饭店,102.60444,24.856279999999998,,,,,,,,,,,3,51770

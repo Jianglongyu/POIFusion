@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南爱因森软件职业学院车家壁校区,102.565687,24.983933999999998,,,,,,,,,,,3,32024
+云南爱因森软件职业学院车家壁校区,102.565687,24.983734,,,,,,,,,,,3,61813

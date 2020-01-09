@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂安宁天然居连锁店,102.46114,24.913273,,,,,,,,,,,3,23982
+一心堂安宁天然居连锁店,102.46114,24.913073,,,,,,,,,,,3,43842

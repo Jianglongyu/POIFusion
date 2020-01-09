@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+姚医生中医诊所,103.154587,24.918018,,,,,,,,,,,3,25147
+王娟诊所,103.153867,24.917612,,,,,,,,,,,3,25846
+姚医生中医诊所,103.154587,24.917818,,,,,,,,,,,3,54936
+王娟诊所,103.153867,24.917412,,,,,,,,,,,3,55635

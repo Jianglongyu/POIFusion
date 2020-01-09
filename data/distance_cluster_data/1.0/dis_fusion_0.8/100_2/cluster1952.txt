@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+玉龙塆,102.700499,25.031826000000002,,,,,,,,,,,1,1258
+湖商大酒店,102.70004,25.031646,,,,,,,,,,,1,3685
+兴业银行ATM,102.70044,25.03221,,,,,,,,,,,3,53999
+玉龙塆,102.700499,25.032026000000002,,,,,,,,,,,1,55550

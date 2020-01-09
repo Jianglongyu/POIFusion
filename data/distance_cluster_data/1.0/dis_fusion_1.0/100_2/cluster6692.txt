@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县牛栏江镇一中,103.140919,25.266129,,,,,,,,,,,3,32589
+嵩明县牛栏江镇一中,103.140919,25.265929,,,,,,,,,,,3,62378

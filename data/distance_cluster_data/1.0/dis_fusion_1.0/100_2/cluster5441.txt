@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+法界寺,103.01174300000001,25.350573,,,,,,,,,,,3,28200
+法界寺,103.01174300000001,25.350373,,,,,,,,,,,3,57989

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阳宗服务区加油站,102.982139,24.853465,,,,,,,,,,,3,4908
+阳宗服务区加油站,102.982139,24.853265,,,,,,,,,,,3,17675

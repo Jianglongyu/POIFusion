@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙服务区－马龙（A）加油站,103.573143,25.437954,,,,,,,,,,,3,5055
+马龙服务区－马龙（A）加油站,103.573143,25.437754,,,,,,,,,,,3,12502

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明珠度假村,102.66546,25.01345,,,,,,,,,,,3,21311
+明珠度假村,102.66546,25.01325,,,,,,,,,,,3,51100

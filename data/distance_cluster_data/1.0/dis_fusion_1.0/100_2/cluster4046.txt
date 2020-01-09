@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市,102.590181,24.966732999999998,,,,,,,,,,,1,3062
+昆明市,102.590181,24.966932999999997,,,,,,,,,,,1,67283

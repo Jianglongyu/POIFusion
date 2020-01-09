@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福良寺,103.172972,24.8028,,,,,,,,,,,3,27964
+福良寺,103.172972,24.8026,,,,,,,,,,,3,57753

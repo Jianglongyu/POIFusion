@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县红鑫大药房,103.578829,25.433083,,,,,,,,,,,3,26072
+马龙县红鑫大药房,103.578829,25.432883,,,,,,,,,,,3,55861

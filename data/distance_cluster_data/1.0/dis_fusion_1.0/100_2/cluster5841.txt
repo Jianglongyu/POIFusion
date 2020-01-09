@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省公安厅民用机场公安局交警大队,102.92631,25.081188,,,,,,,,,,,3,30078
+云南省公安厅民用机场公安局交警大队,102.92631,25.080988,,,,,,,,,,,3,59867

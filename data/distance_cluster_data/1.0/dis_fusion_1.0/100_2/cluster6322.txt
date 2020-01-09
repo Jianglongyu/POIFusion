@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蓝天幼儿园,102.555258,25.220438,,,,,,,,,,,3,31495
+蓝天幼儿园,102.555258,25.220238000000002,,,,,,,,,,,3,61284

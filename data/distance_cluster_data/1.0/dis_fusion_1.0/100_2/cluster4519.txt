@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+民航加油站,102.742369,24.999832,,,,,,,,,,,3,4828
+民航加油站,102.742369,24.999632000000002,,,,,,,,,,,3,34617

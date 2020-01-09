@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+会泽县驾车乡卫生院,103.365628,25.985068,,,,,,,,,,,3,23091
+会泽县驾车乡卫生院,103.365628,25.984868,,,,,,,,,,,3,52880

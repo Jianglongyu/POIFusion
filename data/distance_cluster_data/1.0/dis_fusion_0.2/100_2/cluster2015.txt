@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+重庆川菜馆NO．2,102.59324000000001,24.967389999999998,,,,,,,,,,,3,11319
+土黄牛清真园,102.59295,24.96738,,,,,,,,,,,3,11757
+长坡人家,102.59297,24.968000000000004,,,,,,,,,,,3,16701

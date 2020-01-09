@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县赤鹫小学,102.500739,25.351601,,,,,,,,,,,3,32345
+富民县赤鹫小学,102.500739,25.351401,,,,,,,,,,,3,62134

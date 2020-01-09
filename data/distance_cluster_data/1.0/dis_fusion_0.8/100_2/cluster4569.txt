@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+清顺园饭店,102.9776,24.8143,,,,,,,,,,,3,14629
+清顺园饭店,102.9776,24.8141,,,,,,,,,,,3,34489

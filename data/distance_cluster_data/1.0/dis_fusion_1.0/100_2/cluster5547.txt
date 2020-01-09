@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明铁路公安局宜良北车站派出所,103.189973,24.982803,,,,,,,,,,,3,28747
+昆明铁路公安局宜良北车站派出所,103.189973,24.982603,,,,,,,,,,,3,58536

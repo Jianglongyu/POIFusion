@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆钢医院内四科住院部,102.491599,24.893719,,,,,,,,,,,3,23371
+昆钢医院内四科住院部,102.491599,24.893519,,,,,,,,,,,3,43231

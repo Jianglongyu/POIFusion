@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+好邻居便利店(吴井四〇三社区卫生,102.74379,25.030199,,,,,,,,,,,1,3783
+好邻居便利店(吴井四〇三社区卫生,102.74379,25.030399,,,,,,,,,,,1,68004

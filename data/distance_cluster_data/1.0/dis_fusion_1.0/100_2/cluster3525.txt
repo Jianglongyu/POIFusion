@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国建设银行ATM,102.86182,24.84976,,,,,,,,,,,3,33760
+中国建设银行ATM,102.86182,24.84956,,,,,,,,,,,3,63549

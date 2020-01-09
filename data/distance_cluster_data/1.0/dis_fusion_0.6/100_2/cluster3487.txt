@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北城居委会幼儿园,102.551511,24.425608,,,,,,,,,,,3,44575
+北城中心小学,102.552013,24.425960999999997,,,,,,,,,,,3,45278

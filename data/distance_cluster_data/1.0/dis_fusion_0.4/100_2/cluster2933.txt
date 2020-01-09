@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+香江大酒店,102.75548,25.0319,,,,,,,,,,,3,34301
+中国工商银行ATM,102.75485,25.03259,,,,,,,,,,,3,41535

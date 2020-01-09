@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+非诚勿扰酒吧,102.73853199999999,25.064604,,,,,,,,,,,1,4050
+潮会Bar,102.738577,25.064885,,,,,,,,,,,1,4383
+非诚勿扰酒吧,102.73853199999999,25.064804,,,,,,,,,,,1,68271
+潮会Bar,102.738577,25.065085,,,,,,,,,,,1,68604

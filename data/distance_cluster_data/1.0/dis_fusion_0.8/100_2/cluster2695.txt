@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+老来红社区卫生站,102.935046,26.271487,,,,,,,,,,,3,24075
+老来红社区卫生站,102.935046,26.271287,,,,,,,,,,,3,43935
+因民镇红山小学,102.934442,26.272107000000002,,,,,,,,,,,3,52130

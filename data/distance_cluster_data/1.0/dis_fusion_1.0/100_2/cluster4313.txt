@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大河果园公交站,102.53818100000001,25.088642,,,,,,,,,,,1,4269
+大河果园公交站,102.53818100000001,25.088842,,,,,,,,,,,1,68490

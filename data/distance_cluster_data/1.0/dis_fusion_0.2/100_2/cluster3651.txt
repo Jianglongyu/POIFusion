@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+考丽亚烧烤城,102.73975,25.037679999999998,,,,,,,,,,,3,15762
+准提寺,102.740173,25.038221,,,,,,,,,,,3,31405

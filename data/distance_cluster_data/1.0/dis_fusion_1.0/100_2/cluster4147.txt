@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+郊外碧海鱼庄,103.037874,25.187108,,,,,,,,,,,1,3515
+郊外碧海鱼庄,103.037874,25.187307999999998,,,,,,,,,,,1,67736

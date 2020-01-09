@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江阳光加油站,102.93367099999999,24.626692000000002,,,,,,,,,,,3,4708
+澄江阳光加油站,102.93367099999999,24.626492000000002,,,,,,,,,,,3,24568

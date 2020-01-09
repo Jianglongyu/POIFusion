@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市官渡区卫生局,102.743822,25.002969,,,,,,,,,,,3,29371
+昆明市官渡区卫生局,102.743822,25.002769,,,,,,,,,,,3,59160

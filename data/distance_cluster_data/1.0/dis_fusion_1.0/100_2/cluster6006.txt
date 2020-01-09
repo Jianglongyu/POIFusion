@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市台湘科技学校,103.140466,24.859729,,,,,,,,,,,3,30568
+昆明市台湘科技学校,103.140466,24.859529000000002,,,,,,,,,,,3,60357

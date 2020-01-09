@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鸿玉发艺,102.66774000000001,25.04065,,,,,,,,,,,3,17277
+抚仙湖铜锅清汤蘸水鱼,102.66774000000001,25.0406,,,,,,,,,,,3,31316

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池湖畔高尔夫球会－湖景坊,102.67061,24.96315,,,,,,,,,,,3,14235
+摩ｓｐａ滇池高尔夫1267温泉会,102.67111,24.96357,,,,,,,,,,,3,22153
+中国银行ATM,102.67090999999999,24.96397,,,,,,,,,,,3,36824

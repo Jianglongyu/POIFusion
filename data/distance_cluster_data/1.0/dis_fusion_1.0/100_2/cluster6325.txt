@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+近城小学,102.405361,25.531298999999997,,,,,,,,,,,3,31512
+近城小学,102.405361,25.531098999999998,,,,,,,,,,,3,61301

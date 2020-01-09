@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大营加油站,102.53331,25.223520999999998,,,,,,,,,,,3,4847
+大营加油站,102.53331,25.223321,,,,,,,,,,,3,34636

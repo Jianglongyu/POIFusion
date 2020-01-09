@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂阿子营连锁NO．2,102.83731999999999,25.390321,,,,,,,,,,,3,36332
+阿子营中学,102.837681,25.390416000000002,,,,,,,,,,,3,44855

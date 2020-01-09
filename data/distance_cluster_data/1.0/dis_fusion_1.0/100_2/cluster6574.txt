@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明湖中学,103.049592,24.961763,,,,,,,,,,,3,32272
+明湖中学,103.049592,24.961563,,,,,,,,,,,3,62061

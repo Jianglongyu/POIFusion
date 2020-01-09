@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石城景区,102.589416,24.806199,,,,,,,,,,,2,537
+石城景区,102.589416,24.806399,,,,,,,,,,,2,42416

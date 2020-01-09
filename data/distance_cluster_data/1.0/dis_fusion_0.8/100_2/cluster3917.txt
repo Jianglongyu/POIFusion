@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白沙河休闲公园南门,102.78196,25.03856,,,,,,,,,,,3,20176
+白沙河休闲公园南门,102.78196,25.03836,,,,,,,,,,,3,40036

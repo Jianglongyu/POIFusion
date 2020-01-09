@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新木凹小学,103.638491,24.844135,,,,,,,,,,,3,31916
+新木凹小学,103.638491,24.843935000000002,,,,,,,,,,,3,61705

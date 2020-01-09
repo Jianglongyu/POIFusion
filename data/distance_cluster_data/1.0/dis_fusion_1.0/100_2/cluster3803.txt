@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世纪城(昆洛路)公交站,102.773525,24.986535,,,,,,,,,,,1,2117
+世纪城(昆洛路)公交站,102.773525,24.986735,,,,,,,,,,,1,66338

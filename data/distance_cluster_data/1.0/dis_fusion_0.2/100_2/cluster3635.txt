@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明倘甸产业园区管委会,102.870398,25.899146,,,,,,,,,,,3,32027
+禄劝县转龙镇人大,102.870398,25.899146,,,,,,,,,,,3,32311

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+观音寺,102.752935,25.062266,,,,,,,,,,,3,27950
+观音寺,102.752935,25.062066,,,,,,,,,,,3,57739

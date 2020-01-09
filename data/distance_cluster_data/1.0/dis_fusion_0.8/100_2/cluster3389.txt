@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区职业成人教育培训中心,103.184081,26.07561,,,,,,,,,,,3,50830
+亨德森外国语学校,103.184081,26.07561,,,,,,,,,,,3,51577

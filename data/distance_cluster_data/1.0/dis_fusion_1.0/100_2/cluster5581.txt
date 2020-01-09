@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市开发区质监局,102.778008,24.996070999999997,,,,,,,,,,,3,28894
+昆明市开发区质监局,102.778008,24.995870999999998,,,,,,,,,,,3,58683

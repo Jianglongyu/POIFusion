@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小哨停车区－小哨A加油站,102.936487,25.195342,,,,,,,,,,,3,5023
+小哨停车区－小哨A加油站,102.936487,25.195142,,,,,,,,,,,3,8333
+马过河蓝江餐厅,102.9367,25.195320000000002,,,,,,,,,,,3,12989

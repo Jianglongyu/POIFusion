@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+添福农家菜馆,102.58474,24.95416,,,,,,,,,,,3,15589
+云厨,102.58475,24.95429,,,,,,,,,,,3,15590
+广东美食馆,102.58478000000001,24.954829999999998,,,,,,,,,,,3,18823

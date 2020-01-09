@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+彝家人,102.862619,25.002569,,,,,,,,,,,1,1352
+彝家人,102.862619,25.002769,,,,,,,,,,,1,55644

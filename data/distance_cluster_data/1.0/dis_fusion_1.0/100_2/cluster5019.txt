@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+连然街道社区卫生中心,102.495829,24.932982999999997,,,,,,,,,,,3,24614
+连然街道社区卫生中心,102.495829,24.932782999999997,,,,,,,,,,,3,54403

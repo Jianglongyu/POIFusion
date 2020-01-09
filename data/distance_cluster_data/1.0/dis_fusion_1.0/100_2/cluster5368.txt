@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+灵感寺,102.629948,25.066489999999998,,,,,,,,,,,3,27976
+灵感寺,102.629948,25.06629,,,,,,,,,,,3,57765

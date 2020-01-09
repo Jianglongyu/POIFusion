@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东骏大药房茂山连锁店,102.500303,25.664954,,,,,,,,,,,3,28225
+禄劝县财政局茂山财政所,102.499571,25.664998,,,,,,,,,,,3,32473

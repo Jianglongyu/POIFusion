@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+桃园滨滨幼儿园,102.690651,25.158169,,,,,,,,,,,3,32716
+桃园滨滨幼儿园,102.690651,25.157969,,,,,,,,,,,3,62505

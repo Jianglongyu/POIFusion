@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东骏大药房大屯连锁店,102.46888,24.914907999999997,,,,,,,,,,,3,45291
+安宁市安监局,102.469464,24.915457999999997,,,,,,,,,,,3,49346

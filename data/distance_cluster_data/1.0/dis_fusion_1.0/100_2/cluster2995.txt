@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省公安厅民用机场公安局,102.741547,25.000631,,,,,,,,,,,3,29097
+云南省公安厅民用机场公安局,102.741547,25.000431,,,,,,,,,,,3,58886
+昆明市机场交警大队,102.741523,25.000578,,,,,,,,,,,3,59818

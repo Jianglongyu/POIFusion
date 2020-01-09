@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+精业按摩馆,102.72443,25.07515,,,,,,,,,,,3,16771
+精业按摩馆,102.72443,25.07495,,,,,,,,,,,3,29538

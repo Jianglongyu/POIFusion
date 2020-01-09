@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+智水渔村温泉山庄,102.66409,25.174,,,,,,,,,,,3,16035
+大闸蟹农庄,102.66409,25.174,,,,,,,,,,,3,16037
+智水渔村温泉山庄,102.66409,25.1738,,,,,,,,,,,3,28802
+大闸蟹农庄,102.66409,25.1738,,,,,,,,,,,3,28804

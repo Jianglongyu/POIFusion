@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省草地动物科学研究院,102.98142,25.174245000000003,,,,,,,,,,,3,34940
+牧园,102.98219,25.174870000000002,,,,,,,,,,,3,24332
+云南省种畜场卫生所,102.98161400000001,25.175093,,,,,,,,,,,3,26132

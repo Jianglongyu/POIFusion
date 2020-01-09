@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+公园道1号,102.77318000000001,25.098786999999998,,,,,,,,,,,1,3944
+云南省林业厅,102.773022,25.0983,,,,,,,,,,,3,49695

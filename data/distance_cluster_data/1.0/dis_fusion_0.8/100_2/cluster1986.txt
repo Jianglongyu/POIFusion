@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+物盛商场,102.755235,25.015203,,,,,,,,,,,1,1762
+官渡森林公园1号商城,102.755797,25.015874,,,,,,,,,,,1,3902
+官渡大酒店,102.755429,25.015905,,,,,,,,,,,1,3923
+物盛商场,102.755235,25.015403,,,,,,,,,,,1,56054

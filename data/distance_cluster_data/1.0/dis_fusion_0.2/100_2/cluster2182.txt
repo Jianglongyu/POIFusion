@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+心灵盲人按摩,102.66596,25.03633,,,,,,,,,,,3,22109
+西山区惠康诊所,102.665767,25.036067000000003,,,,,,,,,,,3,26466
+西苑办事处兴隆社区卫生站,102.665622,25.036582,,,,,,,,,,,3,28697

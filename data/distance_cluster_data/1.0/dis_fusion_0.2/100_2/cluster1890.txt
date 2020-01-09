@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牛栏江镇二中,103.223214,25.308514000000002,,,,,,,,,,,3,34561
+爱心缘药房,103.223837,25.309398,,,,,,,,,,,3,26123
+怀德仁药房,103.223415,25.309023999999997,,,,,,,,,,,3,27142

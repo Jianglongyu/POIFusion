@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金桂苑,102.71565840000001,25.01168042,,,,,,,,,,,2,191
+西山区饶丽诊所,102.715882,25.012197,,,,,,,,,,,3,45127
+金桂苑,102.71565840000001,25.01188042,,,,,,,,,,,2,54483

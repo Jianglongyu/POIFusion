@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定公路路政管理大队,102.406696,25.539632,,,,,,,,,,,3,48721
+武定县食品药品监督管理局,102.406624,25.540013000000002,,,,,,,,,,,3,49343

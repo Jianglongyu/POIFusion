@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+自卫村公交站,102.65095699999999,25.103373,,,,,,,,,,,1,632
+自卫村公交站,102.65095699999999,25.103573,,,,,,,,,,,1,54924

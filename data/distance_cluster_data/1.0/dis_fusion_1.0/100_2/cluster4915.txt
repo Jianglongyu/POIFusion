@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金陈继健康药房,102.856135,25.5484,,,,,,,,,,,3,23722
+金陈继健康药房,102.856135,25.5482,,,,,,,,,,,3,53511

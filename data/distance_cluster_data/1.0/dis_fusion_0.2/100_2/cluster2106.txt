@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+城关加油站,103.25743299999999,25.546969,,,,,,,,,,,3,4665
+城关加油站,103.25743299999999,25.546769,,,,,,,,,,,3,7975
+月甲幼儿园,103.256609,25.547199,,,,,,,,,,,3,34000

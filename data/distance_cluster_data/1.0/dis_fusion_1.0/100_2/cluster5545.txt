@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市畜牧兽医局,102.487315,24.932057999999998,,,,,,,,,,,3,28741
+安宁市畜牧兽医局,102.487315,24.931858,,,,,,,,,,,3,58530

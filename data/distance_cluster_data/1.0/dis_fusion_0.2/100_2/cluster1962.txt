@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+美丽会,102.73136099999999,25.079526,,,,,,,,,,,1,2525
+东畅会所,102.731751,25.079909,,,,,,,,,,,1,4124
+盘龙区国税局车辆购置税征收点,102.731494,25.079081,,,,,,,,,,,3,33163

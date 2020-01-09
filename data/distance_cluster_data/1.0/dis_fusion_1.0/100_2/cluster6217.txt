@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市五华区尚艺学校,102.661448,25.109263,,,,,,,,,,,3,31179
+昆明市五华区尚艺学校,102.661448,25.109063,,,,,,,,,,,3,60968

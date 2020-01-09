@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝彝族苗族自治县皮防站,102.465227,25.546203,,,,,,,,,,,3,44374
+禄劝防震减灾中心,102.464455,25.545848,,,,,,,,,,,3,48627
+禄劝县质监局,102.464862,25.545994,,,,,,,,,,,3,49923

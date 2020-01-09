@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+今缘小吃,102.65155,25.03726,,,,,,,,,,,3,14856
+今缘小吃,102.65155,25.03706,,,,,,,,,,,3,44645
+昆明市第十七幼儿园西区园,102.651115,25.037757,,,,,,,,,,,3,61349

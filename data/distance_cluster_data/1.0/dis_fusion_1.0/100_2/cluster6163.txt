@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+哨上小学,103.211363,25.548837,,,,,,,,,,,3,31016
+哨上小学,103.211363,25.548637,,,,,,,,,,,3,60805

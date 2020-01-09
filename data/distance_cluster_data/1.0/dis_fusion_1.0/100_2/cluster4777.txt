@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蓝玫瑰盲人按摩连锁五环锋尚店,102.76448,24.9575,,,,,,,,,,,3,22123
+馨馨琴艺艺术培训中心,102.764761,24.957451,,,,,,,,,,,3,32162

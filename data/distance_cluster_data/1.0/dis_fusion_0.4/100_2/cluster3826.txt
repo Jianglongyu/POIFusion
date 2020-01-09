@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂马街店,102.927142,25.77024,,,,,,,,,,,3,31224
+寻甸民心堂药房,102.92721800000001,25.770341000000002,,,,,,,,,,,3,31308

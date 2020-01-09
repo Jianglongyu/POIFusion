@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丹桂完小,102.85759200000001,25.55702,,,,,,,,,,,3,31867
+丹桂完小,102.85759200000001,25.556820000000002,,,,,,,,,,,3,61656

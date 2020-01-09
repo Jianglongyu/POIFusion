@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县旧县中学,103.400178,25.370757,,,,,,,,,,,3,32348
+马龙县旧县中学,103.400178,25.370557,,,,,,,,,,,3,62137

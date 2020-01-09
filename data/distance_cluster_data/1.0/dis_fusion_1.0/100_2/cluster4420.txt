@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄西加油站,102.89573,24.677547,,,,,,,,,,,3,4699
+澄西加油站,102.89573,24.677347,,,,,,,,,,,3,34488

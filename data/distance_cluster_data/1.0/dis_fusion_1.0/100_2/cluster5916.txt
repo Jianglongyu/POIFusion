@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白水塘社区幼儿园,102.85345799999999,24.994272,,,,,,,,,,,3,30332
+白水塘社区幼儿园,102.85345799999999,24.994072,,,,,,,,,,,3,60121

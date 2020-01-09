@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+百时快捷酒店(昆明官渡广场店),102.74648,25.022845999999998,,,,,,,,,,,1,4492
+何日君酒店关上店,102.746377,25.021957999999998,,,,,,,,,,,1,67996
+百时快捷酒店(昆明官渡广场店),102.74648,25.023045999999997,,,,,,,,,,,1,68713

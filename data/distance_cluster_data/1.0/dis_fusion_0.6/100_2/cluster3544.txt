@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雅园小吃,102.80636,24.959829999999997,,,,,,,,,,,3,12186
+雅园小吃,102.80636,24.959629999999997,,,,,,,,,,,3,24953

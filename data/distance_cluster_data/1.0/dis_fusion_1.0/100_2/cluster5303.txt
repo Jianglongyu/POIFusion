@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明鑫安会务中心,102.66417,25.01203,,,,,,,,,,,3,27720
+昆明鑫安会务中心,102.66417,25.01183,,,,,,,,,,,3,57509

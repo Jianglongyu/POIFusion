@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牛栏江镇海潮完全小学,103.116332,25.256197,,,,,,,,,,,3,31464
+牛栏江镇海潮完全小学,103.116332,25.255997,,,,,,,,,,,3,61253

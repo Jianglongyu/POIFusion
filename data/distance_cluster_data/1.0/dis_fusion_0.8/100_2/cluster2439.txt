@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蝴蝶园小人国餐厅,102.61877,24.850649999999998,,,,,,,,,,,3,11215
+蝴蝶园小人国餐厅,102.61877,24.85045,,,,,,,,,,,3,31075
+世界蝴蝶生态园售票处,102.618049,24.851109,,,,,,,,,,,3,48051

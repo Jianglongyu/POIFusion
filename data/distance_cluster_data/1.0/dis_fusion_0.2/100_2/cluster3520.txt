@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金缘酒家,102.83877,24.90302,,,,,,,,,,,3,14186
+福尔康药店,102.838003,24.903257,,,,,,,,,,,3,28284

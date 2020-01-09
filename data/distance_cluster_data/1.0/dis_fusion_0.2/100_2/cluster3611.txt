@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+长水乡村缘,103.00235,25.13522,,,,,,,,,,,3,7148
+长水乡村缘,103.00235,25.13502,,,,,,,,,,,3,10458

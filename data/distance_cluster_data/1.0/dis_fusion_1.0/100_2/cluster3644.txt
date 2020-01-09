@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宣威杀猪饭,102.75931899999999,25.01959,,,,,,,,,,,1,1476
+宣威杀猪饭,102.75931899999999,25.01979,,,,,,,,,,,1,65697

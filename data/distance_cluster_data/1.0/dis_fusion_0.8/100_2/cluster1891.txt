@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+实力玖如堂,102.710157,25.079598,,,,,,,,,,,2,332
+蛮香,102.70959,25.079629999999998,,,,,,,,,,,3,6436
+蛮香,102.70959,25.07943,,,,,,,,,,,3,26296
+实力玖如堂,102.710157,25.079798,,,,,,,,,,,2,54624

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+高坡小学,102.84484300000001,25.030576999999997,,,,,,,,,,,1,3977
+高坡小学,102.84484300000001,25.030776999999997,,,,,,,,,,,1,68198

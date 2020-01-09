@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+陆良县公墓管理所,103.585498,24.964305,,,,,,,,,,,3,29511
+陆良县公墓管理所,103.585498,24.964105,,,,,,,,,,,3,59300

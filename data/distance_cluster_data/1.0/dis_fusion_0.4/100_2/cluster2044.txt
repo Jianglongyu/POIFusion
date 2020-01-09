@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+悟金索嘉茶坊,102.74942800000001,25.020743,,,,,,,,,,,1,1760
+金色大厅娱乐会所,102.748866,25.020611,,,,,,,,,,,1,3430
+楚天酒店,102.749619,25.02037,,,,,,,,,,,1,4348

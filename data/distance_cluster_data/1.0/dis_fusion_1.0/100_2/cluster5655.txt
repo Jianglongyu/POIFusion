@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市法院,102.46383,24.919946,,,,,,,,,,,3,29222
+安宁市法院,102.46383,24.919746,,,,,,,,,,,3,59011

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世林彝家土菜馆,102.84212,24.967429999999997,,,,,,,,,,,3,11662
+世林彝家土菜馆,102.84212,24.967229999999997,,,,,,,,,,,3,24429

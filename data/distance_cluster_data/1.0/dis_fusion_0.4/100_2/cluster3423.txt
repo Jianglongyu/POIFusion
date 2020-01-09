@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明财经商贸学校西侧门,102.678138,25.023526,,,,,,,,,,,3,37601
+昆明市西山恩霖学校,102.677718,25.024084,,,,,,,,,,,3,39853

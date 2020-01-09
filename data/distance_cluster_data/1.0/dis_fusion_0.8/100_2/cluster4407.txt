@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨林加油站,103.052776,25.253982999999998,,,,,,,,,,,3,5087
+杨林加油站,103.052776,25.253783,,,,,,,,,,,3,24947

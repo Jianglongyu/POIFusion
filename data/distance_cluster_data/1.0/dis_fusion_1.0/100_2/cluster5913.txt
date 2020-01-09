@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金星小学,103.131824,24.927157,,,,,,,,,,,3,30329
+金星小学,103.131824,24.926957,,,,,,,,,,,3,60118

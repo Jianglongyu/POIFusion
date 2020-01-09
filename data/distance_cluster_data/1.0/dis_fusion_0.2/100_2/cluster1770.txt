@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+野山药火腿鸡风干腊排骨美食城,102.66278,25.16062,,,,,,,,,,,3,16404
+昆明市五华区政府西翥街道办事处,102.66327,25.160041,,,,,,,,,,,3,33235
+农村信用社东大分社,102.66278,25.160420000000002,,,,,,,,,,,3,37519

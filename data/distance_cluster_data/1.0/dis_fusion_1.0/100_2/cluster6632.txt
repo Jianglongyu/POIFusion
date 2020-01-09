@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市呈贡理想学校,102.791628,24.870854,,,,,,,,,,,3,32418
+昆明市呈贡理想学校,102.791628,24.870654000000002,,,,,,,,,,,3,62207

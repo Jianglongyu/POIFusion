@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澳大利亚瓦加瓦加花园,102.765953,25.075132999999997,,,,,,,,,,,3,35547
+加拿大园,102.766288,25.075166,,,,,,,,,,,3,35819

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四川内江饭店,102.75731,25.02147,,,,,,,,,,,3,11317
+凤琴诊所,102.757615,25.021763,,,,,,,,,,,3,26659
+家恋快捷酒店,102.75766999999999,25.02182,,,,,,,,,,,3,30363

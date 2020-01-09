@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市青龙派出所,102.325428,25.013443,,,,,,,,,,,3,29884
+安宁市青龙派出所,102.325428,25.013243,,,,,,,,,,,3,59673

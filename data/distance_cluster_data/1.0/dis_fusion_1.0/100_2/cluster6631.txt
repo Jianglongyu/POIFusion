@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+月家小学,103.035423,25.285422,,,,,,,,,,,3,32417
+月家小学,103.035423,25.285222,,,,,,,,,,,3,62206

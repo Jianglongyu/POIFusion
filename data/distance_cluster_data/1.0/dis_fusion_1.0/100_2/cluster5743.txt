@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+陆良县小百户镇人大,103.572586,25.041477999999998,,,,,,,,,,,3,29700
+陆良县小百户镇人大,103.572586,25.041278,,,,,,,,,,,3,59489

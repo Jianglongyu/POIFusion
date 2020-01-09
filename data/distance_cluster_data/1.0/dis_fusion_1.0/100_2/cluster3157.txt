@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小哨火车站,102.99266800000001,25.166525,,,,,,,,,,,3,32934
+小哨火车站,102.99266800000001,25.166325,,,,,,,,,,,3,62723

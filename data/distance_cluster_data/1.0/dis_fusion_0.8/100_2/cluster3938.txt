@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆船体育馆,102.8001,24.99271,,,,,,,,,,,3,20294
+昆船体育馆,102.8001,24.99251,,,,,,,,,,,3,40154

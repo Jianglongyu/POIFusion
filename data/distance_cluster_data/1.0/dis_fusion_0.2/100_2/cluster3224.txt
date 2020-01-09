@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+读书铺服务区－读书铺A加油站,102.557092,24.951314999999997,,,,,,,,,,,3,4809
+读书铺服务区－读书铺A加油站,102.557092,24.951114999999998,,,,,,,,,,,3,8119

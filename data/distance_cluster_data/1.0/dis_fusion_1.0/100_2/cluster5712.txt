@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明开发区管委会,102.840405,24.947152,,,,,,,,,,,3,29544
+昆明开发区管委会,102.840405,24.946952,,,,,,,,,,,3,59333

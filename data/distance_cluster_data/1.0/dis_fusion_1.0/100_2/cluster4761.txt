@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明三农场自然生态园,102.79284,25.058079999999997,,,,,,,,,,,3,21852
+昆明三农场自然生态园,102.79284,25.057879999999997,,,,,,,,,,,3,51641

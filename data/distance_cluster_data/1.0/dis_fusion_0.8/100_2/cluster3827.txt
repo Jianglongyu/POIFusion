@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明滇池国家旅游度假区网篮球馆,102.67107,24.987315,,,,,,,,,,,1,3222
+滇池春天温泉会馆,102.67102,24.986714000000003,,,,,,,,,,,1,4175

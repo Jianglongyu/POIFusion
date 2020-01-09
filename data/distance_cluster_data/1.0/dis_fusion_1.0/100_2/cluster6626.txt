@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省林业技工学校,102.79401700000001,24.944514,,,,,,,,,,,3,32405
+云南省林业技工学校,102.79401700000001,24.944314000000002,,,,,,,,,,,3,62194

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+Yｅ发专业美发连锁旗舰店,102.72245,25.025589999999998,,,,,,,,,,,3,19855
+V8商旅酒店,102.72247,25.025389999999998,,,,,,,,,,,3,26747
+如如素食,102.72266,25.02577,,,,,,,,,,,3,41186

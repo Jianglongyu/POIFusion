@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+绿水塘幼儿园,103.47972800000001,24.823844,,,,,,,,,,,3,32138
+绿水塘幼儿园,103.47972800000001,24.823644,,,,,,,,,,,3,61927

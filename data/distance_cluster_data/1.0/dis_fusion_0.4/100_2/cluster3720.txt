@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北城心连心药店,102.54912,24.426553,,,,,,,,,,,3,30301
+中西成药店,102.548716,24.426135000000002,,,,,,,,,,,3,32560

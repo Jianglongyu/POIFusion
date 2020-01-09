@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南公安高等专科学校五号门,102.69100999999999,25.075613,,,,,,,,,,,3,32567
+云南公安高等专科学校五号门,102.69100999999999,25.075413,,,,,,,,,,,3,62356

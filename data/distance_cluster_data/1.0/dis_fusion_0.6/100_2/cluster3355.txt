@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡区兴杰学校竹园校区,102.785033,24.985121,,,,,,,,,,,3,43690
+兴杰幼儿园,102.785033,24.985121,,,,,,,,,,,3,43750

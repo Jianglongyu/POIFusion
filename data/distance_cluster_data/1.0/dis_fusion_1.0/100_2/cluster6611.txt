@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三板桥完小,103.261622,24.741153,,,,,,,,,,,3,32350
+三板桥完小,103.261622,24.740953,,,,,,,,,,,3,62139

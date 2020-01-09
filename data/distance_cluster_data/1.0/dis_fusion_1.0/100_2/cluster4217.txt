@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+果香园休闲庄,102.910827,25.065955,,,,,,,,,,,1,3840
+果香园休闲庄,102.910827,25.066155,,,,,,,,,,,1,68061

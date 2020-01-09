@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+矣铎小学,103.02056400000001,25.296249,,,,,,,,,,,3,31312
+矣铎小学,103.02056400000001,25.296049,,,,,,,,,,,3,61101

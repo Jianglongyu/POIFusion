@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华欣艺术幼儿园,102.722404,25.10465,,,,,,,,,,,3,31166
+华欣艺术幼儿园,102.722404,25.10445,,,,,,,,,,,3,60955

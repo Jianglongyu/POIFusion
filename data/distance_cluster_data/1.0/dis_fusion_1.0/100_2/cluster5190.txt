@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+七甸乡卫生院,102.944898,24.951826,,,,,,,,,,,3,25955
+七甸乡卫生院,102.944898,24.951626,,,,,,,,,,,3,55744

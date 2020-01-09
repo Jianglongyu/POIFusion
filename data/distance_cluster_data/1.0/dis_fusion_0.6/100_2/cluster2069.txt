@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国建筑陶瓷馆昆明分馆,102.717911,24.989582000000002,,,,,,,,,,,1,745
+大商汇国际茶城公交站,102.717541,24.989420000000003,,,,,,,,,,,1,4239
+中国建筑陶瓷馆昆明分馆,102.717911,24.989782,,,,,,,,,,,1,47944

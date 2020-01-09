@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+神农架,102.719688,24.974391,,,,,,,,,,,1,2182
+味济创意生态菜,102.71907,24.974929999999997,,,,,,,,,,,3,7937
+味济创意生态菜,102.71907,24.974729999999997,,,,,,,,,,,3,11247

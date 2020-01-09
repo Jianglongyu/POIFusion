@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南烟草兴云车城(二环西路),102.67356,25.07469,,,,,,,,,,,1,905
+云南烟草兴云车城(二环西路),102.67356,25.07489,,,,,,,,,,,1,42784

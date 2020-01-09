@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县古城中心幼儿园,102.599967,24.723251,,,,,,,,,,,3,30238
+晋宁县古城中心幼儿园,102.599967,24.723051,,,,,,,,,,,3,60027

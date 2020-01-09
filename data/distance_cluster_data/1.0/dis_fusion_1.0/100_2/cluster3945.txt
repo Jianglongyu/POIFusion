@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆西站,102.651475,25.033881,,,,,,,,,,,1,2765
+昆西站,102.651475,25.034081,,,,,,,,,,,1,66986

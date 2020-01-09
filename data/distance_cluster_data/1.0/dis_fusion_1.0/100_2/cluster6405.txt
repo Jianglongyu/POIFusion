@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区第三小学,103.178608,26.08505,,,,,,,,,,,3,31754
+东川区第三小学,103.178608,26.08485,,,,,,,,,,,3,61543

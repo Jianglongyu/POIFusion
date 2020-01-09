@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+揽月池,102.78135999999999,24.93394,,,,,,,,,,,3,20103
+中豪·螺蛳湾国际商贸城精品三区12栋,102.78129,24.933970000000002,,,,,,,,,,,3,31707

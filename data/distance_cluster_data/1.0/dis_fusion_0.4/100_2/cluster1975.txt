@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+喜洋洋川菜馆,102.92227,25.069499999999998,,,,,,,,,,,3,9050
+喜洋洋川菜馆,102.92227,25.0693,,,,,,,,,,,3,16497
+吉明溜冰场,102.92211,25.06909,,,,,,,,,,,3,28428

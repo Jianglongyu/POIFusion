@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙潭山庄,103.030413,25.181172,,,,,,,,,,,1,2607
+翰林苑休闲山庄,103.029833,25.180978,,,,,,,,,,,1,3794
+龙潭山庄,103.030413,25.181372,,,,,,,,,,,1,66828
+翰林苑休闲山庄,103.029833,25.181178,,,,,,,,,,,1,68015

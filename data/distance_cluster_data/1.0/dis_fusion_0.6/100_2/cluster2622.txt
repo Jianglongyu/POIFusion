@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金尚俊园一期,102.7675563,25.27401948,,,,,,,,,,,2,203
+金尚俊园一期,102.7675563,25.27421948,,,,,,,,,,,2,47402

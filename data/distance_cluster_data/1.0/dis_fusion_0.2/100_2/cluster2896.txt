@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康佳大药房,103.577189,25.43272,,,,,,,,,,,3,27555
+云南省马龙县烟草专卖局通泉专卖监督管理所,103.576998,25.432078,,,,,,,,,,,3,32118

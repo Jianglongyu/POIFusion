@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+JERRY茶餐厅,103.04566,24.95917,,,,,,,,,,,3,12525
+巴珊形象设计工作室,103.04565,24.95964,,,,,,,,,,,3,21227
+JERRY茶餐厅,103.04566,24.95897,,,,,,,,,,,3,32385
+巴珊形象设计工作室,103.04565,24.95944,,,,,,,,,,,3,41087

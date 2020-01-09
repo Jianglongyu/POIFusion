@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鹤福园,102.8752,25.02461,,,,,,,,,,,3,15566
+鹤福园,102.8752,25.02441,,,,,,,,,,,3,28333

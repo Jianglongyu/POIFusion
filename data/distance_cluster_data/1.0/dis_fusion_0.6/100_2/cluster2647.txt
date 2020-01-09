@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+火炬大厦,102.82864000000001,24.95467,,,,,,,,,,,3,41206
+云南中研应用科学研究院,102.8284,24.954723,,,,,,,,,,,3,45038

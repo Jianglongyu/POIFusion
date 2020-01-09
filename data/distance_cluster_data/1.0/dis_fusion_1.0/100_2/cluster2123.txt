@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国建设银行ATM,102.76547,24.97743,,,,,,,,,,,3,33100
+招商银行世纪城支行,102.76562,24.97745,,,,,,,,,,,3,33568
+中国建设银行ATM,102.76547,24.97723,,,,,,,,,,,3,62889
+招商银行世纪城支行,102.76562,24.97725,,,,,,,,,,,3,63357

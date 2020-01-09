@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大台北台润奶茶茶饮连锁师范店,102.84688,24.861520000000002,,,,,,,,,,,3,37925
+四两绿,102.8469,24.86143,,,,,,,,,,,3,43236

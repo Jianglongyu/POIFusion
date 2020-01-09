@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+医药公司五门市,103.27053599999999,24.75406,,,,,,,,,,,3,31158
+石林同济堂药店,103.27094,24.754137,,,,,,,,,,,3,31369
+石林彝族自治县农牧局动物卫生监督检验所,103.271061,24.7544,,,,,,,,,,,3,36945

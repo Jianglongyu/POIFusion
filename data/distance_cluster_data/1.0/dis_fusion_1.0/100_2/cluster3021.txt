@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仁兴中学,102.294158,25.380135,,,,,,,,,,,3,32780
+仁兴中学,102.294158,25.379935,,,,,,,,,,,3,62569

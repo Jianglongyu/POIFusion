@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡区青云实验学校,102.783714,25.010273,,,,,,,,,,,3,31273
+官渡区青云实验学校,102.783714,25.010073000000002,,,,,,,,,,,3,61062

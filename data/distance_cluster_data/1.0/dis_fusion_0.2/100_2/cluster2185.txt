@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+侬晓小吃,102.71611,25.08158,,,,,,,,,,,3,13940
+佳垚地儿腊排骨餐厅,102.71621999999999,25.08173,,,,,,,,,,,3,17916
+青云培训,102.715408,25.081701000000002,,,,,,,,,,,3,35020

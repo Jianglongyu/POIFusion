@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+欢畅KTV,103.02468,25.24406,,,,,,,,,,,3,33261
+金色农家,103.02512,25.24415,,,,,,,,,,,3,34756

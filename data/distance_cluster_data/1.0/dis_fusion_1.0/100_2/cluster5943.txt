@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大坪希望小学,103.036034,26.064866,,,,,,,,,,,3,30421
+大坪希望小学,103.036034,26.064666,,,,,,,,,,,3,60210

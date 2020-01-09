@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+棒棒堂幼儿园,102.757207,24.699609,,,,,,,,,,,3,31848
+棒棒堂幼儿园,102.757207,24.699409,,,,,,,,,,,3,61637

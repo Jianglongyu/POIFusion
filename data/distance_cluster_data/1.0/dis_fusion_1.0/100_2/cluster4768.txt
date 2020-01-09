@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云盛休闲苑,102.64126,24.866870000000002,,,,,,,,,,,3,21938
+云盛休闲苑,102.64126,24.866670000000003,,,,,,,,,,,3,51727

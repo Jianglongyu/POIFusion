@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国银行经济技术开发区支行,102.782993,24.993442,,,,,,,,,,,1,708
+云映居酒楼,102.78277299999999,24.993733,,,,,,,,,,,1,854

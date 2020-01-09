@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安民药店,102.505257,25.488645,,,,,,,,,,,3,25682
+安民药店,102.505257,25.488445000000002,,,,,,,,,,,3,55471

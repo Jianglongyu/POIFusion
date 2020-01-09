@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+散旦加油站,102.658348,25.297393,,,,,,,,,,,3,5124
+散旦加油站,102.658348,25.297193,,,,,,,,,,,3,34913

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡区石龙湖派出所,102.829479,24.887870999999997,,,,,,,,,,,3,28838
+呈贡区石龙湖派出所,102.829479,24.887670999999997,,,,,,,,,,,3,58627

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天骄北麓,102.73576800000001,25.119492,,,,,,,,,,,2,355
+天骄北麓,102.73576800000001,25.119692,,,,,,,,,,,2,38097

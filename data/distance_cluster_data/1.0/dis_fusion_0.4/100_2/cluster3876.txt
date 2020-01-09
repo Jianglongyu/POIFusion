@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+花园彝村,102.60741999999999,25.05105,,,,,,,,,,,3,23364
+花红园农家院,102.60686,25.05031,,,,,,,,,,,3,23828

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂禄劝转龙连锁店,102.856827,25.902935,,,,,,,,,,,3,23169
+一心堂禄劝转龙连锁店,102.856827,25.902735,,,,,,,,,,,3,43029
+禄劝转龙镇和协药房,102.85694000000001,25.903185999999998,,,,,,,,,,,3,45808

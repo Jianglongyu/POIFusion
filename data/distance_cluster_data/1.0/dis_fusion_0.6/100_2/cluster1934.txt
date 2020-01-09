@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宏源牛菜馆,102.66884,25.10214,,,,,,,,,,,3,6151
+云吉园酸汤店,102.66855,25.10229,,,,,,,,,,,3,14242
+宏源牛菜馆,102.66884,25.10194,,,,,,,,,,,3,18918
+云吉园酸汤店,102.66855,25.10209,,,,,,,,,,,3,27009

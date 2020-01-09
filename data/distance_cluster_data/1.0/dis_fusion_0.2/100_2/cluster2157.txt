@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+古兰苑,102.79881999999999,24.85885,,,,,,,,,,,3,13441
+仙湖石锅鱼,102.79881,24.8589,,,,,,,,,,,3,14567
+中国农业银行ATM,102.79876999999999,24.85894,,,,,,,,,,,3,36605

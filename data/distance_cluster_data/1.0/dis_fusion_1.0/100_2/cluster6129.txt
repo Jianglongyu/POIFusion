@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡二十六汽车培训站,102.79405799999999,24.889317000000002,,,,,,,,,,,3,30940
+呈贡二十六汽车培训站,102.79405799999999,24.889117000000002,,,,,,,,,,,3,60729

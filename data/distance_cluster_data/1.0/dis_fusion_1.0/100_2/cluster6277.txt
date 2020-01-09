@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+箐口小学,103.20089399999999,26.159948999999997,,,,,,,,,,,3,31361
+箐口小学,103.20089399999999,26.159748999999998,,,,,,,,,,,3,61150

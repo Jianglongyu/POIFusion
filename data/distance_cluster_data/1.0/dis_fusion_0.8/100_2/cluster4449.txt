@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨记香草酸汤滇池星城星澄湾店,102.79592,24.85815,,,,,,,,,,,3,13398
+杨记香草酸汤滇池星城星澄湾店,102.79592,24.85795,,,,,,,,,,,3,33258

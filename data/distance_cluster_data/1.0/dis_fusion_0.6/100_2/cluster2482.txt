@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+亮点发艺,102.65415,25.041999999999998,,,,,,,,,,,3,31768
+西山区余海门诊部,102.653609,25.042519,,,,,,,,,,,3,37085
+西南实验学校,102.653243,25.041973000000002,,,,,,,,,,,3,42973

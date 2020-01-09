@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明松茂运动休闲山庄,102.89379,24.87625,,,,,,,,,,,3,19551
+昆明松茂运动休闲山庄,102.89379,24.87605,,,,,,,,,,,3,49340

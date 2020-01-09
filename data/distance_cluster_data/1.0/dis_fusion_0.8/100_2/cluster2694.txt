@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北站流动人口卫生服务站,102.719016,25.058570999999997,,,,,,,,,,,3,24059
+金柯星月园,102.71941,25.05922,,,,,,,,,,,3,32964
+北站流动人口卫生服务站,102.719016,25.058370999999998,,,,,,,,,,,3,43919

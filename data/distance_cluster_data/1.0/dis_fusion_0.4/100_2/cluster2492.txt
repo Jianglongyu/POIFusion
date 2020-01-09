@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华夏御府,102.67166,24.997111999999998,,,,,,,,,,,2,167
+华夏御府,102.67166,24.997311999999997,,,,,,,,,,,2,42046

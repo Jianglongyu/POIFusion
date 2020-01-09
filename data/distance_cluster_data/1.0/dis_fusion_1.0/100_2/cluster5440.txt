@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+太极宫,102.464965,24.730841,,,,,,,,,,,3,28196
+太极宫,102.464965,24.730641000000002,,,,,,,,,,,3,57985

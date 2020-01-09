@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+依然香,102.71495,25.0892,,,,,,,,,,,3,18474
+中国农业银行ATM,102.71579,25.08921,,,,,,,,,,,3,37616

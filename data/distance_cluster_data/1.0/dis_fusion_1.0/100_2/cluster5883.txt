@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良古城中学,103.186592,24.987745999999998,,,,,,,,,,,3,30251
+宜良古城中学,103.186592,24.987546,,,,,,,,,,,3,60040

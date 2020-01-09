@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云武温泉酒店,102.7536,25.01907,,,,,,,,,,,3,26604
+云武温泉酒店,102.7536,25.01887,,,,,,,,,,,3,56393

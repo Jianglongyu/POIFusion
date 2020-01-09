@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南师范大学文理学院,102.999009,25.248661,,,,,,,,,,,3,30993
+云南师范大学文理学院,102.999009,25.248461,,,,,,,,,,,3,60782

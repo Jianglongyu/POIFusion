@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+彝乡人家,102.59779,25.08127,,,,,,,,,,,3,34913
+豪客来休闲山庄,102.59748,25.08142,,,,,,,,,,,3,34956

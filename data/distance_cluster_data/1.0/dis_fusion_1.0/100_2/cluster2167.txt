@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+犀牛龙潭休闲山庄,102.86917,25.00408,,,,,,,,,,,3,17371
+清龙泉生态园,102.86917,25.00408,,,,,,,,,,,3,19143
+犀牛龙潭休闲山庄,102.86917,25.00388,,,,,,,,,,,3,47160
+清龙泉生态园,102.86917,25.00388,,,,,,,,,,,3,48932

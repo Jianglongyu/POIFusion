@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川一中碧谷校区,103.164078,26.117189,,,,,,,,,,,3,31520
+东川一中碧谷校区,103.164078,26.116989,,,,,,,,,,,3,61309

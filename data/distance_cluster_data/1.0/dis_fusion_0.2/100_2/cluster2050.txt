@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+虹桥立交桥东公交站,102.780627,25.041393,,,,,,,,,,,1,3709
+抚仙湖铜石锅鱼庄,102.78029000000001,25.0422,,,,,,,,,,,3,13077
+云南省地质矿产勘查开发局职工疗养院,102.78009,25.04192,,,,,,,,,,,3,30407

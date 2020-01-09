@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县国土局王家庄国土所,103.49783000000001,25.476817,,,,,,,,,,,3,29792
+马龙县国土局王家庄国土所,103.49783000000001,25.476617,,,,,,,,,,,3,59581

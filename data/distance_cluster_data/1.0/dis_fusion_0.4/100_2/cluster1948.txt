@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁口腔门诊部,102.485341,24.919198,,,,,,,,,,,3,33302
+安宁市食品药品监督管理局,102.48496999999999,24.919464,,,,,,,,,,,3,36998
+安宁市委员会老干部党校,102.485321,24.919329,,,,,,,,,,,3,39715

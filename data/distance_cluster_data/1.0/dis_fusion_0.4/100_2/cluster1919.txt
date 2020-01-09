@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金地兰亭广场,102.658111,25.052431,,,,,,,,,,,2,188
+云南省建筑材料产品质量监督检验站,102.657762,25.051970999999998,,,,,,,,,,,3,37452
+金地兰亭广场,102.658111,25.052630999999998,,,,,,,,,,,2,42067

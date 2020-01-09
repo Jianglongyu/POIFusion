@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+静康诊所,103.136718,25.276569,,,,,,,,,,,3,24271
+静康诊所,103.136718,25.276369,,,,,,,,,,,3,44131

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+美尔斯酒店,102.73384,25.07986,,,,,,,,,,,3,47499
+富滇银行金实支行,102.73441,25.080029999999997,,,,,,,,,,,3,53320

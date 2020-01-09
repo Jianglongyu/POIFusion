@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县六街第二小学,102.689502,24.521299,,,,,,,,,,,3,32685
+晋宁县六街第二小学,102.689502,24.521099,,,,,,,,,,,3,62474

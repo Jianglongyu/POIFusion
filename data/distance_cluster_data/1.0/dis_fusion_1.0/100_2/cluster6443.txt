@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马军小学,103.173549,24.817849,,,,,,,,,,,3,31837
+马军小学,103.173549,24.817649,,,,,,,,,,,3,61626

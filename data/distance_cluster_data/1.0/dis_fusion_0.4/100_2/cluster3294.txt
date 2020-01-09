@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+重庆胖子鱼庄,102.71476,24.97319,,,,,,,,,,,3,21044
+吕法丝专业烫染,102.71499,24.97324,,,,,,,,,,,3,26943

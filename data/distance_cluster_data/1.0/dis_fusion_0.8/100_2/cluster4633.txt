@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+依兰大药房,102.52079499999999,24.836782,,,,,,,,,,,3,23264
+依兰大药房,102.52079499999999,24.836582,,,,,,,,,,,3,43124

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝团街镇客运站,102.525021,25.756006,,,,,,,,,,,3,52826
+东骏大药房团街连锁店,102.524598,25.75696,,,,,,,,,,,3,24017
+东骏大药房团街连锁店,102.524598,25.75676,,,,,,,,,,,3,43877

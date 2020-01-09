@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+林彩愉幼儿园,102.480774,25.562866,,,,,,,,,,,3,32619
+林彩愉幼儿园,102.480774,25.562666,,,,,,,,,,,3,62408

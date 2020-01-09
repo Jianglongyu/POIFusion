@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县交通局金源乡公路管理所,103.127976,25.826123,,,,,,,,,,,3,29063
+寻甸县交通局金源乡公路管理所,103.127976,25.825923,,,,,,,,,,,3,58852

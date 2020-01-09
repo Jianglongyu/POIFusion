@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+高铁时代广场,102.856983,24.867164000000002,,,,,,,,,,,2,103
+高铁时代广场,102.856983,24.867364000000002,,,,,,,,,,,2,37845

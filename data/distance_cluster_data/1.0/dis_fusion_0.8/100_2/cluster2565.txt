@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天惠牛肉火锅,102.65039,25.04991,,,,,,,,,,,3,13707
+天惠牛肉火锅,102.65039,25.04971,,,,,,,,,,,3,33567
+旭东诊所,102.64983199999999,25.049978,,,,,,,,,,,3,45716

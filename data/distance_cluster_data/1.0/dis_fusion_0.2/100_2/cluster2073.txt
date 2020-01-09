@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鼎易天景,102.678358,25.071056,,,,,,,,,,,1,4128
+金泰国际,102.67767099999999,25.070357,,,,,,,,,,,2,207
+金泰国际,102.67767099999999,25.070557,,,,,,,,,,,2,37949

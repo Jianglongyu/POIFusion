@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+菱角塘小区文化活动室,102.68874,25.054573,,,,,,,,,,,1,2638
+昆明强林学校,102.68879799999999,25.054341,,,,,,,,,,,3,44070

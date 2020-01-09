@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红塔体育中心羽毛球馆,102.65160999999999,24.97189,,,,,,,,,,,3,18102
+红塔体育中心羽毛球馆,102.65160999999999,24.97169,,,,,,,,,,,3,47891

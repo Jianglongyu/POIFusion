@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+姚佳美容院,102.73312,24.95326,,,,,,,,,,,3,33577
+官渡区继发诊所,102.733448,24.953503,,,,,,,,,,,3,36891

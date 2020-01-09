@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+和平卫生院,102.199364,25.205233,,,,,,,,,,,3,23780
+和平卫生院,102.199364,25.205033,,,,,,,,,,,3,43640

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+虹山中路社区,102.68509499999999,25.065752,,,,,,,,,,,1,3703
+虹山中路社区,102.68509499999999,25.065952,,,,,,,,,,,1,67924

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省民族干部学校,102.67846,25.027133,,,,,,,,,,,3,31119
+云南省民族干部学校,102.67846,25.026933,,,,,,,,,,,3,60908

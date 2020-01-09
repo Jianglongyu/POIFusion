@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市工人疗养院,102.66458,24.85407,,,,,,,,,,,3,30374
+昆明市华茵学校（西校）,102.66469599999999,24.85408,,,,,,,,,,,3,34670

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富家鱼庄,102.867108,25.199553,,,,,,,,,,,1,3989
+富家鱼庄,102.867108,25.199753,,,,,,,,,,,1,68210

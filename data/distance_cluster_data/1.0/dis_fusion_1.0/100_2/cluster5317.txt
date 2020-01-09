@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+法华寺,102.53457,24.918122,,,,,,,,,,,3,27830
+法华寺,102.53457,24.917922,,,,,,,,,,,3,57619

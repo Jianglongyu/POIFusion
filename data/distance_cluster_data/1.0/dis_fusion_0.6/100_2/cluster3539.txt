@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明大成教育集团大成学校,102.79486899999999,24.883808,,,,,,,,,,,3,44912
+快乐宝贝幼儿园,102.795323,24.884003,,,,,,,,,,,3,45099

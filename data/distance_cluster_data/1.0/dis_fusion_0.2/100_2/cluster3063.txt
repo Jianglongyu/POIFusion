@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金利足浴休闲会所,102.7184,25.06616,,,,,,,,,,,3,20796
+创缘艺国际美发会所,102.71861,25.0661,,,,,,,,,,,3,25224

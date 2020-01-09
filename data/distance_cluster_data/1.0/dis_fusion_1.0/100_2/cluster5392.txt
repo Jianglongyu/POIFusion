@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆钢基督教堂,102.504536,24.883388,,,,,,,,,,,3,28081
+昆钢基督教堂,102.504536,24.883188,,,,,,,,,,,3,57870

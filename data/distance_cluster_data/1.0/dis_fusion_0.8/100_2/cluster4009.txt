@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+弘来堂药房兰茂路店,103.06649200000001,25.220693,,,,,,,,,,,3,45372
+杨林小天使幼儿园,103.066064,25.220688,,,,,,,,,,,3,51666

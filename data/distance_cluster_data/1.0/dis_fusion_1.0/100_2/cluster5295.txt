@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南交通职业技术学院学术交流中心,102.86063,24.83911,,,,,,,,,,,3,27646
+云南交通职业技术学院学术交流中心,102.86063,24.838910000000002,,,,,,,,,,,3,57435

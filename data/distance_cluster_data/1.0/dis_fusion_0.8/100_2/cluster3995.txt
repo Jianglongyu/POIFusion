@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+美林网络,102.75785,24.98635,,,,,,,,,,,3,37102
+金茂源,102.7577,24.98626,,,,,,,,,,,3,40593

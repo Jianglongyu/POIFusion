@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+良晨水逸二期,102.7165673,24.97956085,,,,,,,,,,,2,254
+良晨水逸二期,102.7165673,24.979760849999998,,,,,,,,,,,2,42133

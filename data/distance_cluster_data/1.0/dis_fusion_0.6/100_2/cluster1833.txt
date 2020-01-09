@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+开心小吃,102.60452,24.78154,,,,,,,,,,,3,19732
+意莎造型,102.60484,24.78213,,,,,,,,,,,3,31370
+皇飞旅馆,102.6048,24.782020000000003,,,,,,,,,,,3,39210
+帝都宾馆,102.60473,24.78177,,,,,,,,,,,3,39912

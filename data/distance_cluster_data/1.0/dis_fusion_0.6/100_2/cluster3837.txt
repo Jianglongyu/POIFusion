@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川营盘加油站,103.14072900000001,26.161868,,,,,,,,,,,3,4932
+东川营盘加油站,103.14072900000001,26.161668,,,,,,,,,,,3,17699

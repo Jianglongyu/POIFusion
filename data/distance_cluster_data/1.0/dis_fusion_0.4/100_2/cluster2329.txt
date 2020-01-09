@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+顽的好,102.84546,24.860529999999997,,,,,,,,,,,3,6776
+顽的好,102.84546,24.860329999999998,,,,,,,,,,,3,14223
+独领烫染吧,102.84527,24.860689999999998,,,,,,,,,,,3,26334

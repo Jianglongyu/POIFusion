@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西华山水,102.67911020000001,25.02073953,,,,,,,,,,,1,1745
+西华山水,102.67911020000001,25.02093953,,,,,,,,,,,1,65966

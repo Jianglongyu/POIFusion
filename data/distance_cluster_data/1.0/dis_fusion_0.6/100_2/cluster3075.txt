@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+月牙潭公园,102.72453399999999,25.09335807,,,,,,,,,,,1,1233
+月牙潭公园,102.72453399999999,25.09355807,,,,,,,,,,,1,48432

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡农村合作银行ATM,102.73177,24.9374,,,,,,,,,,,3,33111
+官渡农村合作银行ATM,102.73177,24.9372,,,,,,,,,,,3,62900

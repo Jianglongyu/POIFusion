@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宝硫寺,102.939074,24.959989999999998,,,,,,,,,,,1,4468
+宝硫寺,102.939074,24.960189999999997,,,,,,,,,,,1,68689

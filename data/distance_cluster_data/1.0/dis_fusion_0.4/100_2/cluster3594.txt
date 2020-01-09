@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+土官加油站,102.197763,24.949813,,,,,,,,,,,3,5047
+土官加油站,102.197763,24.949613,,,,,,,,,,,3,12494

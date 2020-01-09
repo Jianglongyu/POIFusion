@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+肾脏病医院云南省器官移植中心分部,102.762664,24.997671999999998,,,,,,,,,,,3,25348
+昆明市官渡区法院,102.762425,24.998176,,,,,,,,,,,3,29216
+昆明市官渡区法院,102.762425,24.997976,,,,,,,,,,,3,59005

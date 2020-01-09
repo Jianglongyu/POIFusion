@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+易门职业高中,102.213443,24.684401,,,,,,,,,,,3,31146
+易门职业高中,102.213443,24.684201,,,,,,,,,,,3,60935

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+栽开幼儿园,103.187876,25.52535,,,,,,,,,,,3,30263
+栽开幼儿园,103.187876,25.52515,,,,,,,,,,,3,60052

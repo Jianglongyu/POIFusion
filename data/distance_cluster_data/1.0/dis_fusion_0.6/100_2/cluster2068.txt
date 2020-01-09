@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+拓东体育中心－网球场,102.72827,25.03536,,,,,,,,,,,3,33505
+云南省体育运动创伤专科医院,102.728477,25.034713,,,,,,,,,,,3,37319
+昆明市规划设计研究院,102.72731,25.03535,,,,,,,,,,,3,43374

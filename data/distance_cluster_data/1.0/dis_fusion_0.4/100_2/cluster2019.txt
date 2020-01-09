@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻味园,102.82366999999999,24.86485,,,,,,,,,,,3,9655
+寻味园,102.82366999999999,24.86465,,,,,,,,,,,3,17102
+回回营居委会卫生所,102.82382199999999,24.864585,,,,,,,,,,,3,33120

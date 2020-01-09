@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+化香箐小学,103.308736,25.735035999999997,,,,,,,,,,,3,32747
+化香箐小学,103.308736,25.734835999999998,,,,,,,,,,,3,62536

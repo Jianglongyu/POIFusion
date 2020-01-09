@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万锦源酒家,102.84352,25.0217,,,,,,,,,,,3,13329
+万锦源酒家,102.84352,25.0215,,,,,,,,,,,3,26096

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+服务区－兴隆加油站B站,103.251999,25.350998,,,,,,,,,,,3,4755
+服务区－兴隆加油站B站,103.251999,25.350798,,,,,,,,,,,3,8065

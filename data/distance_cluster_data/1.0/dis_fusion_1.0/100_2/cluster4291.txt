@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池·世界花苑(西门),102.687697,25.021953,,,,,,,,,,,1,4178
+滇池·世界花苑(西门),102.687697,25.022153,,,,,,,,,,,1,68399

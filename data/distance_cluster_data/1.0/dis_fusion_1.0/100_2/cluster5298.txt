@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丽云旅馆,102.66674,25.106939999999998,,,,,,,,,,,3,27675
+丽云旅馆,102.66674,25.10674,,,,,,,,,,,3,57464

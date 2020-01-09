@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸回族彝族自治县人民法院金所法庭,103.202499,25.551298,,,,,,,,,,,3,29156
+寻甸回族彝族自治县人民法院金所法庭,103.202499,25.551098,,,,,,,,,,,3,58945

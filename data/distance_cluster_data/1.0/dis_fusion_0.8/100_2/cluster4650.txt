@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+好药家健康药房大兴店,103.26795200000001,24.758308,,,,,,,,,,,3,23359
+好药家健康药房大兴店,103.26795200000001,24.758108,,,,,,,,,,,3,43219

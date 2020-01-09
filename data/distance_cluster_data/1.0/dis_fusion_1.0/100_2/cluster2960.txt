@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+香茗居棋牌室,102.77634,24.9649,,,,,,,,,,,3,19389
+金剪子发艺,102.77665999999999,24.96455,,,,,,,,,,,3,46945
+香茗居棋牌室,102.77634,24.9647,,,,,,,,,,,3,49178

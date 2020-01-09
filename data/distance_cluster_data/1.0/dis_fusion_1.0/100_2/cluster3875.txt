@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南杉村(东南门),102.74951999999999,25.040826000000003,,,,,,,,,,,1,2430
+南杉村(东南门),102.74951999999999,25.041026000000002,,,,,,,,,,,1,66651

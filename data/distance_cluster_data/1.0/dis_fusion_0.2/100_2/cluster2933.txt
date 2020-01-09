@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+段增富骨科诊所,103.14891800000001,24.915059,,,,,,,,,,,3,27807
+益宁堂医药公司第二门市,103.148607,24.915467,,,,,,,,,,,3,28289

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤龙湾战斗水库纪念碑,103.348527,25.495282,,,,,,,,,,,3,28223
+凤龙湾战斗水库纪念碑,103.348527,25.495082,,,,,,,,,,,3,58012

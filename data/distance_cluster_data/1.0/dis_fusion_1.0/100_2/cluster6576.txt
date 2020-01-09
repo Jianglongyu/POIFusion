@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川一中,103.182052,26.104235999999997,,,,,,,,,,,3,32277
+东川一中,103.182052,26.104035999999997,,,,,,,,,,,3,62066

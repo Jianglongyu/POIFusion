@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明滇兴医院,102.75261400000001,24.708037,,,,,,,,,,,3,36838
+张学洲骨科诊所,102.752553,24.708346,,,,,,,,,,,3,37933
+杨发明药店,102.752152,24.708318,,,,,,,,,,,3,38661

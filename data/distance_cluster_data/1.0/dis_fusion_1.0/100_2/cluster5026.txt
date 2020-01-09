@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+九号诊所,102.754242,24.983393,,,,,,,,,,,3,24688
+九号诊所,102.754242,24.983193,,,,,,,,,,,3,54477

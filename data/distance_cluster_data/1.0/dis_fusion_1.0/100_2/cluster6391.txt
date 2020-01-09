@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+王家庄小学,102.374344,24.788998,,,,,,,,,,,3,31695
+王家庄小学,102.374344,24.788798,,,,,,,,,,,3,61484

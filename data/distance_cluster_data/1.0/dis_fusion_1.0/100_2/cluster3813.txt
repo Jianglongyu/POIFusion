@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石屏花腰人家,102.783716,24.942010999999997,,,,,,,,,,,1,2154
+石屏花腰人家,102.783716,24.942210999999997,,,,,,,,,,,1,66375

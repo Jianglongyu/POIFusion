@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+翠华苑,102.787798,24.901963000000002,,,,,,,,,,,1,4295
+翠华苑,102.787798,24.902163,,,,,,,,,,,1,68516

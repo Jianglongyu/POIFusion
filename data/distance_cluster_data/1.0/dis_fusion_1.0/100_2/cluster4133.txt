@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金加元工矿机电商城,102.767337,24.986679000000002,,,,,,,,,,,1,3463
+金加元工矿机电商城,102.767337,24.986879000000002,,,,,,,,,,,1,67684

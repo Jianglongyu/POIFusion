@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+林家院二组新村,102.679089,25.095798000000002,,,,,,,,,,,1,2644
+昆明市公安局五华分局普吉派出所,102.67890899999999,25.095166,,,,,,,,,,,1,3014

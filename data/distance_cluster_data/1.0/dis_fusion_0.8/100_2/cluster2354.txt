@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+韩国魅秀发艺昆明分店,102.72098000000001,24.992479999999997,,,,,,,,,,,3,17630
+韩国魅秀发艺昆明分店,102.72098000000001,24.992279999999997,,,,,,,,,,,3,37490
+怡园凤琴诊所,102.720988,24.992337,,,,,,,,,,,3,45090

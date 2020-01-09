@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福顺堂药店,103.28080899999999,24.758557999999997,,,,,,,,,,,3,25164
+福顺堂药店,103.28080899999999,24.758357999999998,,,,,,,,,,,3,54953

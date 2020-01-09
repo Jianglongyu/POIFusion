@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南欣园农家菜馆,102.71418,25.064929999999997,,,,,,,,,,,3,6914
+南欣园农家菜馆,102.71418,25.064729999999997,,,,,,,,,,,3,19681

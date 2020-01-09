@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+朱家小厨,102.668128,24.980706,,,,,,,,,,,1,651
+云南省化工研究院,102.667501,24.981132000000002,,,,,,,,,,,3,39894
+朱家小厨,102.668128,24.980906,,,,,,,,,,,1,42530

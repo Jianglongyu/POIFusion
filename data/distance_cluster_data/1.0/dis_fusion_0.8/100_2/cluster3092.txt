@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+朱家箐大桥,102.831001,25.099856,,,,,,,,,,,1,652
+朱家箐大桥,102.831001,25.100056,,,,,,,,,,,1,54944

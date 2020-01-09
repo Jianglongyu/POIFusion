@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华区陡普鲁小学,102.701646,25.260292,,,,,,,,,,,3,31901
+五华区陡普鲁小学,102.701646,25.260092,,,,,,,,,,,3,61690

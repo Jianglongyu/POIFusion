@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县公安局交警大队车管所,103.040549,25.317798,,,,,,,,,,,3,49973
+泰安机动车驾驶培训学校,103.04054000000001,25.317903,,,,,,,,,,,3,52674

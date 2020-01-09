@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+神音助听器,102.689428,25.043160999999998,,,,,,,,,,,3,30594
+益宠堂宠物医院,102.68942,25.043255,,,,,,,,,,,3,31035
+昆明医学院附属口腔医院门诊部,102.688983,25.043044000000002,,,,,,,,,,,3,31803

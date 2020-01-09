@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县狮山镇客运站,102.410361,25.544838,,,,,,,,,,,3,32930
+武定县狮山镇客运站,102.410361,25.544638,,,,,,,,,,,3,62719

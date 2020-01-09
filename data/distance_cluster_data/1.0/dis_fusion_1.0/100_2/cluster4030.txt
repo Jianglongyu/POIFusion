@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南师范大学呈贡校区体育馆－东门,102.84945,24.85815,,,,,,,,,,,3,19403
+云南师范大学呈贡校区体育馆－东门,102.84945,24.85795,,,,,,,,,,,3,49192

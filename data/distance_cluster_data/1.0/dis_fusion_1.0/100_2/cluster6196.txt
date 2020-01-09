@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+拖布卡中学,103.044116,26.357009,,,,,,,,,,,3,31109
+拖布卡中学,103.044116,26.356809000000002,,,,,,,,,,,3,60898

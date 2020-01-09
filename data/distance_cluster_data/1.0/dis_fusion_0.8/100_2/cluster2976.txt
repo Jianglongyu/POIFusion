@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝县烟草专卖局转龙专卖管理所,102.85178,25.908039000000002,,,,,,,,,,,3,49626
+禄劝第三中学,102.852711,25.907908,,,,,,,,,,,3,52671

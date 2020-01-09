@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国南方电网特高压工程技术国家工程实验室,102.97189,25.276516,,,,,,,,,,,3,31965
+中国南方电网特高压工程技术国家工程实验室,102.97189,25.276316,,,,,,,,,,,3,61754

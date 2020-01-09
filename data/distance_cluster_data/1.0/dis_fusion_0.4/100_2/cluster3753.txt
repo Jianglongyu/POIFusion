@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂澄江连锁NO．4,102.915625,24.671764000000003,,,,,,,,,,,3,30557
+澄江县劳动就业服务局,102.91545500000001,24.67215,,,,,,,,,,,3,37240

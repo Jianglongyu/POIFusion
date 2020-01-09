@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡二中(中共金马街道纪律检查工作委员会北),102.754386,25.04345,,,,,,,,,,,1,3921
+官渡二中(中共金马街道纪律检查工作委员会北),102.754386,25.04365,,,,,,,,,,,1,68142

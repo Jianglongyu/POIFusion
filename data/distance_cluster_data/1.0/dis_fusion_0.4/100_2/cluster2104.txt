@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+最高发源地,102.64074000000001,25.05394,,,,,,,,,,,3,27553
+绿茵休闲餐厅－春林园,102.64134,25.05405,,,,,,,,,,,3,29312
+红菱双语幼儿园,102.641076,25.054348,,,,,,,,,,,3,37860

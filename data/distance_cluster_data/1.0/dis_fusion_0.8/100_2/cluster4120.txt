@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大庄石油加油站,102.23536899999999,24.939635999999997,,,,,,,,,,,3,4740
+大庄石油加油站,102.23536899999999,24.939435999999997,,,,,,,,,,,3,24600

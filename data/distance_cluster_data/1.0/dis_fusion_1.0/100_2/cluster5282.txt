@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福天宝地大酒店,102.68675999999999,24.93488,,,,,,,,,,,3,27381
+福天宝地大酒店,102.68675999999999,24.93468,,,,,,,,,,,3,57170

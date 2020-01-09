@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国东方航空云南公司货运部,102.744034,24.995572,,,,,,,,,,,1,764
+中国东方航空云南公司货运部,102.744034,24.995772,,,,,,,,,,,1,64985

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+可郎小学,102.874145,25.476092,,,,,,,,,,,3,32754
+可郎小学,102.874145,25.475892,,,,,,,,,,,3,62543

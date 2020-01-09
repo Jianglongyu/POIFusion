@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+者北医药门市部,102.459913,25.334184,,,,,,,,,,,3,22403
+者北医药门市部,102.459913,25.333984,,,,,,,,,,,3,42263
+富民县罗免客运站,102.460295,25.334315,,,,,,,,,,,3,52785

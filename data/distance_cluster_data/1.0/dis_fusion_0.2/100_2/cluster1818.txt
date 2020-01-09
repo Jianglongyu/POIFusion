@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中晟溪城,102.6597451,25.08499596,,,,,,,,,,,2,506
+新域盛景,102.660195,25.084398,,,,,,,,,,,1,1546
+中晟溪城,102.6597451,25.08519596,,,,,,,,,,,2,38248

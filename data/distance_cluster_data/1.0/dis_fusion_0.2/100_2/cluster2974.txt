@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市呈贡区农村信用合作联社石城服务点,102.77934,24.792289999999998,,,,,,,,,,,3,36342
+农村信用社ATM,102.77936,24.79223,,,,,,,,,,,3,37686

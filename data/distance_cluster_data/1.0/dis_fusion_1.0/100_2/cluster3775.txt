@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+又一村－KTV,102.65763000000001,24.80546,,,,,,,,,,,3,18382
+又一村－KTV,102.65763000000001,24.80526,,,,,,,,,,,3,48171

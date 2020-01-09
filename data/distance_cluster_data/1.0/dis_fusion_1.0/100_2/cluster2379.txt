@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北门加油站,102.59589,24.674757,,,,,,,,,,,3,5012
+昆明圣玛莉医院,102.596257,24.674563,,,,,,,,,,,3,23527
+北门加油站,102.59589,24.674557,,,,,,,,,,,3,34801
+昆明圣玛莉医院,102.596257,24.674363,,,,,,,,,,,3,53316

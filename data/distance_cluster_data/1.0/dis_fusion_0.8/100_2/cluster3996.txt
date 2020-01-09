@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸德慧医院口腔科牙科,102.923096,25.768048999999998,,,,,,,,,,,3,45306
+寻甸县倘甸镇为民服务中心,102.923426,25.767936,,,,,,,,,,,3,48834

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝撒营盘中心小学,102.52245,25.997898,,,,,,,,,,,3,32502
+禄劝撒营盘中心小学,102.52245,25.997698,,,,,,,,,,,3,62291

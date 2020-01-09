@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金枫苑,102.718271,24.996795000000002,,,,,,,,,,,1,3475
+大理阿鹏小吃,102.7176,24.99704,,,,,,,,,,,3,6259
+大理阿鹏小吃,102.7176,24.99684,,,,,,,,,,,3,13706
+沙县小吃金色花园店,102.7177,24.99713,,,,,,,,,,,3,20825

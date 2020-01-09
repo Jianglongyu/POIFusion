@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+彼岸小区,102.78370100000001,24.971020000000003,,,,,,,,,,,1,4438
+彼岸小区,102.78370100000001,24.971220000000002,,,,,,,,,,,1,68659

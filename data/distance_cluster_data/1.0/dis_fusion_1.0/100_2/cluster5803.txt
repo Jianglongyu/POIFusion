@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市石林彝族自治县工商局北大村工商所,103.354675,24.858584,,,,,,,,,,,3,29926
+昆明市石林彝族自治县工商局北大村工商所,103.354675,24.858384,,,,,,,,,,,3,59715

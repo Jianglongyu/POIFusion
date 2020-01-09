@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸回族彝族自治县金源乡天然林资源保护工程管护所,103.129347,25.85345,,,,,,,,,,,3,42611
+禄发加油站,103.128873,25.854407000000002,,,,,,,,,,,3,5059
+禄发加油站,103.128873,25.854207000000002,,,,,,,,,,,3,17826

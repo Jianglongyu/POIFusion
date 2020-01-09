@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+紫东苑,102.7963257,25.0595932,,,,,,,,,,,2,514
+紫东苑,102.7963257,25.059793199999998,,,,,,,,,,,2,47713

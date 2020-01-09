@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+1919艺术公寓,102.681392,25.072991000000002,,,,,,,,,,,1,4638
+1919艺术公寓,102.681392,25.073191,,,,,,,,,,,1,68859

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+8090主题酒吧,102.68061,25.01432,,,,,,,,,,,3,24630
+现代医学门诊部,102.680539,25.014417,,,,,,,,,,,3,27172

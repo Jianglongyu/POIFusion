@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市福保彩印包装厂,102.70189,24.941712,,,,,,,,,,,1,3033
+昆明市福保彩印包装厂,102.70189,24.941912,,,,,,,,,,,1,67254

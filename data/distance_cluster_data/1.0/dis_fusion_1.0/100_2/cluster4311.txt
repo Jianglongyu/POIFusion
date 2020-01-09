@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大理白族风味小吃(金色南园健康大药房东南),102.724094,25.00222,,,,,,,,,,,1,4265
+大理白族风味小吃(金色南园健康大药房东南),102.724094,25.00242,,,,,,,,,,,1,68486

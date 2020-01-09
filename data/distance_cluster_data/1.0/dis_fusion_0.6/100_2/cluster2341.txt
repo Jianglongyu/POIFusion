@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+向往幼儿园,102.795392,24.891773,,,,,,,,,,,3,45352
+呈贡区妇幼保健中心,102.796263,24.892287,,,,,,,,,,,3,38347
+清真古寺,102.796251,24.891939,,,,,,,,,,,3,40887

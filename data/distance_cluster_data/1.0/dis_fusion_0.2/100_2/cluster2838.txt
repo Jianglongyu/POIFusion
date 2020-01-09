@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+贵州水城羊肉米线,102.72879,24.96494,,,,,,,,,,,3,19000
+顺鸿宾馆,102.72893,24.96496,,,,,,,,,,,3,30031

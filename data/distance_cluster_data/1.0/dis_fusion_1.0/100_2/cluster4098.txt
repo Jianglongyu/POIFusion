@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆船工业区公交站,102.800525,24.997335,,,,,,,,,,,1,3278
+昆船工业区公交站,102.800525,24.997535,,,,,,,,,,,1,67499

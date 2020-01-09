@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+先锋乡普鲁完小,103.03841800000001,25.495184,,,,,,,,,,,3,31072
+先锋乡普鲁完小,103.03841800000001,25.494984,,,,,,,,,,,3,60861

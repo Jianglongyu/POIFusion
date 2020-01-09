@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池大坝,102.685152,25.075085,,,,,,,,,,,2,578
+滇池大坝,102.685152,25.075285,,,,,,,,,,,2,42457

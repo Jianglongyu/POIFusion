@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+美国亚洲及基金会赠书中国第二样本中心,102.85243,24.838079,,,,,,,,,,,3,30674
+美国亚洲及基金会赠书中国第二样本中心,102.85243,24.837879,,,,,,,,,,,3,60463

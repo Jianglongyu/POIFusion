@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福康药店,103.21518,25.199616,,,,,,,,,,,3,30843
+东骏大药房马街连锁店,103.214651,25.200095,,,,,,,,,,,3,31966
+宜良县马街派出所,103.215046,25.199585,,,,,,,,,,,3,36330

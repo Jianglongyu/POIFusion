@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市八街义兴幼儿园,102.361108,24.63181,,,,,,,,,,,3,32560
+安宁市八街义兴幼儿园,102.361108,24.631610000000002,,,,,,,,,,,3,62349

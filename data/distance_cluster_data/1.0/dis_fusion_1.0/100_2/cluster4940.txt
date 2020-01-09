@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中屏乡卫生院,102.620012,25.861096,,,,,,,,,,,3,23935
+中屏乡卫生院,102.620012,25.860896,,,,,,,,,,,3,53724

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金牛幼儿园南亚园,102.68273,25.006577,,,,,,,,,,,3,30183
+金牛幼儿园南亚园,102.68273,25.006377,,,,,,,,,,,3,59972

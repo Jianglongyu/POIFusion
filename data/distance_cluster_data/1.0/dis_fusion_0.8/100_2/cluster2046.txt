@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+味源鲜海鲜楼,102.84058,24.95129,,,,,,,,,,,3,10991
+春天假日SPA,102.8404,24.95132,,,,,,,,,,,3,18986
+味源鲜海鲜楼,102.84058,24.95109,,,,,,,,,,,3,30851
+春天假日SPA,102.8404,24.95112,,,,,,,,,,,3,38846

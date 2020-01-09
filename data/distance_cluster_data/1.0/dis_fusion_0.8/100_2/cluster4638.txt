@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大富贵火锅,102.89605,25.05173,,,,,,,,,,,3,15094
+大富贵火锅,102.89605,25.05153,,,,,,,,,,,3,34954

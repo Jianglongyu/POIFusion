@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牛栏江镇为民服务中心,103.135346,25.275584,,,,,,,,,,,3,29036
+牛栏江镇为民服务中心,103.135346,25.275384,,,,,,,,,,,3,58825

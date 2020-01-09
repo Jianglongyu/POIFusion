@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+贝尔雅小团山幼儿园,102.648624,25.052533,,,,,,,,,,,3,39055
+建材昆明地质工程勘查院,102.649049,25.052524,,,,,,,,,,,3,39220

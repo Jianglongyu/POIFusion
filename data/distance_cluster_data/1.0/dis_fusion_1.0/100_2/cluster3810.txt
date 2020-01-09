@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+时代明珠KTV,102.76345699999999,24.983696,,,,,,,,,,,1,2141
+时代明珠KTV,102.76345699999999,24.983895999999998,,,,,,,,,,,1,66362

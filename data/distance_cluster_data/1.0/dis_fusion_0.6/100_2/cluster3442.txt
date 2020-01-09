@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县永定镇卫生院分院,102.50426999999999,25.206097,,,,,,,,,,,3,36038
+勤劳社区卫生服务中心,102.50426999999999,25.206097,,,,,,,,,,,3,38368

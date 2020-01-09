@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小太阳幼儿园,103.064756,25.302541,,,,,,,,,,,3,31440
+小太阳幼儿园,103.064756,25.302341000000002,,,,,,,,,,,3,61229

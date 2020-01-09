@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+土官镇卫生院,102.200323,24.947776,,,,,,,,,,,3,23571
+土官镇卫生院,102.200323,24.947576,,,,,,,,,,,3,43431
+禄丰县土官派出所,102.200388,24.947028,,,,,,,,,,,3,48571

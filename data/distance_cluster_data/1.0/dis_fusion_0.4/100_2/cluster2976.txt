@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+顺新时代,102.751092,25.01915,,,,,,,,,,,1,2049
+沁香园(民航路),102.750685,25.018754,,,,,,,,,,,1,2310

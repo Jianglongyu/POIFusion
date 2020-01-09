@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+川味王饭庄,102.85288,24.83436,,,,,,,,,,,3,10597
+川味王饭庄,102.85288,24.83416,,,,,,,,,,,3,23364
+银河网吧,102.85280999999999,24.8341,,,,,,,,,,,3,34936

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+香堡法餐厅,102.65624,24.979889999999997,,,,,,,,,,,3,5176
+香堡法餐厅,102.65624,24.979689999999998,,,,,,,,,,,3,8486

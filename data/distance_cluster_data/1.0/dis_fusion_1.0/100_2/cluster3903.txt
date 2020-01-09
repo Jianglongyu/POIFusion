@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+陆军学院公交站,102.799994,25.005699,,,,,,,,,,,1,2599
+陆军学院公交站,102.799994,25.005899,,,,,,,,,,,1,66820

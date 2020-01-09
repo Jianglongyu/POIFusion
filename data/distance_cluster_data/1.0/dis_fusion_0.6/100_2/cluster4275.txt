@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+联想科技城公园,102.6565,25.08071,,,,,,,,,,,3,16335
+联想科技城公园,102.6565,25.08051,,,,,,,,,,,3,29102

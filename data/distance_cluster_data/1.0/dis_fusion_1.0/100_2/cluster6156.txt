@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明电缆厂子弟学校,102.63160699999999,25.032122,,,,,,,,,,,3,31003
+昆明电缆厂子弟学校,102.63160699999999,25.031922,,,,,,,,,,,3,60792

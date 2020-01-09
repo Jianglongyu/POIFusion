@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省农村信用社ATM,102.68392,24.97504,,,,,,,,,,,3,53400
+昆明万达高尔夫球会,102.684502,24.9741452,,,,,,,,,,,1,2885
+昆明万达高尔夫球会,102.684502,24.9743452,,,,,,,,,,,1,57177

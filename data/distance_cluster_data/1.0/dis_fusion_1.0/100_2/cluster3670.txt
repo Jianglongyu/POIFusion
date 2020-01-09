@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国邮政储蓄银行世纪城邮政储蓄所,102.75053,24.96792,,,,,,,,,,,3,34309
+中国邮政储蓄银行世纪城邮政储蓄所,102.75053,24.96772,,,,,,,,,,,3,64098

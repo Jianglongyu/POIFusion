@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鑫福源田鸡,103.00423,25.15601,,,,,,,,,,,3,6656
+鑫福源田鸡,103.00423,25.15581,,,,,,,,,,,3,9966
+陈记竹笋鸡冷锅鱼,103.00431,25.15588,,,,,,,,,,,3,11426
+蓉和缘,103.00466999999999,25.15615,,,,,,,,,,,3,11930

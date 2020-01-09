@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+纤姿美容美体中心,102.75349,24.92766,,,,,,,,,,,3,24129
+刘杰诊所,102.753825,24.927574,,,,,,,,,,,3,25996
+官渡区宏康药房,102.754297,24.927481,,,,,,,,,,,3,28130
+昆明官渡区农村合作银行ATM,102.75316,24.92759,,,,,,,,,,,3,37150

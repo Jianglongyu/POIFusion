@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双鹤大药房碧城店,102.299974,25.3065,,,,,,,,,,,3,25392
+双鹤大药房碧城店,102.299974,25.3063,,,,,,,,,,,3,55181

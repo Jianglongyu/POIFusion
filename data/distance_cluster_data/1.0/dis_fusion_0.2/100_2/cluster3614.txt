@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四川胖姐．盐帮菜,102.72108,25.06806,,,,,,,,,,,3,7193
+四川胖姐．盐帮菜,102.72108,25.06786,,,,,,,,,,,3,10503

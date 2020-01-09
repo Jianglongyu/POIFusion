@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋心药店,102.99055600000001,24.838256,,,,,,,,,,,3,45636
+启点幼儿园,102.98979399999999,24.838721,,,,,,,,,,,3,50826
+澄江县农村信用合作联社新街分社,102.98976,24.83853,,,,,,,,,,,3,54114

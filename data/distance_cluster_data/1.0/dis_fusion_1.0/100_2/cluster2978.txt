@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆西医学综合诊所,102.6901,25.007194,,,,,,,,,,,3,23680
+济仁大药房,102.69051,25.007199,,,,,,,,,,,3,26043
+昆西医学综合诊所,102.6901,25.006994,,,,,,,,,,,3,53469

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+铜锅洋芋饭,102.70799699999999,25.079914000000002,,,,,,,,,,,1,1917
+傣族人家(教场北路),102.707991,25.079904,,,,,,,,,,,1,4214
+巴士家园公交站,102.70777199999999,25.079831,,,,,,,,,,,1,4522

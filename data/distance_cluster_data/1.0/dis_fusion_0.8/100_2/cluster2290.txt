@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+姐妹园,102.66401,25.1621,,,,,,,,,,,3,16481
+姐妹园,102.66401,25.1619,,,,,,,,,,,3,36341
+昆明市公安局五华分局沙朗派出所,102.66354399999999,25.16141,,,,,,,,,,,3,49312

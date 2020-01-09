@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雪山加油站,102.806391,26.136369,,,,,,,,,,,3,4844
+雪山加油站,102.806391,26.136169,,,,,,,,,,,3,12291

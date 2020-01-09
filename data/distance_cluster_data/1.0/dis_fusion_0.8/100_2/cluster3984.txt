@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明花渔沟生态农庄,102.74013000000001,25.17953,,,,,,,,,,,3,20641
+昆明花渔沟生态农庄,102.74013000000001,25.17933,,,,,,,,,,,3,40501

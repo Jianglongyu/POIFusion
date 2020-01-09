@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大松树加油站,102.532985,26.256867999999997,,,,,,,,,,,3,4646
+大松树加油站,102.532985,26.256667999999998,,,,,,,,,,,3,24506

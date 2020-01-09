@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+团结企业白族休闲园,102.52950600000001,25.095269000000002,,,,,,,,,,,1,1911
+驰婧园,102.529005,25.095376,,,,,,,,,,,1,4353
+团结企业白族休闲园,102.52950600000001,25.095469,,,,,,,,,,,1,49110

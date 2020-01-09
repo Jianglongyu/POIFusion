@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+加油站,103.207018,25.189629,,,,,,,,,,,3,5073
+加油站,103.207018,25.189429,,,,,,,,,,,3,24933
+马街镇贝蕾幼儿园,103.206703,25.190201000000002,,,,,,,,,,,3,50816

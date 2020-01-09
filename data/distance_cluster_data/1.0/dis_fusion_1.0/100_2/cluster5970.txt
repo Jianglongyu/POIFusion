@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鼠街小学,102.77049,25.306207999999998,,,,,,,,,,,3,30468
+鼠街小学,102.77049,25.306008,,,,,,,,,,,3,60257

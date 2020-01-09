@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝县烟草专卖局乌蒙专卖管理所,102.797108,26.020758999999998,,,,,,,,,,,3,29064
+禄劝县烟草专卖局乌蒙专卖管理所,102.797108,26.020559,,,,,,,,,,,3,58853

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙公路管理段,103.579195,25.441848,,,,,,,,,,,3,29977
+马龙公路管理段,103.579195,25.441648,,,,,,,,,,,3,59766

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双哨源,102.74117,25.24318,,,,,,,,,,,3,31085
+双玉第一幼儿园,102.740476,25.243743,,,,,,,,,,,3,45589

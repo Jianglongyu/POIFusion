@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龚喜园,102.62826,24.94716,,,,,,,,,,,3,32408
+福香园,102.62858,24.94715,,,,,,,,,,,3,32748

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴隆加油站,102.676578,25.518486,,,,,,,,,,,3,5031
+兴隆加油站,102.676578,25.518286,,,,,,,,,,,3,24891

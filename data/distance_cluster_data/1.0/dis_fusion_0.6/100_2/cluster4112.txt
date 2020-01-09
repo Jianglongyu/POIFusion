@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+速9快捷酒店,102.84711,24.84253,,,,,,,,,,,3,39078
+青苹果主题酒店,102.84716,24.842579999999998,,,,,,,,,,,3,40522

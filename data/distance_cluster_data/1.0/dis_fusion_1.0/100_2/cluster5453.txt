@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+庆寿禅寺,102.507605,25.259488,,,,,,,,,,,3,28218
+庆寿禅寺,102.507605,25.259288,,,,,,,,,,,3,58007

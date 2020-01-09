@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大平地福音堂,102.48661700000001,25.831431,,,,,,,,,,,3,27922
+大平地福音堂,102.48661700000001,25.831231,,,,,,,,,,,3,57711

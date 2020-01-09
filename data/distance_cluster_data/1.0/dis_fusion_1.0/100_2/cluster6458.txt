@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+功山中学,103.26398499999999,25.744951,,,,,,,,,,,3,31857
+功山中学,103.26398499999999,25.744751,,,,,,,,,,,3,61646

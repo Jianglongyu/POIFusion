@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+知行生态休闲山庄,102.83704,25.12258,,,,,,,,,,,3,19091
+知行生态休闲山庄,102.83704,25.12238,,,,,,,,,,,3,38951

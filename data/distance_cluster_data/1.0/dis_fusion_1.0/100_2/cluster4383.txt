@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+A001会馆,102.70358,25.071969,,,,,,,,,,,1,4625
+A001会馆,102.70358,25.072169,,,,,,,,,,,1,68846

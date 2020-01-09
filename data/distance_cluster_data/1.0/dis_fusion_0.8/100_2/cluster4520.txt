@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+苗子兔饭店,102.99886,25.15128,,,,,,,,,,,3,5899
+苗子兔饭店,102.99886,25.15108,,,,,,,,,,,3,25759

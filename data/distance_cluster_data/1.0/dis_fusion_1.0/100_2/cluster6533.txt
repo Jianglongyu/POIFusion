@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+核桃完全小学,103.100001,25.440303,,,,,,,,,,,3,32134
+核桃完全小学,103.100001,25.440103,,,,,,,,,,,3,61923

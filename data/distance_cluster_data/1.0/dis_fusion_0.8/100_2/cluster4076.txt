@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济药房,102.982387,24.689651,,,,,,,,,,,3,45645
+澄江县九村派出所,102.98219300000001,24.689702,,,,,,,,,,,3,48718

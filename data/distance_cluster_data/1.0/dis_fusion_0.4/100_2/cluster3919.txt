@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+匡远村卫生所,103.147568,24.92084,,,,,,,,,,,3,31890
+益宁堂花园连锁店,103.147595,24.920945,,,,,,,,,,,3,32691

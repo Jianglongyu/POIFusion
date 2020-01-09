@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康佳大药房,103.128485,25.842876,,,,,,,,,,,3,33516
+寻甸县金源民政,103.128141,25.843691,,,,,,,,,,,3,36498
+寻甸回族彝族自治县公安局金源派出所,103.128153,25.843470999999997,,,,,,,,,,,3,36719

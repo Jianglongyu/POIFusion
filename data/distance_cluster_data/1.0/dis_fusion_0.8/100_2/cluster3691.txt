@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万福园,102.83035,25.09506,,,,,,,,,,,3,19141
+万福园,102.83035,25.09486,,,,,,,,,,,3,39001

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县人民医院－急诊,103.576482,25.434454,,,,,,,,,,,3,22764
+马龙县人民医院－急诊,103.576482,25.434254,,,,,,,,,,,3,42624

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂第翠华连锁店,102.580726,25.640583,,,,,,,,,,,3,26945
+翠华卫生院,102.580715,25.640624,,,,,,,,,,,3,27621

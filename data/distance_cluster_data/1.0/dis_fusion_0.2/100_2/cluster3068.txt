@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+八街卫生院一六分院,102.324077,24.580745,,,,,,,,,,,3,29012
+安宁市一六街中心小学,102.324463,24.58103,,,,,,,,,,,3,33905

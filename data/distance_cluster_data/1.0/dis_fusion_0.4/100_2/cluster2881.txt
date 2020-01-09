@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明楼－丹霞宫,102.65395,24.801949999999998,,,,,,,,,,,3,9329
+明楼－丹霞宫,102.65395,24.80175,,,,,,,,,,,3,16776

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+香草园自助烧烤区,102.62733,25.07323,,,,,,,,,,,3,11978
+香草园自助烧烤区,102.62733,25.07303,,,,,,,,,,,3,41767

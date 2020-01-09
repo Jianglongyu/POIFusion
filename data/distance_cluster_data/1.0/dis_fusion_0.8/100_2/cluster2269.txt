@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+铭春苑,102.6455,24.86022,,,,,,,,,,,3,40855
+占韬休闲山庄,102.6457,24.86113,,,,,,,,,,,3,20728
+铭春苑,102.6455,24.86042,,,,,,,,,,,3,20995
+占韬休闲山庄,102.6457,24.86093,,,,,,,,,,,3,40588

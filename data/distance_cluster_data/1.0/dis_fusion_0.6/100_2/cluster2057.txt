@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+楚雄州武定县交通运政稽查大队,102.410648,25.531553,,,,,,,,,,,3,41587
+武定县中医医院－门诊部,102.410762,25.53262,,,,,,,,,,,3,36103
+武定县运政管理所便民服务窗口,102.41063199999999,25.532071,,,,,,,,,,,3,41621

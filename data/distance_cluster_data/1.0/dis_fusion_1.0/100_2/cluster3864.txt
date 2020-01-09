@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+焕颜美容养生,102.58865,24.933079999999997,,,,,,,,,,,3,18755
+焕颜美容养生,102.58865,24.932879999999997,,,,,,,,,,,3,48544

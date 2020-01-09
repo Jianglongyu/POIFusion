@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南爱因森软件职业学院(北门),103.01403499999999,25.249902,,,,,,,,,,,1,1195
+云南爱因森软件职业学院(北门),103.01403499999999,25.250102,,,,,,,,,,,1,48394

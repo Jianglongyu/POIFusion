@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省荣誉军人康复医院,102.787602,24.982317000000002,,,,,,,,,,,3,24884
+云南省荣誉军人康复医院,102.787602,24.982117000000002,,,,,,,,,,,3,54673

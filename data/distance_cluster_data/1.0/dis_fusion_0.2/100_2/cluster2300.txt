@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧桂园凤凰湾,102.78137199999999,25.053503,,,,,,,,,,,2,31
+碧桂园凤凰湾,102.78137199999999,25.053703,,,,,,,,,,,2,37773

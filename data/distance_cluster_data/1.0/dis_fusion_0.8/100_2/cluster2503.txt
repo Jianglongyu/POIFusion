@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小丫足道馆,102.67364,25.040670000000002,,,,,,,,,,,3,20761
+栩生宠物诊所,102.673399,25.040589999999998,,,,,,,,,,,3,23469
+栩生宠物诊所,102.673399,25.04039,,,,,,,,,,,3,43329

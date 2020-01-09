@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广源小区一组团,102.75219870000001,24.96605427,,,,,,,,,,,2,118
+银海畅园(东门),102.752535,24.966253,,,,,,,,,,,1,1327
+广源小区一组团,102.75219870000001,24.96625427,,,,,,,,,,,2,41997

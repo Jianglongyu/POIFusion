@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金源乡卫生院,103.128562,25.848639000000002,,,,,,,,,,,3,24995
+金源乡卫生院,103.128562,25.848439000000003,,,,,,,,,,,3,54784

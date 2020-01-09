@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+美兴迪士尼外国语学校石林分校,103.286412,24.758247,,,,,,,,,,,3,30953
+美兴迪士尼外国语学校石林分校,103.286412,24.758047,,,,,,,,,,,3,60742

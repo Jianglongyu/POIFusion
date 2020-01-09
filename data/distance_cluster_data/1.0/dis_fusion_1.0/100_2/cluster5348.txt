@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+圣诞林休闲区,102.78054,25.10013,,,,,,,,,,,3,27927
+圣诞林休闲区,102.78054,25.09993,,,,,,,,,,,3,57716

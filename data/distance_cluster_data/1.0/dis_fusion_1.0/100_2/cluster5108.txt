@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+千弘药业公司千弘连锁NO．5,102.603369,24.663339999999998,,,,,,,,,,,3,25382
+千弘药业公司千弘连锁NO．5,102.603369,24.66314,,,,,,,,,,,3,55171

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县散旦乡沙营小学,102.645718,25.32929,,,,,,,,,,,3,32668
+富民县散旦乡沙营小学,102.645718,25.32909,,,,,,,,,,,3,62457

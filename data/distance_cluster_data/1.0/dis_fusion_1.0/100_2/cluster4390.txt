@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+青龙哨加油站,102.350705,24.957596,,,,,,,,,,,3,4649
+青龙哨加油站,102.350705,24.957396,,,,,,,,,,,3,34438

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市官渡区振华学校,102.782136,24.979973,,,,,,,,,,,1,2991
+昆明市官渡区振华学校,102.782136,24.980173,,,,,,,,,,,1,67212

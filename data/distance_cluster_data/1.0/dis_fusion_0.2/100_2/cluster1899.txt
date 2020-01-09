@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县匡远镇中心卫生院,103.147095,24.915664000000003,,,,,,,,,,,3,26448
+龚桂芳诊所,103.14718,24.916247,,,,,,,,,,,3,27386
+福泰医院－住院部,103.14788100000001,24.915694000000002,,,,,,,,,,,3,28006

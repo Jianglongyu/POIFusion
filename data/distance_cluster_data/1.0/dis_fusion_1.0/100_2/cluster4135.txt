@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金鼎苑餐厅,102.68532900000001,25.072236,,,,,,,,,,,1,3480
+金鼎苑餐厅,102.68532900000001,25.072436,,,,,,,,,,,1,67701

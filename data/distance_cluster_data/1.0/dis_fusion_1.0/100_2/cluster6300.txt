@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县晋城石碑小学,102.745752,24.670579999999998,,,,,,,,,,,3,31435
+晋宁县晋城石碑小学,102.745752,24.670379999999998,,,,,,,,,,,3,61224

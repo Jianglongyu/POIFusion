@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明达睿驾驶培训站,102.666901,25.012943,,,,,,,,,,,3,30500
+昆明达睿驾驶培训站,102.666901,25.012743,,,,,,,,,,,3,60289

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水映长岛(东门),102.73447900000001,24.987656,,,,,,,,,,,1,2061
+华丰温泉SPA高尔夫会所,102.73451999999999,24.98784,,,,,,,,,,,3,30326

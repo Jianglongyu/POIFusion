@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四川泸州饭店,102.83533,24.993479999999998,,,,,,,,,,,3,5721
+四川泸州饭店,102.83533,24.99328,,,,,,,,,,,3,13168
+经开区民信诊所,102.83511700000001,24.993264,,,,,,,,,,,3,31878

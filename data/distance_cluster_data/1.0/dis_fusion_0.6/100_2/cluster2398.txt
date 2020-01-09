@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双龙服务区－双龙加油站,102.83494300000001,25.118254,,,,,,,,,,,3,5034
+双龙服务区－双龙加油站,102.83494300000001,25.118054,,,,,,,,,,,3,17801
+乡村羊烫锅,102.8352,25.11761,,,,,,,,,,,3,32074

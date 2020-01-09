@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+未来星小板桥幼儿园,102.7715,24.97231,,,,,,,,,,,3,35796
+小小川菜园,102.77208,24.97335,,,,,,,,,,,3,14993
+星顺旅馆,102.77186999999999,24.97315,,,,,,,,,,,3,29616
+鑫盛招待所,102.77145,24.9728,,,,,,,,,,,3,29617

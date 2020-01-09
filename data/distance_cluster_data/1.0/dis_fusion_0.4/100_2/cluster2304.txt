@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南民航儿童哲学实验幼儿园,102.74905799999999,25.00433,,,,,,,,,,,3,39189
+昆明巫家坝机场候机厅,102.749546,25.003325,,,,,,,,,,,1,2877
+傣家风情园,102.74913000000001,25.00395,,,,,,,,,,,3,20762

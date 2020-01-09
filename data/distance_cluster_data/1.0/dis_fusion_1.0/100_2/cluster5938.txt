@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市八街镇中所小学,102.373727,24.692009,,,,,,,,,,,3,30400
+安宁市八街镇中所小学,102.373727,24.691809,,,,,,,,,,,3,60189

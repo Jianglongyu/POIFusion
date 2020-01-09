@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+智平诊所,102.768286,25.099361,,,,,,,,,,,3,25118
+智平诊所,102.768286,25.099161,,,,,,,,,,,3,54907

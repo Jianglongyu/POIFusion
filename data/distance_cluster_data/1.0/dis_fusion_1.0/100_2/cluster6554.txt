@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县规划建筑设计室,103.27344599999999,24.758779,,,,,,,,,,,3,32211
+石林县规划建筑设计室,103.27344599999999,24.758579,,,,,,,,,,,3,62000

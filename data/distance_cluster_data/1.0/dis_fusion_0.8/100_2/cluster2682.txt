@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂北京路连锁NO．5,102.728927,25.077265,,,,,,,,,,,3,24012
+一心堂北京路连锁NO．5,102.728927,25.077065,,,,,,,,,,,3,43872
+惠星客房,102.72904,25.077170000000002,,,,,,,,,,,3,47452

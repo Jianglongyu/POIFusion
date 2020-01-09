@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+李琼仙医师诊所,103.03916600000001,25.329878,,,,,,,,,,,3,32367
+嵩明县公安局交警大队,103.03862,25.330386999999998,,,,,,,,,,,3,37200
+嵩明县民政局,103.039792,25.330070000000003,,,,,,,,,,,3,37451

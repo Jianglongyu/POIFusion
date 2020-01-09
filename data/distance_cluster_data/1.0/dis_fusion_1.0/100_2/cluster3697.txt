@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+相府山庄,102.803952,25.089022,,,,,,,,,,,1,1670
+相府山庄,102.803952,25.089222,,,,,,,,,,,1,65891

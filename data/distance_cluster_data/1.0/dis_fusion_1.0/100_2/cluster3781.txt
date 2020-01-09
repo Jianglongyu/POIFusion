@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红云羽毛球馆,102.72861999999999,25.109170000000002,,,,,,,,,,,3,18398
+红云羽毛球馆,102.72861999999999,25.108970000000003,,,,,,,,,,,3,48187

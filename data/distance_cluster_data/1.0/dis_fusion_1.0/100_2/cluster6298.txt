@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿旺镇中心学校,103.248049,25.91551,,,,,,,,,,,3,31427
+阿旺镇中心学校,103.248049,25.91531,,,,,,,,,,,3,61216

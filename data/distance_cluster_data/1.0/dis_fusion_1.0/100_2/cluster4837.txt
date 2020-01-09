@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康乐药店,102.278243,26.189149999999998,,,,,,,,,,,3,23114
+康乐药店,102.278243,26.18895,,,,,,,,,,,3,52903

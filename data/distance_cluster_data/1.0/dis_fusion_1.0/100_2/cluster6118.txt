@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晨曦双语幼儿园,103.04734300000001,25.277409,,,,,,,,,,,3,30920
+晨曦双语幼儿园,103.04734300000001,25.277209,,,,,,,,,,,3,60709

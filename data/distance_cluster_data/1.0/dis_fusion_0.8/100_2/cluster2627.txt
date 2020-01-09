@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南欣园农家菜馆,102.71418,25.064929999999997,,,,,,,,,,,3,6914
+HEERS吧,102.71405,25.06467,,,,,,,,,,,3,19170
+南欣园农家菜馆,102.71418,25.064729999999997,,,,,,,,,,,3,26774

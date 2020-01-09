@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+逸香源饭店,102.97641999999999,25.12499,,,,,,,,,,,3,5934
+逸香源饭店,102.97641999999999,25.12479,,,,,,,,,,,3,25794

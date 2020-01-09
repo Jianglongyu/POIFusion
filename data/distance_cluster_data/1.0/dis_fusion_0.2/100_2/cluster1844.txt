@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福保农家小院,102.69400999999999,24.933889999999998,,,,,,,,,,,3,17430
+六甲福保社区卫生站,102.69425799999999,24.933904000000002,,,,,,,,,,,3,26728
+太阳鸟药业院店结合福保药房,102.694174,24.933909,,,,,,,,,,,3,27106

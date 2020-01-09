@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小黄坡小学,103.178112,25.492178,,,,,,,,,,,3,31415
+小黄坡小学,103.178112,25.491978,,,,,,,,,,,3,61204

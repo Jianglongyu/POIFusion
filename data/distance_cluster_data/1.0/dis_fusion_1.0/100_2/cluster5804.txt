@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市公安局连然派出所,102.473692,24.921543,,,,,,,,,,,3,29929
+安宁市公安局连然派出所,102.473692,24.921343,,,,,,,,,,,3,59718

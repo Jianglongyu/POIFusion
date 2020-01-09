@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+竹园村幼儿园,102.90835200000001,25.827719,,,,,,,,,,,3,31825
+竹园村幼儿园,102.90835200000001,25.827519,,,,,,,,,,,3,61614

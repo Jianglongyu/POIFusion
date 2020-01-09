@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西桥服务区－西桥加油站A,103.627512,24.99685,,,,,,,,,,,3,4800
+西桥服务区－西桥加油站A,103.627512,24.99665,,,,,,,,,,,3,12247

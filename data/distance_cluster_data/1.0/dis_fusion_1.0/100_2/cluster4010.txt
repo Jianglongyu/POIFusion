@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市盘龙区龙泉中学,102.76360600000001,25.118292999999998,,,,,,,,,,,1,2962
+昆明市盘龙区龙泉中学,102.76360600000001,25.118492999999997,,,,,,,,,,,1,67183

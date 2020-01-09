@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙乐山庄,102.65915,25.1044,,,,,,,,,,,3,18502
+龙乐山庄,102.65915,25.1042,,,,,,,,,,,3,38362
+云南交通运输公司机动车驾驶培训中心第一训练场,102.659503,25.104035999999997,,,,,,,,,,,3,52673

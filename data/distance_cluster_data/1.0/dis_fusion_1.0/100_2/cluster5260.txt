@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+左拉彝寨,102.58551999999999,24.81845,,,,,,,,,,,3,27041
+左拉彝寨,102.58551999999999,24.81825,,,,,,,,,,,3,56830

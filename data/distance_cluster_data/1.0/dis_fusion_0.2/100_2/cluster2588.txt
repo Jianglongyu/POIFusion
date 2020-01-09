@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新河幼儿园,102.656129,24.996482999999998,,,,,,,,,,,3,33709
+福海乡新河小学,102.656129,24.996482999999998,,,,,,,,,,,3,35598

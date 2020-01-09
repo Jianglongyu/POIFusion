@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+重庆鑫源饭店,102.83811,25.02216,,,,,,,,,,,3,7241
+重庆鑫源饭店,102.83811,25.02196,,,,,,,,,,,3,14688
+童心幼儿园,102.838011,25.022737,,,,,,,,,,,3,38386

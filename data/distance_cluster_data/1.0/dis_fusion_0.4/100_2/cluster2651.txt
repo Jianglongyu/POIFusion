@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中南碧桂园樾府,102.782575,25.033620000000003,,,,,,,,,,,2,503
+中南碧桂园樾府,102.782575,25.033820000000002,,,,,,,,,,,2,42382

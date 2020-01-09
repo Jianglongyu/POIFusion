@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南电力线路器材厂,102.857601,24.947403,,,,,,,,,,,1,1160
+云南电力线路器材厂,102.857601,24.947603,,,,,,,,,,,1,55452

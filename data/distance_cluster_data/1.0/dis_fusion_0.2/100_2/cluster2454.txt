@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世博生态城鸣凤邻里,102.76536999999999,25.086038000000002,,,,,,,,,,,2,339
+世博生态城鸣凤邻里,102.76536999999999,25.086238,,,,,,,,,,,2,38081

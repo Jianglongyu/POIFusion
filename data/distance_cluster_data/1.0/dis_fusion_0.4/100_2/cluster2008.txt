@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金钩钩,102.7814,25.08863,,,,,,,,,,,3,25844
+石屏茶院,102.78134,25.08861,,,,,,,,,,,3,26229
+盘龙区工商局世博分局,102.781037,25.088464000000002,,,,,,,,,,,3,37255

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牛拦江加油站,103.15368000000001,25.280527,,,,,,,,,,,3,4865
+牛拦江加油站,103.15368000000001,25.280327,,,,,,,,,,,3,17632

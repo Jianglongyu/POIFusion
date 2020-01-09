@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+功山镇中心完小,103.261225,25.736329,,,,,,,,,,,3,31872
+功山镇中心完小,103.261225,25.736129000000002,,,,,,,,,,,3,61661

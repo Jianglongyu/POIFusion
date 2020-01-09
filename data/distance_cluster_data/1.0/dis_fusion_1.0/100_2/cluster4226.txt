@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广卫收费站,102.796876,24.957624,,,,,,,,,,,1,3881
+广卫收费站,102.796876,24.957824,,,,,,,,,,,1,68102

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂国际花园连锁药店,102.66216999999999,25.065255,,,,,,,,,,,3,26229
+兴业银行昆明高新支行,102.66229,25.06469,,,,,,,,,,,3,36621

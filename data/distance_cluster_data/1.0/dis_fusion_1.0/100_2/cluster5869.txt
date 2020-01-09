@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+智慧蓓贝幼儿园,102.789721,24.955164,,,,,,,,,,,3,30205
+智慧蓓贝幼儿园,102.789721,24.954964,,,,,,,,,,,3,59994

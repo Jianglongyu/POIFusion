@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+斗南幼儿园,102.777759,24.897418,,,,,,,,,,,3,32096
+斗南防疫门诊,102.776823,24.897819,,,,,,,,,,,3,23077
+斗南防疫门诊,102.776823,24.897619,,,,,,,,,,,3,52866

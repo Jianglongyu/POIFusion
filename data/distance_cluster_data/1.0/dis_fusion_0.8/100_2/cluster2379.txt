@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+吴井路公交站,102.73897,25.026684,,,,,,,,,,,1,1792
+福景花园,102.738899,25.027575,,,,,,,,,,,1,4017
+吴井路公交站,102.73897,25.026884,,,,,,,,,,,1,56084

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+温德姆华美达酒店,102.83035,24.9427,,,,,,,,,,,3,33873
+经开国际金融中心,102.83035,24.9427,,,,,,,,,,,3,36106

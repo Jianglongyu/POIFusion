@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蜀南人家,102.686561,24.98113,,,,,,,,,,,1,2091
+蜀南人家,102.686561,24.98133,,,,,,,,,,,1,56383

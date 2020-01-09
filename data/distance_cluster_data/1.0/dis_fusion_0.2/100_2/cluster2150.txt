@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+哨峰加油站,103.0126,25.161054999999998,,,,,,,,,,,3,5079
+哨峰加油站,103.0126,25.160854999999998,,,,,,,,,,,3,8389
+监江餐厅,103.01315,25.161179999999998,,,,,,,,,,,3,13038

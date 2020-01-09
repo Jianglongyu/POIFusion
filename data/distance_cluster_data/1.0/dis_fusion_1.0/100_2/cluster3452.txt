@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金凤农家乐,102.83995999999999,25.09464,,,,,,,,,,,3,17151
+金凤农家乐,102.83995999999999,25.09444,,,,,,,,,,,3,46940

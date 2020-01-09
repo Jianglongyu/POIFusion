@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林和美家妇科医院,103.275554,24.761757,,,,,,,,,,,3,25465
+石林和美家妇科医院,103.275554,24.761557,,,,,,,,,,,3,55254

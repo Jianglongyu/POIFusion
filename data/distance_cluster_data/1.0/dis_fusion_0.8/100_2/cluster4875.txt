@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中心公园,102.83386999999999,24.87555,,,,,,,,,,,3,16214
+中心公园,102.83386999999999,24.87535,,,,,,,,,,,3,36074

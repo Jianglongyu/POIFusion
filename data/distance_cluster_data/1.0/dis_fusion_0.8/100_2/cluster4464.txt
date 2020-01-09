@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云天花苑酒店－一品红,102.66981,24.98199,,,,,,,,,,,3,5339
+云天花苑酒店－一品红,102.66981,24.98179,,,,,,,,,,,3,25199

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县羊街镇天然林资源保护工程管护所,103.12625799999999,25.443089,,,,,,,,,,,3,32184
+童心幼儿园,103.126048,25.443582,,,,,,,,,,,3,35679

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金太阳幼儿园,102.507137,25.49026,,,,,,,,,,,3,30932
+金太阳幼儿园,102.507137,25.49006,,,,,,,,,,,3,60721

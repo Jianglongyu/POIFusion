@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红春诊所,103.319652,24.835599,,,,,,,,,,,3,24983
+石林小学,103.319787,24.83571,,,,,,,,,,,3,31343
+红春诊所,103.319652,24.835399,,,,,,,,,,,3,54772
+石林小学,103.319787,24.83551,,,,,,,,,,,3,61132

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西贡码头精品美食街,102.66138000000001,24.98561,,,,,,,,,,,3,15577
+快乐海鲜酒楼,102.66068,24.98613,,,,,,,,,,,3,26172

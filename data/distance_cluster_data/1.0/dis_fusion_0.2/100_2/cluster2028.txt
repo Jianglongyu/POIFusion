@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+百事特商务候机楼－空客花园吧,102.74122,24.99618,,,,,,,,,,,3,11437
+巴西烤肉吧,102.74124,24.996170000000003,,,,,,,,,,,3,13183
+紫云阁中餐厅,102.74124,24.996170000000003,,,,,,,,,,,3,17431

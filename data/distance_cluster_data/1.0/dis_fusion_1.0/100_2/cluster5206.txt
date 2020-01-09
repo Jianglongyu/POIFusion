@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县仁德镇胜利卫生所,103.27592,25.501366,,,,,,,,,,,3,26108
+寻甸县仁德镇胜利卫生所,103.27592,25.501166,,,,,,,,,,,3,55897

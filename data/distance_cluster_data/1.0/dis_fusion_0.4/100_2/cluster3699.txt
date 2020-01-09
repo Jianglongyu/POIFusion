@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仁民门诊,102.66093199999999,25.035969,,,,,,,,,,,3,30147
+好医生宠物诊所,102.660938,25.03611,,,,,,,,,,,3,32940

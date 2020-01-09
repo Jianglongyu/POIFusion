@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一边天酒楼,102.70418000000001,25.07442,,,,,,,,,,,3,23246
+教场中路公交站,102.703532,25.075298999999998,,,,,,,,,,,1,3506
+一边天酒楼,102.70418000000001,25.07462,,,,,,,,,,,3,10479

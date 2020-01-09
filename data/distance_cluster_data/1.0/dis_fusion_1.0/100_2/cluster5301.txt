@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+洪森园休闲渡假山庄,102.66306,25.26665,,,,,,,,,,,3,27695
+洪森园休闲渡假山庄,102.66306,25.26645,,,,,,,,,,,3,57484

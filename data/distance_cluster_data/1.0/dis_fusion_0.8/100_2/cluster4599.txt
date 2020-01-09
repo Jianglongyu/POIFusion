@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丽水云泉大酒店－西餐厅,102.85258,24.858620000000002,,,,,,,,,,,3,14913
+丽水云泉大酒店－西餐厅,102.85258,24.858420000000002,,,,,,,,,,,3,34773

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县六哨乡纪检委,102.970753,25.620982,,,,,,,,,,,3,36217
+寻甸回族彝族自治县公安局六哨派出所,102.970479,25.620628,,,,,,,,,,,3,37379

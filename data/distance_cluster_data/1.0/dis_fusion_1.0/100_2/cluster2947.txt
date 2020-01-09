@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+交通银行ATM,102.75248,25.05786,,,,,,,,,,,3,33593
+交通银行ATM,102.75248,25.057660000000002,,,,,,,,,,,3,63382
+中国建设银行ATM,102.75243,25.05834,,,,,,,,,,,3,63582

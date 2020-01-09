@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省第五建筑工程公司,102.654703,25.061365,,,,,,,,,,,1,1027
+昆明市五华区锦玉学校,102.654324,25.061177,,,,,,,,,,,3,43043
+云南省第五建筑工程公司,102.654703,25.061564999999998,,,,,,,,,,,1,48226

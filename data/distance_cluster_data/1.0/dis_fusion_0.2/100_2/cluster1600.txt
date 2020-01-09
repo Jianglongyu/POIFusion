@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康辉旅行社,102.7231064,25.02116013,,,,,,,,,,,1,3311
+广东雷州老三元羊肉火锅城,102.72317,25.02119,,,,,,,,,,,3,7572
+福建海鲜小炒,102.72368,25.02094,,,,,,,,,,,3,17534
+通海宾馆,102.72315,25.02133,,,,,,,,,,,3,30314

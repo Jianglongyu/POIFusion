@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南艺术学院业余艺术教育海口培训中心,102.605756,24.795745,,,,,,,,,,,2,534
+云南艺术学院业余艺术教育海口培训中心,102.605756,24.795945,,,,,,,,,,,2,54826

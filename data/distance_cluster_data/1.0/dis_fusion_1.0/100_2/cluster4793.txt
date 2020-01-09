@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市人民医院－急诊,102.476606,24.9191,,,,,,,,,,,3,22405
+安宁市人民医院－急诊,102.476606,24.9189,,,,,,,,,,,3,52194

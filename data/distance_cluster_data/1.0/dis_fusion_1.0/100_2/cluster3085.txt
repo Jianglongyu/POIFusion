@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+九龙春芽幼儿园,102.797296,25.741933,,,,,,,,,,,3,32856
+九龙春芽幼儿园,102.797296,25.741733,,,,,,,,,,,3,62645

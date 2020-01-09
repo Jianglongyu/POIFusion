@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+好药家平价药房北大村店,103.35611899999999,24.861283,,,,,,,,,,,3,26655
+高杰医师诊所,103.355869,24.860472,,,,,,,,,,,3,27897

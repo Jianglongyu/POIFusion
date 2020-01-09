@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+冷老倌糊辣花鲢鱼,102.687117,25.061,,,,,,,,,,,1,2688
+昆明医学院第一附属医院(云大医院),102.68731600000001,25.060603,,,,,,,,,,,1,2825

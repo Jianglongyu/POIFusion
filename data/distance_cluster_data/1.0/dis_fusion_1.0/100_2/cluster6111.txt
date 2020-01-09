@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西街口镇中心小学,103.51775,24.822817,,,,,,,,,,,3,30901
+西街口镇中心小学,103.51775,24.822617,,,,,,,,,,,3,60690

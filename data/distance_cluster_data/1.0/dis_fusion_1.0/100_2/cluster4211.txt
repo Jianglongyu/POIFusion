@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+久久荷塘风味园,102.65294,24.99931,,,,,,,,,,,3,20199
+久久荷塘风味园,102.65294,24.99911,,,,,,,,,,,3,49988

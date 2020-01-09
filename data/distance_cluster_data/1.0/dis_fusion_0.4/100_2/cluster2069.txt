@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+食尚缘,102.66745,25.06733,,,,,,,,,,,3,18627
+附中花园,102.668233,25.068009,,,,,,,,,,,1,3995
+食尚缘,102.66745,25.067529999999998,,,,,,,,,,,3,11180

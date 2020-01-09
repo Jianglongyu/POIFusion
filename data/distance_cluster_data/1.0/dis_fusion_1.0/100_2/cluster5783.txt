@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县国税局,102.911674,24.671048,,,,,,,,,,,3,29872
+澄江县国税局,102.911674,24.670848,,,,,,,,,,,3,59661

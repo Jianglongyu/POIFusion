@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市第一人民医院星耀医院,102.7731,24.958933,,,,,,,,,,,1,3038
+昆明市第一人民医院星耀医院,102.7731,24.959132999999998,,,,,,,,,,,1,67259

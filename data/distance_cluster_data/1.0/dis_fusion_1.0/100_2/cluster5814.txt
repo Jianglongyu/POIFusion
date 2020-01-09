@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市东川区公安局因民派出所,102.937771,26.277502000000002,,,,,,,,,,,3,29965
+昆明市东川区公安局因民派出所,102.937771,26.277302000000002,,,,,,,,,,,3,59754

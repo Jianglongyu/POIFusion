@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大观楼路口公交站,102.683497,25.033414,,,,,,,,,,,1,4272
+白马庙,102.68340699999999,25.033355,,,,,,,,,,,3,47781

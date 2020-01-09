@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+润雨堂,102.74302,25.05087,,,,,,,,,,,3,50098
+东华小区,102.743484,25.050059,,,,,,,,,,,1,4109
+东华小区,102.743484,25.050259,,,,,,,,,,,1,68330

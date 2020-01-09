@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴发小吃,102.656145,25.053102,,,,,,,,,,,1,1502
+兴发小吃,102.656145,25.053302,,,,,,,,,,,1,55794

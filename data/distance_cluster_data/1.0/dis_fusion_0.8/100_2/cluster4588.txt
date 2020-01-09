@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晶华口腔,102.688843,25.048416,,,,,,,,,,,3,23049
+晶华口腔,102.688843,25.048216,,,,,,,,,,,3,42909

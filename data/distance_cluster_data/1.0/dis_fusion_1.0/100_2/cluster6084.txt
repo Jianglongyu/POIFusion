@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省电子信息高级技工学校,102.580462,24.747841,,,,,,,,,,,3,30813
+云南省电子信息高级技工学校,102.580462,24.747641,,,,,,,,,,,3,60602

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金科江湖海,102.7021055,24.95245659,,,,,,,,,,,2,195
+金科江湖海,102.7021055,24.95265659,,,,,,,,,,,2,37937

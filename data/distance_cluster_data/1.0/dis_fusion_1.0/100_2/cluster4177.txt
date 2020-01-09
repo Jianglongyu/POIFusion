@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华夏园(北京路),102.742294,25.090569,,,,,,,,,,,1,3647
+华夏园(北京路),102.742294,25.090768999999998,,,,,,,,,,,1,67868

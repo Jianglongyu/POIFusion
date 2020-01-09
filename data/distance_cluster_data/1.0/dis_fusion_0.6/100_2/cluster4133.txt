@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华都大酒店大商汇店,102.71358000000001,24.98326,,,,,,,,,,,3,39420
+亨德森外国语学校,102.712944,24.983297,,,,,,,,,,,3,43679

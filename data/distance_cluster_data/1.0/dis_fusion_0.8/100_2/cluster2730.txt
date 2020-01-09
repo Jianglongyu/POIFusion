@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县国税局,103.042236,25.333268,,,,,,,,,,,3,48948
+仁渊堂中医大药房,103.042865,25.334117,,,,,,,,,,,3,24357
+仁渊堂中医大药房,103.042865,25.333917,,,,,,,,,,,3,44217

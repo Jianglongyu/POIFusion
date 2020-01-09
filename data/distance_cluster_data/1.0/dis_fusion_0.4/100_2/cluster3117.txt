@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇康园,102.62241999999999,24.98527,,,,,,,,,,,3,11513
+滇康园,102.62241999999999,24.98507,,,,,,,,,,,3,18960

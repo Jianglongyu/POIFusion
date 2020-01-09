@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市五华区远方学校,102.644612,25.056539,,,,,,,,,,,1,2935
+昆明市五华区远方学校,102.644612,25.056739,,,,,,,,,,,1,67156

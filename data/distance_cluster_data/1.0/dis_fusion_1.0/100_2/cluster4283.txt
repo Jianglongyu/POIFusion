@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇洪酸菜猪脚,102.73626999999999,25.09211,,,,,,,,,,,1,4151
+滇洪酸菜猪脚,102.73626999999999,25.09231,,,,,,,,,,,1,68372

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中凰大酒店,102.78473000000001,25.005266,,,,,,,,,,,1,692
+中凰大酒店,102.78473000000001,25.005466,,,,,,,,,,,1,42571

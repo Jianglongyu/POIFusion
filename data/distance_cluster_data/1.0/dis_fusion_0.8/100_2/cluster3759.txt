@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+九邻苑,102.83073,25.09147,,,,,,,,,,,3,19329
+九邻苑,102.83073,25.09127,,,,,,,,,,,3,39189

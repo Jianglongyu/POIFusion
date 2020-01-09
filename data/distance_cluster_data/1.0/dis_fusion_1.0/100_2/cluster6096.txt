@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新华完小,102.920118,25.748098,,,,,,,,,,,3,30859
+新华完小,102.920118,25.747898,,,,,,,,,,,3,60648

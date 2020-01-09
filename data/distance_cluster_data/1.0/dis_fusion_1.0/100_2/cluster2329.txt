@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+高天流云,102.778369,25.097162,,,,,,,,,,,1,3976
+腾冲风味园,102.777397,25.096809,,,,,,,,,,,1,1975
+腾冲风味园,102.777397,25.097009,,,,,,,,,,,1,66196
+高天流云,102.778369,25.097362,,,,,,,,,,,1,68197

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中豪广场,102.783215,24.936191,,,,,,,,,,,2,496
+中豪广场,102.783215,24.936391,,,,,,,,,,,2,42375

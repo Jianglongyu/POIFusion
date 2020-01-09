@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定插万加油站,102.289682,25.642623,,,,,,,,,,,3,4743
+武定插万加油站,102.289682,25.642423,,,,,,,,,,,3,8053

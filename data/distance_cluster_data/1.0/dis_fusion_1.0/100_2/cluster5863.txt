@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+木龙马村完小,102.928831,25.474651,,,,,,,,,,,3,30182
+木龙马村完小,102.928831,25.474451000000002,,,,,,,,,,,3,59971

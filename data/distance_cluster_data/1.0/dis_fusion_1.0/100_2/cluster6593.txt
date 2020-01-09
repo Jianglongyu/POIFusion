@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阳光幼儿园,102.92068,25.749142,,,,,,,,,,,3,32316
+阳光幼儿园,102.92068,25.748942,,,,,,,,,,,3,62105

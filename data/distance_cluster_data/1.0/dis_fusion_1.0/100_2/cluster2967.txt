@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+瘦狐体雕馆,102.69466,25.043200000000002,,,,,,,,,,,3,21083
+昆明皓业科贸有限公司,102.69466,25.043422,,,,,,,,,,,3,24384
+昆明皓业科贸有限公司,102.69466,25.043222,,,,,,,,,,,3,54173

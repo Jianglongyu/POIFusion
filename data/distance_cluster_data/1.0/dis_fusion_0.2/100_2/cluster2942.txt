@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+体育城·星耀酒店－西式餐饮,102.76692,24.949460000000002,,,,,,,,,,,3,11491
+昆明市公安局交警支队十大队,102.767054,24.950302999999998,,,,,,,,,,,3,33338

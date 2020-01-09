@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+实力郡城公交站,102.748807,25.126405,,,,,,,,,,,1,2135
+昆明农林学院土木环境工程设计研究中心,102.748302,25.126176,,,,,,,,,,,3,34867
+云南省高校水资源与节水灌溉工程研究中心,102.748302,25.126176,,,,,,,,,,,3,36065

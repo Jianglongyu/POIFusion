@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定老年大学,102.404709,25.533060999999996,,,,,,,,,,,3,30890
+武定老年大学,102.404709,25.532860999999997,,,,,,,,,,,3,60679

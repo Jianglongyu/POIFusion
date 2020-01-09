@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+创新大厦,102.66895600000001,25.061770000000003,,,,,,,,,,,1,4334
+创新大厦,102.66895600000001,25.061970000000002,,,,,,,,,,,1,68555

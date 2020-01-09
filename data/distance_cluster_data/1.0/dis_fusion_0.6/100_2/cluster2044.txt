@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中航云玺大宅别墅,102.7631989,24.97296906,,,,,,,,,,,2,494
+云南荟健身体育馆,102.76301,24.972939999999998,,,,,,,,,,,3,34495
+中航云玺大宅别墅,102.7631989,24.97316906,,,,,,,,,,,2,47693

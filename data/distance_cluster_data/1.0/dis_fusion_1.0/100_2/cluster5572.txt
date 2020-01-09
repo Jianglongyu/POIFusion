@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+庭院乡村风味菜馆,102.93269000000001,25.05998,,,,,,,,,,,3,12474
+庭院乡村风味菜馆,102.93269000000001,25.05978,,,,,,,,,,,3,42263

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南农业大学林业职业技术学院,102.779042,25.098628,,,,,,,,,,,1,1059
+金林·碧水(南门),102.778811,25.09851,,,,,,,,,,,1,3454
+云南农业大学林业职业技术学院,102.779042,25.098828,,,,,,,,,,,1,48258

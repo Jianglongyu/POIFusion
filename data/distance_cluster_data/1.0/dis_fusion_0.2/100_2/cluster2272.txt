@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省澄江县气象局,102.91335500000001,24.666209,,,,,,,,,,,3,32565
+澄江县地税局,102.913627,24.667331,,,,,,,,,,,3,32351
+澄江县政府政务服务中心,102.913069,24.666749,,,,,,,,,,,3,33401

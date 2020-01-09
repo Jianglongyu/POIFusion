@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+清真寺,103.105841,25.414151999999998,,,,,,,,,,,3,28009
+清真寺,103.105841,25.413952,,,,,,,,,,,3,57798

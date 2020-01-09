@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新沙小学,102.860351,25.486620000000002,,,,,,,,,,,3,32711
+新沙小学,102.860351,25.486420000000003,,,,,,,,,,,3,62500

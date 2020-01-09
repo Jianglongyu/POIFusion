@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明朗渔园岔口公交站,102.575862,24.992424,,,,,,,,,,,1,2475
+明朗渔园岔口公交站,102.575862,24.992624,,,,,,,,,,,1,56767

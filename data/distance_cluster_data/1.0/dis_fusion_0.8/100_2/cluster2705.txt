@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红土地镇中心卫生院,103.018374,26.024554000000002,,,,,,,,,,,3,24137
+红土地镇中心卫生院,103.018374,26.024354000000002,,,,,,,,,,,3,43997
+昆明公路管理总段东川管理段红土地管理所,103.017827,26.02427,,,,,,,,,,,3,49169

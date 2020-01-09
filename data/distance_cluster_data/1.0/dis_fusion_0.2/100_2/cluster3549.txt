@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+第一天门,102.768914,25.088404,,,,,,,,,,,3,31172
+金殿风景名胜区侧门,102.76949300000001,25.089002,,,,,,,,,,,3,31576

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小街完小,103.352616,25.619944,,,,,,,,,,,3,30936
+小街完小,103.352616,25.619744,,,,,,,,,,,3,60725

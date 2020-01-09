@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天盛名苑,102.73607,25.01557,,,,,,,,,,,3,16327
+豪华碰碰车,102.736,25.01499,,,,,,,,,,,3,20493
+宝海公园北门,102.7365,25.01588,,,,,,,,,,,3,21803
+滑行龙,102.736,25.01499,,,,,,,,,,,3,22782

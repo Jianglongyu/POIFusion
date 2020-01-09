@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+灵安殿,102.76561099999999,24.700364999999998,,,,,,,,,,,3,28359
+灵安殿,102.76561099999999,24.700165,,,,,,,,,,,3,58148

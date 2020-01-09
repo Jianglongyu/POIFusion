@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一指福足浴,102.79798000000001,24.88842,,,,,,,,,,,3,20345
+顺达旅店,102.79781,24.88864,,,,,,,,,,,3,30661

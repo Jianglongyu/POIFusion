@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+骆驼湾,102.755344,25.139922,,,,,,,,,,,2,273
+骆驼湾,102.755344,25.140121999999998,,,,,,,,,,,2,54565

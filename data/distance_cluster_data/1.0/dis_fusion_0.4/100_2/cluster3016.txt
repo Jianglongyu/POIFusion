@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+巨型腹足化石,103.32945500000001,24.812903,,,,,,,,,,,3,35342
+步哨山景区,103.329293,24.813039,,,,,,,,,,,3,35825

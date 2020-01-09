@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+育优幼儿园,102.75876600000001,24.69964,,,,,,,,,,,3,32547
+育优幼儿园,102.75876600000001,24.69944,,,,,,,,,,,3,62336

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康慈瑶浴,102.69272,24.98092,,,,,,,,,,,3,34611
+张松涛羽球俱乐部广福商业中心羽毛球连锁馆,102.69176999999999,24.98139,,,,,,,,,,,3,30392
+多客快捷酒店广福路店,102.69234,24.98105,,,,,,,,,,,3,39670

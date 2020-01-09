@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市南部汽车客运站,102.783024,24.935095,,,,,,,,,,,1,2968
+昆明市南部汽车客运站,102.783024,24.935295,,,,,,,,,,,1,67189

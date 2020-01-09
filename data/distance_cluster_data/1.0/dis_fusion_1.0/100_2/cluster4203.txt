@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+好又多平价超市,102.728765,24.976248000000002,,,,,,,,,,,1,3779
+好又多平价超市,102.728765,24.976448,,,,,,,,,,,1,68000

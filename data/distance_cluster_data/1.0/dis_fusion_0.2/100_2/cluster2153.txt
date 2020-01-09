@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+羊合园饭店,102.61591999999999,24.987560000000002,,,,,,,,,,,3,13363
+西山吉源明珠,102.61548,24.98842,,,,,,,,,,,3,6669
+西山吉源明珠,102.61548,24.988220000000002,,,,,,,,,,,3,9979

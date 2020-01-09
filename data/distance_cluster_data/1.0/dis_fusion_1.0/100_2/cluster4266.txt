@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+枫林盛景(西南门),102.784538,24.969314,,,,,,,,,,,1,4038
+枫林盛景(西南门),102.784538,24.969514,,,,,,,,,,,1,68259

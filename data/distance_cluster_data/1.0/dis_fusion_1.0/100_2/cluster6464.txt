@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金麒麟幼儿园,102.426135,24.914778,,,,,,,,,,,3,31868
+金麒麟幼儿园,102.426135,24.914578,,,,,,,,,,,3,61657

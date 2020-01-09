@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+功山镇功山办事处卫生所,103.26191800000001,25.740721,,,,,,,,,,,3,36529
+昆明市寻甸功山镇为民服务中心,103.262523,25.740737,,,,,,,,,,,3,42240
+昆明市寻甸县工商局功山工商所,103.2629,25.740824,,,,,,,,,,,3,42326

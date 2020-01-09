@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+检察希望小学,102.64095400000001,26.049637,,,,,,,,,,,3,32259
+检察希望小学,102.64095400000001,26.049437,,,,,,,,,,,3,62048

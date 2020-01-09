@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市官渡区金盾足球训练基地,102.764931,25.118684,,,,,,,,,,,1,3006
+昆明市官渡区金盾足球训练基地,102.764931,25.118883999999998,,,,,,,,,,,1,67227

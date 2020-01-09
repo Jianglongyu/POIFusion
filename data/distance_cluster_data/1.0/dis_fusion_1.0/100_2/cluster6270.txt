@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安秧瑞荧小学,103.125265,25.813758999999997,,,,,,,,,,,3,31333
+安秧瑞荧小学,103.125265,25.813558999999998,,,,,,,,,,,3,61122

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+增华诊所,102.69001999999999,25.00096,,,,,,,,,,,3,25908
+增华诊所,102.69001999999999,25.00076,,,,,,,,,,,3,55697

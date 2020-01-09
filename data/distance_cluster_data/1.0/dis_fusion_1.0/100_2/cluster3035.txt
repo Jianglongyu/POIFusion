@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宏达大型挖机培训学校,103.107078,25.355767999999998,,,,,,,,,,,3,32799
+宏达大型挖机培训学校,103.107078,25.355567999999998,,,,,,,,,,,3,62588

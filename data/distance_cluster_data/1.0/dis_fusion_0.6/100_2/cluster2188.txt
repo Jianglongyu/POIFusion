@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西林生态建设研究设计院,102.75851800000001,25.060133,,,,,,,,,,,3,43200
+云南省滇派园林研究院,102.75851800000001,25.060133,,,,,,,,,,,3,44844
+中国银行ATM,102.75851999999999,25.060129999999997,,,,,,,,,,,3,46196

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市盘龙区金辰中学,102.724158,25.078554,,,,,,,,,,,1,2964
+云农宠物专家门诊药房,102.724574,25.078007,,,,,,,,,,,3,26686

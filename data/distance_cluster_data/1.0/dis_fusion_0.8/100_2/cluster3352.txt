@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鑫逸苑,102.710269,25.000532,,,,,,,,,,,1,1529
+鑫逸苑,102.710269,25.000732,,,,,,,,,,,1,55821

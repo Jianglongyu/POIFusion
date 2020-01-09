@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金马悦城,102.74877540000001,25.03132785,,,,,,,,,,,1,3441
+金马悦城,102.74877540000001,25.03152785,,,,,,,,,,,1,67662

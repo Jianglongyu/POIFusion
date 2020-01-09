@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明理工大学体育课部新迎校区办公室,102.740014,25.059369,,,,,,,,,,,1,3114
+昆明理工大学体育课部新迎校区办公室,102.740014,25.059569,,,,,,,,,,,1,67335

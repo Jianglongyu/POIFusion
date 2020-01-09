@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+舒馨养身馆,102.65547,25.06759,,,,,,,,,,,3,33935
+秀姿女子减肥院昆明连锁店月半湾分店,102.65556,25.0675,,,,,,,,,,,3,33936

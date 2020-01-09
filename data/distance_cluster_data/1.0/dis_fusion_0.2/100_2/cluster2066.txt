@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+高新体育馆,102.657972,25.080220999999998,,,,,,,,,,,1,3969
+富滇银行(昆明海源北路支行),102.658086,25.080682,,,,,,,,,,,1,3990
+傲云峰小区公交站,102.658183,25.08089,,,,,,,,,,,1,4537

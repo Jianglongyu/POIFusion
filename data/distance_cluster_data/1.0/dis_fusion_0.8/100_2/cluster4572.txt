@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山区春华诊所,102.70185,25.004275,,,,,,,,,,,3,22894
+西山区春华诊所,102.70185,25.004075,,,,,,,,,,,3,42754

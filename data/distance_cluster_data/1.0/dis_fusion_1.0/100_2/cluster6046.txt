@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+松毛棚小学,103.112546,25.940170000000002,,,,,,,,,,,3,30687
+松毛棚小学,103.112546,25.939970000000002,,,,,,,,,,,3,60476

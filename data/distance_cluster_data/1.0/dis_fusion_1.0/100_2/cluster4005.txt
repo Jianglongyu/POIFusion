@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市森林公安局,102.763387,25.096324,,,,,,,,,,,1,2949
+昆明市森林公安局,102.763387,25.096524,,,,,,,,,,,1,67170

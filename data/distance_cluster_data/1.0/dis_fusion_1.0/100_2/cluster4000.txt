@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市延安医院宿舍,102.748922,25.050964,,,,,,,,,,,1,2918
+昆明市延安医院宿舍,102.748922,25.051164,,,,,,,,,,,1,67139

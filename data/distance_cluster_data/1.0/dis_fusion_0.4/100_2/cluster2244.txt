@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鑫盛园餐厅,102.79313,24.90169,,,,,,,,,,,3,21817
+宏晟娱乐,102.79313,24.90169,,,,,,,,,,,3,28874
+鑫盛达宏晟国际酒店－康体中心,102.79313,24.90169,,,,,,,,,,,3,28875

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+益民饭店,102.71093,25.0122,,,,,,,,,,,3,15517
+海丰综合诊所,102.710931,25.012133,,,,,,,,,,,3,26920

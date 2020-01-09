@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北城古楼药堂,102.550756,24.429351,,,,,,,,,,,3,22765
+北城古楼药堂,102.550756,24.429151,,,,,,,,,,,3,52554

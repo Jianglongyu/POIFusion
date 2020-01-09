@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海丰收费站,102.612378,24.777145,,,,,,,,,,,2,518
+海丰收费站,102.612378,24.777345,,,,,,,,,,,2,47717

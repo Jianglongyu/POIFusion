@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市盘龙区小河乡卫生院,102.8428,25.200642000000002,,,,,,,,,,,2,546
+昆明市盘龙区小河乡卫生院,102.8428,25.200842,,,,,,,,,,,2,42425

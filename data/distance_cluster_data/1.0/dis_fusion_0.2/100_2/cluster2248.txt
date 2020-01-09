@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县检察院,102.494979,25.224296,,,,,,,,,,,3,32126
+富民阳光艺术学校,102.494966,25.224023000000003,,,,,,,,,,,3,34120
+亨德森（新世界）外国语培训学校富民教学区,102.494966,25.224023000000003,,,,,,,,,,,3,35939

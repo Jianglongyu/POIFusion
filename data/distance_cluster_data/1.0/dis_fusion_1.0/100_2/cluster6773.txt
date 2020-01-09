@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+长麦地烟草希望小学,102.435303,26.10031,,,,,,,,,,,3,32767
+长麦地烟草希望小学,102.435303,26.10011,,,,,,,,,,,3,62556

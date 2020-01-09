@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+观音阁,103.14139,24.791337,,,,,,,,,,,3,28186
+观音阁,103.14139,24.791137,,,,,,,,,,,3,57975

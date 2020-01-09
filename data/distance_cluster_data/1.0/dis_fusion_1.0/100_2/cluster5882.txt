@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+盘龙区双哨中心学校,102.739285,25.242357000000002,,,,,,,,,,,3,30247
+盘龙区双哨中心学校,102.739285,25.242157000000002,,,,,,,,,,,3,60036

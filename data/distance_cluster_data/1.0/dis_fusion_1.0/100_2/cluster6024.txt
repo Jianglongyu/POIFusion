@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市锦武学校,102.734763,25.064769,,,,,,,,,,,3,30629
+昆明市锦武学校,102.734763,25.064569,,,,,,,,,,,3,60418

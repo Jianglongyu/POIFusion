@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县国土局塘子国土所,103.25264,25.437762,,,,,,,,,,,3,28853
+寻甸县国土局塘子国土所,103.25264,25.437562,,,,,,,,,,,3,58642

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广安风味鱼府,102.74091,24.943820000000002,,,,,,,,,,,3,13673
+广安风味鱼府,102.74091,24.943620000000003,,,,,,,,,,,3,43462
+桐欣艺术幼儿园,102.741122,24.943784,,,,,,,,,,,3,61043

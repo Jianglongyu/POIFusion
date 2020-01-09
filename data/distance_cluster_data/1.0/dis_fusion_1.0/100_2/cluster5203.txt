@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+纳章镇卫生院,103.582454,25.272857000000002,,,,,,,,,,,3,26087
+纳章镇卫生院,103.582454,25.272657000000002,,,,,,,,,,,3,55876

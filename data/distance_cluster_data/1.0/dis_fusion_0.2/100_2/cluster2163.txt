@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小小石锅鱼,102.82315,24.85281,,,,,,,,,,,3,13541
+杨记香草酸汤鸡天润康园店,102.8235,24.852529999999998,,,,,,,,,,,3,15379
+聚人缘肚子鸡,102.82315,24.85243,,,,,,,,,,,3,18046

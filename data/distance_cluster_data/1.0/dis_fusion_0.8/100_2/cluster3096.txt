@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中苜蓿村公交站,102.743011,24.994884,,,,,,,,,,,1,684
+中苜蓿村公交站,102.743011,24.995084,,,,,,,,,,,1,54976

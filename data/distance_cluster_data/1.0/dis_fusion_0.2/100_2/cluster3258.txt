@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+王家坝加油站,102.732558,24.707110999999998,,,,,,,,,,,3,4860
+王家坝加油站,102.732558,24.706910999999998,,,,,,,,,,,3,8170

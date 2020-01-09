@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+俊彩旅馆,102.87875,25.0451,,,,,,,,,,,3,33673
+晨星幼儿园,102.87889399999999,25.045145,,,,,,,,,,,3,38354
+优优外语学校大板桥教学点,102.87889399999999,25.045145,,,,,,,,,,,3,39238

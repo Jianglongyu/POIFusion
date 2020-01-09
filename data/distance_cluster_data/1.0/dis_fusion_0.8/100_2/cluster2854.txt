@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+经典明苑,102.659092,25.055525,,,,,,,,,,,2,214
+经典明苑,102.659092,25.055725,,,,,,,,,,,2,54506

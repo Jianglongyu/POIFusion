@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+会泽县驾车中学,103.377185,25.988017,,,,,,,,,,,3,31432
+会泽县驾车中学,103.377185,25.987817,,,,,,,,,,,3,61221

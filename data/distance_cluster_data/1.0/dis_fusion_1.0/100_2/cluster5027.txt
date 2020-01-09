@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市第二人民医院,102.745205,25.142215,,,,,,,,,,,3,24700
+昆明市第二人民医院,102.745205,25.142015,,,,,,,,,,,3,54489

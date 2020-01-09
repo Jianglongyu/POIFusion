@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县七星誉康药店,103.332899,25.531217,,,,,,,,,,,3,30643
+福星药店,103.333431,25.530723000000002,,,,,,,,,,,3,32606

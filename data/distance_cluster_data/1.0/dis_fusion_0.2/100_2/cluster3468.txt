@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+25小时主题酒店,102.84604,24.84169,,,,,,,,,,,3,29725
+中国农业银行ATM,102.84569,24.84153,,,,,,,,,,,3,36884

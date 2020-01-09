@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北辰财富中心,102.74582120000001,25.04562813,,,,,,,,,,,1,4457
+北辰财富中心,102.74582120000001,25.04582813,,,,,,,,,,,1,68678

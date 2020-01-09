@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丽景园(丽景园中路),102.747263,25.084352,,,,,,,,,,,1,2670
+丽景园(丽景园中路),102.747263,25.084552,,,,,,,,,,,1,56962

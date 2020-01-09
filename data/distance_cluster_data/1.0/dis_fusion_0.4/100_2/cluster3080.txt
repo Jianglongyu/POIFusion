@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+重庆黑竹笋香鸡火锅昆明店,102.75255,24.96024,,,,,,,,,,,3,19433
+爱因森教育,102.75256800000001,24.960256,,,,,,,,,,,3,39674

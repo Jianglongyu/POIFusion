@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南皮肤病医院,102.700623,25.022692,,,,,,,,,,,3,23504
+云南皮肤病医院,102.700623,25.022492,,,,,,,,,,,3,53293

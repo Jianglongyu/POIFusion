@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+尚源郦城,101.59295159999999,24.8642128,,,,,,,,,,,2,323
+尚源郦城,101.59295159999999,24.8644128,,,,,,,,,,,2,64544

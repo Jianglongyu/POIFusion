@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡区矣六中学,102.769238,24.919998,,,,,,,,,,,3,31324
+官渡区矣六中学,102.769238,24.919798,,,,,,,,,,,3,61113

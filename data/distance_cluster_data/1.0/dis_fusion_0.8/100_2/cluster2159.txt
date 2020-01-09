@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石宝温泉茶浴,102.74284,25.01485,,,,,,,,,,,3,22298
+小熙阁鸡汤泡饭,102.74279,25.01476,,,,,,,,,,,3,33505
+石宝温泉茶浴,102.74284,25.01465,,,,,,,,,,,3,42158
+120渡酒店公寓,102.7419,25.01466,,,,,,,,,,,3,46439

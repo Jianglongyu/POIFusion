@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧鸡加油站,102.595394,24.96687,,,,,,,,,,,3,5003
+碧鸡加油站,102.595394,24.96667,,,,,,,,,,,3,17770

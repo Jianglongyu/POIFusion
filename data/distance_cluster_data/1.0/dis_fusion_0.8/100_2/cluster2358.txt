@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黑龙潭公园,102.75005999999999,25.13983,,,,,,,,,,,3,17717
+黑龙潭公园,102.75005999999999,25.13963,,,,,,,,,,,3,37577
+谊和园,102.749183,25.140237,,,,,,,,,,,3,47916

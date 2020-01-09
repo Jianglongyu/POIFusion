@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云大之城,102.784644,24.990579,,,,,,,,,,,1,1212
+云大西路公交站,102.784643,24.990578,,,,,,,,,,,1,1215
+云大之城,102.784644,24.990779,,,,,,,,,,,1,65433
+云大西路公交站,102.784643,24.990778,,,,,,,,,,,1,65436

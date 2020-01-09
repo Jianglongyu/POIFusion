@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市西山区行政学校,102.650336,25.040363,,,,,,,,,,,1,2930
+北师大昆明附中,102.650357,25.040373000000002,,,,,,,,,,,1,4447
+昆明市西山区行政学校,102.650336,25.040563,,,,,,,,,,,1,57222

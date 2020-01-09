@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+高老胖大麦地农家乐老羊肉馆,102.73414,25.17023,,,,,,,,,,,3,14866
+高老胖大麦地农家乐老羊肉馆,102.73414,25.17003,,,,,,,,,,,3,27633

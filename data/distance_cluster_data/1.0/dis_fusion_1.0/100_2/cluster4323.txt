@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+吃一顿,102.709551,24.989689000000002,,,,,,,,,,,1,4354
+吃一顿,102.709551,24.989889,,,,,,,,,,,1,68575

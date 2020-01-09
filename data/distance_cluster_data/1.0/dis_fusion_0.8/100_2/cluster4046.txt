@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+泰融加油站,102.869508,24.968269,,,,,,,,,,,3,4648
+泰融加油站,102.869508,24.968069,,,,,,,,,,,3,24508

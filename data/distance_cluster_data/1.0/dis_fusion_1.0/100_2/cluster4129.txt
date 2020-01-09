@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金岭饭店,102.829921,25.034052,,,,,,,,,,,1,3453
+金岭饭店,102.829921,25.034252,,,,,,,,,,,1,67674

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+加油站,102.768663,24.964129999999997,,,,,,,,,,,3,4834
+孔雀公主,102.767779,24.963648000000003,,,,,,,,,,,1,3289
+加油站,102.768663,24.963929999999998,,,,,,,,,,,3,24694

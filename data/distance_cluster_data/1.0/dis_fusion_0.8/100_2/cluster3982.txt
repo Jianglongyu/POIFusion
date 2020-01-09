@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+刘氏农家院,102.83635,25.09284,,,,,,,,,,,3,37013
+明俊农家乐,102.83669,25.0929,,,,,,,,,,,3,37596

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阳宗海华侨城,102.73002199999999,25.008627,,,,,,,,,,,1,1425
+国贸青岛扎啤美食花园,102.73009,25.009520000000002,,,,,,,,,,,3,17182

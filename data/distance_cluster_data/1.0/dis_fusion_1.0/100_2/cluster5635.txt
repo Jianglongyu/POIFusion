@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+德哥饭庄,102.66586,25.10345,,,,,,,,,,,3,12751
+德哥饭庄,102.66586,25.10325,,,,,,,,,,,3,42540

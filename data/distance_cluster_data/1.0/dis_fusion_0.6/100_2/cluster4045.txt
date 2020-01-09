@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云维网络空间,102.67116,25.0682,,,,,,,,,,,3,30224
+健英台球室,102.67118,25.06813,,,,,,,,,,,3,31387

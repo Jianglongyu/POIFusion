@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林公路管理段,103.318841,24.833689,,,,,,,,,,,3,29959
+石林公路管理段,103.318841,24.833489,,,,,,,,,,,3,59748

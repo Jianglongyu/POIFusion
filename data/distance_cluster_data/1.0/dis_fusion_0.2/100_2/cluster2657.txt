@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+茶物语,102.66258,25.03675,,,,,,,,,,,3,17753
+太吉推拿,102.66228000000001,25.03718,,,,,,,,,,,3,24450

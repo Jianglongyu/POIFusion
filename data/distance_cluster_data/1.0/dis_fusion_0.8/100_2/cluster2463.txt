@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+孔雀园农家乐,102.82646,25.08661,,,,,,,,,,,3,20036
+孔雀园农家乐,102.82646,25.08641,,,,,,,,,,,3,39896
+朗维科技公司复杂系统研究所,102.826307,25.085947,,,,,,,,,,,3,50266

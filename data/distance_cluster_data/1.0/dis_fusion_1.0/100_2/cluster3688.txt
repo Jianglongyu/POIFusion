@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金玲饭庄,102.82335,25.02807,,,,,,,,,,,3,18017
+金玲饭庄,102.82335,25.02787,,,,,,,,,,,3,47806

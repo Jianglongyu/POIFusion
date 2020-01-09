@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县元亨希望小学,102.455792,25.387984,,,,,,,,,,,3,31054
+富民县元亨希望小学,102.455792,25.387784,,,,,,,,,,,3,60843

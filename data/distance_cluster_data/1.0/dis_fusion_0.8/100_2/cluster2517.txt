@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小街农机加油站,103.110485,25.314381,,,,,,,,,,,3,4683
+小街农机加油站,103.110485,25.314181,,,,,,,,,,,3,24543
+小街农业机械化技术学校,103.11059300000001,25.314148,,,,,,,,,,,3,51338

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市交通技工学校(碧鸡路),102.63633,25.015015,,,,,,,,,,,1,2982
+昆明市交通技工学校(碧鸡路),102.63633,25.015214999999998,,,,,,,,,,,1,67203

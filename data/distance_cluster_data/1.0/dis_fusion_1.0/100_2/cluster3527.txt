@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省公安厅交通警察总队高速公路交巡警支队昆曲大队,102.932615,25.195385,,,,,,,,,,,1,1008
+云南省公安厅交通警察总队高速公路交巡警支队昆曲大队,102.932615,25.195585,,,,,,,,,,,1,65229

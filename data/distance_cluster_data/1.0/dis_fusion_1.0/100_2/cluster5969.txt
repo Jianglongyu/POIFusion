@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新田小学,103.09297,25.955119,,,,,,,,,,,3,30467
+新田小学,103.09297,25.954919,,,,,,,,,,,3,60256

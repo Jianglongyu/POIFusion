@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆十中求實校區,102.751637,25.118744,,,,,,,,,,,1,2774
+昆十中求實校區,102.751637,25.118944,,,,,,,,,,,1,57066

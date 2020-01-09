@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金帝家常菜,102.58851,24.93665,,,,,,,,,,,3,13669
+华轩园农家菜,102.58839,24.93618,,,,,,,,,,,3,14039
+李记农家园,102.58849000000001,24.93658,,,,,,,,,,,3,18068

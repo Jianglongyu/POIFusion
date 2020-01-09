@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+荣顺居,102.62183,25.00455,,,,,,,,,,,3,15614
+荣顺居,102.62183,25.00435,,,,,,,,,,,3,28381

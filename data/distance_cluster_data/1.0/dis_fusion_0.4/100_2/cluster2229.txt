@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富运石化加油站,102.508751,25.218192000000002,,,,,,,,,,,3,5115
+富运石化加油站,102.508751,25.217992000000002,,,,,,,,,,,3,12562
+美之妍艺术培训中心,102.508946,25.218016,,,,,,,,,,,3,39187

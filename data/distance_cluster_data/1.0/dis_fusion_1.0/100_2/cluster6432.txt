@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+猫街阳光幼儿园,102.287456,25.250602999999998,,,,,,,,,,,3,31814
+猫街阳光幼儿园,102.287456,25.250403,,,,,,,,,,,3,61603

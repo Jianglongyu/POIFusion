@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金太阳香辣蟹 凤翥街店,102.703165,25.055630999999998,,,,,,,,,,,1,3414
+八零九零零嘴零食,102.70320500000001,25.055062,,,,,,,,,,,1,4527
+MAOLivehouse昆明,102.703811,25.054986,,,,,,,,,,,1,4590

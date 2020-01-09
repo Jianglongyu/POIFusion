@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东兴加油站,102.742768,24.965657999999998,,,,,,,,,,,3,5100
+东兴加油站,102.742768,24.965457999999998,,,,,,,,,,,3,24960

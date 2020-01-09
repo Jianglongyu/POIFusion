@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大塘小学,102.655652,25.079985999999998,,,,,,,,,,,3,33509
+五华区先锋实验学校大塘分校,102.656382,25.079496,,,,,,,,,,,3,35351

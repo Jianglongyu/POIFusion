@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新华书店(云光医院东),102.612125,24.790256,,,,,,,,,,,2,553
+新华书店(云光医院东),102.612125,24.790456,,,,,,,,,,,2,64774

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+曲靖火红黑山羊NO．3,102.79473,24.99889,,,,,,,,,,,3,14630
+生太田鸡嫩鱼庄,102.79513,24.99915,,,,,,,,,,,3,16154
+情意宾馆,102.79451,24.9984,,,,,,,,,,,3,31032

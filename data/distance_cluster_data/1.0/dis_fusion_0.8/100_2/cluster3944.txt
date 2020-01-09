@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+绍伟农家院,102.85985,25.1344,,,,,,,,,,,3,20328
+绍伟农家院,102.85985,25.1342,,,,,,,,,,,3,40188

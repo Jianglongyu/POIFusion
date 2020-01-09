@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明郊野公园西门,102.61912,25.06854,,,,,,,,,,,3,16429
+昆明郊野公园西门,102.61912,25.06834,,,,,,,,,,,3,29196

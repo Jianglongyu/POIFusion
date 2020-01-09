@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凯伯利足浴中心,102.88779,25.04697,,,,,,,,,,,3,16076
+凯伯利足浴中心,102.88779,25.046770000000002,,,,,,,,,,,3,35936

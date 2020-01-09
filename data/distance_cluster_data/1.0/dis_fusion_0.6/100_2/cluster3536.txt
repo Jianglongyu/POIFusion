@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+生达新世界大药房,102.46798100000001,24.912159,,,,,,,,,,,3,36703
+尹华诊所,102.467639,24.912508,,,,,,,,,,,3,38498

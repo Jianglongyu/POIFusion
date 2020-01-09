@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华侨城JW万豪度假酒店,103.0156,24.966179999999998,,,,,,,,,,,3,26522
+华侨城JW万豪度假酒店,103.0156,24.96598,,,,,,,,,,,3,56311

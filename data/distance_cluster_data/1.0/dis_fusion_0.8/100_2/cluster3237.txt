@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南机电职业技术学院(东二门),102.7335449,25.14423286,,,,,,,,,,,1,1118
+云南机电职业技术学院(东二门),102.7335449,25.14443286,,,,,,,,,,,1,55410

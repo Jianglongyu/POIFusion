@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+转龙农机加油站,102.85738,25.901816,,,,,,,,,,,3,4862
+转龙农机加油站,102.85738,25.901616,,,,,,,,,,,3,17629

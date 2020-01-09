@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县公安局新街派出所,102.723747,24.742137,,,,,,,,,,,3,29721
+晋宁县公安局新街派出所,102.723747,24.741937,,,,,,,,,,,3,59510

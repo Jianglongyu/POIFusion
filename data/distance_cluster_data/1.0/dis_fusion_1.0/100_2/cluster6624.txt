@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明铁路局职工培训基地,102.851483,25.036065,,,,,,,,,,,3,32403
+昆明铁路局职工培训基地,102.851483,25.035865,,,,,,,,,,,3,62192

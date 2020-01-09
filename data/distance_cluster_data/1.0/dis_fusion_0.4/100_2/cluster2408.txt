@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+版筑青果,102.65449,25.056804999999997,,,,,,,,,,,2,15
+版筑青果,102.65449,25.057004999999997,,,,,,,,,,,2,41894

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马街翠峰花园社区卫生站,102.623664,25.01061,,,,,,,,,,,3,23677
+马街翠峰花园社区卫生站,102.623664,25.01041,,,,,,,,,,,3,43537
+一心堂翠峰花园连锁店,102.62347700000001,25.010166,,,,,,,,,,,3,45725

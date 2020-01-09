@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+健秀口腔,103.26285,25.550051999999997,,,,,,,,,,,3,29003
+寻甸仁德和忆药店,103.26122,25.550042,,,,,,,,,,,3,27075
+一心堂寻甸公园尚居连锁店,103.262012,25.550535,,,,,,,,,,,3,28587

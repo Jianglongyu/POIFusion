@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+长水机场,102.991344,25.210342999999998,,,,,,,,,,,1,829
+长水机场,102.991344,25.210542999999998,,,,,,,,,,,1,55121

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海口俊东药店,102.600086,24.788373,,,,,,,,,,,3,30554
+西山区人信诊所,102.599508,24.788691,,,,,,,,,,,3,30886
+一心堂海口云光东风村连锁店,102.599671,24.788576000000003,,,,,,,,,,,3,33531

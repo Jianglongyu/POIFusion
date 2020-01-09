@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+前卫小学,103.20523299999999,25.170895,,,,,,,,,,,3,31212
+前卫小学,103.20523299999999,25.170695000000002,,,,,,,,,,,3,61001

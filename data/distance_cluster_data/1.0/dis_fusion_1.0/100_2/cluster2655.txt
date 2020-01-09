@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+曲记农家菜馆,102.66503,25.05606,,,,,,,,,,,3,10311
+中国银行ATM,102.66411,25.05614,,,,,,,,,,,3,33247
+曲记农家菜馆,102.66503,25.05586,,,,,,,,,,,3,40100
+中国银行ATM,102.66411,25.05594,,,,,,,,,,,3,63036

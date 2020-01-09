@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+镇雄特色美食苑,102.78786,24.98374,,,,,,,,,,,3,17461
+星光学校,102.787954,24.983669,,,,,,,,,,,3,35262

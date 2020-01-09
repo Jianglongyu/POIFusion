@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+家香厨坊,102.7774,25.0399,,,,,,,,,,,3,14396
+荣柯网吧,102.77741,25.03976,,,,,,,,,,,3,18057
+家香厨坊,102.7774,25.0397,,,,,,,,,,,3,34256
+荣柯网吧,102.77741,25.03956,,,,,,,,,,,3,37917

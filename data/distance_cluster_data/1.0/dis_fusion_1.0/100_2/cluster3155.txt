@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华夏天璟湾,102.66114499999999,24.992916,,,,,,,,,,,2,165
+华夏天璟湾,102.66114499999999,24.993116,,,,,,,,,,,2,64386

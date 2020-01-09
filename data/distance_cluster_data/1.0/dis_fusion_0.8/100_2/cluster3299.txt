@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+怡心园 七彩云南店,102.811109,24.989117999999998,,,,,,,,,,,1,1367
+怡心园 七彩云南店,102.811109,24.989317999999997,,,,,,,,,,,1,55659

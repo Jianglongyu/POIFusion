@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县狮山国税局,102.409247,25.534775,,,,,,,,,,,3,29105
+武定县狮山国税局,102.409247,25.534575,,,,,,,,,,,3,58894

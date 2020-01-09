@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中日天真嵩明县周达侨心小学,102.919511,25.291379999999997,,,,,,,,,,,3,31373
+中日天真嵩明县周达侨心小学,102.919511,25.291179999999997,,,,,,,,,,,3,61162

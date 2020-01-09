@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金田农园,102.65635,25.16209,,,,,,,,,,,3,25762
+一心堂昆明沙郎连锁店,102.655587,25.162103,,,,,,,,,,,3,31722

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市晋宁县工商局晋城分局,102.753328,24.701486,,,,,,,,,,,3,29378
+昆明市晋宁县工商局晋城分局,102.753328,24.701286,,,,,,,,,,,3,59167

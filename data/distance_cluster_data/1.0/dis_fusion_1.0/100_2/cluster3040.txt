@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安家桥小学,103.184037,24.97298,,,,,,,,,,,3,32804
+安家桥小学,103.184037,24.97278,,,,,,,,,,,3,62593

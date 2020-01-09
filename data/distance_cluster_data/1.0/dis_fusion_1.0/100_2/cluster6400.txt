@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+集义小学,103.18805,26.089983999999998,,,,,,,,,,,3,31731
+集义小学,103.18805,26.089783999999998,,,,,,,,,,,3,61520

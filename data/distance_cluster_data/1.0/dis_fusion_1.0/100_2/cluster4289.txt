@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池柏悦,102.676921,25.038694,,,,,,,,,,,1,4176
+滇池柏悦,102.676921,25.038894,,,,,,,,,,,1,68397

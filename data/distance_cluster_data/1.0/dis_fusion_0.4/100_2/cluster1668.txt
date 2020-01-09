@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+将进酒楼,102.83649,25.00384,,,,,,,,,,,3,10066
+聚缘餐厅,102.8359,25.00445,,,,,,,,,,,3,15338
+将进酒楼,102.83649,25.00364,,,,,,,,,,,3,17513
+鑫鑫草墩,102.83601999999999,25.00439,,,,,,,,,,,3,22206

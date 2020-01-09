@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+六甲农贸市场,102.72066,24.968215,,,,,,,,,,,1,2625
+六甲农贸市场,102.72066,24.968415,,,,,,,,,,,1,66846

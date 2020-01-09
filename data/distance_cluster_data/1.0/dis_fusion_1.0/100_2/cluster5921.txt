@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黄草坝小学,102.43634200000001,24.427385,,,,,,,,,,,3,30338
+黄草坝小学,102.43634200000001,24.427185,,,,,,,,,,,3,60127

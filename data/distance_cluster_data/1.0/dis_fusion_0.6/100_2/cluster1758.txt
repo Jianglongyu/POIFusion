@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红源牛菜馆,102.62566,24.98125,,,,,,,,,,,3,9536
+红源牛菜馆,102.62566,24.98105,,,,,,,,,,,3,22303
+升庵祠,102.625219,24.9808,,,,,,,,,,,3,40719
+昆明徐霞客小学,102.625012,24.980929999999997,,,,,,,,,,,3,45142

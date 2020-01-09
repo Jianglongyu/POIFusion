@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一道门尚品家宴,102.74494,25.0545,,,,,,,,,,,3,22190
+平安银行ATM,102.74492,25.054570000000002,,,,,,,,,,,3,46273

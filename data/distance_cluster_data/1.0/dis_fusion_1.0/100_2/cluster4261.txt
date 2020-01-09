@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福建闽福盛海鲜酒楼,102.757563,24.995068,,,,,,,,,,,1,4020
+福建闽福盛海鲜酒楼,102.757563,24.995268,,,,,,,,,,,1,68241

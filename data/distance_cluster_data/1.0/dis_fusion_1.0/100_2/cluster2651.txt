@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴盛宾馆,102.78652,25.02016,,,,,,,,,,,3,26603
+加油站,102.78568,25.019614,,,,,,,,,,,3,5046
+加油站,102.78568,25.019414,,,,,,,,,,,3,34835
+兴盛宾馆,102.78652,25.01996,,,,,,,,,,,3,56392

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市儿童医院综合食堂,102.70852,24.98958,,,,,,,,,,,3,8682
+昆明市儿童医院综合食堂,102.70852,24.98938,,,,,,,,,,,3,21449

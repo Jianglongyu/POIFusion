@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普吉园天麻竹笋鸡,102.67014,25.096929999999997,,,,,,,,,,,3,15029
+普吉园天麻竹笋鸡,102.67014,25.096729999999997,,,,,,,,,,,3,27796

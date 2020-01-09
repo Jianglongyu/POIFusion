@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市金碧工商局,102.71299300000001,25.027464000000002,,,,,,,,,,,3,29509
+崇新小学,102.71335400000001,25.02739,,,,,,,,,,,3,32396
+崇新小学,102.71335400000001,25.02719,,,,,,,,,,,3,62185

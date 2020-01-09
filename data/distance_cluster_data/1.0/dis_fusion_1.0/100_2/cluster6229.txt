@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+竹箐口小学,102.995584,25.44787,,,,,,,,,,,3,31206
+竹箐口小学,102.995584,25.447670000000002,,,,,,,,,,,3,60995

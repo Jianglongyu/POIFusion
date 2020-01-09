@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大理白族风味园,102.5683,24.950879999999998,,,,,,,,,,,3,6594
+大理白族风味园,102.5683,24.95068,,,,,,,,,,,3,14041
+中国农业银行ATM,102.56815,24.95081,,,,,,,,,,,3,41059

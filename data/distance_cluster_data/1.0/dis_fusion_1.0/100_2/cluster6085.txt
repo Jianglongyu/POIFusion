@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晓光小学,102.983615,26.066982999999997,,,,,,,,,,,3,30815
+晓光小学,102.983615,26.066782999999997,,,,,,,,,,,3,60604

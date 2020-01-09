@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国南方电网云南电网公司阳光培训中心,102.786466,25.11216,,,,,,,,,,,3,30750
+中国南方电网云南电网公司阳光培训中心,102.786466,25.11196,,,,,,,,,,,3,60539

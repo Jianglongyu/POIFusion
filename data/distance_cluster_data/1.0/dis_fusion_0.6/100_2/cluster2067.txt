@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+国家外汇管理局石林支局,103.270234,24.754922,,,,,,,,,,,3,41695
+银监会云南监管局石林办事处,103.270234,24.754922,,,,,,,,,,,3,41728
+中国人民银行石林县支行,103.270234,24.754922,,,,,,,,,,,3,42822

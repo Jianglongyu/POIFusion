@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新时代广场,102.742429,25.114403,,,,,,,,,,,2,401
+新时代广场,102.742429,25.114603,,,,,,,,,,,2,64622

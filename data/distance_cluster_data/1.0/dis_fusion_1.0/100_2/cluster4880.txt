@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蒲草塘社区卫生所,103.352997,25.781685,,,,,,,,,,,3,23426
+蒲草塘社区卫生所,103.352997,25.781485,,,,,,,,,,,3,53215

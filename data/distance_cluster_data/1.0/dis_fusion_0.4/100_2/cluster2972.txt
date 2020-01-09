@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金莎名发廊康城店,102.66436,24.985,,,,,,,,,,,3,26569
+詹富华口腔诊所,102.664439,24.985103,,,,,,,,,,,3,30911

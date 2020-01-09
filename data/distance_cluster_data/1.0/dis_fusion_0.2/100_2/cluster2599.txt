@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省官渡工业园区,102.873958,25.037381,,,,,,,,,,,1,1006
+昆明国际包装印刷文化城,102.873953,25.037372,,,,,,,,,,,1,3178

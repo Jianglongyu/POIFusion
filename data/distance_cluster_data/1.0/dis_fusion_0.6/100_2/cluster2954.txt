@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+麦禾KTV,102.93368000000001,24.9549,,,,,,,,,,,3,17234
+麦禾KTV,102.93368000000001,24.9547,,,,,,,,,,,3,30001

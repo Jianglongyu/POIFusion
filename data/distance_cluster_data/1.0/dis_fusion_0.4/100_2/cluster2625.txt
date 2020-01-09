@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+御龙春晓城,102.84291999999999,24.93329,,,,,,,,,,,2,454
+御龙春晓城,102.84291999999999,24.93349,,,,,,,,,,,2,42333

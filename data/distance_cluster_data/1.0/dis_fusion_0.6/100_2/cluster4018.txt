@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明官渡农村合作银行螺蛳湾支行,102.77450999999999,24.9365,,,,,,,,,,,3,46352
+中国建设银行ATM,102.77441999999999,24.93696,,,,,,,,,,,3,46371

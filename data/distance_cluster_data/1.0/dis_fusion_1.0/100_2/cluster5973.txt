@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市童心幼儿园,102.513389,24.888901999999998,,,,,,,,,,,3,30479
+安宁市童心幼儿园,102.513389,24.888702,,,,,,,,,,,3,60268

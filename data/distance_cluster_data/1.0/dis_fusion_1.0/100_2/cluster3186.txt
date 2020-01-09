@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良竹山客运站,103.115154,24.570151,,,,,,,,,,,3,32961
+宜良竹山客运站,103.115154,24.569951,,,,,,,,,,,3,62750

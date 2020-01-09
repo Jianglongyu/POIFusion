@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鲁石完小,103.43545999999999,25.526847,,,,,,,,,,,3,32664
+鲁石完小,103.43545999999999,25.526647,,,,,,,,,,,3,62453

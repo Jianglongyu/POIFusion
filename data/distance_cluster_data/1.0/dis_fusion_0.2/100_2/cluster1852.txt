@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂仁德店,103.257512,25.559679,,,,,,,,,,,3,25722
+张峰口腔,103.25743100000001,25.559455,,,,,,,,,,,3,29334
+寻甸县司法局仁德司法所,103.258115,25.55922,,,,,,,,,,,3,32774

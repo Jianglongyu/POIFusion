@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四季春饭店,102.59134,24.97307,,,,,,,,,,,3,10789
+四季春饭店,102.59134,24.97287,,,,,,,,,,,3,18236

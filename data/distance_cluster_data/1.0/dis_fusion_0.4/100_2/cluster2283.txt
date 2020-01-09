@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+健之佳健康药房NO．212,102.723725,25.094339,,,,,,,,,,,3,30728
+云南省农村信用社ATM,102.72377,25.09449,,,,,,,,,,,3,40571
+昆明市五华区农村信用合作联社红云分社,102.72379000000001,25.09458,,,,,,,,,,,3,41406

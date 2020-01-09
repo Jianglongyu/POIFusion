@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+得福加油站,102.765999,25.30506,,,,,,,,,,,3,5120
+得福加油站,102.765999,25.30486,,,,,,,,,,,3,8430

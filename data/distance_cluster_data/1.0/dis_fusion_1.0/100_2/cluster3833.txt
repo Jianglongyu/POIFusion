@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三春烧烤,102.842658,24.931498,,,,,,,,,,,1,2219
+三春烧烤,102.842658,24.931698,,,,,,,,,,,1,66440

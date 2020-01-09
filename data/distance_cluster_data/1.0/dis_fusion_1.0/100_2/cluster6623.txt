@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新世纪机动车驾驶员培训站,102.55800500000001,24.45341,,,,,,,,,,,3,32401
+新世纪机动车驾驶员培训站,102.55800500000001,24.453210000000002,,,,,,,,,,,3,62190

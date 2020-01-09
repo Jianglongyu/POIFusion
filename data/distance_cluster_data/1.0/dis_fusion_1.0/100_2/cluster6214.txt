@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+十四冶建设集团技工学校,103.030663,25.243423999999997,,,,,,,,,,,3,31173
+十四冶建设集团技工学校,103.030663,25.243223999999998,,,,,,,,,,,3,60962

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+国家开发银行云南分行,102.67969000000001,24.998160000000002,,,,,,,,,,,3,37058
+农村信用社周家分社,102.67958,24.9974,,,,,,,,,,,3,37172

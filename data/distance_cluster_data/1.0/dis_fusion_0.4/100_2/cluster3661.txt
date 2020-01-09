@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+醉仙居私房菜,103.04652,25.28721,,,,,,,,,,,3,5212
+醉仙居私房菜,103.04652,25.287010000000002,,,,,,,,,,,3,12659

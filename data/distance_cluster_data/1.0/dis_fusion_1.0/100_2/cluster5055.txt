@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+县街惠欣药店,102.416102,24.853327,,,,,,,,,,,3,24956
+县街惠欣药店,102.416102,24.853127,,,,,,,,,,,3,54745

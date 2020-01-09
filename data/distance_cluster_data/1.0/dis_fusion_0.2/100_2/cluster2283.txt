@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明园林绿化局,102.833712,24.878292000000002,,,,,,,,,,,3,32758
+昆明市交通运输局,102.833712,24.878292000000002,,,,,,,,,,,3,32773
+昆明市环境保护执法监督局,102.833712,24.878292000000002,,,,,,,,,,,3,33149

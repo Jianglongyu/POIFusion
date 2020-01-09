@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+文明平价大药房,102.58449300000001,25.640767,,,,,,,,,,,3,31625
+翠华金国药店,102.584983,25.640685,,,,,,,,,,,3,33059

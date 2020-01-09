@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川公路管理段姑海公路管理所,103.231626,25.993084,,,,,,,,,,,3,29634
+东川公路管理段姑海公路管理所,103.231626,25.992884,,,,,,,,,,,3,59423

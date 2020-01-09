@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+健之佳药妆店,102.503148,24.889738,,,,,,,,,,,3,26052
+健之佳药妆店,102.503148,24.889538,,,,,,,,,,,3,55841

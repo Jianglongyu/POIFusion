@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县绍萍诊所,103.257189,25.528741,,,,,,,,,,,3,23297
+寻甸县绍萍诊所,103.257189,25.528541,,,,,,,,,,,3,43157

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+沿途,102.71871,25.07835,,,,,,,,,,,3,33386
+唯枫酒吧,102.7192,25.07861,,,,,,,,,,,3,33387

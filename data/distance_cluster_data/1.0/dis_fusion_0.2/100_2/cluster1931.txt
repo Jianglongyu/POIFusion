@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县中小学教师继续教育中心,103.14671,24.91347,,,,,,,,,,,3,34959
+财神殿,103.147203,24.914501,,,,,,,,,,,3,31394
+观音阁,103.147189,24.914108,,,,,,,,,,,3,31659

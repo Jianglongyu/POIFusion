@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海伦中心,102.672674,25.073291,,,,,,,,,,,2,131
+熊熊清汤羊肉馆,102.67209,25.07294,,,,,,,,,,,3,12004
+熊熊清汤羊肉馆,102.67209,25.07274,,,,,,,,,,,3,41793
+海伦中心,102.672674,25.073491,,,,,,,,,,,2,64352

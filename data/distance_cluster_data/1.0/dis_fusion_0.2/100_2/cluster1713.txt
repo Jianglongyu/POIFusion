@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蓝程宾馆,102.78236,24.97723,,,,,,,,,,,3,30951
+伊盛园,102.78225,24.97815,,,,,,,,,,,3,15814
+凯川诊所,102.782044,24.977933,,,,,,,,,,,3,25890
+旗红宾馆,102.7827,24.977510000000002,,,,,,,,,,,3,29837

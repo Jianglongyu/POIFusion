@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+春玲诊所,102.77293900000001,24.972751,,,,,,,,,,,3,25325
+春玲诊所,102.77293900000001,24.972551,,,,,,,,,,,3,55114

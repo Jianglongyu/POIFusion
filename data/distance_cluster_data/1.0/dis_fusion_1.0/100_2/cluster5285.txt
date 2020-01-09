@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+彝家全羊牛火锅,102.69825,25.07526,,,,,,,,,,,3,11056
+彝家全羊牛火锅,102.69825,25.07506,,,,,,,,,,,3,40845

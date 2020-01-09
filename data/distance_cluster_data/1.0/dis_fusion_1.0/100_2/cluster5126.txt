@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乌蒙卫生院,102.790624,26.025026,,,,,,,,,,,3,25474
+乌蒙卫生院,102.790624,26.024826,,,,,,,,,,,3,55263

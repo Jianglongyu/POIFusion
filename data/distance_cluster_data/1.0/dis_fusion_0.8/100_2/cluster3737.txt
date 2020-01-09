@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明巫家坝机场头等舱休息室,102.752296,24.998748000000003,,,,,,,,,,,1,2876
+昆明巫家坝机场头等舱休息室,102.752296,24.998948000000002,,,,,,,,,,,1,57168

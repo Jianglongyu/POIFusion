@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+第七街区,102.866725,24.865003,,,,,,,,,,,2,70
+第七街区,102.866725,24.865203,,,,,,,,,,,2,37812

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新亚洲体育场,102.77008000000001,24.951118,,,,,,,,,,,1,1554
+新亚洲体育场,102.77008000000001,24.951318,,,,,,,,,,,1,55846

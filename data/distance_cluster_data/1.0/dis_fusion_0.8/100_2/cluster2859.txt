@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+俊发蓝湖俊园,102.844881,24.921481,,,,,,,,,,,2,223
+俊发蓝湖俊园,102.844881,24.921681,,,,,,,,,,,2,54515

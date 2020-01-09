@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+溪麓南郡,102.779049,25.101889,,,,,,,,,,,1,1704
+溪麓南郡,102.779049,25.102089,,,,,,,,,,,1,48903

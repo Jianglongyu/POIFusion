@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世界园艺博览园,102.75559229999999,25.07040977,,,,,,,,,,,1,2106
+世界园艺博览园,102.75559229999999,25.07060977,,,,,,,,,,,1,56398

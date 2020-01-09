@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+川微饭店,102.7011,25.00565,,,,,,,,,,,3,12416
+八方缘农家大排档NO．3,102.70103,25.00561,,,,,,,,,,,3,16897
+中国邮政储蓄银行南华路支行,102.70018,25.00548,,,,,,,,,,,3,37430

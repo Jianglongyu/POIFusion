@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国农业银行ATM,102.71521,25.02008,,,,,,,,,,,3,33555
+中国农业银行ATM,102.71521,25.01988,,,,,,,,,,,3,63344

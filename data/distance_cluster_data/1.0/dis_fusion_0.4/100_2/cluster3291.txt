@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+成志加油站,102.791446,24.790608,,,,,,,,,,,3,4657
+成志加油站,102.791446,24.790408,,,,,,,,,,,3,12104

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+美国威爵士高级润滑油换油中心,102.871022,25.045085999999998,,,,,,,,,,,1,2529
+昆明市官渡工业园区管理委员会,102.870579,25.044813,,,,,,,,,,,1,3012
+阿依村公交站,102.871886,25.045419,,,,,,,,,,,1,4561

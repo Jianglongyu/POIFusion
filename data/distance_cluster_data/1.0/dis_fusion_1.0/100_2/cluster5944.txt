@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆钢第一中学西门,102.50646400000001,24.888285,,,,,,,,,,,3,30423
+昆钢第一中学西门,102.50646400000001,24.888085,,,,,,,,,,,3,60212

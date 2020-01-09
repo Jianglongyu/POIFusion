@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明马金铺中成村镇银行,102.81752,24.77195,,,,,,,,,,,3,34383
+昆明马金铺中成村镇银行,102.81752,24.77175,,,,,,,,,,,3,64172

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市东川区拖布卡镇委,103.04400799999999,26.371334,,,,,,,,,,,3,29058
+昆明市东川区拖布卡镇委,103.04400799999999,26.371134,,,,,,,,,,,3,58847

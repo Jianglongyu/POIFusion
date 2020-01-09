@@ -78,16 +78,16 @@ thresVal2 = 0.8
 INDEXTAG = 14
 
 rateT = [0.2, 0.4, 0.6, 0.8, 1.0]
-sample_rate = 1.0
+sample_rate = 0.7
 import csv
-csv_path = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/' + str(sample_rate) + '/bw_map/data_excel/' + 'mnn_data.csv'
+csv_path = 'data/fusion_data/' + str(sample_rate) + '/bw_map/data_excel/' + 'mnn_data.csv'
 with open(csv_path, 'w', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
-    csv_writer.writerow(['重合度', 'precision', 'recall', 'f1', 'time'])
+    csv_writer.writerow(['overlapping degree', 'precision', 'recall', 'f1', 'time'])
     
     for rate in rateT:
         #首先读取各自数据集
-        path = "C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/" + str(sample_rate) + "/bw_map/dealData/"
+        path = "data/fusion_data/" + str(sample_rate) + "/bw_map/dealData/"
         bwDataPath = path + "ve_" + str(rate) + "bw_" + str(sample_rate) + ".txt"
         mapDataPath = path + "ve_" + str(rate) + "mappoi_" + str(sample_rate)  + ".txt"
 
@@ -230,12 +230,9 @@ with open(csv_path, 'w', newline='') as csvfile:
             inx1 = getIndexByValue(it1,oriBs).split("\r")[0]
             inx2 = getIndexByValue(it2,oriWs).split("\r")[0]
             strT = inx1 + "," + inx2
-            # strT = inx2 + "," + inx1
             finalRes.append(strT)
 
         pos = []
-        # fp = open("\\\Mac\\Home\\Desktop\\0108_text_cluster\\data\\data0129\\"+ str(rate) + "positiveInx" +".txt",'r')
-        # poslines = fp.readlines()
         for eachl in poslines:
             eachl = eachl.decode('utf-8')
             eachl = eachl.split(",")

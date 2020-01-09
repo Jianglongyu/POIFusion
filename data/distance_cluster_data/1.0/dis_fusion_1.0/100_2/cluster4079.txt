@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明供电段昆南供电所,102.828059,24.928422,,,,,,,,,,,1,3186
+昆明供电段昆南供电所,102.828059,24.928622,,,,,,,,,,,1,67407

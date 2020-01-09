@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧城镇万松小学,102.288147,25.278275,,,,,,,,,,,3,31279
+碧城镇万松小学,102.288147,25.278075,,,,,,,,,,,3,61068

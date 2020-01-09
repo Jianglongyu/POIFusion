@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天天来客生态园,102.73101,25.17165,,,,,,,,,,,3,18924
+天天来客生态园,102.73101,25.17145,,,,,,,,,,,3,48713

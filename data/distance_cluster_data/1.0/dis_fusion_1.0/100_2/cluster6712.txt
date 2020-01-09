@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡区六甲第一小学,102.712823,24.964448,,,,,,,,,,,3,32626
+官渡区六甲第一小学,102.712823,24.964248,,,,,,,,,,,3,62415

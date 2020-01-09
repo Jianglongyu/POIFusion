@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+迤堵小学,103.52174699999999,25.256922,,,,,,,,,,,3,32329
+迤堵小学,103.52174699999999,25.256722,,,,,,,,,,,3,62118

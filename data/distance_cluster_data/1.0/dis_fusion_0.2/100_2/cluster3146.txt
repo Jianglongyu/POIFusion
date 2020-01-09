@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白虎山加油站,103.274241,24.769558,,,,,,,,,,,3,4719
+白虎山加油站,103.274241,24.769358,,,,,,,,,,,3,8029

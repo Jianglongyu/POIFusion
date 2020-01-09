@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+易隆评价药房,103.26716400000001,25.370457000000002,,,,,,,,,,,3,24984
+易隆评价药房,103.26716400000001,25.370257000000002,,,,,,,,,,,3,54773

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂嵩明彩云路连锁店,103.037186,25.3337,,,,,,,,,,,3,24477
+一心堂嵩明彩云路连锁店,103.037186,25.3335,,,,,,,,,,,3,54266

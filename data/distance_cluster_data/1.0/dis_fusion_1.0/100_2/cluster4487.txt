@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙石油,103.489269,25.479571,,,,,,,,,,,3,4782
+马龙石油,103.489269,25.479371,,,,,,,,,,,3,34571

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县卫生监督监测防病中心,102.592097,24.675047,,,,,,,,,,,3,23516
+晋宁县卫生监督监测防病中心,102.592097,24.674847,,,,,,,,,,,3,53305

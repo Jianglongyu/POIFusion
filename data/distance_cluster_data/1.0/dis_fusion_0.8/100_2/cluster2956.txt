@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+野鸭湖,102.86667299999999,25.136288,,,,,,,,,,,2,430
+野鸭湖,102.86667299999999,25.136488,,,,,,,,,,,2,54722

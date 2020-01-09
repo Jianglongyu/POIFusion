@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+QQ农场,102.86535,25.14794,,,,,,,,,,,3,17777
+QQ农场,102.86535,25.14774,,,,,,,,,,,3,47566

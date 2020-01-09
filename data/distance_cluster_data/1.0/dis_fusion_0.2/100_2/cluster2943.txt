@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仁德镇天生村卫生所,103.235262,25.626839999999998,,,,,,,,,,,3,27894
+天生完小,103.235262,25.626839999999998,,,,,,,,,,,3,33974

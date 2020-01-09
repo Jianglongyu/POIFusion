@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县大庄乡卫生院,103.462502,25.208855,,,,,,,,,,,3,23306
+马龙县大庄乡卫生院,103.462502,25.208655,,,,,,,,,,,3,53095

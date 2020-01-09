@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南滇池顺峰大酒店,102.670467,24.96558,,,,,,,,,,,1,1163
+金海岸酒吧,102.669894,24.965526999999998,,,,,,,,,,,1,3468
+云南滇池顺峰大酒店,102.670467,24.96578,,,,,,,,,,,1,48362

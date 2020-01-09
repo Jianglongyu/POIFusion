@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小百户加油站,103.573643,25.044643999999998,,,,,,,,,,,3,5105
+小百户加油站,103.573643,25.044444,,,,,,,,,,,3,8415

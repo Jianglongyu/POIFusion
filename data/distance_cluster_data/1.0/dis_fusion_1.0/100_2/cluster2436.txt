@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+聚康药房,103.357561,24.861342,,,,,,,,,,,3,22833
+石林诚心药店,103.357502,24.861307,,,,,,,,,,,3,24441
+聚康药房,103.357561,24.861142,,,,,,,,,,,3,52622
+石林诚心药店,103.357502,24.861107,,,,,,,,,,,3,54230

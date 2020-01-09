@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+文波美容美发,102.777,25.00395,,,,,,,,,,,3,20757
+文波美容美发,102.777,25.00375,,,,,,,,,,,3,40617

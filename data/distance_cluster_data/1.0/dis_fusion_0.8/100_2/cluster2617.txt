@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸五洲医院,103.257987,25.549336999999998,,,,,,,,,,,3,23128
+寻甸五洲医院,103.257987,25.549136999999998,,,,,,,,,,,3,42988
+寻甸回族彝族自治县住房和城乡规划建设局,103.257829,25.548819,,,,,,,,,,,3,49186

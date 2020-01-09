@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南龙湖园林建设工程有限公司苗圃基地,102.857816,25.036564000000002,,,,,,,,,,,1,1083
+金马村公交站,102.857117,25.036348999999998,,,,,,,,,,,1,3447

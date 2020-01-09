@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+绿洲百姓大药房,103.134159,25.273539000000003,,,,,,,,,,,3,38208
+一心堂嵩明四营连锁店,103.13352900000001,25.273159,,,,,,,,,,,3,38551
+昆明市工商局牛栏江工商所,103.134601,25.274156,,,,,,,,,,,3,42712

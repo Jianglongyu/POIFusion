@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂嵩明白邑连锁店,102.87949,25.292954,,,,,,,,,,,3,45829
+嵩明县滇源镇财政所,102.88001,25.293085,,,,,,,,,,,3,49800
+白邑中心完小,102.879329,25.293308,,,,,,,,,,,3,50050

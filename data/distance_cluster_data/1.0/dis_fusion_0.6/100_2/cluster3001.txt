@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省昆明市官渡区,102.759491,25.037259,,,,,,,,,,,1,979
+云南省昆明市官渡区,102.759491,25.037459,,,,,,,,,,,1,48178

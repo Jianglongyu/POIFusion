@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+顾宅香,102.87539,25.03343,,,,,,,,,,,3,14101
+山脚村幼儿园,102.87631,25.033746,,,,,,,,,,,3,35844

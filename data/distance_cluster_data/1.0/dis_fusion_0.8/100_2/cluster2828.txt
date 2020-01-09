@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华飞名盛世界,102.841966,24.909115,,,,,,,,,,,2,159
+华飞名盛世界,102.841966,24.909315,,,,,,,,,,,2,54451

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县塘子镇中心学校,103.262383,25.44356,,,,,,,,,,,3,30744
+寻甸县塘子镇中心学校,103.262383,25.443360000000002,,,,,,,,,,,3,60533

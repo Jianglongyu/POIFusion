@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北仓园丁小区,102.7466004,25.10793646,,,,,,,,,,,2,21
+北仓园丁小区,102.7466004,25.10813646,,,,,,,,,,,2,41900

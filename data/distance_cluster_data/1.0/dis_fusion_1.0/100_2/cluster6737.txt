@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小金花幼儿园,102.655576,25.158704,,,,,,,,,,,3,32682
+小金花幼儿园,102.655576,25.158504,,,,,,,,,,,3,62471

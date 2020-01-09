@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂金所店,103.191698,25.541807000000002,,,,,,,,,,,3,28451
+寻甸益民药店,103.191148,25.540945999999998,,,,,,,,,,,3,26949
+金所康翔大药房,103.191211,25.541165,,,,,,,,,,,3,29490

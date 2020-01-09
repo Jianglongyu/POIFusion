@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南路建集团宏程路桥工程有限公司,102.820784,24.932125,,,,,,,,,,,1,1081
+云南路建集团宏程路桥工程有限公司,102.820784,24.932325,,,,,,,,,,,1,48280

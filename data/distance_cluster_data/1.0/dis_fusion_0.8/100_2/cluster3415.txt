@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西南海滇池宜城,102.692761,24.984754000000002,,,,,,,,,,,1,1734
+西南海滇池宜城,102.692761,24.984954000000002,,,,,,,,,,,1,56026

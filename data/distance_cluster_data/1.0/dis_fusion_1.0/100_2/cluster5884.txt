@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市实验学校,102.463039,24.907829,,,,,,,,,,,3,30260
+安宁市实验学校,102.463039,24.907629,,,,,,,,,,,3,60049

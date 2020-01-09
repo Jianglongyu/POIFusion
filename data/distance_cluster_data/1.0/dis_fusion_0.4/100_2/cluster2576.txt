@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双城际商务中心,102.784667,24.951334,,,,,,,,,,,2,349
+双城际商务中心,102.784667,24.951534,,,,,,,,,,,2,42228

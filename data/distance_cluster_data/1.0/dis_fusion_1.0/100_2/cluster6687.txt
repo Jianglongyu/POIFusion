@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县昆阳第七小学,102.574387,24.592312,,,,,,,,,,,3,32583
+晋宁县昆阳第七小学,102.574387,24.592112,,,,,,,,,,,3,62372

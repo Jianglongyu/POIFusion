@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红运门诊,102.866065,25.092436,,,,,,,,,,,3,23231
+红运门诊,102.866065,25.092236,,,,,,,,,,,3,53020

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广聚园农庄,102.62394,24.94136,,,,,,,,,,,3,19995
+广聚园农庄,102.62394,24.94116,,,,,,,,,,,3,49784

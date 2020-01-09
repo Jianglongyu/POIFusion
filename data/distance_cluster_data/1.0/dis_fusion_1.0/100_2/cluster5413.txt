@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+地藏寺,103.056895,25.347916,,,,,,,,,,,3,28138
+地藏寺,103.056895,25.347716000000002,,,,,,,,,,,3,57927

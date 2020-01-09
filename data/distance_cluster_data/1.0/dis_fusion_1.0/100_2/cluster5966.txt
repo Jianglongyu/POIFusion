@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+七甸小学,102.941197,24.952271,,,,,,,,,,,3,30464
+七甸小学,102.941197,24.952071,,,,,,,,,,,3,60253

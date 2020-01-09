@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鱼竹轩,102.64778000000001,24.80498,,,,,,,,,,,3,16485
+怪味仙,102.64883,24.80501,,,,,,,,,,,3,14027
+宝尊饭店,102.64871,24.80477,,,,,,,,,,,3,19081

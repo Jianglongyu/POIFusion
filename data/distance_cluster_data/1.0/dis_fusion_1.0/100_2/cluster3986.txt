@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明同仁医院(滇池印象国际花园西北),102.70308,24.982758,,,,,,,,,,,1,2887
+昆明同仁医院(滇池印象国际花园西北),102.70308,24.982958,,,,,,,,,,,1,67108

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雨露寺,102.813068,24.923191,,,,,,,,,,,1,1263
+雨露寺,102.813068,24.923391,,,,,,,,,,,1,65484

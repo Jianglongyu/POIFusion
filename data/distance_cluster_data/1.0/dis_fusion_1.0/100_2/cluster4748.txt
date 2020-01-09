@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+恒源农庄,102.93167,24.90077,,,,,,,,,,,3,5213
+恒源农庄,102.93167,24.900570000000002,,,,,,,,,,,3,35002

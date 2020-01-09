@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧谷镇中心卫生院,103.167534,26.114027,,,,,,,,,,,3,25835
+碧谷镇中心卫生院,103.167534,26.113827,,,,,,,,,,,3,55624

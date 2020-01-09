@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县草甸卫生服务中心,103.047351,24.86597,,,,,,,,,,,3,23561
+宜良县草甸卫生服务中心,103.047351,24.86577,,,,,,,,,,,3,43421

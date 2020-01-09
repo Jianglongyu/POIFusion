@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+不醉不归,102.63362,24.96904,,,,,,,,,,,3,15053
+不醉不归,102.63362,24.96884,,,,,,,,,,,3,34913
+碧鸡镇龙门卫生所,102.63386,24.969151,,,,,,,,,,,3,45975
+聂家小院,102.63409,24.96894,,,,,,,,,,,3,46287

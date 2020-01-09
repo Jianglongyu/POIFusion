@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省民族中等专业学校西山校区,102.671981,25.027057,,,,,,,,,,,3,32439
+云南省民族中等专业学校西山校区,102.671981,25.026857,,,,,,,,,,,3,62228

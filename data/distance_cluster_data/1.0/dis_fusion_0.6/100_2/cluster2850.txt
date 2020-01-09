@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+聂耳墓,102.640183,24.964331,,,,,,,,,,,2,596
+聂耳墓,102.640183,24.964531,,,,,,,,,,,2,47795

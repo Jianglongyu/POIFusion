@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝彝族苗族自治县公安局屏山派出所巡警中队,102.468779,25.547935,,,,,,,,,,,3,29759
+禄劝彝族苗族自治县公安局屏山派出所巡警中队,102.468779,25.547735,,,,,,,,,,,3,59548

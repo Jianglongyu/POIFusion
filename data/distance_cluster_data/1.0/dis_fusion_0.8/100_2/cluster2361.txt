@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雅诗兰黛金格购物中心店,102.731768,25.055681,,,,,,,,,,,1,1459
+MANGO,102.731768,25.055681,,,,,,,,,,,1,4591
+雅诗兰黛金格购物中心店,102.731768,25.055881,,,,,,,,,,,1,55751

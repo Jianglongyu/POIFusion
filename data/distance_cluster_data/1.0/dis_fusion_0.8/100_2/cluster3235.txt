@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+文化广场,102.74620999999999,25.12906,,,,,,,,,,,3,17498
+文化广场,102.74620999999999,25.12886,,,,,,,,,,,3,37358

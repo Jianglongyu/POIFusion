@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四川胖姐．盐帮菜,102.72108,25.06806,,,,,,,,,,,3,7193
+嘉伦酒店,102.72103,25.06795,,,,,,,,,,,3,27126
+四川胖姐．盐帮菜,102.72108,25.06786,,,,,,,,,,,3,36982

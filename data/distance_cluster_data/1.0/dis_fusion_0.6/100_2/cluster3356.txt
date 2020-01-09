@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双凤农家园,102.73333000000001,24.99299,,,,,,,,,,,3,10932
+双凤农家园,102.73333000000001,24.99279,,,,,,,,,,,3,23699

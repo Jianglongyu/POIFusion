@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南师大文理学院杨林校区,102.996462,25.245184,,,,,,,,,,,3,31392
+云南师大文理学院杨林校区,102.996462,25.244984,,,,,,,,,,,3,61181

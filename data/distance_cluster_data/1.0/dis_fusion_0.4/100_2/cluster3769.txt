@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市委员会党校,102.48110600000001,24.925514,,,,,,,,,,,3,38876
+安宁市政法干部学校,102.48110600000001,24.925514,,,,,,,,,,,3,39606

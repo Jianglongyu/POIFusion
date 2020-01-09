@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康郎农家,102.89949,25.09841,,,,,,,,,,,3,7114
+康郎农家,102.89949,25.09821,,,,,,,,,,,3,26974

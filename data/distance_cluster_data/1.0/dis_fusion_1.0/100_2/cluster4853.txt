@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+乌蒙新活堂药房,102.79151800000001,26.02219,,,,,,,,,,,3,23221
+乌蒙新活堂药房,102.79151800000001,26.02199,,,,,,,,,,,3,53010

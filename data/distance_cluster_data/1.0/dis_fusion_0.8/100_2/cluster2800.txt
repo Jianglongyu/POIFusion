@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+公园1903,102.68379,24.989382,,,,,,,,,,,2,108
+公园1903,102.68379,24.989582,,,,,,,,,,,2,54400

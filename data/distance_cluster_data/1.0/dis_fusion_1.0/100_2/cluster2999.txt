@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市公安局呈贡分局龙街派出所,102.781876,24.899989,,,,,,,,,,,3,29617
+花都富侨足疗,102.78138,24.899179999999998,,,,,,,,,,,3,20647
+昆明市公安局呈贡分局龙街派出所,102.781876,24.899789000000002,,,,,,,,,,,3,59406

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂龙源鎏金小区连锁店,102.753777,24.704611,,,,,,,,,,,3,36961
+远志健康药房,102.753496,24.704558,,,,,,,,,,,3,37965
+趣趣多幼儿园,102.75303000000001,24.704263,,,,,,,,,,,3,44728

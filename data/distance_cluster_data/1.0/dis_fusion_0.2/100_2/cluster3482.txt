@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙珠饭店,102.80582,24.86091,,,,,,,,,,,3,13524
+龙岭园,102.80581,24.861079999999998,,,,,,,,,,,3,23175

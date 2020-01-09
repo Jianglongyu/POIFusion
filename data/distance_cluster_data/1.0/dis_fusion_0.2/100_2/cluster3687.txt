@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县市政管理局,103.140857,24.919734,,,,,,,,,,,3,32384
+乡音葫芦丝培训中心,103.14125200000001,24.919054,,,,,,,,,,,3,35517

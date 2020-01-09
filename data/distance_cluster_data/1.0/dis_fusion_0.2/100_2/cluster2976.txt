@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+陈云富诊所,103.273934,24.76001,,,,,,,,,,,3,28175
+石林县地税局稽查局,103.27449200000001,24.760638,,,,,,,,,,,3,32553

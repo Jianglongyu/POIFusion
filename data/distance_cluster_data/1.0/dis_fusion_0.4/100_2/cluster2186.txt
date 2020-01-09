@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县地税局五分局,103.188027,24.971139,,,,,,,,,,,3,37350
+宜良县工商局古城工商所,103.188061,24.971082,,,,,,,,,,,3,37470
+古城一中,103.18860699999999,24.970603,,,,,,,,,,,3,40167

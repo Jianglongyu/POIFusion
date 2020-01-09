@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明海丽宾雅度假酒店,102.72511800000001,24.978817000000003,,,,,,,,,,,1,3169
+红河乡村旱鸭邦盛店,102.72583,24.97835,,,,,,,,,,,3,16707

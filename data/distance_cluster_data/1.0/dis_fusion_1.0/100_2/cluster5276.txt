@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云瑞宾馆,103.00726999999999,25.13487,,,,,,,,,,,3,27309
+云瑞宾馆,103.00726999999999,25.13467,,,,,,,,,,,3,57098

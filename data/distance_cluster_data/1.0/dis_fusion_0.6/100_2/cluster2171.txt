@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禾家山都市农庄,102.82509,25.086560000000002,,,,,,,,,,,3,34659
+顺发农家乐,102.82455,25.08755,,,,,,,,,,,3,31569
+品彩山鸡园,102.82481,25.08727,,,,,,,,,,,3,33257

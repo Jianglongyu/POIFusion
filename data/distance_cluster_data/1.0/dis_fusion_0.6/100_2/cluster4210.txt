@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+幸福园生态农庄,102.68423,25.13457,,,,,,,,,,,3,15742
+幸福园生态农庄,102.68423,25.13437,,,,,,,,,,,3,28509

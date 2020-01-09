@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+基地羊世界,102.703315,25.076916,,,,,,,,,,,1,3596
+基地羊世界,102.703315,25.077116,,,,,,,,,,,1,67817

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+翠峰森林休闲公园,102.62125,25.013379999999998,,,,,,,,,,,3,20514
+翠峰森林休闲公园,102.62125,25.01318,,,,,,,,,,,3,50303

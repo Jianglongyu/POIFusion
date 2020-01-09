@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+会乡缘农家菜,102.76365,25.13411,,,,,,,,,,,3,20100
+盘龙林康诊所,102.763705,25.133876,,,,,,,,,,,3,32608

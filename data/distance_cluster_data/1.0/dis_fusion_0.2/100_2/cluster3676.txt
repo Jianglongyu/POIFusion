@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县森林公安局,103.049174,25.344556,,,,,,,,,,,3,32333
+嵩明县政务服务中心,103.0494,25.344978,,,,,,,,,,,3,32950

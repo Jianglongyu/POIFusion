@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国民生银行ATM,102.68305,24.99381,,,,,,,,,,,3,33610
+红星国际广场7幢,102.684,24.9939,,,,,,,,,,,3,58208
+中国民生银行ATM,102.68305,24.99361,,,,,,,,,,,3,63399

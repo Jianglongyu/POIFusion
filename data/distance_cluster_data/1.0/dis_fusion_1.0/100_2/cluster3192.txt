@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧鸡关站,102.620109,24.994168,,,,,,,,,,,3,32967
+碧鸡关站,102.620109,24.993968,,,,,,,,,,,3,62756

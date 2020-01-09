@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+正宗自贡川菜馆,102.71072,25.00171,,,,,,,,,,,3,10142
+正宗自贡川菜馆,102.71072,25.00151,,,,,,,,,,,3,30002

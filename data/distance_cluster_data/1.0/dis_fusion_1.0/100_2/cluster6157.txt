@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市百灵鸟艺术幼儿园,102.84885899999999,24.993271,,,,,,,,,,,3,31005
+昆明市百灵鸟艺术幼儿园,102.84885899999999,24.993071,,,,,,,,,,,3,60794

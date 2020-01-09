@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸医药公司第九门市部,103.260623,25.559189,,,,,,,,,,,3,23967
+寻甸医药公司第九门市部,103.260623,25.558989,,,,,,,,,,,3,53756
+一心堂寻甸凤梧路连锁店,103.26050699999999,25.560064999999998,,,,,,,,,,,3,55112

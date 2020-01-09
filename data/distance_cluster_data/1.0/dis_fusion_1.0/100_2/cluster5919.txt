@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市第二中学,102.356449,24.662854,,,,,,,,,,,3,30336
+安宁市第二中学,102.356449,24.662654,,,,,,,,,,,3,60125

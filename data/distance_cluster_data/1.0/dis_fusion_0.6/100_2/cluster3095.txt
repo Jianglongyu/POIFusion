@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝彝族苗族自治县公安局茂山派出所,102.499505,25.663756,,,,,,,,,,,3,42314
+禄劝县茂山镇委,102.499505,25.663756,,,,,,,,,,,3,42733

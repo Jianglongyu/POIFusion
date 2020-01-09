@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+李阳疯狂英语宜良培训学校,103.14925699999999,24.920855,,,,,,,,,,,3,32292
+李阳疯狂英语宜良培训学校,103.14925699999999,24.920655,,,,,,,,,,,3,62081

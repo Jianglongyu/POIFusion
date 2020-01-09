@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明醉美客栈,102.65219,24.982229999999998,,,,,,,,,,,3,26296
+昆明醉美客栈,102.65219,24.982029999999998,,,,,,,,,,,3,56085

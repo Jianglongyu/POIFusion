@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+田野农家园,102.65387,24.99778,,,,,,,,,,,3,19636
+大鱼庄农家,102.65337,24.99814,,,,,,,,,,,3,20390
+田野农家园,102.65387,24.99758,,,,,,,,,,,3,49425
+大鱼庄农家,102.65337,24.99794,,,,,,,,,,,3,50179

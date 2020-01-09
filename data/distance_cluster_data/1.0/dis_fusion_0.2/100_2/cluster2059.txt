@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+娱生亭山庄,102.63095,25.03764,,,,,,,,,,,3,20244
+同欢喜休闲园,102.63124,25.037010000000002,,,,,,,,,,,3,21209
+红金门山庄,102.63172,25.0375,,,,,,,,,,,3,21642

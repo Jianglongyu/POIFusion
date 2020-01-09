@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县向日葵幼儿园,103.021727,25.293073,,,,,,,,,,,3,32632
+嵩明县向日葵幼儿园,103.021727,25.292873,,,,,,,,,,,3,62421

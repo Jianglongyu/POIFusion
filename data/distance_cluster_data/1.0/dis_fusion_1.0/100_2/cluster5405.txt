@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+护国西华禅寺,102.440892,25.285265,,,,,,,,,,,3,28127
+护国西华禅寺,102.440892,25.285065,,,,,,,,,,,3,57916

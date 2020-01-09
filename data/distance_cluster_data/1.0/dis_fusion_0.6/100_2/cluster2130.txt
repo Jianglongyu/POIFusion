@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市公安局盘龙分局双龙派出所,102.85177900000001,25.113156,,,,,,,,,,,3,42345
+盘龙增梅诊所,102.85101800000001,25.112219,,,,,,,,,,,3,38827
+农村信用社双龙信用社,102.85166,25.1129,,,,,,,,,,,3,46266

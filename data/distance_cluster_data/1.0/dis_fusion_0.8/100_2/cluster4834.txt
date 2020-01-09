@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县公安局,102.40212,25.531479,,,,,,,,,,,3,48844
+中国人民银行武定支行,102.40281800000001,25.530929,,,,,,,,,,,3,49148

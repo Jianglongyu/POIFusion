@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山风景区,102.681742,25.088120999999997,,,,,,,,,,,1,1726
+西山风景区,102.681742,25.088320999999997,,,,,,,,,,,1,56018

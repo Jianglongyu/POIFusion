@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+益健医药店,102.504416,25.490320999999998,,,,,,,,,,,3,36425
+屏山社区卫生服务中心崇德工业园区服务站,102.50434200000001,25.491084,,,,,,,,,,,3,37740

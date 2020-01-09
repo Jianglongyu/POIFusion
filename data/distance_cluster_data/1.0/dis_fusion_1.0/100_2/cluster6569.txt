@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马金铺乡化城中心小学,102.80534499999999,24.787577,,,,,,,,,,,3,32257
+马金铺乡化城中心小学,102.80534499999999,24.787377,,,,,,,,,,,3,62046

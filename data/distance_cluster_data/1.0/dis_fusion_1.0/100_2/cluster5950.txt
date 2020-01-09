@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南新东方烹饪学校,102.712671,25.099679000000002,,,,,,,,,,,3,30435
+云南新东方烹饪学校,102.712671,25.099479000000002,,,,,,,,,,,3,60224

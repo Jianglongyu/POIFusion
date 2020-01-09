@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明电务段基地,102.784369,25.006957,,,,,,,,,,,3,29837
+昆明电务段基地,102.784369,25.006757,,,,,,,,,,,3,59626

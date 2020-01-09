@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三保完小,103.258634,25.701807,,,,,,,,,,,3,30304
+三保完小,103.258634,25.701607,,,,,,,,,,,3,60093

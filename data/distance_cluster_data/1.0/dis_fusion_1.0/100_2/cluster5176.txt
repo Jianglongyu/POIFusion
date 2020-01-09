@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+上蒜福康源大药房,102.708545,24.679779999999997,,,,,,,,,,,3,25868
+上蒜福康源大药房,102.708545,24.679579999999998,,,,,,,,,,,3,55657

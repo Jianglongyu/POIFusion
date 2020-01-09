@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+得胜客房部,102.77713,24.992549999999998,,,,,,,,,,,3,27008
+得胜客房部,102.77713,24.99235,,,,,,,,,,,3,56797

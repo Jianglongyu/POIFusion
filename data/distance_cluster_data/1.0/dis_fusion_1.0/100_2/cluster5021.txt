@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂寻甸广场连锁店,103.25751600000001,25.553368,,,,,,,,,,,3,24618
+一心堂寻甸广场连锁店,103.25751600000001,25.553168,,,,,,,,,,,3,54407

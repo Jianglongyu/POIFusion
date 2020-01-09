@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县东村卫生院,102.672999,25.518076,,,,,,,,,,,3,28220
+东村乡社区卫生服务中心,102.672999,25.518076,,,,,,,,,,,3,29032

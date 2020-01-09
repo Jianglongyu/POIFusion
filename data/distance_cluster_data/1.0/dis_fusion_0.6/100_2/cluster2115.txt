@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县政府行政审批服务中心公安分中心,103.260028,25.556525,,,,,,,,,,,3,42134
+寻甸县烟草专卖局,103.260245,25.557095,,,,,,,,,,,3,42504
+仁德小学,103.259831,25.557285999999998,,,,,,,,,,,3,44440

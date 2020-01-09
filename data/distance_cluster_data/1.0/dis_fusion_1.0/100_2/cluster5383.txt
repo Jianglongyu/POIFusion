@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寿福寺,103.190773,26.098288,,,,,,,,,,,3,28020
+寿福寺,103.190773,26.098088,,,,,,,,,,,3,57809

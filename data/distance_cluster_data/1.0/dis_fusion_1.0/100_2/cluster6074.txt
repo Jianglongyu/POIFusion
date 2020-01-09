@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+和平幼儿园,103.258818,25.49725,,,,,,,,,,,3,30782
+和平幼儿园,103.258818,25.49705,,,,,,,,,,,3,60571

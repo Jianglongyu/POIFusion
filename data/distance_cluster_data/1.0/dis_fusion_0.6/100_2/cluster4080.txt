@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+品香源饭店,102.68552,25.136499999999998,,,,,,,,,,,3,14115
+品香源饭店,102.68552,25.1363,,,,,,,,,,,3,26882

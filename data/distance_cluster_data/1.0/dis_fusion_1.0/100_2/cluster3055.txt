@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+羊毛冲完小,103.351262,25.737426999999997,,,,,,,,,,,3,32824
+羊毛冲完小,103.351262,25.737226999999997,,,,,,,,,,,3,62613

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市金马正昌果品市场1号门,102.757529,25.031322,,,,,,,,,,,1,2980
+昆明市金马正昌果品市场1号门,102.757529,25.031522,,,,,,,,,,,1,57272

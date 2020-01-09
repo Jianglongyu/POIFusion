@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水岸艺城(南门),102.717313,24.994258,,,,,,,,,,,1,2074
+CAUCHO烧烤鲜啤,102.71735799999999,24.994509,,,,,,,,,,,1,4614

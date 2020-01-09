@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+皇冠假日洲际酒店,102.82481999999999,24.87745,,,,,,,,,,,3,26399
+皇冠假日洲际酒店,102.82481999999999,24.87725,,,,,,,,,,,3,56188

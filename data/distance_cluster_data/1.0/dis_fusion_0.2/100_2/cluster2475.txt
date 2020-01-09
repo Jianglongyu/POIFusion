@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西坝河小区,102.2767281,24.97330835,,,,,,,,,,,2,382
+西坝河小区,102.2767281,24.97350835,,,,,,,,,,,2,38124

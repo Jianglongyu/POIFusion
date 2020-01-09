@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤鸣温泉足疗会所,102.73128,24.99205,,,,,,,,,,,3,17107
+昆明建华学校,102.73083299999999,24.991799999999998,,,,,,,,,,,3,30427
+昆明建华学校,102.73083299999999,24.9916,,,,,,,,,,,3,60216

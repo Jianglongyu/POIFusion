@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+奥宸·橙郡,102.775161,24.964246,,,,,,,,,,,1,4536
+奥宸·橙郡,102.775161,24.964446,,,,,,,,,,,1,68757

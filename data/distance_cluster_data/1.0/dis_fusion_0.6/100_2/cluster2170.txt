@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万兴印象,102.738895,25.021616,,,,,,,,,,,1,1880
+肯德基 国贸店,102.738895,25.021616,,,,,,,,,,,1,3299
+万兴印象,102.738895,25.021816,,,,,,,,,,,1,49079

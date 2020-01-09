@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金色幼儿园,103.412467,25.517972,,,,,,,,,,,3,31101
+金色幼儿园,103.412467,25.517772,,,,,,,,,,,3,60890

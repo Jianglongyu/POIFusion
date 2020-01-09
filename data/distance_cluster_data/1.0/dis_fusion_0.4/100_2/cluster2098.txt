@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+飞仙幽谷,103.350178,24.902357000000002,,,,,,,,,,,3,35640
+石破天惊,103.351686,24.901657999999998,,,,,,,,,,,3,35249
+倒影池,103.35096999999999,24.902165,,,,,,,,,,,3,35778

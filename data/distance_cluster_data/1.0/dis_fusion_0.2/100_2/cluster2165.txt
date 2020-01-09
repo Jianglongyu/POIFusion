@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+贵州煳辣椒清汤羊肉,102.71372,24.97121,,,,,,,,,,,3,13586
+官渡区六甲盘龙卫生所,102.714001,24.971726,,,,,,,,,,,3,26370
+宝龙寺,102.71409200000001,24.97193,,,,,,,,,,,3,31218

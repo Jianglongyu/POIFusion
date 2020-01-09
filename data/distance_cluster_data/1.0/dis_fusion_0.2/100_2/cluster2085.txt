@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南粗人宣威老火腿馆,102.71799,25.087020000000003,,,,,,,,,,,3,12505
+后街量贩式KTV,102.71798000000001,25.08634,,,,,,,,,,,3,20473
+云南联众艺术培训学校,102.71798100000001,25.086339000000002,,,,,,,,,,,3,35514

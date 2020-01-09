@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区交通局龙东格路政大队东格中队,103.096355,26.249288,,,,,,,,,,,3,29862
+东川区交通局龙东格路政大队东格中队,103.096355,26.249088,,,,,,,,,,,3,59651

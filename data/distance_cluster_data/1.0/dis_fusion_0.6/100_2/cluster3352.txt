@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+刘一锅苦笋鸡一分店,102.7207,25.099529999999998,,,,,,,,,,,3,10908
+刘一锅苦笋鸡一分店,102.7207,25.09933,,,,,,,,,,,3,23675

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+瑞光寺,103.059877,24.935844,,,,,,,,,,,3,28192
+瑞光寺,103.059877,24.935644,,,,,,,,,,,3,57981

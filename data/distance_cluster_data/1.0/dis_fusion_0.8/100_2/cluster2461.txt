@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+潇洒发艺形象设计中心,102.82406,24.84038,,,,,,,,,,,3,19971
+潇洒发艺形象设计中心,102.82406,24.84018,,,,,,,,,,,3,39831
+中国农业银行ATM,102.82415999999999,24.840310000000002,,,,,,,,,,,3,53378

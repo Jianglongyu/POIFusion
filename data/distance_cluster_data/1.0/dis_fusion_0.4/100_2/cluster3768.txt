@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双香园,102.60774,24.78221,,,,,,,,,,,3,22472
+秀艳农家,102.60781999999999,24.78184,,,,,,,,,,,3,28880

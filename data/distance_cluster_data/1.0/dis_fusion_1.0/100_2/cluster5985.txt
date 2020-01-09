@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝县小马街小学,102.751965,25.697978,,,,,,,,,,,3,30509
+禄劝县小马街小学,102.751965,25.697778,,,,,,,,,,,3,60298

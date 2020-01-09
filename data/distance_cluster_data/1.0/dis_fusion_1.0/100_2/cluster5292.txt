@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+好运宾馆,102.73581999999999,24.97164,,,,,,,,,,,3,27575
+好运宾馆,102.73581999999999,24.97144,,,,,,,,,,,3,57364

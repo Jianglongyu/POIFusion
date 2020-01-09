@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明经开区国际汽车城,102.810102,24.963128,,,,,,,,,,,1,3126
+昆明经开区国际汽车城,102.810102,24.963328,,,,,,,,,,,1,67347

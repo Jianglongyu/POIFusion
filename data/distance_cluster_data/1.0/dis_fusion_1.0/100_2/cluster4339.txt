@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+铂苑,102.715237,25.085847,,,,,,,,,,,1,4416
+铂苑,102.715237,25.086047,,,,,,,,,,,1,68637

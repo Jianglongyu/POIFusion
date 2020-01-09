@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+段玉休闲庄,102.87278,25.11426,,,,,,,,,,,3,21356
+段玉休闲庄,102.87278,25.114060000000002,,,,,,,,,,,3,41216
+明达挖机装载机培训学校,102.87314,25.114053,,,,,,,,,,,3,52668

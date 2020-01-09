@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+前卫拥护中心学校红庙分校,102.70411999999999,24.997775,,,,,,,,,,,1,2331
+前卫拥护中心学校红庙分校,102.70411999999999,24.997975,,,,,,,,,,,1,56623

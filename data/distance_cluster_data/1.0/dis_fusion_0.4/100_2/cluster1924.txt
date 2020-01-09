@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+善香园餐厅,102.66532,25.093420000000002,,,,,,,,,,,3,8452
+善香园餐厅,102.66532,25.093220000000002,,,,,,,,,,,3,15899
+中国建设银行ATM,102.66530999999999,25.09335,,,,,,,,,,,3,41826

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云纺食城,102.71134,25.020220000000002,,,,,,,,,,,3,5202
+云纺食城,102.71134,25.020020000000002,,,,,,,,,,,3,17969

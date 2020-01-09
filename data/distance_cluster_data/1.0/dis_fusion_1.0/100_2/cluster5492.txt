@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大叠水瀑布风景区,103.199745,24.663974,,,,,,,,,,,3,28312
+大叠水瀑布风景区,103.199745,24.663774,,,,,,,,,,,3,58101

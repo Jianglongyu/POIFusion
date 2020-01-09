@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+启航中心,102.79945,24.96803,,,,,,,,,,,3,28526
+启航中心,102.79945,24.96783,,,,,,,,,,,3,58315

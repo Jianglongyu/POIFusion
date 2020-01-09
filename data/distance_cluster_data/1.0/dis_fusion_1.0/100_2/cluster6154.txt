@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县夕阳民族中学,102.285843,24.459784,,,,,,,,,,,3,30999
+晋宁县夕阳民族中学,102.285843,24.459584,,,,,,,,,,,3,60788

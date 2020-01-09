@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省贸易经济学校,102.75205,25.159408,,,,,,,,,,,2,542
+云南省贸易经济学校,102.75205,25.159608,,,,,,,,,,,2,54834
+昆明冶金高等专科学校物流与交通学院,102.751529,25.158835999999997,,,,,,,,,,,1,57123

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙鑫园,102.72624,24.97332,,,,,,,,,,,3,13427
+龙鑫园,102.72624,24.97312,,,,,,,,,,,3,33287

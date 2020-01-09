@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+理想小镇(东门),102.71876,25.000508,,,,,,,,,,,1,2684
+啡一品,102.71871999999999,25.001328,,,,,,,,,,,1,4048
+海贝中英文小学,102.718376,25.000311,,,,,,,,,,,3,33980

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+青苗幼儿园,102.826661,24.981245,,,,,,,,,,,3,31535
+青苗幼儿园,102.826661,24.981045,,,,,,,,,,,3,61324

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+正通和公司加油站,102.49130699999999,24.697629,,,,,,,,,,,3,4764
+正通和公司加油站,102.49130699999999,24.697429,,,,,,,,,,,3,24624

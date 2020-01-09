@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+溪畔丽景,102.748436,25.069846,,,,,,,,,,,1,1703
+马帮清真铜锅牛肉,102.74903,25.06974,,,,,,,,,,,3,19709
+龙阁印象娱乐会所,102.74903,25.06973,,,,,,,,,,,3,27963

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黄泥小学,103.04482900000001,24.90372,,,,,,,,,,,3,31127
+黄泥小学,103.04482900000001,24.90352,,,,,,,,,,,3,60916

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+虹鳟鱼城,102.77696,25.08575,,,,,,,,,,,3,13456
+金殿风景名胜区后门,102.776359,25.085689000000002,,,,,,,,,,,3,31656
+昆明市园林科研所,102.776358,25.085689000000002,,,,,,,,,,,3,33827

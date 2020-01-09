@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鸿鑫清真风味城,102.73663499999999,25.037193,,,,,,,,,,,1,3697
+鸿鑫清真风味城,102.73663499999999,25.037392999999998,,,,,,,,,,,1,67918

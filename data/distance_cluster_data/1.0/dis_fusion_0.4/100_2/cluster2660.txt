@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海口清真风味园,102.61952,24.788398,,,,,,,,,,,2,517
+海口清真风味园,102.61952,24.788598,,,,,,,,,,,2,42396

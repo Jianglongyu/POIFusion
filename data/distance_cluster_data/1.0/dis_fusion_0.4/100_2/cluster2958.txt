@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华新飞安特网络,102.74915,25.05994,,,,,,,,,,,3,26407
+高韵宾馆,102.74915,25.05994,,,,,,,,,,,3,34509

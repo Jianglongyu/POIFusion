@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿萝伊泰式小厨,102.72335,25.04295,,,,,,,,,,,3,14733
+品润私房小锅米线,102.72338,25.04296,,,,,,,,,,,3,15598
+旅行者佳园酒店连锁人民东路店,102.72384,25.04301,,,,,,,,,,,3,29530

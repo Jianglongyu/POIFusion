@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市晋宁县二街镇人大主席团,102.48954,24.696274,,,,,,,,,,,3,29152
+昆明市晋宁县二街镇人大主席团,102.48954,24.696074,,,,,,,,,,,3,58941

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明高新小屯汽车城(3号门),102.669347,25.078103,,,,,,,,,,,1,3191
+昆明高新小屯汽车城(3号门),102.669347,25.078303,,,,,,,,,,,1,67412

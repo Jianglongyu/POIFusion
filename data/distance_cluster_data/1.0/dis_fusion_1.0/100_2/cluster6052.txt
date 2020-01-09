@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金兴双语幼儿园,102.71221700000001,24.955092999999998,,,,,,,,,,,3,30711
+金兴双语幼儿园,102.71221700000001,24.954893,,,,,,,,,,,3,60500

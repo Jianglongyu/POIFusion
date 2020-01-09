@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良加油站,103.19339599999999,24.916565,,,,,,,,,,,3,4898
+宜良加油站,103.19339599999999,24.916365,,,,,,,,,,,3,8208

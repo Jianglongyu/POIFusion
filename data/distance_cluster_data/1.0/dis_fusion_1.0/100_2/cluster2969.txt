@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+倩丝专业美发,102.70683000000001,25.03003,,,,,,,,,,,3,21410
+倩丝专业美发,102.70683000000001,25.02983,,,,,,,,,,,3,51199
+竞达花园,102.706529,25.029684,,,,,,,,,,,1,67579

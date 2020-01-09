@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宁寿寺,103.141145,24.90125,,,,,,,,,,,3,28135
+宁寿寺,103.141145,24.90105,,,,,,,,,,,3,57924

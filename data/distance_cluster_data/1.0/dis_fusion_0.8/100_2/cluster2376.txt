@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+聚鑫园餐厅,102.59127,25.08099,,,,,,,,,,,3,18125
+聚鑫园餐厅,102.59127,25.08079,,,,,,,,,,,3,37985
+昆明市十八站驾校,102.59204,25.08105,,,,,,,,,,,3,51990

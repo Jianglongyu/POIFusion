@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县耿家营乡纪检委,103.231888,25.026888,,,,,,,,,,,3,36983
+土官村中心小学,103.232332,25.027157,,,,,,,,,,,3,38131

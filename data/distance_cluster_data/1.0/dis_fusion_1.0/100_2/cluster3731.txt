@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五彩点金苑(东北一门),102.73463100000001,24.991104999999997,,,,,,,,,,,1,1787
+五彩点金苑(东北一门),102.73463100000001,24.991304999999997,,,,,,,,,,,1,66008

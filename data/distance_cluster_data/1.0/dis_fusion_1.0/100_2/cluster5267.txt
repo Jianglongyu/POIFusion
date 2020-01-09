@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+玉兰居宾馆,102.82925999999999,24.99516,,,,,,,,,,,3,27175
+玉兰居宾馆,102.82925999999999,24.99496,,,,,,,,,,,3,56964

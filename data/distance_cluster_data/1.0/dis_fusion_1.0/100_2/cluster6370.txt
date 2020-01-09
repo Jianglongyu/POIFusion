@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+两棵松花园餐厅,102.60674,25.169999999999998,,,,,,,,,,,3,15262
+两棵松花园餐厅,102.60674,25.1698,,,,,,,,,,,3,45051

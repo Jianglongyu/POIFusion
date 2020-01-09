@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+费家大院,102.62550999999999,24.93427,,,,,,,,,,,3,21007
+费家大院,102.62550999999999,24.934070000000002,,,,,,,,,,,3,50796

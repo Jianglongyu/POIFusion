@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+味真香牛肉山庄,102.74257,25.18571,,,,,,,,,,,3,14339
+味真香牛肉山庄,102.74257,25.18551,,,,,,,,,,,3,27106

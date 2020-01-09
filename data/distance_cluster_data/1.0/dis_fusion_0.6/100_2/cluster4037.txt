@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西南林业大学－二食堂,102.758,25.06289,,,,,,,,,,,3,13757
+西南林业大学－二食堂,102.758,25.06269,,,,,,,,,,,3,26524

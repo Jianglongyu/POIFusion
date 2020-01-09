@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆钢幼儿园,102.494883,24.897989000000003,,,,,,,,,,,3,30644
+昆钢幼儿园,102.494883,24.897789000000003,,,,,,,,,,,3,60433

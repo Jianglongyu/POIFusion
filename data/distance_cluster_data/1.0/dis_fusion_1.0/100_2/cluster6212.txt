@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+岗头小学,102.71480799999999,25.095947,,,,,,,,,,,3,31165
+岗头小学,102.71480799999999,25.095747,,,,,,,,,,,3,60954

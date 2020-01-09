@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金方社区卫生中心,102.508363,24.890242999999998,,,,,,,,,,,3,36100
+生达新世界大药房,102.507684,24.889395999999998,,,,,,,,,,,3,35809
+昆钢集团公司幼儿园新村分园,102.507645,24.890107999999998,,,,,,,,,,,3,43858

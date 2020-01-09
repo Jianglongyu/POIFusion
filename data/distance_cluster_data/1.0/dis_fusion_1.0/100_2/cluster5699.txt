@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县马鸣乡计划生育服务所,103.381555,25.276073,,,,,,,,,,,3,29491
+马龙县马鸣乡计划生育服务所,103.381555,25.275873,,,,,,,,,,,3,59280

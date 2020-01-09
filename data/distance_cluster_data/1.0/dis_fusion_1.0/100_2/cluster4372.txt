@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿姆甜品,102.706508,25.053829,,,,,,,,,,,1,4562
+阿姆甜品,102.706508,25.054029,,,,,,,,,,,1,68783

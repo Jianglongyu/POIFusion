@@ -8,7 +8,7 @@
 标准化权重法是概率方法的一种改进后的变形
 '''
 import sys
-sys.path.append("C:/Users/Administrator/Desktop/Taks/1018_newFusion/mycode/POIFusion")
+sys.path.append('../')
 from numpy import *
 import numpy as np
 import math
@@ -114,17 +114,17 @@ thresVal1 = 0.3
 thresVal2 = 0.9
 
 rateT = [0.2, 0.4, 0.6, 0.8, 1.0]
-sample_rate = 1.0
+sample_rate = 0.7
 import csv
 csv_path = 'C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/' + str(sample_rate) + '/bw_map/data_excel/' + 'im_data.csv'
 with open(csv_path, 'w', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
-    csv_writer.writerow(['重合度', 'precision', 'recall', 'f1', 'time'])
+    csv_writer.writerow(['overlapping degree', 'precision', 'recall', 'f1', 'time'])
     
     for rate in rateT:
         starttime = datetime.datetime.now()
         #先读取数据
-        path = "C:/Users/Administrator/Desktop/Taks/1018_newFusion/data/fusion_data/" + str(sample_rate) + "/bw_map/dealData/"
+        path = "data/fusion_data/" + str(sample_rate) + "/bw_map/dealData/"
         bwDataPath = path + "ve_" + str(rate) + "bw_" + str(sample_rate)  + ".txt"
         mapDataPath = path + "ve_" + str(rate) + "mappoi_" + str(sample_rate)  + ".txt"
 
@@ -284,8 +284,6 @@ with open(csv_path, 'w', newline='') as csvfile:
             finalRes.append(strT)
 
         pos = []
-        # fp = open("\\\Mac\\Home\\Desktop\\0108_text_cluster\\data\\data0129\\"+ str(rate) + "positiveInx" +".txt",'r')
-        # poslines = fp.readlines()
         for eachl in poslines:
             eachl = eachl.decode('utf-8')
             eachl = eachl.split(",")

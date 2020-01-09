@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+前兴路公交枢纽站,102.712074,24.992339,,,,,,,,,,,1,2329
+前兴路公交枢纽站,102.712074,24.992539,,,,,,,,,,,1,56621

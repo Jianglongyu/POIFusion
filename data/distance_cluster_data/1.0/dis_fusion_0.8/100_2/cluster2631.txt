@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+铜锣湾海鲜酒楼,102.73431,25.02232,,,,,,,,,,,3,31515
+紫云轩休闲花园火锅餐厅旗舰店,102.73437,25.022270000000002,,,,,,,,,,,3,31752
+有声有色KTV量贩吴井路旗舰店,102.73447,25.022479999999998,,,,,,,,,,,3,40110

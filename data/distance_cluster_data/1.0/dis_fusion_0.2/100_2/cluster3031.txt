@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县龙飞大药房,102.85651999999999,25.546817,,,,,,,,,,,3,28689
+阳光幼儿园,102.856234,25.546294,,,,,,,,,,,3,36115

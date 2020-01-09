@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+春晓花园,102.710821,25.013482999999997,,,,,,,,,,,1,4310
+春晓花园,102.710821,25.013682999999997,,,,,,,,,,,1,68531

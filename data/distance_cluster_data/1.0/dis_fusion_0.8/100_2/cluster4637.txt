@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸垠玶诊所,103.261635,25.559613,,,,,,,,,,,3,23280
+寻甸垠玶诊所,103.261635,25.559413,,,,,,,,,,,3,43140

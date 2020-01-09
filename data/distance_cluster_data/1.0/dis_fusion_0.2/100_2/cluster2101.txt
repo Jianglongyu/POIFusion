@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县金所乡卫生院,103.192948,25.548085999999998,,,,,,,,,,,3,29223
+寻甸县地税分局三分局办税服务厅,103.193461,25.548682,,,,,,,,,,,3,32161
+寻甸回族彝族自治县地税局五分局,103.193461,25.548682,,,,,,,,,,,3,32476

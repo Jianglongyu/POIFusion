@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县大石头水库管理所,103.022977,25.36911,,,,,,,,,,,3,29057
+嵩明县大石头水库管理所,103.022977,25.36891,,,,,,,,,,,3,58846

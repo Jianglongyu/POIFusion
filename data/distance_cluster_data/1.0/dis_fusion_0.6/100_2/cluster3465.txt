@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+顺康药店,102.674548,25.449703,,,,,,,,,,,3,36162
+富民县司法局款庄司法所,102.674825,25.449923000000002,,,,,,,,,,,3,41733

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝彝族苗族自治县公安局雪山乡派出所,102.805573,26.141215,,,,,,,,,,,3,36325
+禄劝县雪山乡委,102.805573,26.141215,,,,,,,,,,,3,36721
+雪山国家电网爱心希望小学,102.805172,26.141610999999997,,,,,,,,,,,3,39083

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨升庵纪念馆,102.631217,24.987227999999998,,,,,,,,,,,1,1417
+武警医院,102.631799,24.987089,,,,,,,,,,,1,1765

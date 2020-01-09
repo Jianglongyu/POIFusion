@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世纪金源麦地冲爱心小学,102.87083100000001,25.334776,,,,,,,,,,,3,32637
+世纪金源麦地冲爱心小学,102.87083100000001,25.334576000000002,,,,,,,,,,,3,62426

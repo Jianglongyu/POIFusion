@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明呈贡吾悦广场,102.82529,24.888288,,,,,,,,,,,2,238
+昆明呈贡吾悦广场,102.82529,24.888488,,,,,,,,,,,2,42117

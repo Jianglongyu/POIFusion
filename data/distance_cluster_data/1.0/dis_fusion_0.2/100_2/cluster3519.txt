@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+麦当劳圆通山餐厅,102.70944,25.05377,,,,,,,,,,,3,14167
+嘉年华乐园,102.70953,25.05378,,,,,,,,,,,3,22656

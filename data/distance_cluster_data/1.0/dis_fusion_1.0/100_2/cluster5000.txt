@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨桥乡白鹤卫生室,103.062601,25.304412,,,,,,,,,,,3,24440
+杨桥乡白鹤卫生室,103.062601,25.304212,,,,,,,,,,,3,54229

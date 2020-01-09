@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黄瓜营小区(永明路),102.716509,25.022468,,,,,,,,,,,1,3624
+怡和茶室,102.71651,25.02301,,,,,,,,,,,3,24406

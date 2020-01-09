@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金柯成凤饭店,102.99146,24.84444,,,,,,,,,,,3,8808
+金柯成凤饭店,102.99146,24.84424,,,,,,,,,,,3,16255

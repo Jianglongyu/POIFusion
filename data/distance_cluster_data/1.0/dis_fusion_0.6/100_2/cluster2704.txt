@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+利科大厦,102.72542,25.06939,,,,,,,,,,,3,41324
+亨德森外国语学校金星教学区,102.725606,25.069076000000003,,,,,,,,,,,3,42937

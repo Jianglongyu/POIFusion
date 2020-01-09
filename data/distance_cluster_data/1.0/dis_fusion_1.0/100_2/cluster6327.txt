@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+者广小学,102.620361,25.649202,,,,,,,,,,,3,31522
+者广小学,102.620361,25.649002,,,,,,,,,,,3,61311

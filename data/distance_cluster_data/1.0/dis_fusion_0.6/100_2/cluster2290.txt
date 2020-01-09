@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大源平价药房中新街NO．1,102.404525,25.529841,,,,,,,,,,,3,36459
+武定县中医医院一急诊,102.404105,25.529988,,,,,,,,,,,3,36492
+同庆堂大药房,102.404256,25.52998,,,,,,,,,,,3,37916

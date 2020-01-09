@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安德小学,102.28599,25.648766,,,,,,,,,,,3,31767
+安德小学,102.28599,25.648566,,,,,,,,,,,3,61556

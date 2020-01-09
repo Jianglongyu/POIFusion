@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大商汇餐饮区,102.71155999999999,24.98385,,,,,,,,,,,3,11440
+大商汇餐饮区,102.71155999999999,24.98365,,,,,,,,,,,3,31300
+中国农业银行大商汇支行,102.71146999999999,24.98336,,,,,,,,,,,3,53003

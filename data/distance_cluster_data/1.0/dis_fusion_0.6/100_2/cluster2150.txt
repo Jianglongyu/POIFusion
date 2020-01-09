@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+翠香酒家,102.80665,24.868689999999997,,,,,,,,,,,3,9845
+翠香酒家,102.80665,24.868489999999998,,,,,,,,,,,3,22612
+农村信用社七步场分社,102.80731999999999,24.86879,,,,,,,,,,,3,46480

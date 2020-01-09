@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云大呈贡校区梓院,102.774968,24.954798999999998,,,,,,,,,,,1,1220
+云大呈贡校区梓院,102.774968,24.954998999999997,,,,,,,,,,,1,65441

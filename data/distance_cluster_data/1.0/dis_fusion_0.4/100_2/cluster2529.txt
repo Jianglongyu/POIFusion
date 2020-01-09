@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明玉器城,102.7556963,25.17229972,,,,,,,,,,,2,243
+昆明玉器城,102.7556963,25.17249972,,,,,,,,,,,2,42122

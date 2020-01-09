@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阳光外滩,102.650526,24.983566,,,,,,,,,,,3,28320
+阳光外滩,102.650526,24.983366,,,,,,,,,,,3,58109

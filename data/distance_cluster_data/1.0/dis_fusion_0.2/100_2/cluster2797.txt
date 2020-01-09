@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+清水木华(西南门),102.77394699999999,25.106751000000003,,,,,,,,,,,1,2294
+汽车修理,102.773636,25.106464000000003,,,,,,,,,,,1,2339

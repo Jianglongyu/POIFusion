@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+自然农庄,102.62485,24.93789,,,,,,,,,,,3,17330
+自然农庄,102.62485,24.93769,,,,,,,,,,,3,47119

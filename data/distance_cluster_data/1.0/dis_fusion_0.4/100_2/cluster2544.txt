@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨林镇官渡村委会卫生所,103.067677,25.2518,,,,,,,,,,,3,33057
+官渡完全小学,103.067228,25.252077,,,,,,,,,,,3,38023

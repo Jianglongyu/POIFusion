@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中平村新村村民小组科技活动中心,102.556404,24.809069,,,,,,,,,,,2,555
+中平村新村村民小组科技活动中心,102.556404,24.809269,,,,,,,,,,,2,47754

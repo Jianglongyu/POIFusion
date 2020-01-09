@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富善香汛来农家,102.65613,24.89629,,,,,,,,,,,3,15746
+富善香汛来农家,102.65613,24.89609,,,,,,,,,,,3,45535

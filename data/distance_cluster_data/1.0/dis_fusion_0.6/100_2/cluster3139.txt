@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+星体花园,102.768289,24.943071,,,,,,,,,,,1,1507
+星体花园,102.768289,24.943271,,,,,,,,,,,1,48706

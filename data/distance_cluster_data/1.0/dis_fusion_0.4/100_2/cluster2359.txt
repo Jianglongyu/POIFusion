@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+过桥轩,102.64088000000001,25.03584,,,,,,,,,,,3,7242
+过桥轩,102.64088000000001,25.03564,,,,,,,,,,,3,14689
+西擎明辉食坊,102.641,25.03592,,,,,,,,,,,3,22757

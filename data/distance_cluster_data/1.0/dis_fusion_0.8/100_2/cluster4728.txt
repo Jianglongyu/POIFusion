@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+解放军昆明总医院－休养食堂,102.68417,25.03784,,,,,,,,,,,3,15551
+解放军昆明总医院－休养食堂,102.68417,25.03764,,,,,,,,,,,3,35411

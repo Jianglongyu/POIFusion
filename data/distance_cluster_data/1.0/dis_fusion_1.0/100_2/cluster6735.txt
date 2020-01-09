@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西邑幼儿园,102.499156,25.246814,,,,,,,,,,,3,32671
+西邑幼儿园,102.499156,25.246614,,,,,,,,,,,3,62460

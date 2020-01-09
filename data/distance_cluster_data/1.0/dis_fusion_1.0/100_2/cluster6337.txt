@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市八街镇樟富营小学,102.372238,24.707822,,,,,,,,,,,3,31555
+安宁市八街镇樟富营小学,102.372238,24.707622,,,,,,,,,,,3,61344

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海子小学,102.90915,25.781507,,,,,,,,,,,3,32294
+海子小学,102.90915,25.781307,,,,,,,,,,,3,62083

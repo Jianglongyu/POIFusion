@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇大医院,102.32713000000001,25.01861,,,,,,,,,,,3,35171
+东骏大药房青龙连锁店,102.326543,25.018664,,,,,,,,,,,3,38197
+青龙学校,102.326966,25.018939000000003,,,,,,,,,,,3,45238

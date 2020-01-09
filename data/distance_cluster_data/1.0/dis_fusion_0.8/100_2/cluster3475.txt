@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天线宝宝幼儿园,102.627984,25.01313,,,,,,,,,,,1,1947
+天线宝宝幼儿园,102.627984,25.01333,,,,,,,,,,,1,56239

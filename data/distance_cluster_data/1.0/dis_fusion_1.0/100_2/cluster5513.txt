@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+矣铎观音寺,103.019672,25.292856,,,,,,,,,,,3,28367
+矣铎观音寺,103.019672,25.292656,,,,,,,,,,,3,58156

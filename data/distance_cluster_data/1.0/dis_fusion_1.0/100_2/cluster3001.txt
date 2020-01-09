@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省林业有害生物防治检疫局,102.712879,25.056012,,,,,,,,,,,3,29828
+林海快捷酒店,102.71238000000001,25.0567,,,,,,,,,,,3,57506
+云南省林业有害生物防治检疫局,102.712879,25.055812,,,,,,,,,,,3,59617

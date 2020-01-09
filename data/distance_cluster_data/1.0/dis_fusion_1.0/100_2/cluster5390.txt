@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金山寺,102.713835,25.098909,,,,,,,,,,,3,28074
+金山寺,102.713835,25.098709,,,,,,,,,,,3,57863

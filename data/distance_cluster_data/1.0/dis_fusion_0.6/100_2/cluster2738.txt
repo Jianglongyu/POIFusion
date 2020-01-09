@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+银河中央,102.73821,25.113253,,,,,,,,,,,2,446
+银河中央,102.73821,25.113453,,,,,,,,,,,2,47645

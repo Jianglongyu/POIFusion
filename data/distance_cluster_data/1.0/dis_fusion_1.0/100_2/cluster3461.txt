@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明理工大学老年人活动室,102.696,25.05888,,,,,,,,,,,3,17176
+昆明理工大学老年人活动室,102.696,25.05868,,,,,,,,,,,3,46965

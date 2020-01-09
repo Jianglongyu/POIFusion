@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+民生草墩屋,102.7057,25.04213,,,,,,,,,,,3,26560
+社院宾馆,102.70546,25.04256,,,,,,,,,,,3,39877
+云南多种外语进修学院,102.705511,25.042544,,,,,,,,,,,3,44321
+培训通驻滇办,102.705511,25.042544,,,,,,,,,,,3,44395

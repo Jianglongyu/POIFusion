@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黄果树烧烤,102.80605,24.91235,,,,,,,,,,,3,17972
+经开区小洛羊卫生所,102.806547,24.912284,,,,,,,,,,,3,27630

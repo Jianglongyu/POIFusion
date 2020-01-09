@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+渝人川菜馆,102.6962,25.00962,,,,,,,,,,,3,9804
+渝人川菜馆,102.6962,25.009420000000002,,,,,,,,,,,3,39593

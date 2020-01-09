@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+壹0八羊肉火锅,102.67166999999999,25.08175,,,,,,,,,,,3,10817
+壹0八羊肉火锅,102.67166999999999,25.08155,,,,,,,,,,,3,30677

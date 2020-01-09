@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+建兴加油站,102.55296899999999,24.453367999999998,,,,,,,,,,,3,4651
+建兴加油站,102.55296899999999,24.453167999999998,,,,,,,,,,,3,12098

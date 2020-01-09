@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官渡区凉亭社区卫生中心,102.758939,25.021519,,,,,,,,,,,3,45527
+昆明市官渡区工商局凉亭分局,102.759339,25.021342,,,,,,,,,,,3,49580

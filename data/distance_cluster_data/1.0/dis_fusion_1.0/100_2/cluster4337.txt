@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+博识楼,102.80412199999999,24.983573,,,,,,,,,,,1,4413
+博识楼,102.80412199999999,24.983773,,,,,,,,,,,1,68634

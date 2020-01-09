@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+老玉溪农家园,102.645152,24.964995000000002,,,,,,,,,,,1,2695
+老玉溪农家园,102.645152,24.965195,,,,,,,,,,,1,56987

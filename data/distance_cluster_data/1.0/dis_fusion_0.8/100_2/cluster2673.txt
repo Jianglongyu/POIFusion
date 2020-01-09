@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+圣爱宠物诊所,102.497647,24.889625,,,,,,,,,,,3,23939
+圣爱宠物诊所,102.497647,24.889425,,,,,,,,,,,3,43799
+东骏大药房望湖小区连锁店,102.496953,24.889956,,,,,,,,,,,3,45526

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+聚宝轩酒楼,102.738126,24.986887,,,,,,,,,,,1,3341
+聚宝轩酒楼,102.738126,24.987087,,,,,,,,,,,1,67562

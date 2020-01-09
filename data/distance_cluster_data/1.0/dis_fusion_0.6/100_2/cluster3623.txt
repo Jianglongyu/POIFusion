@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川城北加油站,103.154143,26.122432999999997,,,,,,,,,,,3,4656
+东川城北加油站,103.154143,26.122232999999998,,,,,,,,,,,3,17423

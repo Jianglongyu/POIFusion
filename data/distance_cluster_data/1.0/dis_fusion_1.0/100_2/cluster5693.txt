@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明铁路公安局开远铁路公安处昆南车站派出所,102.824007,24.919076999999998,,,,,,,,,,,3,29469
+昆明铁路公安局开远铁路公安处昆南车站派出所,102.824007,24.918877,,,,,,,,,,,3,59258

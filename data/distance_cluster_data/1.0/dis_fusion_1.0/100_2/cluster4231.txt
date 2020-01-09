@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+姿尚美容美发会所,102.70461,25.025229999999997,,,,,,,,,,,3,20284
+姿尚美容美发会所,102.70461,25.025029999999997,,,,,,,,,,,3,50073

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+野鸭湖度假区－左岸品心茶餐厅,102.86773000000001,25.12967,,,,,,,,,,,3,12884
+野鸭湖度假区－左岸品心茶餐厅,102.86773000000001,25.12947,,,,,,,,,,,3,32744

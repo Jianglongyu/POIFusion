@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+沙朗白族街公交站,102.66696999999999,25.163358,,,,,,,,,,,1,2205
+沙朗白族街公交站,102.66696999999999,25.163558,,,,,,,,,,,1,66426

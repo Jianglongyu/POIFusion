@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大哨生态农家乐,102.74178,25.22298,,,,,,,,,,,3,19767
+大哨生态农家乐,102.74178,25.22278,,,,,,,,,,,3,39627
+双哨中心学校大哨分校,102.742216,25.222673999999998,,,,,,,,,,,3,50731

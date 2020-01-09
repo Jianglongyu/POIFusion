@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云康大药房,102.52800699999999,25.996906,,,,,,,,,,,3,23452
+云康大药房,102.52800699999999,25.996706,,,,,,,,,,,3,43312
+昆明交运集团禄劝汽车运输有限公司撒营盘客运站,102.527663,25.996799,,,,,,,,,,,3,52809

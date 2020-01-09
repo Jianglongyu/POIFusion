@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+苏家村口公交站,102.64025500000001,24.976283,,,,,,,,,,,1,2029
+苏家村口公交站,102.64025500000001,24.976482999999998,,,,,,,,,,,1,56321

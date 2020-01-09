@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大哨小学,102.748859,25.228784,,,,,,,,,,,1,4237
+大哨小学,102.748859,25.228984,,,,,,,,,,,1,68458

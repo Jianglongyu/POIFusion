@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同济堂蒲草塘店,103.352766,25.780374,,,,,,,,,,,3,24913
+同济堂蒲草塘店,103.352766,25.780174,,,,,,,,,,,3,54702

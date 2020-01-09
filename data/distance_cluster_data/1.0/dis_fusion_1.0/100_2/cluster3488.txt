@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+农村信用社ATM,102.78833,24.89334,,,,,,,,,,,3,33659
+农村信用社ATM,102.78833,24.89314,,,,,,,,,,,3,63448

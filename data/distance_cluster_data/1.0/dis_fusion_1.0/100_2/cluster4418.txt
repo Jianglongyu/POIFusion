@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小街服务区－小铺加油站,103.097573,25.337562,,,,,,,,,,,3,4696
+小街服务区－小铺加油站,103.097573,25.337362,,,,,,,,,,,3,34485

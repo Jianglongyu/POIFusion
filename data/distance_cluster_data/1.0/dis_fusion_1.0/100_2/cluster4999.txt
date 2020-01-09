@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+祖霖药店,102.46785799999999,25.551007,,,,,,,,,,,3,24438
+禄劝县环保局,102.468411,25.550651000000002,,,,,,,,,,,3,29251

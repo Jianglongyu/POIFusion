@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿妹生态农庄,102.97266,25.15372,,,,,,,,,,,3,19279
+阿妹生态农庄,102.97266,25.15352,,,,,,,,,,,3,39139

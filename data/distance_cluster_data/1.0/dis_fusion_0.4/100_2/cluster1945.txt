@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中交金地中央公园,102.740543,24.999195,,,,,,,,,,,2,501
+中国工商银行ATM,102.74081,24.9988,,,,,,,,,,,3,40697
+中交金地中央公园,102.740543,24.999395,,,,,,,,,,,2,42380

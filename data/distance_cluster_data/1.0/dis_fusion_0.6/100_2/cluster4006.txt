@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南民族大学医院,102.702646,25.05818,,,,,,,,,,,3,38006
+云南省农村信用社ATM,102.70176,25.05809,,,,,,,,,,,3,47100

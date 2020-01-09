@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小哨野生菌生态旅游村,103.176222,24.71261,,,,,,,,,,,3,27963
+小哨野生菌生态旅游村,103.176222,24.712410000000002,,,,,,,,,,,3,57752

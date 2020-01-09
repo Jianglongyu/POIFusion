@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市卫生学校,102.998806,25.245207,,,,,,,,,,,2,581
+中国农业银行ATM,102.99846,25.24484,,,,,,,,,,,3,37533

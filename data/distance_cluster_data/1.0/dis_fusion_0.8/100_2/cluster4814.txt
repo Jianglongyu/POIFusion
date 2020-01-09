@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县滇源镇大哨便民服务中心,102.969501,25.428096,,,,,,,,,,,3,48741
+大哨中心小学,102.970056,25.4277,,,,,,,,,,,3,52232

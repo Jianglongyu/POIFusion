@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴盛园,102.6606293,25.08759499,,,,,,,,,,,2,422
+云南省骨伤科中等专业学校,102.66037299999999,25.087088,,,,,,,,,,,1,1007
+兴盛园,102.6606293,25.08779499,,,,,,,,,,,2,38164

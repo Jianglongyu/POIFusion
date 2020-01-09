@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+桂香园,102.8254,24.84066,,,,,,,,,,,3,9656
+云南中医学院九味餐厅,102.82552,24.84062,,,,,,,,,,,3,12505
+桂香园,102.8254,24.84046,,,,,,,,,,,3,39445
+云南中医学院九味餐厅,102.82552,24.84042,,,,,,,,,,,3,42294

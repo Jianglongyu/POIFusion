@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+健之佳健康药房NO．009,102.685888,25.044726,,,,,,,,,,,3,38804
+昆明钢铁集团有限责任公司老干部管理处干休所,102.68619,25.0447,,,,,,,,,,,3,40083
+招商银行ATM,102.68595,25.044729999999998,,,,,,,,,,,3,47067

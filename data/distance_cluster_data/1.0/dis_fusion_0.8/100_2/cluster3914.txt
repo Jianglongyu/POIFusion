@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+六甲医院,102.70950500000001,24.962572,,,,,,,,,,,3,44745
+昆明市官渡区综合行政执法大队六中队,102.70929,24.962009,,,,,,,,,,,3,48760

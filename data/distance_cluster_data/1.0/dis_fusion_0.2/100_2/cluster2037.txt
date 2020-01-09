@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新星幼儿园,102.92456899999999,25.768093,,,,,,,,,,,3,36148
+寻甸县百姓大药房,102.925427,25.767505,,,,,,,,,,,3,28267
+萌萌托管班,102.924734,25.767992,,,,,,,,,,,3,34199

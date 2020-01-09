@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大板桥镇长水办事处卫生所,102.980088,25.123086999999998,,,,,,,,,,,3,26027
+大板桥镇长水办事处卫生所,102.980088,25.122887,,,,,,,,,,,3,55816

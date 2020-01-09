@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天怡峰景,102.7488493,25.094872,,,,,,,,,,,2,357
+金安小区(南一门),102.74861899999999,25.095366000000002,,,,,,,,,,,1,3494
+天怡峰景,102.7488493,25.095072,,,,,,,,,,,2,38099

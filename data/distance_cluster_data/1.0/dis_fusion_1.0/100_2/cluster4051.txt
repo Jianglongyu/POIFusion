@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明平板玻璃厂生活区,102.64425290000001,25.05349284,,,,,,,,,,,1,3091
+昆明平板玻璃厂生活区,102.64425290000001,25.05369284,,,,,,,,,,,1,67312

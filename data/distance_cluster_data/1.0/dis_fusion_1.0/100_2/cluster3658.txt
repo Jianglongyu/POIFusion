@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海子苑,102.83365,25.00627,,,,,,,,,,,3,17896
+海子苑,102.83365,25.00607,,,,,,,,,,,3,47685

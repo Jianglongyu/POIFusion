@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+老滇缅320傣味餐吧,102.64657,25.07746,,,,,,,,,,,3,9210
+老滇缅320傣味餐吧,102.64657,25.07726,,,,,,,,,,,3,29070

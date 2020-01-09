@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+余家海服务区－余家海加油站,102.652508,24.661375,,,,,,,,,,,3,4989
+余家海服务区－余家海加油站,102.652508,24.661175,,,,,,,,,,,3,8299

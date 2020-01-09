@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宝峰利民药店,102.552307,24.55554,,,,,,,,,,,3,25173
+宝峰利民药店,102.552307,24.55534,,,,,,,,,,,3,54962

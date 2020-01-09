@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+林康药店,102.70269,24.951025,,,,,,,,,,,3,27469
+新一小学,102.702264,24.95155,,,,,,,,,,,3,33996

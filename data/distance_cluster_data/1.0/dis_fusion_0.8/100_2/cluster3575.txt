@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仁义园,102.682328,25.093293,,,,,,,,,,,1,2263
+仁义园,102.682328,25.093493,,,,,,,,,,,1,56555

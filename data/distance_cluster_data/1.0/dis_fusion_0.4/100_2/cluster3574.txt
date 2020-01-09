@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸哨上加油站,103.213689,25.548249,,,,,,,,,,,3,5028
+寻甸哨上加油站,103.213689,25.548049,,,,,,,,,,,3,12475

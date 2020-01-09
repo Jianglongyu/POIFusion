@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+财大康园(西南门),102.72466740000002,25.08676866,,,,,,,,,,,1,4407
+技佳盲人按摩,102.72424000000001,25.087320000000002,,,,,,,,,,,3,22619
+港鑫驾校总部,102.724343,25.087235,,,,,,,,,,,3,33728

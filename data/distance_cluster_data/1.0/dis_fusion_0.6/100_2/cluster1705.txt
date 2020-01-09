@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+皇室美发会所,102.68655,25.00531,,,,,,,,,,,3,16923
+皇室美发会所,102.68655,25.005110000000002,,,,,,,,,,,3,29690
+快乐台球室,102.68613,25.00521,,,,,,,,,,,3,33643
+康源旅社,102.6865,25.00521,,,,,,,,,,,3,39794

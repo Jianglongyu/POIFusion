@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山小学,103.24038900000001,25.421115,,,,,,,,,,,3,31061
+西山小学,103.24038900000001,25.420915,,,,,,,,,,,3,60850

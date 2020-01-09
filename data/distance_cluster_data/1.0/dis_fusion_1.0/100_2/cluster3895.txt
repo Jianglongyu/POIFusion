@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+玛达咪咖啡屋,102.665882,24.972944000000002,,,,,,,,,,,1,2560
+玛达咪咖啡屋,102.665882,24.973144,,,,,,,,,,,1,66781

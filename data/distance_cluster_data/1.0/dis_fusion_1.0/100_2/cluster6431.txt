@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康乐幼儿园,103.12358,25.436856,,,,,,,,,,,3,31813
+康乐幼儿园,103.12358,25.436656,,,,,,,,,,,3,61602

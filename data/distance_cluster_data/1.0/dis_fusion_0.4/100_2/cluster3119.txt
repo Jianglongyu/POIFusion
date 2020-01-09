@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+七杯茶全国连锁交通学院分店,102.8612,24.83626,,,,,,,,,,,3,11528
+七杯茶全国连锁交通学院分店,102.8612,24.83606,,,,,,,,,,,3,18975

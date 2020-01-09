@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东站小学,102.777212,25.002095999999998,,,,,,,,,,,3,31093
+东站小学,102.777212,25.001896,,,,,,,,,,,3,60882

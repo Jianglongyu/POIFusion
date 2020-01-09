@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+团结镇白族园公交站,102.545666,25.075979999999998,,,,,,,,,,,1,1908
+团结镇白族园公交站,102.545666,25.076179999999997,,,,,,,,,,,1,49107

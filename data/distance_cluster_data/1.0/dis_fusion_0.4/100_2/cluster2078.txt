@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+麦田宁宁咖啡店,102.730294,25.093684,,,,,,,,,,,1,2547
+福润肥牛分店,102.73053399999999,25.094223,,,,,,,,,,,1,4012
+1896小酒馆,102.731114,25.093331,,,,,,,,,,,1,4639

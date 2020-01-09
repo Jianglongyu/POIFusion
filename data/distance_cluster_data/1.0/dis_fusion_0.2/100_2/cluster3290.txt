@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂昆明大塘子连锁店,102.65836800000001,25.077386999999998,,,,,,,,,,,3,29474
+福娃贝贝幼儿园,102.65755300000001,25.077835,,,,,,,,,,,3,35848

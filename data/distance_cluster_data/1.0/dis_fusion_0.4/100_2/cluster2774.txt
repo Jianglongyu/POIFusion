@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+重庆风味餐厅,102.7629,24.96124,,,,,,,,,,,3,17155
+彦菊诊所,102.762651,24.961391,,,,,,,,,,,3,30803

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧鸡公园－西门,102.66503,25.038320000000002,,,,,,,,,,,3,18613
+碧鸡公园－西门,102.66503,25.038120000000003,,,,,,,,,,,3,38473

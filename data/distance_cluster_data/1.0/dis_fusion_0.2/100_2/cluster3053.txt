@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云正大药房,103.184849,24.969848000000002,,,,,,,,,,,3,28860
+北古城镇中心卫生院,103.184223,24.969157,,,,,,,,,,,3,29015

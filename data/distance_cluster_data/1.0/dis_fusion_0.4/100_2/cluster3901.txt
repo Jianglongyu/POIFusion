@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+谷香饭店,102.73118000000001,24.965329999999998,,,,,,,,,,,3,7118
+谷香饭店,102.73118000000001,24.96513,,,,,,,,,,,3,14565

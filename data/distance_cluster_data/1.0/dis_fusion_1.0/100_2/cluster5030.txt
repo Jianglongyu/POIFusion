@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂东川碧云街连锁店,103.179938,26.081929,,,,,,,,,,,3,24788
+一心堂东川碧云街连锁店,103.179938,26.081729,,,,,,,,,,,3,54577

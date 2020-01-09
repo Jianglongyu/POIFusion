@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南亚未来城,102.752713,25.069499,,,,,,,,,,,1,2425
+盘龙迎青诊所,102.75235500000001,25.069383,,,,,,,,,,,3,36140

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明俊发铂尔曼温泉酒店,102.73809,24.93218,,,,,,,,,,,3,27762
+昆明俊发铂尔曼温泉酒店,102.73809,24.93198,,,,,,,,,,,3,57551

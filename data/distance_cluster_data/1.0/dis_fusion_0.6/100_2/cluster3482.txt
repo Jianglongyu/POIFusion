@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+孙记农家园,102.77214000000001,24.9199,,,,,,,,,,,3,11751
+孙记农家园,102.77214000000001,24.9197,,,,,,,,,,,3,24518

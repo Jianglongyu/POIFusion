@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福海完小,103.092339,25.294141,,,,,,,,,,,3,32281
+福海完小,103.092339,25.293941,,,,,,,,,,,3,62070

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国工商银行ATM,102.71019,24.97664,,,,,,,,,,,3,33171
+中国建设银行华都支行,102.7111,24.9767,,,,,,,,,,,3,33646
+中国建设银行华都支行,102.7111,24.9765,,,,,,,,,,,3,63435

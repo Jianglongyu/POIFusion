@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+电力希望小学,102.53103,25.769419,,,,,,,,,,,3,30616
+电力希望小学,102.53103,25.769219,,,,,,,,,,,3,60405

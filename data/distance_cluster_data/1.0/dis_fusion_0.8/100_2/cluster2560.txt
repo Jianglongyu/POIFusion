@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一条龙餐厅,102.93173,24.954079999999998,,,,,,,,,,,3,5290
+一条龙餐厅,102.93173,24.953879999999998,,,,,,,,,,,3,25150
+宝硫寺,102.932338,24.954005,,,,,,,,,,,3,48039

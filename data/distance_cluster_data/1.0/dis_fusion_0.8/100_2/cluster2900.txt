@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+融城昆明湖,102.7585061,25.12254258,,,,,,,,,,,2,309
+融城昆明湖,102.7585061,25.12274258,,,,,,,,,,,2,54601

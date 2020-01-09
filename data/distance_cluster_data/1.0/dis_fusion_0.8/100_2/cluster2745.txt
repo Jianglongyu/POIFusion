@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白沙润园,102.7844161,25.05433899,,,,,,,,,,,2,12
+白沙润园,102.7844161,25.05453899,,,,,,,,,,,2,54304

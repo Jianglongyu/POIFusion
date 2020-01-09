@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+曙光铁路住宅小区,102.748637,25.039920000000002,,,,,,,,,,,1,2089
+曙光铁路住宅小区,102.748637,25.04012,,,,,,,,,,,1,66310

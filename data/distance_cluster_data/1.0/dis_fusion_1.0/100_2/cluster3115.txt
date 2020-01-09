@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海东俊园,102.745292,24.933033,,,,,,,,,,,2,125
+海东俊园,102.745292,24.933232999999998,,,,,,,,,,,2,64346

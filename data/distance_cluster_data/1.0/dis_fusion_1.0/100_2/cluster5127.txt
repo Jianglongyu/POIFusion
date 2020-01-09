@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+怡君诊所,102.736153,25.043321,,,,,,,,,,,3,25488
+怡君诊所,102.736153,25.043121,,,,,,,,,,,3,55277

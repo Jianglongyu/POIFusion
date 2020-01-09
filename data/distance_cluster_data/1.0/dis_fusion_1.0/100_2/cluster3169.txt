@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁县街客运站,102.420902,24.854988,,,,,,,,,,,3,32946
+安宁县街客运站,102.420902,24.854788,,,,,,,,,,,3,62735

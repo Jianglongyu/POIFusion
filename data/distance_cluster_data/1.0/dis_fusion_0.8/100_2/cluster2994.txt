@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中豪逸境,102.9511348,25.08342413,,,,,,,,,,,2,497
+中豪逸境,102.9511348,25.08362413,,,,,,,,,,,2,54789

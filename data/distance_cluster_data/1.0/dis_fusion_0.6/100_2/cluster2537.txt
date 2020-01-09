@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡吾悦广场,102.8093071,24.90634567,,,,,,,,,,,2,47
+呈贡吾悦广场,102.8093071,24.90654567,,,,,,,,,,,2,47246

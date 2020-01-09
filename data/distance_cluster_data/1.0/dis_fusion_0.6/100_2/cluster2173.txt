@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+托福园(伟龙广场南),102.735741,25.073029000000002,,,,,,,,,,,1,1905
+昆明尚佳咖啡经营部,102.73521099999999,25.073603,,,,,,,,,,,1,3078
+托福园(伟龙广场南),102.735741,25.073229,,,,,,,,,,,1,49104

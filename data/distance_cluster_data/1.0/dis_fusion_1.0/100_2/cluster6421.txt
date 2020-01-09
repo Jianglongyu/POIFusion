@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+甸头小学,103.251482,25.684184,,,,,,,,,,,3,31781
+甸头小学,103.251482,25.683984,,,,,,,,,,,3,61570

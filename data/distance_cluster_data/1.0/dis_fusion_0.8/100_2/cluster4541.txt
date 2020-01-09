@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+李桂仙诊所,103.13797,24.914033,,,,,,,,,,,3,22432
+李桂仙诊所,103.13797,24.913833,,,,,,,,,,,3,42292

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+温朝昌美食风味美食养生火锅城,102.80026,24.96866,,,,,,,,,,,3,17780
+华泰保险专属代理,102.80019,24.96896,,,,,,,,,,,3,36493

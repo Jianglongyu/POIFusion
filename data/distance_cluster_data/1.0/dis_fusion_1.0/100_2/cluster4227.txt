@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广进源火锅,102.879543,25.049885999999997,,,,,,,,,,,1,3883
+广进源火锅,102.879543,25.050085999999997,,,,,,,,,,,1,68104

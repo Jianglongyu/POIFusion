@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+故园食府,102.685999,25.060869,,,,,,,,,,,1,3931
+故园食府,102.685999,25.061069,,,,,,,,,,,1,68152

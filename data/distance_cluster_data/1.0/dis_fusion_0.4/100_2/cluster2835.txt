@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金榜名艺,102.72853,25.0526,,,,,,,,,,,3,25531
+云南省扶贫办,102.727924,25.052898000000003,,,,,,,,,,,3,36772

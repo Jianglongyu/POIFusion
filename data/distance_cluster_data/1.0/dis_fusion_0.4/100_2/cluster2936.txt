@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白族风味小吃,102.65751999999999,24.96605,,,,,,,,,,,3,9795
+白族风味小吃,102.65751999999999,24.96585,,,,,,,,,,,3,17242

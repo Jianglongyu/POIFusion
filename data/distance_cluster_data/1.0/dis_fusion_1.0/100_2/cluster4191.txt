@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+虹桥园,102.785168,25.045108,,,,,,,,,,,1,3708
+虹桥园,102.785168,25.045308,,,,,,,,,,,1,67929

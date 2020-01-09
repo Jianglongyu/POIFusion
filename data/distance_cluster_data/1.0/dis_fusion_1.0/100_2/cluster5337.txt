@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+六甲之战纪念塔,102.979119,25.475707,,,,,,,,,,,3,27891
+六甲之战纪念塔,102.979119,25.475507,,,,,,,,,,,3,57680

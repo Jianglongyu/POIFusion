@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+花积厨火锅,102.68753000000001,24.99788,,,,,,,,,,,3,13858
+亨德森外国语学校,102.687969,24.998192,,,,,,,,,,,3,35304
+中信银行ATM,102.68802,24.99815,,,,,,,,,,,3,37516

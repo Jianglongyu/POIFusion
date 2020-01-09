@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小小饮吧大板桥餐厅,102.88006,25.04711,,,,,,,,,,,3,7712
+小小饮吧大板桥餐厅,102.88006,25.04691,,,,,,,,,,,3,11022
+鑫缘宾馆,102.88013000000001,25.04691,,,,,,,,,,,3,29704

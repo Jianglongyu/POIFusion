@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县第三中学,103.261031,25.51287,,,,,,,,,,,3,31529
+寻甸县第三中学,103.261031,25.51267,,,,,,,,,,,3,61318

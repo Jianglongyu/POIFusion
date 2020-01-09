@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+艺源美,102.76305,25.0443,,,,,,,,,,,3,28620
+青云金沙社区卫生站,102.762941,25.044302,,,,,,,,,,,3,30964

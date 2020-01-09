@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+月润傣家,102.67373,25.007954,,,,,,,,,,,1,1234
+私房润发,102.67446,25.00774,,,,,,,,,,,3,19251

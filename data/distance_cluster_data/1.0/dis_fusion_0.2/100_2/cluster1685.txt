@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+味美鲜自贡梭边鱼新迎店,102.63764,25.05325,,,,,,,,,,,3,13561
+龙华寺,102.637376,25.053224,,,,,,,,,,,3,31441
+昭宗小学,102.637366,25.053756,,,,,,,,,,,3,33635
+昆明美格幼教,102.637072,25.053535,,,,,,,,,,,3,35216

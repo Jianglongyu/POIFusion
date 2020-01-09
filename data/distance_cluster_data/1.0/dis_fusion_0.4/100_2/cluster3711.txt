@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金所慷红药店,103.19265,25.545684,,,,,,,,,,,3,30248
+怀德仁药房,103.192849,25.546449,,,,,,,,,,,3,33538

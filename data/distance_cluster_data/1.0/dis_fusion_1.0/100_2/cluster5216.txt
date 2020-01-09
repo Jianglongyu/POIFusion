@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+老百姓大药房,103.048248,25.305919,,,,,,,,,,,3,26153
+老百姓大药房,103.048248,25.305719,,,,,,,,,,,3,55942

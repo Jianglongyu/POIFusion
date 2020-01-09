@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+林月园休闲庄,102.57158000000001,24.91706,,,,,,,,,,,3,16352
+林月园休闲庄,102.57158000000001,24.91686,,,,,,,,,,,3,46141

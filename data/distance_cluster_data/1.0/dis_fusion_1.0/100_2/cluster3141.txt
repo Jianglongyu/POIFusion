@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄丰罗次汽车客运站（旧）,102.294342,25.307878,,,,,,,,,,,3,32919
+禄丰罗次汽车客运站（旧）,102.294342,25.307678,,,,,,,,,,,3,62708

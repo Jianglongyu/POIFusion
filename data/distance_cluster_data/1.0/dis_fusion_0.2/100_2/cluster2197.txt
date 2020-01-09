@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+边防整形美容,102.68599,25.028129999999997,,,,,,,,,,,3,22565
+凯华口腔,102.68634,25.027870999999998,,,,,,,,,,,3,27729
+昆明市五华区档案服务大厅,102.68618599999999,25.027957999999998,,,,,,,,,,,3,32484

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新亚洲体育城星汇园,102.7636566,24.94805527,,,,,,,,,,,2,406
+新亚洲体育城星汇园,102.7636566,24.94825527,,,,,,,,,,,2,38148

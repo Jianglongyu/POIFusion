@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水天缘农家乐,102.61362,24.854589999999998,,,,,,,,,,,3,21982
+百花园,102.61461,24.85439,,,,,,,,,,,3,18862
+百花园,102.61461,24.85419,,,,,,,,,,,3,38722
+水天缘农家乐,102.61362,24.85439,,,,,,,,,,,3,41842

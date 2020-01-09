@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明乡村高尔夫俱乐部,102.86819399999999,24.985474,,,,,,,,,,,1,2858
+昆明乡村高尔夫俱乐部,102.86819399999999,24.985674,,,,,,,,,,,1,67079

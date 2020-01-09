@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云大知城(南门),102.79627099999999,24.982954,,,,,,,,,,,1,1211
+云大知城(南门),102.79627099999999,24.983154,,,,,,,,,,,1,65432

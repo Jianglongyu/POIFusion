@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+燕氏小厨新迎园教工餐厅,102.73054,25.05128,,,,,,,,,,,3,13351
+燕氏小厨新迎园教工餐厅,102.73054,25.05108,,,,,,,,,,,3,43140

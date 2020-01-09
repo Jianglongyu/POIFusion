@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兄弟农家园,102.69925,24.94345,,,,,,,,,,,3,7168
+兄弟农家园,102.69925,24.94325,,,,,,,,,,,3,10478
+德福川菜馆,102.69926,24.943360000000002,,,,,,,,,,,3,16831
+华越东盟酒店,102.69893,24.94419,,,,,,,,,,,3,30687

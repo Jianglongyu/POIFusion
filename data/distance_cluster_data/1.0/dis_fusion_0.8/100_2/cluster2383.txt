@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+外婆家（西山万达店）,102.71903,25.027075,,,,,,,,,,,1,1899
+官渡区前卫路小学,102.718419,25.026666,,,,,,,,,,,3,51749
+外婆家（西山万达店）,102.71903,25.027275,,,,,,,,,,,1,56191

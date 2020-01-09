@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兰庭香,102.73523,25.07166,,,,,,,,,,,3,7708
+兰庭香,102.73523,25.071460000000002,,,,,,,,,,,3,15155

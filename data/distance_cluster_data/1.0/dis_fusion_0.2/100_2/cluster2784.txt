@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石屏茶院,102.787754,25.094264000000003,,,,,,,,,,,1,2155
+金钩钩,102.788024,25.094355,,,,,,,,,,,1,3469

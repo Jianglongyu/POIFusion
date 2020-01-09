@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碑庄完小,102.909441,25.75178,,,,,,,,,,,3,31226
+碑庄完小,102.909441,25.75158,,,,,,,,,,,3,61015

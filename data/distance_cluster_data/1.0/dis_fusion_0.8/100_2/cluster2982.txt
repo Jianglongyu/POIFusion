@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雪松休闲园,102.74266,25.13113,,,,,,,,,,,3,16869
+雪松休闲园,102.74266,25.13093,,,,,,,,,,,3,36729

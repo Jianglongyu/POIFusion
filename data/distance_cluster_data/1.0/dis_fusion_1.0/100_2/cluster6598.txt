@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川党校,103.189172,26.091174,,,,,,,,,,,3,32324
+东川党校,103.189172,26.090974,,,,,,,,,,,3,62113

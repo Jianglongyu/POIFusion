@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+家益旅社,102.69717,24.94821,,,,,,,,,,,3,29557
+金和宾馆,102.69731999999999,24.94815,,,,,,,,,,,3,30072

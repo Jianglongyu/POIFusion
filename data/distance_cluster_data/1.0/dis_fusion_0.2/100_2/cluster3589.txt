@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+永馨饭店,102.82056,24.91622,,,,,,,,,,,3,6944
+永馨饭店,102.82056,24.91602,,,,,,,,,,,3,10254

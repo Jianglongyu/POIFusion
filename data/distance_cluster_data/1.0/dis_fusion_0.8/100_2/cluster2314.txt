@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+标榜发艺秀,102.71217,25.01586,,,,,,,,,,,3,16847
+标榜发艺秀,102.71217,25.01566,,,,,,,,,,,3,36707
+西山区黄瓜营综合门诊部,102.711451,25.015744,,,,,,,,,,,3,45452

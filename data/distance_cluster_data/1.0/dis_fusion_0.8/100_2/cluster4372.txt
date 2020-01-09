@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+紫竹林山庄,102.62471,24.942429999999998,,,,,,,,,,,3,21423
+紫竹林山庄,102.62471,24.94223,,,,,,,,,,,3,41283

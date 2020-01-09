@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝县国土局茂山国土所,102.494693,25.664105,,,,,,,,,,,3,29999
+禄劝县国土局茂山国土所,102.494693,25.663905,,,,,,,,,,,3,59788

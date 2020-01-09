@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水逸康桥(西南门),102.66238,25.082039,,,,,,,,,,,2,602
+水逸康桥(西南门),102.66238,25.082239,,,,,,,,,,,2,64823

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+明通小学,102.727388,25.046294,,,,,,,,,,,1,2472
+明通小学,102.727388,25.046494,,,,,,,,,,,1,56764

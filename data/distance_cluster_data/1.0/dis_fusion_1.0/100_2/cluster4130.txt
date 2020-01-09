@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金江小区曦苑,102.753147,25.107623999999998,,,,,,,,,,,1,3459
+金江小区曦苑,102.753147,25.107823999999997,,,,,,,,,,,1,67680

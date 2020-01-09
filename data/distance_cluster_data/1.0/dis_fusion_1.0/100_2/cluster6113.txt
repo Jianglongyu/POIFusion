@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市民族小学,103.27722,24.756098,,,,,,,,,,,3,30914
+昆明市民族小学,103.27722,24.755898000000002,,,,,,,,,,,3,60703

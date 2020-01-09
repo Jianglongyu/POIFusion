@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马街顺达加油站,102.922039,25.757744,,,,,,,,,,,3,4750
+马街顺达加油站,102.922039,25.757544,,,,,,,,,,,3,24610

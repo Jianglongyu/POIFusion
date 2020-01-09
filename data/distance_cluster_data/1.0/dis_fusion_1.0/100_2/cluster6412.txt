@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩阳镇第二完全小学,103.0289,25.335229,,,,,,,,,,,3,31765
+嵩阳镇第二完全小学,103.0289,25.335029000000002,,,,,,,,,,,3,61554

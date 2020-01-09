@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天骄皇成KTV,102.77464,24.983829999999998,,,,,,,,,,,3,23348
+聚点大酒店－足疗,102.77464,24.983829999999998,,,,,,,,,,,3,27681
+云南省酿酒科学研究所,102.77427,24.983458,,,,,,,,,,,3,38357

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+聪慧幼儿园,103.187096,25.573187,,,,,,,,,,,3,38817
+金所竹沟小学,103.188041,25.573210999999997,,,,,,,,,,,3,40107

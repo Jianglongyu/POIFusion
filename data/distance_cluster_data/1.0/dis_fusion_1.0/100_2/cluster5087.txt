@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+老来福老年康复医院,103.044332,25.300829,,,,,,,,,,,3,25227
+老来福老年康复医院,103.044332,25.300629,,,,,,,,,,,3,55016

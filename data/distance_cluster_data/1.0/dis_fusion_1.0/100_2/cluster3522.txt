@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富滇银行昆明龙泉路支行,102.72225999999999,25.10839,,,,,,,,,,,3,33751
+富滇银行昆明龙泉路支行,102.72225999999999,25.10819,,,,,,,,,,,3,63540

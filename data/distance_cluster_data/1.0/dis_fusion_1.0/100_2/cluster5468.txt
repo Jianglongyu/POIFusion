@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三元宫,102.550611,24.411745999999997,,,,,,,,,,,3,28254
+三元宫,102.550611,24.411545999999998,,,,,,,,,,,3,58043

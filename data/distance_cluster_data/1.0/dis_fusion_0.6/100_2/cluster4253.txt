@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金水湖畔温泉会所,102.70638000000001,24.99004,,,,,,,,,,,3,16161
+金水湖畔温泉会所,102.70638000000001,24.98984,,,,,,,,,,,3,28928

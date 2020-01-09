@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明金泽工贸有限公司,102.62722099999999,25.008397,,,,,,,,,,,1,3130
+昆明金泽工贸有限公司,102.62722099999999,25.008596999999998,,,,,,,,,,,1,67351

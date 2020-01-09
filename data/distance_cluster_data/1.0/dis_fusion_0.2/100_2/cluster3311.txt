@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福鑫园农家小院,102.97556,25.123170000000002,,,,,,,,,,,3,13120
+幸福饭店,102.97539,25.12354,,,,,,,,,,,3,15768

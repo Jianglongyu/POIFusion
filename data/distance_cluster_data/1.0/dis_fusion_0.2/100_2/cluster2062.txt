@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+醉香园,102.8475,24.89829,,,,,,,,,,,3,12078
+正宗富源酸菜土猪脚火锅NO．18,102.84725999999999,24.89798,,,,,,,,,,,3,15039
+南方宾馆,102.84683000000001,24.89805,,,,,,,,,,,3,29618

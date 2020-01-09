@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华泰保险,102.7633,24.95725,,,,,,,,,,,3,36863
+年安保险超市五环锋尚服务部,102.76293000000001,24.9576,,,,,,,,,,,3,37400

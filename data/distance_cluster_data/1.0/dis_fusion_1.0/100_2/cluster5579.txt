@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县国土局纳章国土所,103.578928,25.268729999999998,,,,,,,,,,,3,28886
+马龙县国土局纳章国土所,103.578928,25.26853,,,,,,,,,,,3,58675

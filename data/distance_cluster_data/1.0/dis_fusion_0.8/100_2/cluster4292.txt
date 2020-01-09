@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+豪剪发艺,102.7371,25.06631,,,,,,,,,,,3,21330
+豪剪发艺,102.7371,25.066110000000002,,,,,,,,,,,3,41190

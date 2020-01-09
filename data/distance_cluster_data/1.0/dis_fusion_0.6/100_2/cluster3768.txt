@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+强林石化加油站,102.740365,24.975565,,,,,,,,,,,3,4849
+强林石化加油站,102.740365,24.975365,,,,,,,,,,,3,17616

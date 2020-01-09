@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+银河艺术幼儿园,102.71634300000001,24.955945,,,,,,,,,,,3,51791
+农村信用社ATM,102.71613,24.95651,,,,,,,,,,,3,54122

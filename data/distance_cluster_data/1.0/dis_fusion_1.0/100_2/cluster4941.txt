@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂中华西路连锁店,102.475351,24.920218,,,,,,,,,,,3,23949
+一心堂中华西路连锁店,102.475351,24.920018,,,,,,,,,,,3,53738

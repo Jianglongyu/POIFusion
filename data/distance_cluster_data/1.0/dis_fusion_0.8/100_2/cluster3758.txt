@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市五华区日升进口汽车修配厂,102.676812,25.091062,,,,,,,,,,,1,2939
+昆明市五华区日升进口汽车修配厂,102.676812,25.091262,,,,,,,,,,,1,57231

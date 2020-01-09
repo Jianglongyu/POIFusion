@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+实力壹方城,102.71463,25.084081,,,,,,,,,,,2,336
+实力壹方城,102.71463,25.084281,,,,,,,,,,,2,54628

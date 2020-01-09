@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县司法局狗街司法所,103.141308,24.788925,,,,,,,,,,,3,42048
+计划生育服务站狗街站,103.14063900000001,24.788137,,,,,,,,,,,3,36981
+狗街镇中心卫生院,103.140935,24.788631,,,,,,,,,,,3,37982

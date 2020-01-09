@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡县小营明天小学,102.838177,24.776782,,,,,,,,,,,3,31959
+呈贡县小营明天小学,102.838177,24.776582,,,,,,,,,,,3,61748

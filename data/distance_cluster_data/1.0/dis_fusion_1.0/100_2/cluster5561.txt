@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县人大,102.407639,25.537288,,,,,,,,,,,3,28811
+武定县人大,102.407639,25.537088,,,,,,,,,,,3,58600

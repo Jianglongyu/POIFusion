@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县九乡派出所,103.369117,25.085995999999998,,,,,,,,,,,3,42115
+加油站,103.368945,25.087032999999998,,,,,,,,,,,3,5064
+加油站,103.368945,25.086833,,,,,,,,,,,3,17831

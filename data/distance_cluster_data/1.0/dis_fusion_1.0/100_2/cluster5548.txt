@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市政协,102.832064,24.883039,,,,,,,,,,,3,28750
+昆明市政协,102.832064,24.882839,,,,,,,,,,,3,58539

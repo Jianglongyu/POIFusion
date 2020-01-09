@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国科学院云南天文台,102.789907,25.022216,,,,,,,,,,,3,35436
+野山药火腿鸡风干腊排骨美食城,102.791097,25.021731,,,,,,,,,,,1,1408
+昆明中铁大型养路机械集团有限公司,102.790188,25.021688,,,,,,,,,,,1,2788

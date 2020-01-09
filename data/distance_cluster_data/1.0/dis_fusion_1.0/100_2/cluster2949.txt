@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水韵之都温泉水疗商务会所,102.7973,24.884420000000002,,,,,,,,,,,3,17233
+水韵之都温泉水疗商务会所,102.7973,24.884220000000003,,,,,,,,,,,3,47022
+同德医疗保健中心,102.796922,24.88525,,,,,,,,,,,3,55571

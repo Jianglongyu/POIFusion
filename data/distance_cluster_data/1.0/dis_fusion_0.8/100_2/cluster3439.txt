@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+傈僳牛锅,102.63973,25.08362,,,,,,,,,,,3,9997
+傈僳牛锅,102.63973,25.08342,,,,,,,,,,,3,29857

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+基督教堂,102.36746600000001,24.716101000000002,,,,,,,,,,,3,28304
+基督教堂,102.36746600000001,24.715901000000002,,,,,,,,,,,3,58093

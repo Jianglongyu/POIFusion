@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿达龙小学,102.85744,25.414485999999997,,,,,,,,,,,3,30537
+阿达龙小学,102.85744,25.414285999999997,,,,,,,,,,,3,60326

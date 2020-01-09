@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石龙渔村,102.69673,25.03194,,,,,,,,,,,3,14422
+焱客饮品,102.6962,25.03217,,,,,,,,,,,3,32644
+石龙渔村,102.69673,25.03174,,,,,,,,,,,3,34282

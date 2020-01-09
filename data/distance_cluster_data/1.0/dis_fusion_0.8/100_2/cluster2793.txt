@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+绘福园农家乐,102.63972,25.13629,,,,,,,,,,,3,16480
+绘福园农家乐,102.63972,25.13609,,,,,,,,,,,3,36340

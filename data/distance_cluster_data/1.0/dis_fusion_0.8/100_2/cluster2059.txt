@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明十中求实校区,102.750867,25.117874,,,,,,,,,,,1,3073
+田溪公园,102.75009,25.11777,,,,,,,,,,,3,19622
+田溪公园,102.75009,25.11757,,,,,,,,,,,3,39482
+昆明十中求实校区,102.750867,25.118074,,,,,,,,,,,1,57365

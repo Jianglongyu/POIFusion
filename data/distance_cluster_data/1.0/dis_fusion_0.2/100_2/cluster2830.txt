@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+为尔康平价药房碧谷分店,103.168423,26.111273999999998,,,,,,,,,,,3,27143
+一心堂东川碧谷连锁店,103.16888900000001,26.111151,,,,,,,,,,,3,28067

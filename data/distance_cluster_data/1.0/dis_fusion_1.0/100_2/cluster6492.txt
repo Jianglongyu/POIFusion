@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙山小学,103.176239,24.875825,,,,,,,,,,,3,31966
+龙山小学,103.176239,24.875625,,,,,,,,,,,3,61755

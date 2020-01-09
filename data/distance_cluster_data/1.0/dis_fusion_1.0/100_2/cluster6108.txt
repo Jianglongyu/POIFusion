@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+亮剑驾校,103.184625,24.995166,,,,,,,,,,,3,30893
+亮剑驾校,103.184625,24.994966,,,,,,,,,,,3,60682

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+佳佳宁大药房狗街连锁店,103.14264399999999,24.787944,,,,,,,,,,,3,44425
+宜良县地税局四分局,103.142519,24.787360999999997,,,,,,,,,,,3,49398
+秋月幼儿园,103.142902,24.787587,,,,,,,,,,,3,50578

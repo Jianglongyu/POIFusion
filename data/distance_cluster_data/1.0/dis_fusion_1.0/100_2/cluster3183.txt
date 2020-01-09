@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+茂山镇客运站,102.50108900000001,25.664316,,,,,,,,,,,3,32958
+茂山镇客运站,102.50108900000001,25.664116,,,,,,,,,,,3,62747

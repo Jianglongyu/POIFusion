@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大众百草堂中西药房,103.05850799999999,25.230014999999998,,,,,,,,,,,3,23520
+大众百草堂中西药房,103.05850799999999,25.229815,,,,,,,,,,,3,43380

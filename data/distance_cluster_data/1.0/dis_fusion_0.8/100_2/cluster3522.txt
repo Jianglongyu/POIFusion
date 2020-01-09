@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世林国际别墅,102.848415,24.976089,,,,,,,,,,,1,2104
+世林国际别墅,102.848415,24.976289,,,,,,,,,,,1,56396

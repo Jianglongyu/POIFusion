@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙潭山庄,103.02266999999999,25.171,,,,,,,,,,,3,19278
+龙潭山庄,103.02266999999999,25.1708,,,,,,,,,,,3,49067

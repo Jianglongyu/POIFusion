@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明火车西站,102.645158,25.028413,,,,,,,,,,,3,32950
+昆明火车西站,102.645158,25.028213,,,,,,,,,,,3,62739

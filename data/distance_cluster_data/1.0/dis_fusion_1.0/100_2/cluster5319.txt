@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川清真寺,103.17605999999999,26.085278,,,,,,,,,,,3,27832
+东川清真寺,103.17605999999999,26.085078,,,,,,,,,,,3,57621

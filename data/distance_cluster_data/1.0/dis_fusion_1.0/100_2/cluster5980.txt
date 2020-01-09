@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+竹园逸夫小学,102.90956,25.825602,,,,,,,,,,,3,30501
+竹园逸夫小学,102.90956,25.825402,,,,,,,,,,,3,60290

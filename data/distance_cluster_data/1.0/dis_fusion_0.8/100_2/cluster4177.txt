@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+河口乡农机加油站,103.38441,25.634329,,,,,,,,,,,3,4803
+河口乡农机加油站,103.38441,25.634129,,,,,,,,,,,3,24663

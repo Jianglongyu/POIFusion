@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+麦场完小,103.262328,25.468857999999997,,,,,,,,,,,3,32763
+麦场完小,103.262328,25.468657999999998,,,,,,,,,,,3,62552

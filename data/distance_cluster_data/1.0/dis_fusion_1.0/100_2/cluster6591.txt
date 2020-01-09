@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+长湖镇中心学校,103.405284,24.710385,,,,,,,,,,,3,32314
+长湖镇中心学校,103.405284,24.710185,,,,,,,,,,,3,62103

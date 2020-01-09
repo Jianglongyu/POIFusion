@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明捷莉亚医院,102.502113,25.217064,,,,,,,,,,,3,25955
+富民县住建局房管所,102.502673,25.217163,,,,,,,,,,,3,32649
+富民县国土局,102.502771,25.217167,,,,,,,,,,,3,33012

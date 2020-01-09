@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+菩萨殿,102.694369,24.932222,,,,,,,,,,,3,28307
+菩萨殿,102.694369,24.932022,,,,,,,,,,,3,58096

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大渔公园,102.80341,24.82895,,,,,,,,,,,3,22200
+大渔公园,102.80341,24.82875,,,,,,,,,,,3,51989

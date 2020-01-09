@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仙湖人家,102.80107,24.85455,,,,,,,,,,,3,9773
+仙湖人家,102.80107,24.85435,,,,,,,,,,,3,17220

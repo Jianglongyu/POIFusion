@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+羊仙坡北路公交站,102.6848,25.082582000000002,,,,,,,,,,,1,1440
+羊仙坡北路公交站,102.6848,25.082782,,,,,,,,,,,1,48639

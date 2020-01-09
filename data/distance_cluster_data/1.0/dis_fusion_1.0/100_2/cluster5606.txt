@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县工商局,103.58930600000001,25.437592000000002,,,,,,,,,,,3,28992
+马龙县工商局,103.58930600000001,25.437392000000003,,,,,,,,,,,3,58781

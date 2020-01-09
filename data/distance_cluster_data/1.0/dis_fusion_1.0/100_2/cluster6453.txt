@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省农科院园艺作物研究所种苗中心,102.68202600000001,25.105939,,,,,,,,,,,3,31849
+云南省农科院园艺作物研究所种苗中心,102.68202600000001,25.105739,,,,,,,,,,,3,61638

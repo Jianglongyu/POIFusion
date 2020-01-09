@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+正宗大理白族风味欣龙分店,102.62467,25.011789999999998,,,,,,,,,,,3,12568
+正宗大理白族风味欣龙分店,102.62467,25.011589999999998,,,,,,,,,,,3,25335

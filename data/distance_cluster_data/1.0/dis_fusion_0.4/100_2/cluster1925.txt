@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+螺蛳湾国际商贸城,102.775596,24.941489,,,,,,,,,,,2,271
+富滇银行螺蛳湾彩云支行,102.77591,24.94145,,,,,,,,,,,3,41816
+螺蛳湾国际商贸城,102.775596,24.941689,,,,,,,,,,,2,42150

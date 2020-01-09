@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+台湾欧恪米兰国际美容集团特许加盟店,102.685261,25.016681,,,,,,,,,,,1,2012
+犀牛网吧,102.68502,25.016270000000002,,,,,,,,,,,3,24307
+船房社区贝贝幼儿园,102.68545400000001,25.016435,,,,,,,,,,,3,35829

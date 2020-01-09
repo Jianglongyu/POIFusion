@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马鸣卫生院,103.379396,25.271216,,,,,,,,,,,3,23757
+马鸣卫生院,103.379396,25.271016,,,,,,,,,,,3,43617
+马龙县马鸣乡纪检委,103.37925,25.270688,,,,,,,,,,,3,49229

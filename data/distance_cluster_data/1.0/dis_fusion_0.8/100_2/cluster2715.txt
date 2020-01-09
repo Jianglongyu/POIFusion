@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市森林公安局石林分局,103.268279,24.745668,,,,,,,,,,,3,48815
+石林县林业局,103.268279,24.745668,,,,,,,,,,,3,49175
+石林行政学校,103.267732,24.745269,,,,,,,,,,,3,51518

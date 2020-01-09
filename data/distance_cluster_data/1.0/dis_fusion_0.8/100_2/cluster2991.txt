@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市濒危动植物收容拯救中心,102.75616600000001,25.090360999999998,,,,,,,,,,,3,49643
+锦苑花卉产业公司研发中心,102.75616099999999,25.089986,,,,,,,,,,,3,51748

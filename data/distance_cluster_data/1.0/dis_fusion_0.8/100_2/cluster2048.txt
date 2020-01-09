@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+魔瘦专业减肥,102.73685,25.08517,,,,,,,,,,,3,19248
+魔瘦专业减肥,102.73685,25.084970000000002,,,,,,,,,,,3,39108
+银座OFFICE公园,102.73665,25.08598,,,,,,,,,,,3,48552
+亨德森外语学校银座教学区,102.736666,25.08602,,,,,,,,,,,3,51132

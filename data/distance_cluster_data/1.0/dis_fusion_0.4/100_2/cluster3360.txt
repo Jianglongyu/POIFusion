@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+服务区－广卫加油站,102.80170600000001,24.955972,,,,,,,,,,,3,4749
+服务区－广卫加油站,102.80170600000001,24.955772,,,,,,,,,,,3,12196

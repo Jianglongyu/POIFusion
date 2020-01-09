@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆电加油站,102.625601,24.997478,,,,,,,,,,,3,4939
+昆电加油站,102.625601,24.997278,,,,,,,,,,,3,8249

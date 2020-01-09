@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三家村加油站,103.335238,24.842322,,,,,,,,,,,3,5086
+三家村加油站,103.335238,24.842122,,,,,,,,,,,3,17853

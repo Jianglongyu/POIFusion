@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+好药家健康药房板桥NO．1,103.25824200000001,24.683104,,,,,,,,,,,3,33407
+板桥农业技术推广站,103.25819399999999,24.68327,,,,,,,,,,,3,36824

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆西医学综合诊所,102.6901,25.007194,,,,,,,,,,,3,23680
+昆西医学综合诊所,102.6901,25.006994,,,,,,,,,,,3,43540

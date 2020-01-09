@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁文庙,102.487305,24.923223,,,,,,,,,,,3,48179
+安宁市档案局,102.48758199999999,24.922710000000002,,,,,,,,,,,3,48797
+安宁市民族宗教事务局,102.48758199999999,24.922710000000002,,,,,,,,,,,3,48882

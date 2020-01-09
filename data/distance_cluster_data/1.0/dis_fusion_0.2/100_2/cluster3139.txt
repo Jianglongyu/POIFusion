@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仙湖加油站,102.917971,24.652998,,,,,,,,,,,3,4713
+仙湖加油站,102.917971,24.652798,,,,,,,,,,,3,8023

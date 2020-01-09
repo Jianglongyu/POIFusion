@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明学院洋浦校区,102.807793,24.993953,,,,,,,,,,,1,2836
+昆明学院洋浦校区,102.807793,24.994153,,,,,,,,,,,1,57128

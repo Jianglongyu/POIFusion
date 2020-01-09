@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+聚美食坊,102.70416,25.04455,,,,,,,,,,,3,15386
+超逸网吧,102.70411999999999,25.045360000000002,,,,,,,,,,,3,23328
+吉康国际养生NO．9,102.70391,25.04495,,,,,,,,,,,3,23704

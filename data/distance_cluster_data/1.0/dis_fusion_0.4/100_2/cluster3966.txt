@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+怡景园度假酒店－大堂吧,102.66181,24.981389999999998,,,,,,,,,,,3,7934
+怡景园度假酒店－大堂吧,102.66181,24.981189999999998,,,,,,,,,,,3,15381

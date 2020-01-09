@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+麦当劳 金碧辉煌店,102.716741,25.040758,,,,,,,,,,,1,2554
+五华区明德幼儿园,102.716797,25.040627999999998,,,,,,,,,,,3,34528

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明官渡古镇大酒店,102.766891,24.961308,,,,,,,,,,,1,3183
+荣安竹韵民族管乐教学培训中心,102.76662900000001,24.960485000000002,,,,,,,,,,,3,43827

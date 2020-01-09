@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天兴饭店,102.76,25.02276,,,,,,,,,,,3,9602
+天兴饭店,102.76,25.022560000000002,,,,,,,,,,,3,29462

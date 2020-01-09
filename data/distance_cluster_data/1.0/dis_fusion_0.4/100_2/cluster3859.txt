@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区菜园社区卫生站,103.06787299999999,26.177913,,,,,,,,,,,3,31433
+昆明市东川区公安局汤丹派出所,103.068214,26.177471,,,,,,,,,,,3,36727

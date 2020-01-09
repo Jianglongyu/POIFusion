@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市公安局倘甸产业园区分局轿子山旅游开发分局倘甸派出所,102.925719,25.764838,,,,,,,,,,,3,36826
+寻甸回族彝族自治县公安局交警大队倘甸中队,102.925848,25.765087,,,,,,,,,,,3,37315

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+恒通中基地产仟村佳宇小区,102.70303299999999,25.001928,,,,,,,,,,,1,3740
+恒通中基地产仟村佳宇小区,102.70303299999999,25.002128,,,,,,,,,,,1,67961

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小哨邮政所,102.985222,25.181647,,,,,,,,,,,2,563
+小哨邮政所,102.985222,25.181847,,,,,,,,,,,2,42442

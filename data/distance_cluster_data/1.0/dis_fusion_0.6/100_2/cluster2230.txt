@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市图书馆,102.7341261,25.0400658,,,,,,,,,,,1,2946
+和平酒店,102.73356,25.04048,,,,,,,,,,,3,39264
+昆明长途通信枢纽大楼,102.73398,25.04087,,,,,,,,,,,3,41194

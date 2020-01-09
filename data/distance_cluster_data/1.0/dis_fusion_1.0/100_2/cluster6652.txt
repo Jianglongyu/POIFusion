@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市第九中学,102.692138,24.934260000000002,,,,,,,,,,,3,32529
+昆明市第九中学,102.692138,24.934060000000002,,,,,,,,,,,3,62318

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+信息产业基地展示厅公交站,102.84064599999999,24.974126000000002,,,,,,,,,,,1,1525
+信息产业基地展示厅公交站,102.84064599999999,24.974326,,,,,,,,,,,1,65746

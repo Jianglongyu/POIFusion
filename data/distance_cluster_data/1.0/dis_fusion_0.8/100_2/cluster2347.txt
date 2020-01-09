@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南弘旭大酒店,102.72792199999999,25.013763,,,,,,,,,,,1,1127
+福苑小区,102.727097,25.013831,,,,,,,,,,,1,4004
+云南弘旭大酒店,102.72792199999999,25.013963,,,,,,,,,,,1,55419

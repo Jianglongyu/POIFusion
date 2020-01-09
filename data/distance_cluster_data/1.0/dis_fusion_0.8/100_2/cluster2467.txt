@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红星国际,102.67890890000001,24.99488778,,,,,,,,,,,1,3715
+臻爱美容SPA养生馆昆明店,102.67907,24.99461,,,,,,,,,,,3,21903
+臻爱美容SPA养生馆昆明店,102.67907,24.994410000000002,,,,,,,,,,,3,41763

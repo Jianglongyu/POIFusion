@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世纪金源朱鲁爱心小学,102.800993,25.73016,,,,,,,,,,,3,31207
+世纪金源朱鲁爱心小学,102.800993,25.729960000000002,,,,,,,,,,,3,60996

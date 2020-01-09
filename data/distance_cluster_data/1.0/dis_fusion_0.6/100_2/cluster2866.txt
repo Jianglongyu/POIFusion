@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+棕树营小区,102.68599300000001,25.043569,,,,,,,,,,,1,625
+棕树营小区,102.68599300000001,25.043769,,,,,,,,,,,1,47824

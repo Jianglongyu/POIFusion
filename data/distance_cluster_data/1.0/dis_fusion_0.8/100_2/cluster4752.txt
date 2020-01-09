@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+运动员餐厅,102.88946999999999,24.875970000000002,,,,,,,,,,,3,15637
+运动员餐厅,102.88946999999999,24.875770000000003,,,,,,,,,,,3,35497

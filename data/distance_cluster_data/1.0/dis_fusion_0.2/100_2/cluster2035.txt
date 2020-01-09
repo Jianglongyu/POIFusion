@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万溪冲小学,102.878484,24.81997,,,,,,,,,,,3,36075
+田园居农家乐,102.8774,24.820320000000002,,,,,,,,,,,3,24677
+回龙寺,102.878331,24.8203,,,,,,,,,,,3,31621

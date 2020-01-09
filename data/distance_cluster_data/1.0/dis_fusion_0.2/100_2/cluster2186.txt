@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一片天足浴,102.84366,24.88794,,,,,,,,,,,3,22203
+中国农业银行ATM,102.84366999999999,24.8884,,,,,,,,,,,3,36743
+云南省农村信用社ATM,102.8439,24.888379999999998,,,,,,,,,,,3,37513

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市第三人民医院东区－营养食堂,102.58845,24.95306,,,,,,,,,,,3,11156
+昆明市第三人民医院东区－营养食堂,102.58845,24.95286,,,,,,,,,,,3,31016

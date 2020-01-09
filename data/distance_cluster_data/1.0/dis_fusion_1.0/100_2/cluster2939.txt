@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+农村信用社ATM,102.68336,25.01047,,,,,,,,,,,3,33008
+农村信用社ATM,102.68336,25.010270000000002,,,,,,,,,,,3,62797
+昆明保利国际影城,102.68404770000001,25.01064427,,,,,,,,,,,1,67478

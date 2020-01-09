@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+者纳万达希望小学,102.818539,25.360353,,,,,,,,,,,3,31979
+者纳万达希望小学,102.818539,25.360153,,,,,,,,,,,3,61768

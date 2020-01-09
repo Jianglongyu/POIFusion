@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马来西亚,102.77611999999999,25.081495999999998,,,,,,,,,,,1,2561
+马来西亚,102.77611999999999,25.081695999999997,,,,,,,,,,,1,56853

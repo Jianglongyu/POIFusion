@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+湘川菜馆,102.76861,24.92686,,,,,,,,,,,3,14413
+宣威佳阳菜馆,102.76850999999999,24.92685,,,,,,,,,,,3,17376

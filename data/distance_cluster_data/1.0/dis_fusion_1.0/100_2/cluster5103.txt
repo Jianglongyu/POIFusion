@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鑫银饭店,102.85465,24.99533,,,,,,,,,,,3,8975
+鑫银饭店,102.85465,24.99513,,,,,,,,,,,3,38764

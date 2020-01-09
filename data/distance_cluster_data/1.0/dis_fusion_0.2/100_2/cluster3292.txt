@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安丰营加油站,102.28927900000001,24.967648999999998,,,,,,,,,,,3,4903
+安丰营加油站,102.28927900000001,24.967449,,,,,,,,,,,3,8213

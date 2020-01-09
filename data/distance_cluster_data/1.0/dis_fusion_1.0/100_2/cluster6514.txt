@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+亨德森外国语学校,102.595264,24.666563,,,,,,,,,,,3,32066
+亨德森外国语学校,102.595264,24.666363,,,,,,,,,,,3,61855

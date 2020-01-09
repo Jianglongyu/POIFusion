@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福保健康城,102.68845,24.93601,,,,,,,,,,,3,25181
+福保大剧院,102.68848,24.9366,,,,,,,,,,,3,26461
+温泉度假酒店,102.68856,24.93575,,,,,,,,,,,3,34524

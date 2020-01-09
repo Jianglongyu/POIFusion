@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝撒营盘益民药店,102.525752,26.001272,,,,,,,,,,,3,24554
+禄劝撒营盘益民药店,102.525752,26.001072,,,,,,,,,,,3,54343

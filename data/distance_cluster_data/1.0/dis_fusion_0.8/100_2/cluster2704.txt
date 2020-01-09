@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西门诊所,102.408913,25.532307,,,,,,,,,,,3,24131
+西门诊所,102.408913,25.532107,,,,,,,,,,,3,43991
+武定大同医院,102.408771,25.532920999999998,,,,,,,,,,,3,45283

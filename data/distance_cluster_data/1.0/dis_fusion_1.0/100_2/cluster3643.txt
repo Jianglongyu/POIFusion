@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+学府小区,102.683353,25.0687,,,,,,,,,,,1,1467
+学府小区,102.683353,25.0689,,,,,,,,,,,1,65688

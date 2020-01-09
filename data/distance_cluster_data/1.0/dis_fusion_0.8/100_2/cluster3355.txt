@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鑫龙小区,102.68802,25.004491,,,,,,,,,,,1,1534
+鑫龙小区,102.68802,25.004691,,,,,,,,,,,1,55826

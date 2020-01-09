@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+星雅俊园,102.7238083,25.05636597,,,,,,,,,,,1,1506
+GUCCI 时光店,102.7233429,25.05708885,,,,,,,,,,,1,4603

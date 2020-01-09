@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大庄小学,102.703689,24.513571,,,,,,,,,,,3,32634
+大庄小学,102.703689,24.513371,,,,,,,,,,,3,62423

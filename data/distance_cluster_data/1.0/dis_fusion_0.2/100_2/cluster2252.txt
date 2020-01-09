@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明友林摔跤俱乐部,102.68213,24.96579,,,,,,,,,,,3,23985
+云南高尔夫学院,102.682125,24.965787,,,,,,,,,,,3,33961
+中国银行ATM,102.68139000000001,24.965429999999998,,,,,,,,,,,3,36888

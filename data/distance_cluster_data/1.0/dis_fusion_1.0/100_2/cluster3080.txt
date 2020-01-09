@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡区实验学校,102.848466,24.869035999999998,,,,,,,,,,,3,32849
+呈贡区实验学校,102.848466,24.868835999999998,,,,,,,,,,,3,62638

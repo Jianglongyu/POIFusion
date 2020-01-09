@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区乌龙镇人口计生委,103.09746700000001,26.02242,,,,,,,,,,,3,28756
+东川区乌龙镇人口计生委,103.09746700000001,26.02222,,,,,,,,,,,3,58545

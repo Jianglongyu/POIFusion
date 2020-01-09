@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+博富新商贸街,102.76456999999999,24.997159,,,,,,,,,,,1,4414
+晓东小学,102.76351600000001,24.998225,,,,,,,,,,,1,1607
+湘汁湘味,102.76398,24.99781,,,,,,,,,,,3,11614

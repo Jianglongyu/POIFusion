@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南茶酒副食批发市场,102.780079,24.990214,,,,,,,,,,,1,1183
+云南茶酒副食批发市场,102.780079,24.990414,,,,,,,,,,,1,65404

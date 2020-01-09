@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+玉溪溶洞,102.63915899999999,24.470848,,,,,,,,,,,3,28321
+玉溪溶洞,102.63915899999999,24.470648,,,,,,,,,,,3,58110

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+袁文梁诊所,102.71234,24.996892000000003,,,,,,,,,,,3,23764
+西山区雅克口腔诊所,102.712329,24.997018999999998,,,,,,,,,,,3,23880
+欣馨新壹潮,102.71215,24.99774,,,,,,,,,,,3,35741

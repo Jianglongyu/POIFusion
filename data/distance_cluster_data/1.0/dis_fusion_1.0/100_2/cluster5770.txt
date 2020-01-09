@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡工业园区管委会,102.92309300000001,24.960532999999998,,,,,,,,,,,3,29816
+呈贡工业园区管委会,102.92309300000001,24.960333,,,,,,,,,,,3,59605

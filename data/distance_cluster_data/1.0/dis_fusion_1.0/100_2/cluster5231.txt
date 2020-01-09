@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牧雨春田会所,103.0273,25.24656,,,,,,,,,,,3,26436
+牧雨春田会所,103.0273,25.24636,,,,,,,,,,,3,56225

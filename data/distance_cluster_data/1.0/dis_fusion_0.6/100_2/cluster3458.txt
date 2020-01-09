@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+竞达·星光雅园,102.754074,25.046451,,,,,,,,,,,1,3359
+昆明市艺术学校,102.753352,25.046699,,,,,,,,,,,3,44827

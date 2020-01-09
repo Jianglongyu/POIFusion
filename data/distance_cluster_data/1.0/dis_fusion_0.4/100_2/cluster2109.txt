@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市妇幼保健院,102.71374200000001,25.052238,,,,,,,,,,,1,3032
+昆明石林风景区,102.713787,25.051816,,,,,,,,,,,1,3072
+顾品珍故居旧址,102.71377199999999,25.051578,,,,,,,,,,,1,3930

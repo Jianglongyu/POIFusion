@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小街中心卫生院,103.128226,25.306214,,,,,,,,,,,3,25350
+小街中心卫生院,103.128226,25.306014,,,,,,,,,,,3,55139

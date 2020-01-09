@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+烤功夫全国连锁昆明总店,102.76926999999999,25.00886,,,,,,,,,,,3,7102
+烤功夫全国连锁昆明总店,102.76926999999999,25.00866,,,,,,,,,,,3,19869
+铭春酒店彩云店,102.76908,25.0087,,,,,,,,,,,3,39558

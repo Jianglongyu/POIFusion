@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省建筑技工学校,102.766465,25.106045,,,,,,,,,,,3,30397
+云南省建筑技工学校,102.766465,25.105845000000002,,,,,,,,,,,3,60186

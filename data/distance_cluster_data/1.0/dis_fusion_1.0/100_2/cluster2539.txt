@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+欣鑫小吃店,102.77694,24.9534,,,,,,,,,,,3,8124
+石建风味,102.77695,24.95348,,,,,,,,,,,3,8933
+欣鑫小吃店,102.77694,24.9532,,,,,,,,,,,3,37913
+石建风味,102.77695,24.95328,,,,,,,,,,,3,38722

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆北公寓餐厅,102.71994000000001,25.05761,,,,,,,,,,,3,6112
+昆明铁路局昆明生活段昆明中心公寓,102.72024,25.05725,,,,,,,,,,,3,27444
+昆北公寓餐厅,102.71994000000001,25.05741,,,,,,,,,,,3,35901

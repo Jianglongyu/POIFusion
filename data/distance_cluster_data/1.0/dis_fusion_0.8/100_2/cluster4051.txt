@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昌盛加油站,102.405907,25.520498999999997,,,,,,,,,,,3,4653
+昌盛加油站,102.405907,25.520298999999998,,,,,,,,,,,3,24513

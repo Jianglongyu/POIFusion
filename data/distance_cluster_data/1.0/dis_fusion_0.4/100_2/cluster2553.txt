@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+融创春风十里,102.66763,25.084679,,,,,,,,,,,2,311
+融创春风十里,102.66763,25.084879,,,,,,,,,,,2,42190

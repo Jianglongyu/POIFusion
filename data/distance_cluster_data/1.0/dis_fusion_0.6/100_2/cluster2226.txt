@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+会泽山羊香锅,102.65198000000001,25.088549999999998,,,,,,,,,,,3,11048
+金牛火锅,102.65205999999999,25.0887,,,,,,,,,,,3,12631
+金牛火锅,102.65205999999999,25.0885,,,,,,,,,,,3,25398

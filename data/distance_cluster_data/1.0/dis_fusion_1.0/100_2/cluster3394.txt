@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中信银行ATM,103.01109,25.24107,,,,,,,,,,,3,33341
+中信银行ATM,103.01109,25.24087,,,,,,,,,,,3,63130

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天达加油站,102.374721,24.93742,,,,,,,,,,,3,4705
+天达加油站,102.374721,24.93722,,,,,,,,,,,3,34494

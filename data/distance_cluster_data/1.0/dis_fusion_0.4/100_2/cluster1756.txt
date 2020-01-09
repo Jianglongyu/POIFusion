@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县汤池派出所,103.046266,24.955377,,,,,,,,,,,3,37375
+庆丰园牛菜馆,103.04536,24.95616,,,,,,,,,,,3,21353
+兰福温泉农家园,103.04598,24.95579,,,,,,,,,,,3,22133
+小黎旅馆,103.04551,24.95617,,,,,,,,,,,3,35067

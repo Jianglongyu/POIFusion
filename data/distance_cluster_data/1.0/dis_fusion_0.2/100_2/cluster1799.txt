@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+水上乐园,102.63919,25.14029,,,,,,,,,,,3,24910
+火焰山休闲农家园,102.6389,25.1414,,,,,,,,,,,3,24909
+西游洞售票处,102.63908,25.140973000000002,,,,,,,,,,,3,31285

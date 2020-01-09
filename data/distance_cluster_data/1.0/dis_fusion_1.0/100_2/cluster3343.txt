@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小海口公交站,102.54287099999999,24.85363,,,,,,,,,,,2,519
+小海口公交站,102.54287099999999,24.85383,,,,,,,,,,,2,64740

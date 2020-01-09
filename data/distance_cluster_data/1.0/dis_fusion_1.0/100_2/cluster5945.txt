@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+梅子小学,102.788914,24.892412,,,,,,,,,,,3,30428
+梅子小学,102.788914,24.892212,,,,,,,,,,,3,60217

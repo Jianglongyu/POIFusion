@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸倘甸新兴加油站,102.924811,25.774942,,,,,,,,,,,3,5016
+寻甸倘甸新兴加油站,102.924811,25.774742,,,,,,,,,,,3,24876

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+时尚名剪,102.74882,24.92415,,,,,,,,,,,3,20072
+佳丽嘉馨月美容馆,102.7486,24.92391,,,,,,,,,,,3,24993
+官渡区龙应园诊所,102.748834,24.924344,,,,,,,,,,,3,25999
+华丰康林大药房,102.748427,24.923857,,,,,,,,,,,3,26561

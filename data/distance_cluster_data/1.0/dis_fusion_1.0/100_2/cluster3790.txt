@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+思茅家常菜馆,102.75524899999999,25.079628,,,,,,,,,,,1,2046
+思茅家常菜馆,102.75524899999999,25.079828,,,,,,,,,,,1,66267

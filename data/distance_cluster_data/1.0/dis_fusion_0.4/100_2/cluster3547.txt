@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万里达石油,102.964774,24.952965,,,,,,,,,,,3,4990
+万里达石油,102.964774,24.952765,,,,,,,,,,,3,12437

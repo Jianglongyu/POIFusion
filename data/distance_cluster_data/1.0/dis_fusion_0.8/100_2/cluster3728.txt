@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明消防指挥学校,102.835368,25.002047,,,,,,,,,,,1,2857
+昆明消防指挥学校,102.835368,25.002247,,,,,,,,,,,1,57149

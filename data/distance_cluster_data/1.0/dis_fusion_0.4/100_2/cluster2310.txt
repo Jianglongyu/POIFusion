@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川康复门诊,103.180374,26.079916,,,,,,,,,,,3,31116
+健之佳健康药房,103.179872,26.080676,,,,,,,,,,,3,32402
+昆明市新村林区派出所,103.180903,26.080174,,,,,,,,,,,3,36648

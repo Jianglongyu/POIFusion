@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县鹿阜镇大哨小学,103.278534,24.891985000000002,,,,,,,,,,,3,30409
+石林县鹿阜镇大哨小学,103.278534,24.891785000000002,,,,,,,,,,,3,60198

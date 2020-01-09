@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+特安呐酒店－餐厅,102.73111,25.00185,,,,,,,,,,,3,12311
+特安呐酒店－餐厅,102.73111,25.00165,,,,,,,,,,,3,42100

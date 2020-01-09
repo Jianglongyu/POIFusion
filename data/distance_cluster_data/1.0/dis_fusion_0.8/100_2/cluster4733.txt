@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+八街方金兰药店,102.362183,24.660895999999997,,,,,,,,,,,3,23770
+八街方金兰药店,102.362183,24.660695999999998,,,,,,,,,,,3,43630

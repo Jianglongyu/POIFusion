@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+近华园,102.6810455,25.04474831,,,,,,,,,,,2,213
+近华园,102.6810455,25.04494831,,,,,,,,,,,2,64434

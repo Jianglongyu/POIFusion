@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东风云南汽车公司职工食堂,102.64859,25.05911,,,,,,,,,,,3,17851
+一心堂,102.64850600000001,25.058829,,,,,,,,,,,3,27592
+中国工商银行ATM,102.6487,25.05973,,,,,,,,,,,3,37015

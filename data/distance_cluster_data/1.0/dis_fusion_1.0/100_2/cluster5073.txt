@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西街口镇卫生院,103.51422600000001,24.824148,,,,,,,,,,,3,25130
+西街口镇卫生院,103.51422600000001,24.823948,,,,,,,,,,,3,54919

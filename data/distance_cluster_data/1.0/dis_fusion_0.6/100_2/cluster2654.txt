@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三甲农家园,102.73737,24.96594,,,,,,,,,,,3,8457
+三甲农家园,102.73737,24.96574,,,,,,,,,,,3,21224

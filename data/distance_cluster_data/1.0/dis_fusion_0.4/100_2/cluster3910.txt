@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大村村民委员会卫生所,102.654772,25.160325,,,,,,,,,,,3,31780
+大村小学,102.65440799999999,25.160418,,,,,,,,,,,3,39101

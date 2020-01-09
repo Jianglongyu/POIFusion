@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+连云宾馆八号楼,102.714919,25.057959,,,,,,,,,,,1,2664
+廊美青年酒店,102.71419,25.05848,,,,,,,,,,,1,2727
+天宇广场,102.71491,25.05823,,,,,,,,,,,3,36115

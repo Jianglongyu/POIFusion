@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+童忆幼儿园,103.262951,25.535757999999998,,,,,,,,,,,3,32573
+童忆幼儿园,103.262951,25.535557999999998,,,,,,,,,,,3,62362

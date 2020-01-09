@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+真续寺,102.391636,25.530904,,,,,,,,,,,3,28212
+真续寺,102.391636,25.530704,,,,,,,,,,,3,58001

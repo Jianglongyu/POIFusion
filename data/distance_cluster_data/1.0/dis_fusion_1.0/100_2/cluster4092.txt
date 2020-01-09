@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明宝象陶瓷批发商城,102.815613,24.99382,,,,,,,,,,,1,3258
+昆明宝象陶瓷批发商城,102.815613,24.99402,,,,,,,,,,,1,67479

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+所各邑小学,103.377563,24.722151,,,,,,,,,,,3,32833
+所各邑小学,103.377563,24.721951,,,,,,,,,,,3,62622

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+彝乡牛汤锅普吉店,102.67137,25.094070000000002,,,,,,,,,,,3,12626
+彝乡牛汤锅普吉店,102.67137,25.093870000000003,,,,,,,,,,,3,25393
+军威温泉水疗会所,102.67137,25.093870000000003,,,,,,,,,,,3,35010

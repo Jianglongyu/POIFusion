@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+官庄小学,102.69833299999999,24.999102,,,,,,,,,,,3,44545
+世纪半岛苹果谷,102.697316,24.999368,,,,,,,,,,,1,2121
+馨缘耀府,102.6978,24.99982,,,,,,,,,,,3,12592
+馨缘耀府,102.6978,24.99962,,,,,,,,,,,3,25359

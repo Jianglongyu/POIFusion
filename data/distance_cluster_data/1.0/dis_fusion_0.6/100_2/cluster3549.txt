@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福瑞鑫茶庄,102.726139,25.067273999999998,,,,,,,,,,,1,4014
+傣香贡米园,102.725639,25.067173999999998,,,,,,,,,,,1,4215

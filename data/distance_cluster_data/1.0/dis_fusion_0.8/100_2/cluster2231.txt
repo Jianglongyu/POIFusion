@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+馥莎诊所,102.754112,24.978021,,,,,,,,,,,3,23825
+馥莎诊所,102.754112,24.977821,,,,,,,,,,,3,43685
+古溪寺,102.75363,24.978015,,,,,,,,,,,3,47912
+昆明永中天成学校,102.753778,24.977752,,,,,,,,,,,3,51075

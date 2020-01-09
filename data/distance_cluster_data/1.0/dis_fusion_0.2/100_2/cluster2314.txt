@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤舞蓝天舞厅,102.73024000000001,25.0654,,,,,,,,,,,3,24638
+天骄凯撒宫,102.7302,25.06537,,,,,,,,,,,3,24986

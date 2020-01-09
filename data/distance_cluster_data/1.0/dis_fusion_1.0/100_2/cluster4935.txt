@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+民心平价大药房,103.252585,25.919306,,,,,,,,,,,3,23851
+民心平价大药房,103.252585,25.919106,,,,,,,,,,,3,53640

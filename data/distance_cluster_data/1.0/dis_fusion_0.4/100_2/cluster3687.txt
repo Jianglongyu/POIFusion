@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+时家湾继兴诊所,102.747023,24.985871,,,,,,,,,,,3,30015
+溪源大药房,102.747226,24.98658,,,,,,,,,,,3,33388

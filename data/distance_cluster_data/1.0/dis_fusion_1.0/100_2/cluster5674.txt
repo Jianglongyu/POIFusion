@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝工业园区管委会,102.509787,25.495182,,,,,,,,,,,3,29349
+禄劝工业园区管委会,102.509787,25.494982,,,,,,,,,,,3,59138

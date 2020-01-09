@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林镇乐尔村小学,103.315786,24.834176,,,,,,,,,,,3,30454
+石林镇乐尔村小学,103.315786,24.833976,,,,,,,,,,,3,60243

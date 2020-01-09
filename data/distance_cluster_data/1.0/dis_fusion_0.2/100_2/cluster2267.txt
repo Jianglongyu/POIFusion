@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+缪记农家园,102.63831,24.959979999999998,,,,,,,,,,,3,7884
+缪记农家园,102.63831,24.95978,,,,,,,,,,,3,11194
+抚仙湖洞水石锅鱼庄,102.6382,24.96007,,,,,,,,,,,3,13505

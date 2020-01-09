@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区福盈国药店,103.186959,26.081245,,,,,,,,,,,3,23526
+东川区福盈国药店,103.186959,26.081045,,,,,,,,,,,3,43386
+东川区老年大学,103.187016,26.081858,,,,,,,,,,,3,52014

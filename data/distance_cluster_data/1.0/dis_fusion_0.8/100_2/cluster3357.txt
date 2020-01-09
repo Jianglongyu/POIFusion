@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+馨安苑(东门),102.700663,24.998831,,,,,,,,,,,1,1538
+馨安苑(东门),102.700663,24.999031,,,,,,,,,,,1,55830

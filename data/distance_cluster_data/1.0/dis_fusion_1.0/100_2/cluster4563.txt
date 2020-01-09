@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴新加油站,102.546869,24.420157,,,,,,,,,,,3,4890
+兴新加油站,102.546869,24.419957,,,,,,,,,,,3,34679

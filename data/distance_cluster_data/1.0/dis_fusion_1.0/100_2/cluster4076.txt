@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明官渡农村合作银行鸣泉分理处,102.784814,24.991827999999998,,,,,,,,,,,1,3181
+昆明官渡农村合作银行鸣泉分理处,102.784814,24.992027999999998,,,,,,,,,,,1,67402

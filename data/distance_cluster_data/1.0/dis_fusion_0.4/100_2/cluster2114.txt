@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明高新技术产业开发区民办园十号,102.84822700000001,24.978279999999998,,,,,,,,,,,1,3194
+高新民办科技园9号,102.847866,24.97791,,,,,,,,,,,1,3971
+怡心园大酒店,102.84787,24.978579999999997,,,,,,,,,,,3,21077

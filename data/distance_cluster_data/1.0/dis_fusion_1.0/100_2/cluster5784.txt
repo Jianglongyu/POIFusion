@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明泛亚科技新区管委会,102.659589,25.092854,,,,,,,,,,,3,29874
+昆明泛亚科技新区管委会,102.659589,25.092654,,,,,,,,,,,3,59663

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+仙湖农家园,102.89202,25.05647,,,,,,,,,,,3,10272
+仙湖农家园,102.89202,25.05627,,,,,,,,,,,3,40061

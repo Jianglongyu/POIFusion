@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+秋月幼儿园,103.142843,24.814618,,,,,,,,,,,3,31977
+秋月幼儿园,103.142843,24.814418,,,,,,,,,,,3,61766

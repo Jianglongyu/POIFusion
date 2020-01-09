@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三多机动车驾驶员培训基地,102.697004,25.190466,,,,,,,,,,,3,43132
+五华区三多小学,102.696764,25.190784,,,,,,,,,,,3,44743

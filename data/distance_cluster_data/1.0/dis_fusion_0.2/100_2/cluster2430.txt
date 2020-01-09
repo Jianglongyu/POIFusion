@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福良牛菜馆,102.63074,25.0287,,,,,,,,,,,3,16678
+YOOKA,102.63039,25.02806,,,,,,,,,,,3,37721

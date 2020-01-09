@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+生物谷,102.768475,25.096742000000003,,,,,,,,,,,1,2180
+生物谷,102.768475,25.096942000000002,,,,,,,,,,,1,66401

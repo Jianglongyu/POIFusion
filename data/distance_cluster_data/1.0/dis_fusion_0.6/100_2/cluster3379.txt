@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金福禄餐厅,102.7434,24.999689999999998,,,,,,,,,,,3,11058
+金福禄餐厅,102.7434,24.999489999999998,,,,,,,,,,,3,23825

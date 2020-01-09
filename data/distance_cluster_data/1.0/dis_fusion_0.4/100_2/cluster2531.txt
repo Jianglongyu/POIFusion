@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蓝光林肯公园,102.763185,25.104541,,,,,,,,,,,2,247
+蓝光林肯公园,102.763185,25.104741,,,,,,,,,,,2,42126

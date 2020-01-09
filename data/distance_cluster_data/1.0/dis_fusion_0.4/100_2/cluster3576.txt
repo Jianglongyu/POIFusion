@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西南职业技术培训学校,102.752368,25.019296,,,,,,,,,,,3,37797
+亚太商务管理学校东校区,102.752368,25.019296,,,,,,,,,,,3,40162

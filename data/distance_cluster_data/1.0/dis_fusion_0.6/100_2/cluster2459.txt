@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+梁源传统酸菜糊辣鱼总店,102.65876999999999,25.04106,,,,,,,,,,,3,6294
+梁源传统酸菜糊辣鱼总店,102.65876999999999,25.040860000000002,,,,,,,,,,,3,19061
+开开宝药堂兴隆店,102.658602,25.040584,,,,,,,,,,,3,36731

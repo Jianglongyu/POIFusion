@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆药宾馆,102.64233,25.0433,,,,,,,,,,,3,27235
+岷山加油站,102.643041,25.044124,,,,,,,,,,,3,4864
+岷山加油站,102.643041,25.043924,,,,,,,,,,,3,34653
+昆药宾馆,102.64233,25.0431,,,,,,,,,,,3,57024

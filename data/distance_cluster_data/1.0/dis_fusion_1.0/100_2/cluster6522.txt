@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明医学院呈贡校区南门,102.82949,24.843123000000002,,,,,,,,,,,3,32097
+昆明医学院呈贡校区南门,102.82949,24.842923000000003,,,,,,,,,,,3,61886

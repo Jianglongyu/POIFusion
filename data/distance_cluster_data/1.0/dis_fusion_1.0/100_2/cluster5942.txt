@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国人寿云南省分公司教育培训基地,102.720453,25.080563,,,,,,,,,,,3,30416
+中国人寿云南省分公司教育培训基地,102.720453,25.080363000000002,,,,,,,,,,,3,60205

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴琦源石化加油站,102.883907,25.292307,,,,,,,,,,,3,4944
+兴琦源石化加油站,102.883907,25.292107,,,,,,,,,,,3,24804

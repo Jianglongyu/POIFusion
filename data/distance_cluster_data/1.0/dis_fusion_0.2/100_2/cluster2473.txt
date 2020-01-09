@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+王大桥小区,102.768364,25.05376244,,,,,,,,,,,2,377
+王大桥小区,102.768364,25.05396244,,,,,,,,,,,2,38119

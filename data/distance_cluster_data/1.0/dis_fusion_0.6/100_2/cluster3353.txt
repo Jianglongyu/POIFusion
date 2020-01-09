@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+哈前村卫生所,103.11626700000001,25.319605,,,,,,,,,,,3,35484
+小博士幼儿园,103.117151,25.319924,,,,,,,,,,,3,42999

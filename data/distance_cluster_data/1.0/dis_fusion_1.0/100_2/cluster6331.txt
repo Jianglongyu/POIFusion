@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+河口金苹果幼儿园,103.378404,25.639792999999997,,,,,,,,,,,3,31532
+河口金苹果幼儿园,103.378404,25.639592999999998,,,,,,,,,,,3,61321

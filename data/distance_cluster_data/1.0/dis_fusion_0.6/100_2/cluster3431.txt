@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华区健康源泉大药房,102.672312,25.062575,,,,,,,,,,,3,35960
+虹光诊所,102.672363,25.062655,,,,,,,,,,,3,38860

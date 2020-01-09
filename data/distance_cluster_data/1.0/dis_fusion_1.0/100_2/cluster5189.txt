@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+汤医生诊所,102.875527,25.292976,,,,,,,,,,,3,25953
+汤医生诊所,102.875527,25.292776,,,,,,,,,,,3,55742

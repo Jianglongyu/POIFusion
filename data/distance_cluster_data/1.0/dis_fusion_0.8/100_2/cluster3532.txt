@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+实力上筑1号门,102.763271,25.090545000000002,,,,,,,,,,,1,2134
+实力上筑1号门,102.763271,25.090745000000002,,,,,,,,,,,1,56426

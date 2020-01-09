@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝九龙客运站,102.800256,25.743659,,,,,,,,,,,3,32960
+禄劝九龙客运站,102.800256,25.743459,,,,,,,,,,,3,62749

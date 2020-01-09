@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+都市春天,102.67969709999998,25.0743495,,,,,,,,,,,2,95
+大理桥月鸡火锅,102.68002,25.074270000000002,,,,,,,,,,,3,13503
+都市春天,102.67969709999998,25.0745495,,,,,,,,,,,2,37837

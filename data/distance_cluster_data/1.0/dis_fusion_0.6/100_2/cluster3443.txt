@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+呈贡县中卫小学,102.777588,24.758602,,,,,,,,,,,3,44233
+农村信用社中卫分社,102.77794,24.75865,,,,,,,,,,,3,46264

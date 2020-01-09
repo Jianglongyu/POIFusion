@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+茂平妙药堂,102.47364,25.557443,,,,,,,,,,,3,25890
+茂平妙药堂,102.47364,25.557243,,,,,,,,,,,3,55679

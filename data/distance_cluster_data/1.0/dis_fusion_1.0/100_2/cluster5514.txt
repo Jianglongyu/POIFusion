@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+古灵寺,103.22760799999999,25.333648999999998,,,,,,,,,,,3,28371
+古灵寺,103.22760799999999,25.333448999999998,,,,,,,,,,,3,58160

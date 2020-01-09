@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华区平玻小学,102.644992,25.051907999999997,,,,,,,,,,,3,31359
+五华区平玻小学,102.644992,25.051707999999998,,,,,,,,,,,3,61148

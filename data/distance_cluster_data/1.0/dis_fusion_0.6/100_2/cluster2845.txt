@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明太平大西部建材城,102.591803,24.963510999999997,,,,,,,,,,,2,587
+昆明太平大西部建材城,102.591803,24.963710999999996,,,,,,,,,,,2,47786

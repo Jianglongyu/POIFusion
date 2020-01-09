@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+同乐园茶艺吧,102.743492,25.15181,,,,,,,,,,,1,1922
+昆明玉器城,102.74290400000001,25.152416,,,,,,,,,,,1,2809

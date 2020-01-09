@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+卧云山旅游区,102.50205600000001,25.123785,,,,,,,,,,,1,1800
+卧云山旅游区,102.50205600000001,25.123985,,,,,,,,,,,1,48999

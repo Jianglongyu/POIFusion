@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+怒族石板烤粑粑,102.66128,24.966379999999997,,,,,,,,,,,3,15784
+怒族石板烤粑粑,102.66128,24.966179999999998,,,,,,,,,,,3,35644
+杜鹃王树艺,102.661043,24.96687,,,,,,,,,,,3,48200

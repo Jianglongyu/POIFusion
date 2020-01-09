@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+羊汤锅,102.65731,24.96839,,,,,,,,,,,3,6771
+羊汤锅,102.65731,24.96819,,,,,,,,,,,3,10081

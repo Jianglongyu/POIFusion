@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明实验外语学校,102.98741700000001,25.152192000000003,,,,,,,,,,,2,565
+昆明实验外语学校,102.98741700000001,25.152392000000003,,,,,,,,,,,2,54857

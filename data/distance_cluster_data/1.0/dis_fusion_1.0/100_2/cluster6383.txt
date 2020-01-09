@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金山生态园－餐厅,102.97913,25.24863,,,,,,,,,,,3,15289
+金山生态园－餐厅,102.97913,25.24843,,,,,,,,,,,3,45078

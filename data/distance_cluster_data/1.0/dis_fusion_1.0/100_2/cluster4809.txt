@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东航心意餐厅,102.91726,25.08981,,,,,,,,,,,3,6308
+东航心意餐厅,102.91726,25.08961,,,,,,,,,,,3,36097

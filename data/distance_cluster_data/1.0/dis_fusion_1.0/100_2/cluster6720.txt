@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+右所中心小学,102.932773,24.643397,,,,,,,,,,,3,32638
+右所中心小学,102.932773,24.643197,,,,,,,,,,,3,62427

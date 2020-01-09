@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东华小学金色交响校区,102.767864,25.044912,,,,,,,,,,,3,31844
+东华小学金色交响校区,102.767864,25.044712,,,,,,,,,,,3,61633

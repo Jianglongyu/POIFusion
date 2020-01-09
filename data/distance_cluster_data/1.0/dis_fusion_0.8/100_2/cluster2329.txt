@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+瑞祥源菜馆,102.83253,24.92654,,,,,,,,,,,3,8989
+瑞祥源菜馆,102.83253,24.92634,,,,,,,,,,,3,28849
+昆明市呈贡县工商局洛龙工商所,102.8332,24.926117,,,,,,,,,,,3,49241

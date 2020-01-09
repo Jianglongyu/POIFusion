@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+翠峰生态公园,102.630143,25.017607,,,,,,,,,,,1,4300
+翠峰生态公园,102.630143,25.017807,,,,,,,,,,,1,68521

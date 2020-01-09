@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+魅力之城,102.7794082,24.95368027,,,,,,,,,,,2,288
+魅力之城,102.7794082,24.95388027,,,,,,,,,,,2,38030

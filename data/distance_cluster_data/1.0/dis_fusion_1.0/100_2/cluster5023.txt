@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南新丰医院,102.632277,25.029324,,,,,,,,,,,3,24642
+云南新丰医院,102.632277,25.029124,,,,,,,,,,,3,54431

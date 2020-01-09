@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+罗平天天红饭店,102.74262,25.01217,,,,,,,,,,,3,38342
+汝智美容,102.74266,25.01213,,,,,,,,,,,3,47695

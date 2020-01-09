@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+迎兴园,102.65666999999999,24.98987,,,,,,,,,,,3,9040
+迎兴园,102.65666999999999,24.98967,,,,,,,,,,,3,21807

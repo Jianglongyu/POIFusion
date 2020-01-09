@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富滇园农庄,102.6456,24.89558,,,,,,,,,,,3,21233
+富滇园农庄,102.6456,24.89538,,,,,,,,,,,3,51022

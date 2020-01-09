@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+自助烧烤城,102.84259,24.854329999999997,,,,,,,,,,,3,12235
+自助烧烤城,102.84259,24.854129999999998,,,,,,,,,,,3,25002
+阳光假日酒店,102.84259,24.854129999999998,,,,,,,,,,,3,39331

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+农村信用社龙街分社,102.80244,24.88106,,,,,,,,,,,3,34003
+农村信用社龙街分社,102.80244,24.880860000000002,,,,,,,,,,,3,63792

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙洞小学,103.15909599999999,26.064102,,,,,,,,,,,3,31587
+龙洞小学,103.15909599999999,26.063902,,,,,,,,,,,3,61376

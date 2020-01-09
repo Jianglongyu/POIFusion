@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+双龙收费站,102.839725,25.103963,,,,,,,,,,,1,2080
+双龙收费站,102.839725,25.104163,,,,,,,,,,,1,66301

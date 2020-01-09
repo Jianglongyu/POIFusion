@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世界风味美食广场,102.76576,25.080988,,,,,,,,,,,1,2108
+世博花园酒店叠翠楼,102.76573,25.081316,,,,,,,,,,,1,2131

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+梁源三区,102.659607,25.03334563,,,,,,,,,,,1,2653
+年安保险超市西山公司,102.65888000000001,25.03375,,,,,,,,,,,3,54033
+梁源三区,102.659607,25.03354563,,,,,,,,,,,1,56945

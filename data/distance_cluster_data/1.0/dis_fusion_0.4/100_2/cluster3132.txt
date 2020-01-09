@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市政府温泉街道办事处,102.449011,24.959001999999998,,,,,,,,,,,3,36216
+安宁市温泉镇纪检委,102.449011,24.959001999999998,,,,,,,,,,,3,36340

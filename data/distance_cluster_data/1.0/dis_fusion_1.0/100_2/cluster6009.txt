@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+补益小学,102.945064,24.681403,,,,,,,,,,,3,30578
+补益小学,102.945064,24.681203,,,,,,,,,,,3,60367

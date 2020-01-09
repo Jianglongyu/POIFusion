@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧鸡收费站,102.600362,24.969203,,,,,,,,,,,1,4431
+自家人餐馆,102.59985999999999,24.968899999999998,,,,,,,,,,,3,9008
+自家人餐馆,102.59985999999999,24.9687,,,,,,,,,,,3,28868

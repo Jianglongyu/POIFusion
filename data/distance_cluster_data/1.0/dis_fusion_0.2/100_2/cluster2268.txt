@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+醉石屏餐厅,102.70315,24.98763,,,,,,,,,,,3,16085
+加油站,102.703064,24.988564999999998,,,,,,,,,,,3,5049
+加油站,102.703064,24.988364999999998,,,,,,,,,,,3,8359

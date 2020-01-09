@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+重庆恒富饭店,102.87614,25.02625,,,,,,,,,,,3,6941
+重庆恒富饭店,102.87614,25.02605,,,,,,,,,,,3,19708

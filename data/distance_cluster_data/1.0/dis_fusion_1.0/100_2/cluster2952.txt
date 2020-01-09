@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富滇银行ATM,102.7244,25.09638,,,,,,,,,,,3,33904
+一心堂昆明银汁园连锁店,102.724498,25.096498,,,,,,,,,,,3,53857
+富滇银行ATM,102.7244,25.09618,,,,,,,,,,,3,63693

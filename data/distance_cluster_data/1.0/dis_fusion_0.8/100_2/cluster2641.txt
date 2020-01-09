@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+怡安诊所,102.772021,24.997746,,,,,,,,,,,3,23513
+怡安诊所,102.772021,24.997546,,,,,,,,,,,3,43373
+童星幼稚园,102.771982,24.997243,,,,,,,,,,,3,51384

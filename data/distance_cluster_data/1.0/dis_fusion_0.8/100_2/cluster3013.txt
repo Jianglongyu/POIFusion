@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+桃树村公交站,102.547833,24.834210000000002,,,,,,,,,,,2,521
+桃树村公交站,102.547833,24.834410000000002,,,,,,,,,,,2,54813

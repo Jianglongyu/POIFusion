@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小七十郎生态度假餐厅,102.66311,24.8588,,,,,,,,,,,3,19700
+鸣洲生态茶花苑,102.6633,24.85934,,,,,,,,,,,3,23221

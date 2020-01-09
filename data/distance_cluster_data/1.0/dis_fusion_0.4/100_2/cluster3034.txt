@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宝泉寺,102.557084,24.554710999999998,,,,,,,,,,,3,35421
+宝峰镇中学,102.556719,24.555325,,,,,,,,,,,3,37879

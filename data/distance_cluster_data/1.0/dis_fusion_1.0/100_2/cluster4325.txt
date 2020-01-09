@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+茶马古道,102.78241,25.0888,,,,,,,,,,,3,20749
+茶马古道,102.78241,25.0886,,,,,,,,,,,3,50538

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南农业大学职业技术学院,102.77474699999999,25.127953,,,,,,,,,,,1,1055
+云南农业大学职业技术学院,102.77474699999999,25.128153,,,,,,,,,,,1,48254

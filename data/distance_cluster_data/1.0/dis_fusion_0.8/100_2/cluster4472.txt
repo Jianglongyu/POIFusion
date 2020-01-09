@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一条龙都市农庄,102.93218,24.93514,,,,,,,,,,,3,21768
+一条龙都市农庄,102.93218,24.93494,,,,,,,,,,,3,41628

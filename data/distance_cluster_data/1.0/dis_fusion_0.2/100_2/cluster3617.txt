@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+学苑食堂,102.71258,24.934060000000002,,,,,,,,,,,3,15396
+中国工商银行ATM,102.71236999999999,24.93402,,,,,,,,,,,3,37045

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿乌完小,103.25805,24.724554,,,,,,,,,,,3,31329
+阿乌完小,103.25805,24.724354,,,,,,,,,,,3,61118

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+羊街完小,102.750917,25.308426,,,,,,,,,,,3,30751
+羊街完小,102.750917,25.308226,,,,,,,,,,,3,60540

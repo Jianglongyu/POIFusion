@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明铣床厂公交站,102.758352,25.129754000000002,,,,,,,,,,,1,2861
+昆明铣床厂公交站,102.758352,25.129954,,,,,,,,,,,1,67082

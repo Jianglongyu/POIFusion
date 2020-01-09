@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宏顺招待所,102.76588000000001,25.000339999999998,,,,,,,,,,,3,33895
+农村信用社ATM,102.76557,25.00072,,,,,,,,,,,3,41364
+中国人民财产保险浩宏营销部,102.76557,25.00072,,,,,,,,,,,3,41697

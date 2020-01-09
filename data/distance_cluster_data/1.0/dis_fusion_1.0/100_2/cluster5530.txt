@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国移动云南公司呈贡通信生产楼,102.8232,24.88784,,,,,,,,,,,3,28507
+中国移动云南公司呈贡通信生产楼,102.8232,24.88764,,,,,,,,,,,3,58296

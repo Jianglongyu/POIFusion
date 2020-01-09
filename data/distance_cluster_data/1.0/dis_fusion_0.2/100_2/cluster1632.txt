@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+沙塔斯,102.68594,24.96568,,,,,,,,,,,3,12084
+喜荷甜品,102.68611999999999,24.96564,,,,,,,,,,,3,14364
+馥美阁元素能量SPA养生馆,102.68673000000001,24.96549,,,,,,,,,,,3,19943
+中国民生银行ATM,102.68641,24.96558,,,,,,,,,,,3,36638

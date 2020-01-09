@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+七步场社区卫生站,102.813569,24.87191,,,,,,,,,,,3,25678
+七步场社区卫生站,102.813569,24.87171,,,,,,,,,,,3,55467

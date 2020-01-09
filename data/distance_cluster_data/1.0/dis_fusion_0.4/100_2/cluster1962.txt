@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+陈德芳诊所,102.768563,24.935319,,,,,,,,,,,3,33464
+玲波客房,102.76886,24.93525,,,,,,,,,,,3,34427
+小天使幼儿园,102.768437,24.935119,,,,,,,,,,,3,39114

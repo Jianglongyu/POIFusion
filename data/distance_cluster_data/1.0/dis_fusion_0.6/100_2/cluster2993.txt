@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+李家天井,102.6231,24.92827,,,,,,,,,,,3,17331
+李家天井,102.6231,24.92807,,,,,,,,,,,3,30098

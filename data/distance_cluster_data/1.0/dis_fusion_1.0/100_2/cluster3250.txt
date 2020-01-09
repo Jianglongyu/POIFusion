@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+时代俊园,102.82642299999999,24.824441,,,,,,,,,,,2,330
+时代俊园,102.82642299999999,24.824641,,,,,,,,,,,2,64551

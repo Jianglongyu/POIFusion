@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+麦依甸小学,102.55526,25.283467,,,,,,,,,,,3,30647
+麦依甸小学,102.55526,25.283267000000002,,,,,,,,,,,3,60436

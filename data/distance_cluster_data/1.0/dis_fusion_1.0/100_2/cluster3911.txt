@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙门老方园,102.64412,24.966691,,,,,,,,,,,1,2618
+龙门老方园,102.64412,24.966891,,,,,,,,,,,1,66839

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明官渡农村合作银行矣六支行宏仁分理处,102.76481,24.941110000000002,,,,,,,,,,,3,33515
+昆明官渡农村合作银行矣六支行宏仁分理处,102.76481,24.940910000000002,,,,,,,,,,,3,63304

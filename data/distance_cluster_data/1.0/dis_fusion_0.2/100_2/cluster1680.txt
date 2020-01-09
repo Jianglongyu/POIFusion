@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四川宜宾饭店谭家营店,102.71217,25.00412,,,,,,,,,,,3,5223
+四川宜宾饭店谭家营店,102.71217,25.00392,,,,,,,,,,,3,8533
+外婆味道,102.711206,25.003635,,,,,,,,,,,1,1896
+飞翔诊所,102.7121,25.003716,,,,,,,,,,,3,29079

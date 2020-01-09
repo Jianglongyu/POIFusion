@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁服务区－田心（A）加油站,102.577832,24.678433,,,,,,,,,,,3,5042
+晋宁服务区－田心（A）加油站,102.577832,24.678233,,,,,,,,,,,3,34831

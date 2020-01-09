@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省马龙县烟草专卖局,103.58353000000001,25.428907000000002,,,,,,,,,,,3,37248
+马龙县计划生育服务站,103.582895,25.42898,,,,,,,,,,,3,37389

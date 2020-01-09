@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云县旺子米线,102.76467,25.07858,,,,,,,,,,,3,9062
+云县旺子米线,102.76467,25.07838,,,,,,,,,,,3,16509
+世界园艺博览园商业街,102.763509,25.077988,,,,,,,,,,,1,2105
+世博生态城休闲中心,102.76436,25.0778,,,,,,,,,,,3,24553

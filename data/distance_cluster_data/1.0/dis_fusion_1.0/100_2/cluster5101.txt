@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宜良县竹山乡中心卫生院,103.11864,24.572073999999997,,,,,,,,,,,3,25337
+宜良县竹山乡中心卫生院,103.11864,24.571873999999998,,,,,,,,,,,3,55126

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东骏大药房团街连锁店,102.524598,25.75676,,,,,,,,,,,3,27327
+禄劝县工商局团街工商所,102.523794,25.756385,,,,,,,,,,,3,32448
+禄劝团街镇客运站,102.525021,25.756006,,,,,,,,,,,3,36276

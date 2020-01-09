@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南农业大学西苑－体育馆,102.74388,25.12509,,,,,,,,,,,3,18385
+云南农业大学西苑－体育馆,102.74388,25.12489,,,,,,,,,,,3,38245

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+青龙园农家乐,102.67229,25.24202,,,,,,,,,,,3,16576
+青龙园农家乐,102.67229,25.24182,,,,,,,,,,,3,29343
+五华区金龙庄休闲园,102.67275,25.242379999999997,,,,,,,,,,,3,32282

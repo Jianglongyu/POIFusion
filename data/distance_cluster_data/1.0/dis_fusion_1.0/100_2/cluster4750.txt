@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+怡景园度假酒店培训中心－北方食府,102.67033,24.97631,,,,,,,,,,,3,5283
+怡景园度假酒店培训中心－北方食府,102.67033,24.976110000000002,,,,,,,,,,,3,35072

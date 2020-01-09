@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+古城幼儿园,103.183126,24.969786,,,,,,,,,,,3,31205
+古城幼儿园,103.183126,24.969586,,,,,,,,,,,3,60994

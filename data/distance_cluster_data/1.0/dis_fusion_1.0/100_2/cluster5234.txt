@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+吉祥旅社,102.63568000000001,25.027449999999998,,,,,,,,,,,3,26476
+吉祥旅社,102.63568000000001,25.02725,,,,,,,,,,,3,56265

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+楚雄州武定县烟草专卖局己衣管理所,102.252312,26.100517,,,,,,,,,,,3,30069
+楚雄州武定县烟草专卖局己衣管理所,102.252312,26.100317,,,,,,,,,,,3,59858

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三营庄清真寺,103.114897,25.476157999999998,,,,,,,,,,,3,48091
+三元庄回民完小,103.114253,25.476397,,,,,,,,,,,3,51402

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+博怡金童幼儿园,102.78540699999999,24.916335999999998,,,,,,,,,,,3,34258
+呈贡小古城小学,102.785094,24.916068,,,,,,,,,,,3,34663

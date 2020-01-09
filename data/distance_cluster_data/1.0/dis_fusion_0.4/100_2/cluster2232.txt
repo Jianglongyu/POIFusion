@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+佳缘农家饭店,102.76827,25.0098,,,,,,,,,,,3,5247
+佳缘农家饭店,102.76827,25.0096,,,,,,,,,,,3,12694
+中国农业银行牛街庄支行,102.76836,25.00931,,,,,,,,,,,3,41543

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小区(明河路),102.669209,25.030784,,,,,,,,,,,1,1618
+鸿运小区,102.66895,25.030153,,,,,,,,,,,1,3696
+小区(明河路),102.669209,25.030984,,,,,,,,,,,1,48817

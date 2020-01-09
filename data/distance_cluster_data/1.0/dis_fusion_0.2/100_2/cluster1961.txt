@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+合缘小吃,102.67739,25.00866,,,,,,,,,,,3,10708
+东北饺子酱大骨,102.6776,25.00851,,,,,,,,,,,3,13565
+家和旺带皮小黄牛米线车行天下老店,102.67749,25.0086,,,,,,,,,,,3,18360

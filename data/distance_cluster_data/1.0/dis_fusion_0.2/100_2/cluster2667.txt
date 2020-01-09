@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金海港海鲜大酒楼,102.68598,25.011029999999998,,,,,,,,,,,3,17825
+怡心客栈,102.68573,25.01098,,,,,,,,,,,3,29985

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金诚宾馆,102.97603000000001,24.81696,,,,,,,,,,,3,30305
+中国农业银行阳宗营业所,102.97609,24.81622,,,,,,,,,,,3,37110
+中国人寿保险阳宗镇营销部,102.97612,24.81643,,,,,,,,,,,3,37735

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+李记正宗东北饺子馆,102.67742,25.04234,,,,,,,,,,,3,21744
+爱丁堡幼稚园,102.67755799999999,25.042622,,,,,,,,,,,3,39237

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿拉大石坝社区卫生中心,102.814188,24.997376,,,,,,,,,,,3,25554
+阿拉大石坝社区卫生中心,102.814188,24.997176,,,,,,,,,,,3,55343

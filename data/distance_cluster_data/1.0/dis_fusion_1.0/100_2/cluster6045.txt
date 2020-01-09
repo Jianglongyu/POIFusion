@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大麦地小学,102.811766,26.018948,,,,,,,,,,,3,30683
+大麦地小学,102.811766,26.018748000000002,,,,,,,,,,,3,60472

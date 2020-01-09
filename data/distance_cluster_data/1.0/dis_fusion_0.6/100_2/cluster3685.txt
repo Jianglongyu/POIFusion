@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+军马场服务区－正兴加油站,102.986372,25.250532,,,,,,,,,,,3,4741
+军马场服务区－正兴加油站,102.986372,25.250332,,,,,,,,,,,3,17508

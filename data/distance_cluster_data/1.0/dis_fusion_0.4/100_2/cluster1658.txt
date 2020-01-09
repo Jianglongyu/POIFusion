@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+创园房产,102.84881,24.84616,,,,,,,,,,,3,34289
+芒市傣味园,102.84953,24.84554,,,,,,,,,,,3,20893
+宜家快捷酒店NO．1,102.84897,24.84603,,,,,,,,,,,3,34104
+彩云公寓酒店,102.84902,24.845979999999997,,,,,,,,,,,3,34721

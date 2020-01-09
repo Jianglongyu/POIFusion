@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+贵州黄果树烧烤,102.70936999999999,24.93702,,,,,,,,,,,3,13852
+贵州黄果树烧烤,102.70936999999999,24.93682,,,,,,,,,,,3,26619
+小河咀卫生所,102.70961700000001,24.937879000000002,,,,,,,,,,,3,38512

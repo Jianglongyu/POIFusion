@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蛮荒广场大树园,102.62215400000001,24.855549,,,,,,,,,,,3,28169
+蛮荒广场大树园,102.62215400000001,24.855349,,,,,,,,,,,3,57958

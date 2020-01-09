@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+本纳克小学,103.10661400000001,25.347922,,,,,,,,,,,3,34383
+本纳克村委会乐佳佳幼儿园,103.106628,25.347831,,,,,,,,,,,3,34727

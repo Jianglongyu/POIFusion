@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨林金龙饭店,103.072872,25.232019,,,,,,,,,,,1,1421
+杨林金龙饭店,103.072872,25.232219,,,,,,,,,,,1,55713

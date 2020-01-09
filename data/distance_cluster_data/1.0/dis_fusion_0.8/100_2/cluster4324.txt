@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+八八加油站,103.14105500000001,25.461597,,,,,,,,,,,3,4985
+八八加油站,103.14105500000001,25.461397,,,,,,,,,,,3,24845

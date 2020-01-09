@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南洋巴西足球中心培训基地,102.65893,24.977219,,,,,,,,,,,1,2422
+南洋巴西足球中心培训基地,102.65893,24.977419,,,,,,,,,,,1,56714

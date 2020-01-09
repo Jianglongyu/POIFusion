@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+渔户村临时农贸市场,102.68024100000001,24.981861,,,,,,,,,,,1,1265
+曲靖人家,102.680521,24.982378,,,,,,,,,,,1,2273
+渔户村临时农贸市场,102.68024100000001,24.982060999999998,,,,,,,,,,,1,48464

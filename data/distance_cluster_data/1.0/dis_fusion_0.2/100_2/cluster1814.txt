@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中航云玺大宅,102.721283,24.947001,,,,,,,,,,,2,493
+五甲塘生态湿地公园,102.721711,24.947565,,,,,,,,,,,1,1773
+中航云玺大宅,102.721283,24.947201,,,,,,,,,,,2,38235

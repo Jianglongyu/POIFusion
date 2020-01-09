@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牛栏江镇古城完全小学,103.226815,25.330192,,,,,,,,,,,3,30870
+牛栏江镇古城完全小学,103.226815,25.329992,,,,,,,,,,,3,60659

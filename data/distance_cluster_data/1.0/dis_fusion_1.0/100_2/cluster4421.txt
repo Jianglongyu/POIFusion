@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+正星加油站,103.084009,25.875709,,,,,,,,,,,3,4701
+正星加油站,103.084009,25.875509,,,,,,,,,,,3,34490

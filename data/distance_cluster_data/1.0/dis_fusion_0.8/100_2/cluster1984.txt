@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+比步上酒楼NO．1,102.82481,24.92709,,,,,,,,,,,3,9881
+阳阳饭店,102.82458000000001,24.92707,,,,,,,,,,,3,13898
+比步上酒楼NO．1,102.82481,24.92689,,,,,,,,,,,3,29741
+阳阳饭店,102.82458000000001,24.92687,,,,,,,,,,,3,33758

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+川味家常菜,102.869,25.03987,,,,,,,,,,,3,12175
+川味家常菜,102.869,25.03967,,,,,,,,,,,3,41964
+安国王诊所,102.868764,25.039819,,,,,,,,,,,3,53584

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+意缘农家乐,102.84787,24.992839999999998,,,,,,,,,,,3,6491
+意缘农家乐,102.84787,24.992639999999998,,,,,,,,,,,3,13938

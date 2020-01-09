@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鸿福园,102.93598,24.897029999999997,,,,,,,,,,,3,15433
+鸿福园,102.93598,24.896829999999998,,,,,,,,,,,3,45222

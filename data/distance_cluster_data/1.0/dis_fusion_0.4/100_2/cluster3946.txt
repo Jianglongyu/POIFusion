@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县心意药店,103.260076,24.676909,,,,,,,,,,,3,32276
+好药家健康药房板桥NO．2,103.260414,24.677101,,,,,,,,,,,3,32639

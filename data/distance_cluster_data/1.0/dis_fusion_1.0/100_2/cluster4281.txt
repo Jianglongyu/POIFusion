@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+叠春苑(西南门),102.757615,24.966772,,,,,,,,,,,1,4139
+叠春苑(西南门),102.757615,24.966972,,,,,,,,,,,1,68360

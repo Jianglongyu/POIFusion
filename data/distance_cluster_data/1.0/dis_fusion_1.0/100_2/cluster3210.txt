@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+上海浦东发展银行ATM,102.73825,25.151799999999998,,,,,,,,,,,3,33000
+上海浦东发展银行ATM,102.73825,25.1516,,,,,,,,,,,3,62789

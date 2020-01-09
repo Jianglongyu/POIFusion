@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小神童幼儿园,102.493285,25.24304,,,,,,,,,,,3,32384
+小神童幼儿园,102.493285,25.24284,,,,,,,,,,,3,62173

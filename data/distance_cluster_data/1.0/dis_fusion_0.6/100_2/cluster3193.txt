@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市公安局郎家庄派出所,102.506562,24.8856,,,,,,,,,,,3,42652
+湖光幼儿园,102.506562,24.8856,,,,,,,,,,,3,44277

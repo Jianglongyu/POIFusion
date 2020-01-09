@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华华林门诊部,102.675647,25.081509,,,,,,,,,,,3,25024
+五华华林门诊部,102.675647,25.081309,,,,,,,,,,,3,54813

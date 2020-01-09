@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+衍旭中医诊所,103.35700200000001,24.863079,,,,,,,,,,,3,25907
+衍旭中医诊所,103.35700200000001,24.862879,,,,,,,,,,,3,55696

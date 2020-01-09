@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+长征希望小学,102.387695,26.290658,,,,,,,,,,,3,32908
+长征希望小学,102.387695,26.290458,,,,,,,,,,,3,62697

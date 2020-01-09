@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金龙药店,102.427578,25.84466,,,,,,,,,,,3,23164
+金龙药店,102.427578,25.84446,,,,,,,,,,,3,52953

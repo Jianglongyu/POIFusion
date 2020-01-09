@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大理白族风味园锦林轩,102.7681,25.02067,,,,,,,,,,,3,14136
+大理白族风味园锦林轩,102.7681,25.02047,,,,,,,,,,,3,26903

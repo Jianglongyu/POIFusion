@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市禄脿镇国土资源管理所,102.271484,24.968604,,,,,,,,,,,3,29989
+安宁市禄脿镇国土资源管理所,102.271484,24.968404,,,,,,,,,,,3,59778

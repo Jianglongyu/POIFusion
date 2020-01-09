@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+春城佳墅,102.7585043,24.96942173,,,,,,,,,,,2,54
+石林广场,102.75803,24.96885,,,,,,,,,,,3,16433
+石林广场,102.75803,24.96865,,,,,,,,,,,3,36293
+春城佳墅,102.7585043,24.96962173,,,,,,,,,,,2,54346

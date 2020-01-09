@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+洞庭香,102.769195,24.998245,,,,,,,,,,,1,4083
+洞庭香,102.769195,24.998445,,,,,,,,,,,1,68304

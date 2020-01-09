@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县交通运输局,103.272724,24.754983,,,,,,,,,,,3,49007
+昆明市公路运输管理局石林分局,103.272724,24.754983,,,,,,,,,,,3,49715

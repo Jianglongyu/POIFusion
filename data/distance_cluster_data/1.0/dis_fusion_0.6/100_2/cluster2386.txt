@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+城区加油站,103.254754,25.55422,,,,,,,,,,,3,4907
+城区加油站,103.254754,25.55402,,,,,,,,,,,3,17674
+寻甸县中医院,103.255134,25.554373000000002,,,,,,,,,,,3,37234

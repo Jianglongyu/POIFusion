@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+荣华饼屋,103.072621,25.227576000000003,,,,,,,,,,,1,2253
+荣华饼屋,103.072621,25.227776000000002,,,,,,,,,,,1,66474

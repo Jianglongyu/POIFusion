@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国移动(雨龙路),102.760577,25.014218,,,,,,,,,,,1,722
+中国移动(雨龙路),102.760577,25.014418,,,,,,,,,,,1,55014

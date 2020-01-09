@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+国家林业局昆明勘察设计院,102.70610400000001,25.058834,,,,,,,,,,,3,43430
+高等职业教育实训基地,102.7064,25.059523000000002,,,,,,,,,,,3,43527

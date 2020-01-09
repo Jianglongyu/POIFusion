@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省曲靖市陆良县地方海事处,103.64520999999999,25.011776,,,,,,,,,,,3,29725
+云南省曲靖市陆良县地方海事处,103.64520999999999,25.011576,,,,,,,,,,,3,59514

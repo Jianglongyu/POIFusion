@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万科城市之光,102.770426,25.052982999999998,,,,,,,,,,,2,365
+中国南方电网云南电网公司超高压交直流输变电试验研究基地,102.769594,25.052837,,,,,,,,,,,3,37672
+万科城市之光,102.770426,25.053182999999997,,,,,,,,,,,2,42244

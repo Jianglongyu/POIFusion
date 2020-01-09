@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+益友饭店,102.6415,25.02882,,,,,,,,,,,3,15588
+昆明市公安局交警支队九大队,102.64132,25.028917,,,,,,,,,,,3,32709

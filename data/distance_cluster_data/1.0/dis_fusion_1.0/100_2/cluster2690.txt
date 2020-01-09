@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+雨露寺,102.806641,24.917561,,,,,,,,,,,3,28086
+红太阳幼儿园,102.80659,24.91817,,,,,,,,,,,3,30884
+雨露寺,102.806641,24.917361,,,,,,,,,,,3,57875
+红太阳幼儿园,102.80659,24.91797,,,,,,,,,,,3,60673

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明出口加工区办公大楼,102.79804,24.96251,,,,,,,,,,,3,28381
+昆明出口加工区办公大楼,102.79804,24.962310000000002,,,,,,,,,,,3,58170

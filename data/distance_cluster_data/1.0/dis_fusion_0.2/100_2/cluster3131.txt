@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+拖布卡加油站,103.046824,26.361882,,,,,,,,,,,3,4703
+拖布卡加油站,103.046824,26.361682000000002,,,,,,,,,,,3,8013

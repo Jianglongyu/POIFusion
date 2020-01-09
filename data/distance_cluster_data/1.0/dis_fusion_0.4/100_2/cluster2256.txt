@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市西山郁贝佳幼儿园,102.618648,24.994761999999998,,,,,,,,,,,3,38666
+昆明市西山区碧鸡中学,102.618905,24.994459,,,,,,,,,,,3,40088
+中国工商银行ATM,102.61808,24.9953,,,,,,,,,,,3,40466

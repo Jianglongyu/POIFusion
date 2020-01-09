@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小河完小,103.301226,24.886213,,,,,,,,,,,3,31099
+小河完小,103.301226,24.886013000000002,,,,,,,,,,,3,60888

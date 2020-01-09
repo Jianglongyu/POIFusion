@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+易门县岔河水库除险加固工程建设管理局,102.189047,24.734177,,,,,,,,,,,3,29985
+易门县岔河水库除险加固工程建设管理局,102.189047,24.733977,,,,,,,,,,,3,59774

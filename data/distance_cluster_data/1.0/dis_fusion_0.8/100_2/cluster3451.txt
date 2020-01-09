@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+芳聚缘,102.77301,24.98256,,,,,,,,,,,3,10046
+芳聚缘,102.77301,24.98236,,,,,,,,,,,3,29906

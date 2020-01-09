@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市交警支队机场大队,102.740134,24.996454,,,,,,,,,,,3,49139
+云南省公安厅民用机场公安局交巡警大队,102.740134,24.996454,,,,,,,,,,,3,49193

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鹏燕大药房,102.672656,25.448937,,,,,,,,,,,3,27049
+富民款庄客运站,102.672802,25.44961,,,,,,,,,,,3,36253

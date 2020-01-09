@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南磷肥厂大桥公交站,102.556977,24.805753,,,,,,,,,,,2,520
+云南磷肥厂大桥公交站,102.556977,24.805953,,,,,,,,,,,2,54812

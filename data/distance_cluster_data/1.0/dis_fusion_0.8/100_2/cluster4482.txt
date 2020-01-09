@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明滇池湖畔高尔夫球会,102.67236,24.96428,,,,,,,,,,,3,21887
+昆明滇池湖畔高尔夫球会,102.67236,24.96408,,,,,,,,,,,3,41747

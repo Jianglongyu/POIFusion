@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+经纬花苑,102.663852,25.00309,,,,,,,,,,,1,3377
+经纬花苑,102.663852,25.00329,,,,,,,,,,,1,67598

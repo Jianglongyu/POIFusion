@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+私立东陆大学东门,102.853626,24.822232,,,,,,,,,,,3,32702
+私立东陆大学东门,102.853626,24.822032,,,,,,,,,,,3,62491

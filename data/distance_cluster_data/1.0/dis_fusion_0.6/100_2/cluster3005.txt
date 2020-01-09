@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市公安局交警大队一中队,102.49369399999999,24.926419,,,,,,,,,,,3,41952
+安宁公路管理段路政一中队,102.493645,24.926666,,,,,,,,,,,3,42751

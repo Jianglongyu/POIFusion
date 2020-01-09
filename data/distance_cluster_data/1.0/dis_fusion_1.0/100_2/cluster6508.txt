@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华区教职工幼儿园,102.706459,25.050473999999998,,,,,,,,,,,3,32021
+五华区教职工幼儿园,102.706459,25.050273999999998,,,,,,,,,,,3,61810

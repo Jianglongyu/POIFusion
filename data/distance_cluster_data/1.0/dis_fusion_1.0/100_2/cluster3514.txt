@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省邮电学校,102.790454,24.966428,,,,,,,,,,,1,948
+云南省邮电学校,102.790454,24.966628,,,,,,,,,,,1,65169

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西房高新花园,102.6761526,25.07727801,,,,,,,,,,,2,384
+方圆文理培训学校补习中心,102.67590899999999,25.077382999999998,,,,,,,,,,,3,35836
+西房高新花园,102.6761526,25.07747801,,,,,,,,,,,2,38126

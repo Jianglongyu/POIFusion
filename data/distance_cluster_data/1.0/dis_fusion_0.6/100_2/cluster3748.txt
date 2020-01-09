@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广福路加油站B站,102.688779,24.9852,,,,,,,,,,,3,4817
+广福路加油站B站,102.688779,24.985,,,,,,,,,,,3,17584

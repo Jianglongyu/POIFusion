@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝县九龙镇中心学校,102.79549,25.742651000000002,,,,,,,,,,,3,30385
+禄劝县九龙镇中心学校,102.79549,25.742451000000003,,,,,,,,,,,3,60174

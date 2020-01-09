@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富强农家园,102.66815,25.24429,,,,,,,,,,,3,18043
+富强农家园,102.66815,25.24409,,,,,,,,,,,3,37903
+农村信用社ATM,102.66755,25.24394,,,,,,,,,,,3,53652
+年安保险超市厂口营业部,102.6678,25.24383,,,,,,,,,,,3,54231

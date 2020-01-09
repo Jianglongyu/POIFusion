@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南钟村卫生所,103.25411700000001,25.559015,,,,,,,,,,,3,24306
+南钟村卫生所,103.25411700000001,25.558815,,,,,,,,,,,3,54095

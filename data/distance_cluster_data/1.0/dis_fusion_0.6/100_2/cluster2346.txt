@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+必胜客欢乐餐厅,102.723434,25.046062,,,,,,,,,,,1,4434
+白塔源餐厅,102.72418,25.04616,,,,,,,,,,,3,10250
+白塔源餐厅,102.72418,25.04596,,,,,,,,,,,3,23017

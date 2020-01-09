@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省昆明市泰龙休闲园,102.582293,24.961871,,,,,,,,,,,1,977
+云南省昆明市泰龙休闲园,102.582293,24.962070999999998,,,,,,,,,,,1,42856

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝县工商局九龙工商所,102.801084,25.739535999999998,,,,,,,,,,,3,32189
+禄劝县财政局九龙财政所,102.800801,25.740199,,,,,,,,,,,3,33394

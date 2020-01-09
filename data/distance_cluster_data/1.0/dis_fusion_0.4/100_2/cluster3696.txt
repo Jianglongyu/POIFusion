@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县妇幼保健院,102.911934,24.672051999999997,,,,,,,,,,,3,30117
+澄江县凤麓镇人大主席团,102.912387,24.672435,,,,,,,,,,,3,36457

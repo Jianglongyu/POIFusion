@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中国工行公司云南金融培训学校,102.703968,25.015486,,,,,,,,,,,3,43165
+云南省电大工商银行分校,102.703968,25.015486,,,,,,,,,,,3,45162

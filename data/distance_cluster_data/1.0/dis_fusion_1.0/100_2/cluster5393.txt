@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大营清真寺,102.56697700000001,24.43495,,,,,,,,,,,3,28082
+大营清真寺,102.56697700000001,24.43475,,,,,,,,,,,3,57871

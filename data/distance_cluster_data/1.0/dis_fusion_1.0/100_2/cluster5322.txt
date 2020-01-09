@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+长湖风景区,103.416038,24.712973,,,,,,,,,,,3,27835
+长湖风景区,103.416038,24.712773000000002,,,,,,,,,,,3,57624

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明国际花卉拍卖交易中心,102.79010500000001,24.903697,,,,,,,,,,,1,3177
+昆明国际花卉拍卖交易中心,102.79010500000001,24.903897,,,,,,,,,,,1,67398

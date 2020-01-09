@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省红十字血液病专科医院,102.652526,25.06128,,,,,,,,,,,3,31857
+中国造血干细胞捐献者资料库云南省体检中心,102.652526,25.06128,,,,,,,,,,,3,32744

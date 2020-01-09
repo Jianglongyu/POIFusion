@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县职业高级中学,102.48485500000001,25.238001,,,,,,,,,,,3,38690
+富民县教师进修学校,102.48485500000001,25.238001,,,,,,,,,,,3,40093

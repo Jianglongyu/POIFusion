@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+弥勒县西三镇戈西小学,103.44259100000001,24.535249,,,,,,,,,,,3,32726
+弥勒县西三镇戈西小学,103.44259100000001,24.535049,,,,,,,,,,,3,62515

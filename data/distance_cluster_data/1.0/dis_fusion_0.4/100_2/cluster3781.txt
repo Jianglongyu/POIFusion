@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁全心药店,102.328192,25.017462,,,,,,,,,,,3,30760
+青龙镇计划生育服务所,102.327512,25.01716,,,,,,,,,,,3,36925

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+思咪哒休闲吧,102.76454,24.943270000000002,,,,,,,,,,,3,17541
+曼谷·夜都演艺会所,102.76416,24.94337,,,,,,,,,,,3,22660
+尤文华曦KTV娱乐会所,102.76432,24.94341,,,,,,,,,,,3,23417

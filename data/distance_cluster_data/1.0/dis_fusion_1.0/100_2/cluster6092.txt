@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北大附中云南实验学校东门,102.718314,25.002882999999997,,,,,,,,,,,3,30848
+北大附中云南实验学校东门,102.718314,25.002682999999998,,,,,,,,,,,3,60637

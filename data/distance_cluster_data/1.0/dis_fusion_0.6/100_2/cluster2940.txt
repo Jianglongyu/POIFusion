@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县城市管理综合行政执法大队,102.592422,24.673629000000002,,,,,,,,,,,3,41786
+晋宁县计划生育技术服务站,102.59237399999999,24.673313,,,,,,,,,,,3,41908

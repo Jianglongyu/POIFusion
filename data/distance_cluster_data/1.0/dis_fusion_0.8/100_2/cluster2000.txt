@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四季春,102.691604,25.055931,,,,,,,,,,,1,2042
+绿汁酒馆,102.692099,25.055979,,,,,,,,,,,1,2574
+四季春,102.691604,25.056131,,,,,,,,,,,1,56334
+绿汁酒馆,102.692099,25.056179,,,,,,,,,,,1,56866

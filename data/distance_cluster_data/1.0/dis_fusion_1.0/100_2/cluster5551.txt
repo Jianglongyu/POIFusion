@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+富民县罗免镇委,102.458044,25.336778,,,,,,,,,,,3,28761
+富民县罗免镇委,102.458044,25.336578,,,,,,,,,,,3,58550

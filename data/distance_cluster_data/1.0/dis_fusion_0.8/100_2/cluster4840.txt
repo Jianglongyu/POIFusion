@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市级机关工委,102.834587,24.882773999999998,,,,,,,,,,,3,48872
+昆明市社会科学院,102.834587,24.882773999999998,,,,,,,,,,,3,52592

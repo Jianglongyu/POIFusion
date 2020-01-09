@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北站加油站,102.720242,25.055087,,,,,,,,,,,3,4913
+昆明雄业大酒店咖啡厅,102.7199452,25.05458721,,,,,,,,,,,1,67064

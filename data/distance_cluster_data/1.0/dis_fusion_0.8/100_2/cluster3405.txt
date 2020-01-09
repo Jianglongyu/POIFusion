@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西亚山庄,102.869877,24.979463,,,,,,,,,,,1,1714
+西亚山庄,102.869877,24.979663,,,,,,,,,,,1,56006

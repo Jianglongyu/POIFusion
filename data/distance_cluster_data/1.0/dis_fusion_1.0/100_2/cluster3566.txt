@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+MOMO造型美发会所国贸店,102.72954,25.01184,,,,,,,,,,,3,17528
+皇朝国际KTV,102.72962,25.01186,,,,,,,,,,,3,19299

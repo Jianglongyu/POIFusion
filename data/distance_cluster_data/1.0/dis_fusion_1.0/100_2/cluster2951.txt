@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天马大富豪商务娱乐会所,102.70954,25.0694,,,,,,,,,,,3,50168
+大韩桑拿,102.70954,25.0694,,,,,,,,,,,3,50378
+中国民生银行ATM,102.70951,25.06926,,,,,,,,,,,3,63751

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西南林业大学网球场,102.75143,25.05661,,,,,,,,,,,3,22270
+西南林业大学网球场,102.75143,25.05641,,,,,,,,,,,3,52059

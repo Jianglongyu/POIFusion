@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华金盾小区,102.67186740000001,25.013055800000004,,,,,,,,,,,2,381
+五华金盾小区,102.67186740000001,25.013255800000003,,,,,,,,,,,2,42260

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+田园农家乐,102.61222,24.8566,,,,,,,,,,,3,21156
+田园农家乐,102.61222,24.8564,,,,,,,,,,,3,50945

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+勤丰镇卫生院,102.299277,25.179794,,,,,,,,,,,3,33269
+禄丰县财政局勤丰财政所,102.299035,25.179205,,,,,,,,,,,3,36319
+富民县勤丰派出所,102.299146,25.179325,,,,,,,,,,,3,36768

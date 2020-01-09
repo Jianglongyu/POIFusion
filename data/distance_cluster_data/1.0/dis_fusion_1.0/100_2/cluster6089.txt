@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南师大附属世纪金源学校东门,102.749648,24.960919,,,,,,,,,,,3,30837
+云南师大附属世纪金源学校东门,102.749648,24.960719,,,,,,,,,,,3,60626

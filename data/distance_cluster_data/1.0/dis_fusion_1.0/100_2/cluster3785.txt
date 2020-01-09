@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县众鑫绿色产业冷冻厂,102.758255,25.313739,,,,,,,,,,,1,2032
+嵩明县众鑫绿色产业冷冻厂,102.758255,25.313939,,,,,,,,,,,1,66253

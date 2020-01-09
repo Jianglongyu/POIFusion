@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新街明德小学,103.223354,25.315089,,,,,,,,,,,3,30187
+新街明德小学,103.223354,25.314889,,,,,,,,,,,3,59976

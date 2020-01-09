@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明理工大学呈贡校区,102.856009,24.85205,,,,,,,,,,,3,32069
+昆明理工大学呈贡校区,102.856009,24.85185,,,,,,,,,,,3,61858

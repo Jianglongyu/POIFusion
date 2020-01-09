@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+无名正宗花椒鸡,102.452316,25.13208,,,,,,,,,,,1,1794
+谷律酒家,102.4522,25.131664,,,,,,,,,,,1,3934
+无名正宗花椒鸡,102.452316,25.132279999999998,,,,,,,,,,,1,56086

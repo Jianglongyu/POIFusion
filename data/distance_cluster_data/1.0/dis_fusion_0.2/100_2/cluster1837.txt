@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南新兴职业学院(西南门),102.861172,24.984675,,,,,,,,,,,1,915
+云南法学专修学院,102.861122,24.984706,,,,,,,,,,,1,1152
+昆明南洋学校,102.861152,24.984676,,,,,,,,,,,1,3096

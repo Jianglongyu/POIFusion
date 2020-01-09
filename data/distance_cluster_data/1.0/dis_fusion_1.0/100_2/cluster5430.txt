@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+朝真殿,103.03359,25.324434,,,,,,,,,,,3,28180
+朝真殿,103.03359,25.324234,,,,,,,,,,,3,57969

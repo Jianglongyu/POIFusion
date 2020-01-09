@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+童心教育集团（16幼小铺）,103.105659,25.339334,,,,,,,,,,,3,32125
+童心教育集团（16幼小铺）,103.105659,25.339134,,,,,,,,,,,3,61914

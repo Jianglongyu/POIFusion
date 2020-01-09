@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+健华诊所,102.67390400000001,25.094496,,,,,,,,,,,3,24263
+健华诊所,102.67390400000001,25.094296,,,,,,,,,,,3,54052

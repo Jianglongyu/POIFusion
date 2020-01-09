@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+清龙水益友饭庄,102.63011999999999,25.03845,,,,,,,,,,,3,12502
+怡然雅苑,102.63006,25.038120000000003,,,,,,,,,,,3,19583

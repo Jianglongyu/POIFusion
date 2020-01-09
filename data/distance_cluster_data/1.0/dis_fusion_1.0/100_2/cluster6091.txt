@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丰乐小学,103.17921,25.465374999999998,,,,,,,,,,,3,30843
+丰乐小学,103.17921,25.465175,,,,,,,,,,,3,60632

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云缨小学,102.83292,24.992317999999997,,,,,,,,,,,3,31363
+云缨小学,102.83292,24.992117999999998,,,,,,,,,,,3,61152

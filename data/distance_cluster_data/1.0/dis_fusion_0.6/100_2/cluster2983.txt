@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南师范大学文理学院第一教学辅楼,103.001612,25.250785,,,,,,,,,,,1,930
+云南师范大学文理学院第一教学辅楼,103.001612,25.250985,,,,,,,,,,,1,48129

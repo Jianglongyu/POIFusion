@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白鹤文锦双语幼儿园,103.05629499999999,25.303092,,,,,,,,,,,3,31735
+白鹤文锦双语幼儿园,103.05629499999999,25.302892,,,,,,,,,,,3,61524

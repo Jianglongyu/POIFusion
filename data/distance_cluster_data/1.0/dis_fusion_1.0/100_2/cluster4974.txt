@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明弘信康药业有限公司,102.652722,25.043979999999998,,,,,,,,,,,3,24254
+昆明弘信康药业有限公司,102.652722,25.043779999999998,,,,,,,,,,,3,54043

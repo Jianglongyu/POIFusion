@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+横河完小,102.99554300000001,25.575072,,,,,,,,,,,3,31528
+横河完小,102.99554300000001,25.574872,,,,,,,,,,,3,61317

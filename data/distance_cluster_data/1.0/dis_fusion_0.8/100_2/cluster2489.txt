@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+张伟中药堂中草医专科门诊,103.152807,24.917169,,,,,,,,,,,3,45089
+一心堂宜良钰桥路连锁店,103.15369100000001,24.916869000000002,,,,,,,,,,,3,45781
+玉桥音乐艺术会所,103.152897,24.916806,,,,,,,,,,,3,52343

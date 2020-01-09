@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+宝丰农家园,102.727436,24.935513,,,,,,,,,,,1,4472
+宝丰农家园,102.727436,24.935713,,,,,,,,,,,1,68693

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+永胜村公交站,102.719173,24.958654,,,,,,,,,,,1,1282
+福鑫客房,102.71856,24.95926,,,,,,,,,,,3,40286
+永胜村公交站,102.719173,24.958854,,,,,,,,,,,1,48481

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝彝族苗族自治县政府政务服务中心,102.470673,25.547125,,,,,,,,,,,3,29974
+禄劝彝族苗族自治县政府政务服务中心,102.470673,25.546925,,,,,,,,,,,3,59763

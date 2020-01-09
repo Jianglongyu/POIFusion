@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万辉·星城(西门),102.593482,24.937825,,,,,,,,,,,1,1889
+万辉·星城(西门),102.593482,24.938025,,,,,,,,,,,1,56181

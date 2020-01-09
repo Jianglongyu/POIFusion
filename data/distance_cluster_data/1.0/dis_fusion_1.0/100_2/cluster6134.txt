@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+蓝精灵双语第二幼儿园,102.757183,24.920642,,,,,,,,,,,3,30952
+蓝精灵双语第二幼儿园,102.757183,24.920442,,,,,,,,,,,3,60741

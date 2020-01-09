@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南机电职业技术学院中专部有色局分部,102.750102,25.05445,,,,,,,,,,,3,43406
+云南省有色地质调查院,102.750102,25.05445,,,,,,,,,,,3,44228

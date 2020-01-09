@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明八中(龙泉路),102.721615,25.102822,,,,,,,,,,,1,3261
+伟尔博情景美语幼儿园,102.721032,25.102603,,,,,,,,,,,3,35807
+恒铭教育培训学校,102.721439,25.103153,,,,,,,,,,,3,35911

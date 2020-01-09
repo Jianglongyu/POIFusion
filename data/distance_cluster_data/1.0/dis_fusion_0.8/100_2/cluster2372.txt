@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+香槟小镇,102.703898,24.985661,,,,,,,,,,,1,1668
+天畅大楼,102.70438,24.98519,,,,,,,,,,,3,48331
+香槟小镇,102.703898,24.985861,,,,,,,,,,,1,55960

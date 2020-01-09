@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明长水国际机场,102.716406,25.093292,,,,,,,,,,,1,2800
+昆明长水国际机场,102.716406,25.093492,,,,,,,,,,,1,67021

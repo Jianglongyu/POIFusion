@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+秀域,102.73348,25.02073,,,,,,,,,,,3,21806
+中国光大银行ATM,102.73371999999999,25.02135,,,,,,,,,,,3,37647

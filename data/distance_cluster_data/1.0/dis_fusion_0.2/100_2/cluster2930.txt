@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+隆湖楼花园餐厅,102.73706999999999,25.0149,,,,,,,,,,,3,11405
+萍梵瑜伽,102.73799,25.01494,,,,,,,,,,,3,23108

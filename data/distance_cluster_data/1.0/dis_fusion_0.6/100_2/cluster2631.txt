@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+奥龙丝烫染连锁NO．3,102.66402,25.06656,,,,,,,,,,,3,32990
+云南省红十字会假肢康复中心,102.66324200000001,25.066708,,,,,,,,,,,3,35693

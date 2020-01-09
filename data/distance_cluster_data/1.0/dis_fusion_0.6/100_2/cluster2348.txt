@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+药灵堂,103.22456899999999,25.311522,,,,,,,,,,,3,37203
+小新街乡卫生院分院,103.224023,25.310839,,,,,,,,,,,3,38228
+东骏大药房速平连锁店,103.22434799999999,25.311857999999997,,,,,,,,,,,3,38717

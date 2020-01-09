@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+足之道,102.7647,24.95455,,,,,,,,,,,3,19794
+山河水按摩油压馆,102.76477,24.9546,,,,,,,,,,,3,24977
+旭昇教育体育城教学分点,102.76448,24.954353,,,,,,,,,,,3,35246

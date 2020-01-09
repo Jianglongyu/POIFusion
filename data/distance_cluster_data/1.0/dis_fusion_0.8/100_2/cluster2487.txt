@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鑫特药店,102.46849399999999,25.55971,,,,,,,,,,,3,45085
+禄劝屏山社区卫生中心,102.468124,25.5607,,,,,,,,,,,3,23714
+禄劝屏山社区卫生中心,102.468124,25.5605,,,,,,,,,,,3,43574

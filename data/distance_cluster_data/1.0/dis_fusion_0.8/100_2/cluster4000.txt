@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆陆医院,102.792283,24.999709,,,,,,,,,,,3,45330
+八公里社区卫生服务中心,102.792363,24.999829000000002,,,,,,,,,,,3,45741

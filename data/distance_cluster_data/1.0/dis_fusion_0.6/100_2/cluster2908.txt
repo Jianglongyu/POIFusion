@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明路政管理中队,103.036811,25.326743,,,,,,,,,,,3,41703
+全顺摩托驾驶培训学校,103.03658,25.326731,,,,,,,,,,,3,44193

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林湖,103.325645,24.819656,,,,,,,,,,,3,27948
+石林湖,103.325645,24.819456,,,,,,,,,,,3,57737

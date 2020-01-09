@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南农业大学水利水电职业技术学院,102.73351,25.128639999999997,,,,,,,,,,,3,30701
+云南农业大学水利水电职业技术学院,102.73351,25.128439999999998,,,,,,,,,,,3,60490

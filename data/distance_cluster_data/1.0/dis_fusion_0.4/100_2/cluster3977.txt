@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+民康大药房,103.430746,25.598991,,,,,,,,,,,3,32642
+寻甸北大营鑫鑫大药房,103.430192,25.599515,,,,,,,,,,,3,32713

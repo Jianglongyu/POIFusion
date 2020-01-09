@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+经开区云兰医院,102.828357,24.994533999999998,,,,,,,,,,,3,23528
+经开区云兰医院,102.828357,24.994334,,,,,,,,,,,3,53317

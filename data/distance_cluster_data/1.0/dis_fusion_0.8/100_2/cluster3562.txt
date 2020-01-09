@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三只蛙火锅,102.642227,24.971321,,,,,,,,,,,1,2210
+三只蛙火锅,102.642227,24.971521,,,,,,,,,,,1,56502

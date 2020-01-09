@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+清逸水乡,103.039794,25.1881,,,,,,,,,,,1,2291
+清逸水乡,103.039794,25.188299999999998,,,,,,,,,,,1,66512

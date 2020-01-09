@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+团街中学,102.521106,25.746803,,,,,,,,,,,3,31858
+团街中学,102.521106,25.746603,,,,,,,,,,,3,61647

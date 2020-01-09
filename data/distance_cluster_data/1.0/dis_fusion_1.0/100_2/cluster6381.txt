@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县杨桥一中,103.05466700000001,25.304510999999998,,,,,,,,,,,3,31670
+嵩明县杨桥一中,103.05466700000001,25.304311,,,,,,,,,,,3,61459

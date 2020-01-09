@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市东川区气象局,103.172461,26.087996,,,,,,,,,,,3,29831
+昆明市东川区气象局,103.172461,26.087796,,,,,,,,,,,3,59620

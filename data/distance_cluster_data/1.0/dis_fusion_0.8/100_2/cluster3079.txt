@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山高原明珠,102.621938,24.994407,,,,,,,,,,,2,609
+西山高原明珠,102.621938,24.994607,,,,,,,,,,,2,54901

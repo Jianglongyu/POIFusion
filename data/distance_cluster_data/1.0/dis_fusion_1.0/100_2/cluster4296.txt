@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丹枫韵海,102.673703,24.980446,,,,,,,,,,,1,4212
+丹枫韵海,102.673703,24.980646,,,,,,,,,,,1,68433

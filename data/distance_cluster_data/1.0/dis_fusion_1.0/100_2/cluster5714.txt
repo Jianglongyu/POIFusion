@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县公安局小街派出所,103.12401899999999,25.313868,,,,,,,,,,,3,29546
+嵩明县公安局小街派出所,103.12401899999999,25.313668,,,,,,,,,,,3,59335

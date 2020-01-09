@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武家庄小学,102.495092,24.953509,,,,,,,,,,,3,32595
+武家庄小学,102.495092,24.953309,,,,,,,,,,,3,62384

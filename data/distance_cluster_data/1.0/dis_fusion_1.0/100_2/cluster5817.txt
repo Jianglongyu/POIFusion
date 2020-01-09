@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县狮山工商局,102.399303,25.528448,,,,,,,,,,,3,29978
+武定县狮山工商局,102.399303,25.528248,,,,,,,,,,,3,59767

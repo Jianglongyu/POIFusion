@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+天使幼儿园,102.853656,25.545648,,,,,,,,,,,3,39170
+柯渡镇中心卫生院,102.854968,25.545780999999998,,,,,,,,,,,3,30492
+寻甸县柯渡镇计划生育服务所,102.85432800000001,25.546092,,,,,,,,,,,3,36295

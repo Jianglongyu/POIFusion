@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马龙县疾病预防控制中心,103.58416700000001,25.432821,,,,,,,,,,,3,28280
+马龙县食品药品监督管理局,103.584313,25.432864000000002,,,,,,,,,,,3,32340

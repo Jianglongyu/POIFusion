@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县塘子镇卫生院,103.26213,25.429858,,,,,,,,,,,3,24007
+寻甸县塘子镇卫生院,103.26213,25.429658,,,,,,,,,,,3,43867

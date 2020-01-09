@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+徐文菊诊所,102.74891600000001,24.989485000000002,,,,,,,,,,,3,26719
+正阳寺,102.74867900000001,24.989428,,,,,,,,,,,3,31642
+官渡区晨欣双语学校,102.748136,24.989245999999998,,,,,,,,,,,3,36111

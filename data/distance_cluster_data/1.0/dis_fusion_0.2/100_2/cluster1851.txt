@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+安宁市青龙卫生院,102.32658599999999,25.016454,,,,,,,,,,,3,25721
+安宁市监察局第九监察分局,102.326274,25.017146,,,,,,,,,,,3,33023
+安宁市政府青龙街道办事处,102.326274,25.017146,,,,,,,,,,,3,33353

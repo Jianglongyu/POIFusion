@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明东部废旧物资综合交易市场(三,102.798322,25.058294,,,,,,,,,,,1,3212
+昆明东部废旧物资综合交易市场(三,102.798322,25.058494,,,,,,,,,,,1,67433

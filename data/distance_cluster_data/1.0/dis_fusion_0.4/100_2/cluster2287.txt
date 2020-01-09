@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康民药店,103.271435,24.755937,,,,,,,,,,,3,30781
+石林县司法局,103.27168499999999,24.755367,,,,,,,,,,,3,36639
+石林彝族自治县供销合作社联合社,103.271213,24.755326999999998,,,,,,,,,,,3,37323

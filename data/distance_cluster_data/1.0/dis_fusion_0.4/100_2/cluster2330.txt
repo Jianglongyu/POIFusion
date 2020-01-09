@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+广南小学,102.916324,24.937072,,,,,,,,,,,3,39566
+川香园饭店,102.91691999999999,24.93796,,,,,,,,,,,3,7527
+川香园饭店,102.91691999999999,24.93776,,,,,,,,,,,3,14974

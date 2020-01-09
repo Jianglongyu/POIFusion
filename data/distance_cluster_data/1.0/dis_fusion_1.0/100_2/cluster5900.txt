@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+胜利村中心完小,103.279011,25.502275,,,,,,,,,,,3,30299
+胜利村中心完小,103.279011,25.502075,,,,,,,,,,,3,60088

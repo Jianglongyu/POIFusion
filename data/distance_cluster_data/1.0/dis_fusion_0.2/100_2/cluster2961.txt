@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云秀书院,102.751645,24.951168,,,,,,,,,,,3,36193
+昆明市官渡区第一中学,102.751645,24.951168,,,,,,,,,,,3,36197

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+立康药房塘双路店,102.716422,25.027171,,,,,,,,,,,3,26323
+中国农业银行ATM,102.71637,25.02664,,,,,,,,,,,3,36460

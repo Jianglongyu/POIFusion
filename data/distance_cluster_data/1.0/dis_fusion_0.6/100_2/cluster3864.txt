@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+易门六街加油站,102.233805,24.819914999999998,,,,,,,,,,,3,4963
+易门六街加油站,102.233805,24.819715,,,,,,,,,,,3,17730

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+武定县学勤幼儿园,102.399976,25.532611,,,,,,,,,,,3,30648
+武定县学勤幼儿园,102.399976,25.532411,,,,,,,,,,,3,60437

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白莲寺加油站,103.15981,24.751014,,,,,,,,,,,3,5088
+白莲寺加油站,103.15981,24.750814000000002,,,,,,,,,,,3,8398

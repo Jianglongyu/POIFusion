@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+红塔区后所中学,102.544048,24.43928,,,,,,,,,,,3,31599
+红塔区后所中学,102.544048,24.43908,,,,,,,,,,,3,61388

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福来缘私房菜馆,102.73826,24.97523,,,,,,,,,,,3,9493
+华美宾馆,102.73826,24.97523,,,,,,,,,,,3,27354
+福来缘私房菜馆,102.73826,24.97503,,,,,,,,,,,3,39282
+华美宾馆,102.73826,24.97503,,,,,,,,,,,3,57143

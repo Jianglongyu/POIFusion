@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+吴井路口公交站,102.743299,25.028975,,,,,,,,,,,1,1791
+城市理想,102.742828,25.028581,,,,,,,,,,,1,4359
+润昱翔中药材经营部,102.742597,25.028624,,,,,,,,,,,3,25973

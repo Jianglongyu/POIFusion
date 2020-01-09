@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+江苏金坛大寨希望小学,103.15754100000001,26.157041,,,,,,,,,,,3,30675
+江苏金坛大寨希望小学,103.15754100000001,26.156841,,,,,,,,,,,3,60464

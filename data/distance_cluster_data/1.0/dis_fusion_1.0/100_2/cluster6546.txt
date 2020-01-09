@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晨光幼儿园,102.198263,24.948113,,,,,,,,,,,3,32179
+晨光幼儿园,102.198263,24.947913,,,,,,,,,,,3,61968

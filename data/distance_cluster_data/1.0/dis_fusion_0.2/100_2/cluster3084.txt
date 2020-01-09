@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福宝农家园,102.83046999999999,25.0902,,,,,,,,,,,3,20975
+兴旺院正宗花椒鸡,102.83072,25.09037,,,,,,,,,,,3,22119

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金麦西饼屋(BrookCity西南),102.653127,25.095428,,,,,,,,,,,1,3439
+怀德仁海屯路大药房,102.653017,25.095429,,,,,,,,,,,1,3640
+金麦西饼屋(BrookCity西南),102.653127,25.095627999999998,,,,,,,,,,,1,67660
+怀德仁海屯路大药房,102.653017,25.095629,,,,,,,,,,,1,67861

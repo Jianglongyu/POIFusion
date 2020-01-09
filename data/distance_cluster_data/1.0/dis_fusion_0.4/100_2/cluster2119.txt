@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+荣华农庄,102.86326,25.12589,,,,,,,,,,,3,19741
+金柯顺发度假山庄,102.86376,25.12596,,,,,,,,,,,3,24602
+野鸭湖马会,102.86298000000001,25.12631,,,,,,,,,,,3,25225

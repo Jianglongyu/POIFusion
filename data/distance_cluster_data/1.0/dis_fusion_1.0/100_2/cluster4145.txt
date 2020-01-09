@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+郊野公园(东门),102.634085,25.080017,,,,,,,,,,,1,3513
+郊野公园(东门),102.634085,25.080217,,,,,,,,,,,1,67734

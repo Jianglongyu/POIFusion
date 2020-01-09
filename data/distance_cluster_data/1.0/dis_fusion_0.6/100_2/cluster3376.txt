@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南民族村民族文化培训中心,102.65519300000001,24.969716000000002,,,,,,,,,,,3,43800
+建行云南省分行海埂培训中心,102.655512,24.969233,,,,,,,,,,,3,45378

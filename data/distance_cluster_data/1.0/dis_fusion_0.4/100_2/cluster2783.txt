@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+郭祥诊所,102.55415500000001,24.42703,,,,,,,,,,,3,33559
+光佛寺,102.554423,24.427215,,,,,,,,,,,3,35645

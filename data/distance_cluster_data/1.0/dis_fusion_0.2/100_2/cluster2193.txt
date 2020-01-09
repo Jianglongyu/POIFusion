@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+文化路社区文化活动室,102.74132,25.049229999999998,,,,,,,,,,,3,22404
+文艺路社区卫生服务站,102.74113299999999,25.049491,,,,,,,,,,,3,25782
+兴达宾馆,102.74131,25.04927,,,,,,,,,,,3,30941

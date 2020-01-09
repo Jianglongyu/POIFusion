@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鑫蓉草墩饭店,102.78071,25.04863,,,,,,,,,,,3,11451
+鑫蓉草墩饭店,102.78071,25.04843,,,,,,,,,,,3,24218

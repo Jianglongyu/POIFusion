@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县交通运政管理所业务厅,103.256374,25.570704,,,,,,,,,,,3,42242
+寻甸县民政局,103.256132,25.571013,,,,,,,,,,,3,42850

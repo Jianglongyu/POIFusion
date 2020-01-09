@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林镇占屯办事处占屯小学校,103.359134,24.914236,,,,,,,,,,,3,32710
+石林镇占屯办事处占屯小学校,103.359134,24.914036,,,,,,,,,,,3,62499

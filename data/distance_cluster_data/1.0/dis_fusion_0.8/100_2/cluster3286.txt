@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小七十郎生态度假山庄,102.66102,24.85501,,,,,,,,,,,3,17668
+小七十郎生态度假山庄,102.66102,24.85481,,,,,,,,,,,3,37528

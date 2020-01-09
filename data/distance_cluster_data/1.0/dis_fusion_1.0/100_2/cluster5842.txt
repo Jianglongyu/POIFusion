@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市呈贡区斗南街道办,102.79149100000001,24.912291,,,,,,,,,,,3,30079
+昆明市呈贡区斗南街道办,102.79149100000001,24.912091,,,,,,,,,,,3,59868

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+轿子山风景区售票处,102.837907,26.017697,,,,,,,,,,,3,28206
+轿子山风景区售票处,102.837907,26.017497,,,,,,,,,,,3,57995

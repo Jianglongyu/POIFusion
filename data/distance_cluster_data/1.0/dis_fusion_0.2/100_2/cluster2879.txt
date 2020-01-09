@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+阿髓造型施华蔻专业美发,102.74558,25.05208,,,,,,,,,,,3,19245
+尚美国际,102.7461,25.05247,,,,,,,,,,,3,19559

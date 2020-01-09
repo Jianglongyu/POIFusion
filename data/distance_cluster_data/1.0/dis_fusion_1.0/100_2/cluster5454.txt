@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滑坡天城堂,102.325406,25.499420999999998,,,,,,,,,,,3,28221
+滑坡天城堂,102.325406,25.499221,,,,,,,,,,,3,58010

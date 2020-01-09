@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+聚景楼宴会厅,102.84553000000001,24.86198,,,,,,,,,,,3,21946
+时尚美域,102.84529,24.861929999999997,,,,,,,,,,,3,24483

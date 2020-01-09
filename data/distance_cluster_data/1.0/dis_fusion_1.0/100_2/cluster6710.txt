@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小街镇墩白完全小学,103.116354,25.361534,,,,,,,,,,,3,32623
+小街镇墩白完全小学,103.116354,25.361334,,,,,,,,,,,3,62412

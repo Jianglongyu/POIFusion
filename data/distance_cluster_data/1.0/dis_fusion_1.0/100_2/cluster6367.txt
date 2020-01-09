@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+南大村小学,103.227861,24.522153,,,,,,,,,,,3,31637
+南大村小学,103.227861,24.521953,,,,,,,,,,,3,61426

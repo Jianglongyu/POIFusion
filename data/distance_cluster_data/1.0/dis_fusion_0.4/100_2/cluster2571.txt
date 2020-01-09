@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+世豪·香颂时光,102.79113000000001,25.005835,,,,,,,,,,,2,341
+世豪·香颂时光,102.79113000000001,25.006035,,,,,,,,,,,2,42220

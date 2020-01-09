@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东俊大药房云磷医院便民连锁店,102.537784,24.794802999999998,,,,,,,,,,,3,38412
+西山区第三人民医院,102.538211,24.794525,,,,,,,,,,,3,38513

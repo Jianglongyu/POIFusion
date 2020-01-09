@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+黄家大药房,102.466388,25.555518,,,,,,,,,,,3,25807
+黄家大药房,102.466388,25.555318,,,,,,,,,,,3,55596

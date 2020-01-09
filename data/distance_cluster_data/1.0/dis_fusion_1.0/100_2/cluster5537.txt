@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+银海金岸,102.74824,24.95329,,,,,,,,,,,3,28669
+银海金岸,102.74824,24.95309,,,,,,,,,,,3,58458

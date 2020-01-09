@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+香江狮子会第一侨心小学,102.571463,25.610585999999998,,,,,,,,,,,3,30353
+香江狮子会第一侨心小学,102.571463,25.610386,,,,,,,,,,,3,60142

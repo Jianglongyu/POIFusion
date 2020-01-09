@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆大高速,102.654735,25.029571,,,,,,,,,,,1,3275
+昆大高速,102.654735,25.029771,,,,,,,,,,,1,67496

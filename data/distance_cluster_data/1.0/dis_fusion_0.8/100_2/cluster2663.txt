@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+益民药店连锁NO．1,102.55288900000001,24.556704,,,,,,,,,,,3,23836
+益民药店连锁NO．1,102.55288900000001,24.556504,,,,,,,,,,,3,43696
+一心堂晋宁宝峰连锁店,102.553627,24.556908,,,,,,,,,,,3,45400

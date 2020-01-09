@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+思源饭店,102.83533,25.00526,,,,,,,,,,,3,7710
+聚缘餐厅,102.8359,25.004649999999998,,,,,,,,,,,3,7891
+思源饭店,102.83533,25.00506,,,,,,,,,,,3,20477

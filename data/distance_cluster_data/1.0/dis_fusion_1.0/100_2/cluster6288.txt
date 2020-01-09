@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+嵩明县实验中学,103.059384,25.23564,,,,,,,,,,,3,31394
+嵩明县实验中学,103.059384,25.23544,,,,,,,,,,,3,61183

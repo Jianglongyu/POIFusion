@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西坝文武学校,102.690623,25.029902,,,,,,,,,,,3,31708
+英姿美发,102.6914,25.02947,,,,,,,,,,,3,48065
+西坝文武学校,102.690623,25.029702,,,,,,,,,,,3,61497

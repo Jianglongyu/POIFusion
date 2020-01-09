@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+立志小学,102.873001,25.047828,,,,,,,,,,,3,52276
+小朝阳幼儿园,102.873112,25.047814000000002,,,,,,,,,,,3,52504

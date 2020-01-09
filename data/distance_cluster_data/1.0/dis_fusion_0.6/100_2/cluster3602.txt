@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+汇丰楼,102.83534,24.77587,,,,,,,,,,,3,12713
+汇丰楼,102.83534,24.77567,,,,,,,,,,,3,25480

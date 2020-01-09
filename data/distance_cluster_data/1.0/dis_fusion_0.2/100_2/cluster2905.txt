@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+秀域,102.7313,25.09756,,,,,,,,,,,3,19422
+昆明市五华耀龙诊所,102.73129399999999,25.097398000000002,,,,,,,,,,,3,29445

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+普吉卫生所,102.667117,25.102769,,,,,,,,,,,3,23340
+普吉卫生所,102.667117,25.102569,,,,,,,,,,,3,43200

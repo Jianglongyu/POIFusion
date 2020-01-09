@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东航工程技术公司昆明维修基地,102.747846,24.999999,,,,,,,,,,,2,604
+东航工程技术公司昆明维修基地,102.747846,25.000199,,,,,,,,,,,2,64825

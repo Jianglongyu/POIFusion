@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+民生堂大药房,102.923354,24.66773,,,,,,,,,,,3,23847
+民生堂大药房,102.923354,24.66753,,,,,,,,,,,3,43707

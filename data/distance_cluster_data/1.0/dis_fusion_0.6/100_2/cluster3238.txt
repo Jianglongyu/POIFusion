@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+王筇路中段公交站,102.662964,25.09564,,,,,,,,,,,1,1865
+王筇路中段公交站,102.662964,25.09584,,,,,,,,,,,1,49064

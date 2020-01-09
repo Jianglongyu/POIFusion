@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+丽江,102.925923,25.131439999999998,,,,,,,,,,,1,2680
+丽江,102.925923,25.131639999999997,,,,,,,,,,,1,56972

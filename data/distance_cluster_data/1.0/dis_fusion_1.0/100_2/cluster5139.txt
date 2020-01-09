@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东骏大药房北古城连锁店,103.18588299999999,24.971061,,,,,,,,,,,3,25593
+东骏大药房北古城连锁店,103.18588299999999,24.970861,,,,,,,,,,,3,55382

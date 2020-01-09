@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+迅达网咖,102.74043,24.9654,,,,,,,,,,,3,19543
+迅达网咖,102.74043,24.9652,,,,,,,,,,,3,39403

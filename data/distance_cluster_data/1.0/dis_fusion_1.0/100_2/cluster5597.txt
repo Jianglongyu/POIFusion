@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝县撒营盘镇人大,102.526728,26.004089999999998,,,,,,,,,,,3,28963
+禄劝县撒营盘镇人大,102.526728,26.00389,,,,,,,,,,,3,58752

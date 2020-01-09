@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+998快捷酒店,102.84411999999999,24.84313,,,,,,,,,,,3,27121
+998快捷酒店,102.84411999999999,24.84293,,,,,,,,,,,3,56910

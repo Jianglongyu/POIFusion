@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+加油站,103.576727,25.435813,,,,,,,,,,,3,4968
+加油站,103.576727,25.435613,,,,,,,,,,,3,8278
+云南曲靖交通集团有限公司马龙分公司,103.57674,25.435907,,,,,,,,,,,3,36254

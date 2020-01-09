@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+实力山语间,102.770758,25.040357999999998,,,,,,,,,,,2,334
+实力山语间,102.770758,25.040557999999997,,,,,,,,,,,2,64555

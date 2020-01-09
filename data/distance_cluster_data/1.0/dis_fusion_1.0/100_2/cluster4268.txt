@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙溪沟野营基地,102.57425,24.92021,,,,,,,,,,,3,20434
+龙溪沟野营基地,102.57425,24.92001,,,,,,,,,,,3,50223

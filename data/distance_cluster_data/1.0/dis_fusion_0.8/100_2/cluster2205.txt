@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+依然香,102.71495,25.0894,,,,,,,,,,,3,15164
+依然香,102.71495,25.0892,,,,,,,,,,,3,35024
+云南师范大学文理学院,102.715491,25.090135999999998,,,,,,,,,,,3,50931
+中国农业银行ATM,102.71579,25.08921,,,,,,,,,,,3,54166

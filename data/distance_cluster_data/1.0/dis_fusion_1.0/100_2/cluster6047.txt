@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙保小学,103.15852,24.763326999999997,,,,,,,,,,,3,30695
+龙保小学,103.15852,24.763126999999997,,,,,,,,,,,3,60484

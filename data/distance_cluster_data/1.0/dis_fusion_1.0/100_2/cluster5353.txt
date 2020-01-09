@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大石林景区,103.3241,24.817675,,,,,,,,,,,3,27935
+大石林景区,103.3241,24.817475,,,,,,,,,,,3,57724

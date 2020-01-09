@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+龙斗壹号海岸城,102.80853,24.885448999999998,,,,,,,,,,,2,264
+龙斗壹号海岸城,102.80853,24.885648999999997,,,,,,,,,,,2,42143

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福建沙县小吃(东方花园东南),102.745942,25.039327,,,,,,,,,,,1,4018
+福建沙县小吃(东方花园东南),102.745942,25.039527,,,,,,,,,,,1,68239

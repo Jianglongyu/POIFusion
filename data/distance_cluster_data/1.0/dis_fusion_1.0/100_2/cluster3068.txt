@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+第三城,102.80212709999999,24.96911974,,,,,,,,,,,2,71
+第三城,102.80212709999999,24.96931974,,,,,,,,,,,2,64292

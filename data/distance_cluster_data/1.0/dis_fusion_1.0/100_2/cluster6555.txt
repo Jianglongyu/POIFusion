@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三碗水湖生态园,102.6394,25.06271,,,,,,,,,,,3,15833
+三碗水湖生态园,102.6394,25.06251,,,,,,,,,,,3,45622

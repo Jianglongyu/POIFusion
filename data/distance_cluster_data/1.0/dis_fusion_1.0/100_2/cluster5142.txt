@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华区必英诊所,102.690263,25.160489000000002,,,,,,,,,,,3,25609
+五华区必英诊所,102.690263,25.160289000000002,,,,,,,,,,,3,55398

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康复来诊所,102.500384,25.666972,,,,,,,,,,,3,23084
+康复来诊所,102.500384,25.666772,,,,,,,,,,,3,52873

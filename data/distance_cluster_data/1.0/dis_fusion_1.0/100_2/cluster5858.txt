@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝民族中学初中部,102.484086,25.563592,,,,,,,,,,,3,30174
+禄劝民族中学初中部,102.484086,25.563392,,,,,,,,,,,3,59963

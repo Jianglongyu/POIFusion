@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南民族村医疗点,102.65975,24.965281,,,,,,,,,,,3,45618
+清真寺,102.65942,24.965167,,,,,,,,,,,3,47727

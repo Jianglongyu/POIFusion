@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+开宝医药公司,103.047931,24.867386,,,,,,,,,,,3,26772
+家家康大药房,103.048397,24.866992,,,,,,,,,,,3,27762
+舒洁旅馆,103.04858,24.866989999999998,,,,,,,,,,,3,30982

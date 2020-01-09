@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+街客(官渡区六甲福保社区卫生服务,102.70025600000001,24.939566,,,,,,,,,,,1,3502
+大理白族特色小吃,102.700754,24.939704000000003,,,,,,,,,,,1,4259

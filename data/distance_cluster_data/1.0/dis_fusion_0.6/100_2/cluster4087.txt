@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省疾病预防控制中心结核病临床治疗中心,102.676855,25.047098000000002,,,,,,,,,,,3,38751
+对外经贸大学远程教育昆明校外学习中心,102.676952,25.047808,,,,,,,,,,,3,44097

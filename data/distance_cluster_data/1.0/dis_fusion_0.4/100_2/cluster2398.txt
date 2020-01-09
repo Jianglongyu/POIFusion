@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+一心堂掌鸠河东路连锁店,102.47958100000001,25.562553,,,,,,,,,,,3,32740
+禄劝屏山愈安药店,102.47940200000001,25.562516,,,,,,,,,,,3,33091
+禄劝民族中学,102.47929599999999,25.562123,,,,,,,,,,,3,38291

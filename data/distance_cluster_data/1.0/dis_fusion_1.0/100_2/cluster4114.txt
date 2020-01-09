@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+经管院体育馆,102.656736,25.093534,,,,,,,,,,,1,3379
+经管院体育馆,102.656736,25.093733999999998,,,,,,,,,,,1,67600

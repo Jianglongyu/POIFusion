@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+三碗水寨缘聚山庄,102.63695,25.0617,,,,,,,,,,,3,19692
+三碗水寨缘聚山庄,102.63695,25.0615,,,,,,,,,,,3,49481

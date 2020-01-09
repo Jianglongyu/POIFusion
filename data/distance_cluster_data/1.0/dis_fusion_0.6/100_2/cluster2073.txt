@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+山馨农家乐,102.83162,25.098139999999997,,,,,,,,,,,3,17152
+山馨农家乐,102.83162,25.097939999999998,,,,,,,,,,,3,29919
+天丽农家,102.83162,25.097939999999998,,,,,,,,,,,3,33720

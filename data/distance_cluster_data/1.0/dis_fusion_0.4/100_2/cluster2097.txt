@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+四海饭店,102.75656,24.91971,,,,,,,,,,,3,11026
+四海饭店,102.75656,24.91951,,,,,,,,,,,3,18473
+矣六乡关锁卫生所,102.75686999999999,24.919069,,,,,,,,,,,3,31286

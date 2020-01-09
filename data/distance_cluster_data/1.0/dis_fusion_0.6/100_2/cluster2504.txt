@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+正宗富源秘制酸菜猪脚火锅,102.73186,24.99364,,,,,,,,,,,3,7910
+正宗富源秘制酸菜猪脚火锅,102.73186,24.99344,,,,,,,,,,,3,20677
+昆明市昕贝贝幼儿园,102.73158000000001,24.993759,,,,,,,,,,,3,45175

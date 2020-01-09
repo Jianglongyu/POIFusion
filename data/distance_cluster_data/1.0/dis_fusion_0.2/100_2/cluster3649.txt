@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市呈贡区洛羊街道工作委员会,102.83079000000001,24.90181,,,,,,,,,,,3,32137
+呈贡区城市管理综合行政执法局,102.83079000000001,24.90181,,,,,,,,,,,3,32798

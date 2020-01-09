@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县财政局右所财政所,102.92915699999999,24.643439,,,,,,,,,,,3,28774
+澄江县财政局右所财政所,102.92915699999999,24.643239,,,,,,,,,,,3,58563

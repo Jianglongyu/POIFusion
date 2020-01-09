@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+香锅美食源,102.78421999999999,24.99571,,,,,,,,,,,3,8301
+香锅美食源,102.78421999999999,24.99551,,,,,,,,,,,3,28161
+阳光保险集团则产保险经开区客服部,102.78394,24.99584,,,,,,,,,,,3,52902

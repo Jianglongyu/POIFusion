@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西山别墅,102.602393,24.941257,,,,,,,,,,,1,1728
+西山别墅,102.602393,24.941457,,,,,,,,,,,1,65949

@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+洁丽口腔专科门诊,102.701091,25.073929,,,,,,,,,,,3,22501
+巴士诊所,102.7008,25.073798999999998,,,,,,,,,,,3,24090
+洁丽口腔专科门诊,102.701091,25.073729,,,,,,,,,,,3,42361

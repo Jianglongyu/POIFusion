@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县烟草专卖局晋城专卖管理所,102.74959799999999,24.701907,,,,,,,,,,,3,29109
+晋宁县烟草专卖局晋城专卖管理所,102.74959799999999,24.701707,,,,,,,,,,,3,58898

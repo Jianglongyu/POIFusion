@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+赵记正宗富源酸菜猪脚,102.79829000000001,24.951320000000003,,,,,,,,,,,3,15126
+瑞鑫宾馆,102.79824,24.95127,,,,,,,,,,,3,29997

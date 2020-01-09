@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+老东粥皇茶餐厅 七彩店,102.73299,25.052905,,,,,,,,,,,1,2714
+昆明耀莱成龙国际影城,102.73253100000001,25.053611,,,,,,,,,,,1,2833
+老东粥皇茶餐厅 七彩店,102.73299,25.053105,,,,,,,,,,,1,57006

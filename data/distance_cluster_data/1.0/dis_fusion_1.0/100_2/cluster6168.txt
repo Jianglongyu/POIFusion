@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+晋宁县中和中心小学,102.588386,24.686914,,,,,,,,,,,3,31031
+晋宁县中和中心小学,102.588386,24.686714000000002,,,,,,,,,,,3,60820

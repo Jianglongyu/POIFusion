@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县抚仙湖管理局,102.915075,24.667371,,,,,,,,,,,3,30076
+澄江县抚仙湖管理局,102.915075,24.667171,,,,,,,,,,,3,59865

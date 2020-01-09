@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明碧莲盛植发医院,102.72276,24.984849999999998,,,,,,,,,,,3,18558
+昆明碧莲盛植发医院,102.72276,24.98465,,,,,,,,,,,3,38418

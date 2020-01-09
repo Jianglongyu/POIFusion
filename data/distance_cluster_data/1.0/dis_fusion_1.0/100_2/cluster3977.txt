@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明西收费站,102.597212,24.974273999999998,,,,,,,,,,,1,2864
+昆明西收费站,102.597212,24.974473999999997,,,,,,,,,,,1,67085

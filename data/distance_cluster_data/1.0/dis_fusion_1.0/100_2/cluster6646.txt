@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+北城中心幼儿园,102.547848,24.429203,,,,,,,,,,,3,32509
+北城中心幼儿园,102.547848,24.429003,,,,,,,,,,,3,62298

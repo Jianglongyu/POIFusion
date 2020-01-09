@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴园,102.60321,24.7866,,,,,,,,,,,3,18245
+兴园,102.60321,24.7864,,,,,,,,,,,3,48034

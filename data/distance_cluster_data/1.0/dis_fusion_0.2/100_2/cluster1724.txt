@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇菜王府,102.69621,25.0628,,,,,,,,,,,3,6585
+滇菜王府,102.69621,25.0626,,,,,,,,,,,3,9895
+文汇酒店－西餐厅,102.69621,25.0626,,,,,,,,,,,3,12922
+文汇酒店－宴会厅,102.69621,25.0626,,,,,,,,,,,3,14370

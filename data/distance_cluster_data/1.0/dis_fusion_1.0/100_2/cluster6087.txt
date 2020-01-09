@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+耻格完小,102.74916400000001,25.63934,,,,,,,,,,,3,30827
+耻格完小,102.74916400000001,25.63914,,,,,,,,,,,3,60616

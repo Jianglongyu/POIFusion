@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+人朝烤全羊,102.82755,25.09688,,,,,,,,,,,3,16882
+杨小稼御酱园,102.82729,25.09685,,,,,,,,,,,3,19829
+人朝烤全羊,102.82755,25.09668,,,,,,,,,,,3,36742
+杨小稼御酱园,102.82729,25.09665,,,,,,,,,,,3,39689

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+杨记正宗猪脚小吃,102.75790500000001,25.085867,,,,,,,,,,,1,1424
+杨记正宗猪脚小吃,102.75790500000001,25.086067,,,,,,,,,,,1,65645

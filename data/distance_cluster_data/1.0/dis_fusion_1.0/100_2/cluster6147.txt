@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+温泉童缘幼儿园,102.450938,24.966955,,,,,,,,,,,3,30985
+温泉童缘幼儿园,102.450938,24.966755,,,,,,,,,,,3,60774

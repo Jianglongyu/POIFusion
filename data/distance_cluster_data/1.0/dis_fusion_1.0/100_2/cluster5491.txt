@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+温泉寺,103.179808,25.059723,,,,,,,,,,,3,28309
+温泉寺,103.179808,25.059523000000002,,,,,,,,,,,3,58098

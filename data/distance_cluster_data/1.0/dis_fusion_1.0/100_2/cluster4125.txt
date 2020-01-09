@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+金色家园南园(东门),102.724034,25.00358,,,,,,,,,,,1,3428
+金色家园南园(东门),102.724034,25.00378,,,,,,,,,,,1,67649

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+基督教堂,102.52509599999999,25.999988000000002,,,,,,,,,,,3,35681
+禄劝县财政局撒营盘镇财政所,102.525175,25.999443,,,,,,,,,,,3,37038

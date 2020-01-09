@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+博创商场济仁堂药店,102.50291700000001,24.891161999999998,,,,,,,,,,,3,23474
+博创商场济仁堂药店,102.50291700000001,24.890962,,,,,,,,,,,3,43334

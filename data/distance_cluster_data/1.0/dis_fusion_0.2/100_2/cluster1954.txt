@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江县第八中学,102.94170600000001,24.516177,,,,,,,,,,,3,35210
+澄江县海口卫生院,102.941678,24.514664,,,,,,,,,,,3,29482
+海口中心小学,102.941509,24.515329,,,,,,,,,,,3,35017

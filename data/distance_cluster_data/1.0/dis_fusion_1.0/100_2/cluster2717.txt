@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+民生银行总部大楼,102.77205,24.93191,,,,,,,,,,,3,28640
+湘味邵东土菜馆,102.77114,24.93227,,,,,,,,,,,3,11388
+湘味邵东土菜馆,102.77114,24.93207,,,,,,,,,,,3,41177
+民生银行总部大楼,102.77205,24.93171,,,,,,,,,,,3,58429

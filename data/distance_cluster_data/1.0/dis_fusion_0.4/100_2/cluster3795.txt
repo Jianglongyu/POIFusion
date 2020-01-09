@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中营社区卫生服务站,102.740486,24.946584,,,,,,,,,,,3,30903
+迎群药房,102.74067099999999,24.947179000000002,,,,,,,,,,,3,32996

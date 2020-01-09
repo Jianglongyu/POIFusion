@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明铁路局会议中心－网球场,102.66583,24.97184,,,,,,,,,,,3,18103
+昆明铁路局会议中心－网球场,102.66583,24.97164,,,,,,,,,,,3,37963

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+革命烈士纪念塔,103.270457,24.75818,,,,,,,,,,,3,27879
+革命烈士纪念塔,103.270457,24.75798,,,,,,,,,,,3,57668

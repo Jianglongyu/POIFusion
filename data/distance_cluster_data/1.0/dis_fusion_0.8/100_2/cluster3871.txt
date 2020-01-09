@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海康庄园,102.80856,24.81339,,,,,,,,,,,3,19912
+海康庄园,102.80856,24.81319,,,,,,,,,,,3,39772

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大冲公园,102.82642,24.95359,,,,,,,,,,,3,18840
+大冲公园,102.82642,24.95339,,,,,,,,,,,3,48629

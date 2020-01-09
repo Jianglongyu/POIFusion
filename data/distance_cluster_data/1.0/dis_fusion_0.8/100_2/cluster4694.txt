@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+康复新大药房前卫店,102.709213,25.004624,,,,,,,,,,,3,23534
+康复新大药房前卫店,102.709213,25.004424,,,,,,,,,,,3,43394

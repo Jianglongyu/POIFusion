@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+人民公社大食堂,102.74543,24.95086,,,,,,,,,,,3,5307
+人民公社大食堂,102.74543,24.95066,,,,,,,,,,,3,12754
+迷你美容美发养生会所官南城旗舰店,102.74631,24.95126,,,,,,,,,,,3,23432

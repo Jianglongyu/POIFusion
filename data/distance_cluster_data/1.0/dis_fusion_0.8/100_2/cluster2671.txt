@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+河尾人家,102.66072,24.99141,,,,,,,,,,,3,15741
+河尾人家,102.66072,24.99121,,,,,,,,,,,3,35601
+金鑫招待所,102.66077,24.99127,,,,,,,,,,,3,47054

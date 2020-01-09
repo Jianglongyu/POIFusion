@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+西双版纳嘎洒国际机场,102.924931,25.072791,,,,,,,,,,,2,579
+西双版纳嘎洒国际机场,102.924931,25.072991,,,,,,,,,,,2,47778

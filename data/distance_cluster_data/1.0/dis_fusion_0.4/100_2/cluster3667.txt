@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+陈家饭店,102.65387,24.877129999999998,,,,,,,,,,,3,21635
+山水情花园餐厅,102.6533,24.87744,,,,,,,,,,,3,26394

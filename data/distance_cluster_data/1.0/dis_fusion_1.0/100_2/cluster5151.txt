@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+两面寺砂锅羊肉馆,102.81559,25.02802,,,,,,,,,,,3,9310
+两面寺砂锅羊肉馆,102.81559,25.027820000000002,,,,,,,,,,,3,39099

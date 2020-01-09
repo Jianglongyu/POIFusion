@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+生达新世界大药房,102.501689,24.887097,,,,,,,,,,,3,24023
+生达新世界大药房,102.501689,24.886897,,,,,,,,,,,3,43883
+刘冰一口腔诊所,102.501927,24.886816,,,,,,,,,,,3,45233

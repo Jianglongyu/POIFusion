@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大荒地加油站,102.292808,25.218322,,,,,,,,,,,3,4759
+大荒地加油站,102.292808,25.218122,,,,,,,,,,,3,8069

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市园林科研所,102.775205,25.083235,,,,,,,,,,,3,31771
+昆明市园林科研所,102.775205,25.083035,,,,,,,,,,,3,61560

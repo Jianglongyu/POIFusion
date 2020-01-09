@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+鲜驴园山庄,102.77373,25.0308,,,,,,,,,,,3,8507
+鲜驴园山庄,102.77373,25.0306,,,,,,,,,,,3,21274

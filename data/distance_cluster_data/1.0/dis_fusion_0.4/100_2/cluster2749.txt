@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中林建材城,102.75915,24.993933,,,,,,,,,,,1,687
+中林建材城,102.75915,24.994132999999998,,,,,,,,,,,1,42566

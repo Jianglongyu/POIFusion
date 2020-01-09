@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云光机动车驾驶培训学校,102.608136,24.786157,,,,,,,,,,,3,32307
+云光机动车驾驶培训学校,102.608136,24.785957,,,,,,,,,,,3,62096

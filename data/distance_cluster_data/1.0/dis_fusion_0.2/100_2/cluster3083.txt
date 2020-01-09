@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+馨韵健康美颜会所,102.97700999999999,24.81899,,,,,,,,,,,3,20970
+阳宗中心卫生院,102.976497,24.818447,,,,,,,,,,,3,29193

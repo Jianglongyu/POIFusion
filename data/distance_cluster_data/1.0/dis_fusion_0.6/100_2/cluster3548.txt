@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+陈晓兰口腔诊所,102.75299999999999,24.711177,,,,,,,,,,,3,36780
+晋城镇社区卫生中心,102.75281,24.710504999999998,,,,,,,,,,,3,37432

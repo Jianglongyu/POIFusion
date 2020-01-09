@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+利康诊所,103.264699,25.55992,,,,,,,,,,,3,30912
+段朝富中西医结合诊所,103.264495,25.560531,,,,,,,,,,,3,31721
+同济堂翠苑店,103.264422,25.560205,,,,,,,,,,,3,32199

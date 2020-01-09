@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大桥小学,103.148146,25.294939,,,,,,,,,,,3,30314
+大桥小学,103.148146,25.294739,,,,,,,,,,,3,60103

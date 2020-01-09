@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南国土资源职业学院实训基地,102.79755300000001,24.976104,,,,,,,,,,,1,1134
+云南国土资源职业学院实训基地,102.79755300000001,24.976304,,,,,,,,,,,1,55426

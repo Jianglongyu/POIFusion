@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县工商局金所工商所,103.19120699999999,25.539984,,,,,,,,,,,3,37135
+贝贝幼儿园,103.19085799999999,25.539822,,,,,,,,,,,3,38525

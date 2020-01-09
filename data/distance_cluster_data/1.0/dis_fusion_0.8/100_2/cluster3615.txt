@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+樱花小榭,102.84272,24.823829999999997,,,,,,,,,,,3,18839
+樱花小榭,102.84272,24.823629999999998,,,,,,,,,,,3,38699

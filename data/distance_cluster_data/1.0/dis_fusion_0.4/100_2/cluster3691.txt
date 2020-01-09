@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省轻工业技工学校,102.811524,24.994243,,,,,,,,,,,3,38266
+云南经济管理职业学院中专部,102.811524,24.994243,,,,,,,,,,,3,38338

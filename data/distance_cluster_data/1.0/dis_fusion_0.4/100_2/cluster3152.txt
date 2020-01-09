@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+禄劝彝族苗族自治县公安局翠华派出所,102.58037900000001,25.631981,,,,,,,,,,,3,36310
+禄劝县翠华乡委,102.58037900000001,25.631981,,,,,,,,,,,3,36995

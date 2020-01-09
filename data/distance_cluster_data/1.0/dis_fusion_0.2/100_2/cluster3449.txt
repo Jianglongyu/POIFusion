@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+马鹿塘国旺加油站,102.55979599999999,26.151923999999998,,,,,,,,,,,3,5102
+马鹿塘国旺加油站,102.55979599999999,26.151723999999998,,,,,,,,,,,3,8412

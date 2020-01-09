@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+麦当劳大学城店,102.84299999999999,24.83638,,,,,,,,,,,3,11332
+麦当劳大学城店,102.84299999999999,24.83618,,,,,,,,,,,3,31192

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+笨笨羊,102.734657,25.091741,,,,,,,,,,,1,4439
+笨笨羊,102.734657,25.091941,,,,,,,,,,,1,68660

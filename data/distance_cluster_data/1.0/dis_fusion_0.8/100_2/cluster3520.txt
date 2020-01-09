@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+澄江人家生态石锅鱼,102.84405,25.02291,,,,,,,,,,,3,10284
+澄江人家生态石锅鱼,102.84405,25.02271,,,,,,,,,,,3,30144

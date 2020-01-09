@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+滇池印象国际花园,102.704285,24.982495999999998,,,,,,,,,,,1,4154
+云岭商务酒店,102.70413,24.98293,,,,,,,,,,,3,40418
+中国工商银行ATM,102.70428000000001,24.98275,,,,,,,,,,,3,47132

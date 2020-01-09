@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林县工商局,103.288813,24.770421,,,,,,,,,,,3,30059
+石林县工商局,103.288813,24.770221,,,,,,,,,,,3,59848

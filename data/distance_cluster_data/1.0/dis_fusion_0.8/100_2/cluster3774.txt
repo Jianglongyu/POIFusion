@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市经开区天助粮油经营部,102.785154,24.993487,,,,,,,,,,,1,2979
+昆明市经开区天助粮油经营部,102.785154,24.993686999999998,,,,,,,,,,,1,57271

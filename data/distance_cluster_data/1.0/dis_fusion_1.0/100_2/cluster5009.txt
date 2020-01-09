@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+牛栏江镇腰站卫生室,103.16784200000001,25.283206,,,,,,,,,,,3,24512
+牛栏江镇腰站卫生室,103.16784200000001,25.283006,,,,,,,,,,,3,54301

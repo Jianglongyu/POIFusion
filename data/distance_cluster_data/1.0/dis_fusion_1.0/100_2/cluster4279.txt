@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+定风寺,102.845426,25.025208,,,,,,,,,,,1,4127
+定风寺,102.845426,25.025408,,,,,,,,,,,1,68348

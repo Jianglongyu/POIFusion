@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+巧手足疗保健二分店,102.66065,25.0641,,,,,,,,,,,3,30339
+野狼谷BAR,102.66058000000001,25.0641,,,,,,,,,,,3,33062
+昆明市五华区农村信用社黑林铺信用社,102.66019,25.06348,,,,,,,,,,,3,45783
+中国邮政储蓄银行ATM,102.66115,25.06403,,,,,,,,,,,3,46210

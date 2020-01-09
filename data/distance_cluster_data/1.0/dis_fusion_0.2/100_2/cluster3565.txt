@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+弥陀寺,102.756442,25.112634,,,,,,,,,,,3,31303
+昆明市盘龙区宝云小学,102.756606,25.112476,,,,,,,,,,,3,34221

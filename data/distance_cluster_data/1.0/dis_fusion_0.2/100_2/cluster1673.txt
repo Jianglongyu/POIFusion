@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+凤鸣农机加油站,103.029443,24.987781,,,,,,,,,,,3,4976
+凤鸣农机加油站,103.029443,24.987581,,,,,,,,,,,3,8286
+群苑农家乐,103.02994,24.988139999999998,,,,,,,,,,,3,23666
+农村信用社ATM,103.03026,24.98772,,,,,,,,,,,3,37266

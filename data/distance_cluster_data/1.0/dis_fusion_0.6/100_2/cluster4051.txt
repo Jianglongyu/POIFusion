@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+锦昕大酒店多功能厅,102.76335999999999,24.99662,,,,,,,,,,,3,13896
+锦昕大酒店多功能厅,102.76335999999999,24.99642,,,,,,,,,,,3,26663

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福甸小学,103.10639,25.301285999999998,,,,,,,,,,,3,30915
+福甸小学,103.10639,25.301085999999998,,,,,,,,,,,3,60704

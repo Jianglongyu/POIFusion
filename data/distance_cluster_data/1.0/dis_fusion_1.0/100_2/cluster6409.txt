@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南药物依赖防治研究所,102.677157,25.016254999999997,,,,,,,,,,,3,31762
+云南药物依赖防治研究所,102.677157,25.016054999999998,,,,,,,,,,,3,61551

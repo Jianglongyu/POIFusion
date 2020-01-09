@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+暇晷园,102.73746,25.00202,,,,,,,,,,,3,20554
+暇晷园,102.73746,25.001820000000002,,,,,,,,,,,3,40414
+日新小区幼儿园,102.73704599999999,25.002110000000002,,,,,,,,,,,3,52053

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+下长冲小学,102.290302,25.609413,,,,,,,,,,,3,61191
+明恩堂,102.290503,25.61036,,,,,,,,,,,3,28178
+下长冲小学,102.290302,25.609613,,,,,,,,,,,3,31402
+明恩堂,102.290503,25.61016,,,,,,,,,,,3,57967

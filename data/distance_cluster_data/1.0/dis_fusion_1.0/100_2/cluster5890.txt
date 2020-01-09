@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南九鼎职业技能学校,102.729535,24.990685,,,,,,,,,,,3,30278
+云南九鼎职业技能学校,102.729535,24.990485,,,,,,,,,,,3,60067

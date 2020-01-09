@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+大营育才小学,102.56489300000001,24.432657,,,,,,,,,,,3,32326
+大营育才小学,102.56489300000001,24.432457,,,,,,,,,,,3,62115

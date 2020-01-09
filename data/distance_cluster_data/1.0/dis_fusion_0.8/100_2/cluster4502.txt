@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昙华羽毛球馆,102.75223000000001,25.032420000000002,,,,,,,,,,,3,22049
+昙华羽毛球馆,102.75223000000001,25.032220000000002,,,,,,,,,,,3,41909

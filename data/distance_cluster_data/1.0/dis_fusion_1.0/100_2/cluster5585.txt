@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明市东川区发改局,103.184881,26.081392,,,,,,,,,,,3,28921
+昆明市东川区发改局,103.184881,26.081192,,,,,,,,,,,3,58710

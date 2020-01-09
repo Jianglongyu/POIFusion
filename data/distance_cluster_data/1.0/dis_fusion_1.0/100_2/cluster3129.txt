@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+汤郎中学,102.280778,26.187391,,,,,,,,,,,3,32909
+汤郎中学,102.280778,26.187191000000002,,,,,,,,,,,3,62698

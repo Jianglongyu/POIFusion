@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+露台西餐吧,102.70609,25.0467,,,,,,,,,,,3,20947
+ｌｏｓｔ　ｇａｒｄｅｎ,102.70609,25.0467,,,,,,,,,,,3,28438
+登华客栈,102.70605,25.04638,,,,,,,,,,,3,34810
+赵公祠,102.706088,25.046802,,,,,,,,,,,3,35588

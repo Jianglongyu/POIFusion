@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+小哨中学,102.974097,25.17925,,,,,,,,,,,2,559
+小哨中学,102.974097,25.17945,,,,,,,,,,,2,42438

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+刺桐关幼儿园,102.559296,24.503989,,,,,,,,,,,3,31725
+刺桐关幼儿园,102.559296,24.503789,,,,,,,,,,,3,61514

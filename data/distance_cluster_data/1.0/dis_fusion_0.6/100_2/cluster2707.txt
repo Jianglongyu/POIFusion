@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+万科魅力之城,102.7875179,24.95883039,,,,,,,,,,,2,370
+万科魅力之城,102.7875179,24.95903039,,,,,,,,,,,2,47569

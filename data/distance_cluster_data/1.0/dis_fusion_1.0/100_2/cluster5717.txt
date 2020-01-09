@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+曲靖市马龙县工商局旧县工商所,103.416601,25.383579,,,,,,,,,,,3,29566
+曲靖市马龙县工商局旧县工商所,103.416601,25.383379,,,,,,,,,,,3,59355

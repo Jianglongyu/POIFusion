@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+寻甸县交通局甸沙乡公路管理所,103.107157,25.676764000000002,,,,,,,,,,,3,28867
+寻甸县交通局甸沙乡公路管理所,103.107157,25.676564000000003,,,,,,,,,,,3,58656

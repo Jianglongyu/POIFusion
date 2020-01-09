@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+米户小学,103.168377,25.111079,,,,,,,,,,,3,32545
+米户小学,103.168377,25.110879,,,,,,,,,,,3,62334

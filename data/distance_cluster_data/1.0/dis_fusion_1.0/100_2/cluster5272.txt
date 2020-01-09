@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东街温泉,103.03989,24.957639999999998,,,,,,,,,,,3,27280
+东街温泉,103.03989,24.95744,,,,,,,,,,,3,57069

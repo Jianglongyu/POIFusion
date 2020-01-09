@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+石林镇和莫站办事处石板哨小学校,103.388176,24.886394,,,,,,,,,,,3,32258
+石林镇和莫站办事处石板哨小学校,103.388176,24.886194,,,,,,,,,,,3,62047

@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明同仁医院－急诊,102.696081,24.976378,,,,,,,,,,,3,22667
+昆明同仁医院－急诊,102.696081,24.976178,,,,,,,,,,,3,52456

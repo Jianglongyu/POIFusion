@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云福小区,102.746997,25.088587,,,,,,,,,,,1,1206
+馨竹茶庄,102.746866,25.088827,,,,,,,,,,,1,1536

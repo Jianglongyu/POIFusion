@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+白莲寺,102.653092,24.805044,,,,,,,,,,,3,28273
+白莲寺,102.653092,24.804844,,,,,,,,,,,3,58062

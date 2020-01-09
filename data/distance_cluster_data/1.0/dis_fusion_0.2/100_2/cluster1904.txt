@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明机场宾馆－餐厅,102.917,25.07621,,,,,,,,,,,3,18319
+云南省公安厅民用机场公安局昆明新机场派出所,102.91636899999999,25.076163,,,,,,,,,,,3,33171
+富滇银行长水国际机场支行,102.91646,25.07615,,,,,,,,,,,3,36501

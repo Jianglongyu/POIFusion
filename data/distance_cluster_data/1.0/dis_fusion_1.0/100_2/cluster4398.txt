@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+华天加油站,103.04789,25.334084,,,,,,,,,,,3,4664
+华天加油站,103.04789,25.333884,,,,,,,,,,,3,34453

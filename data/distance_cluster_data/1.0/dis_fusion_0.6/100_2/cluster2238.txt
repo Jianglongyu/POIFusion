@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+海口新华中心学校里仁分校,102.58711600000001,24.7908,,,,,,,,,,,3,43998
+清真古寺,102.587978,24.791575,,,,,,,,,,,3,41000
+昆明市第十八幼儿园里仁民族分园,102.58740999999999,24.791145,,,,,,,,,,,3,44496

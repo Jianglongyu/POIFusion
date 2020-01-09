@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+中海龙泉公馆,102.732792,25.118947,,,,,,,,,,,2,490
+中海龙泉公馆,102.732792,25.119146999999998,,,,,,,,,,,2,42369

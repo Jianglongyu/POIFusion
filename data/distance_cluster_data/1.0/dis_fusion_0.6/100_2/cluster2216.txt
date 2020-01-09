@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+佳益平价大药房,103.121217,25.436411,,,,,,,,,,,3,35460
+寻甸县省管公路嵩明路政管理大队羊街中队,103.121667,25.436385,,,,,,,,,,,3,42443
+寻甸县公安局交警大队羊街中队,103.12122600000001,25.435917,,,,,,,,,,,3,42718

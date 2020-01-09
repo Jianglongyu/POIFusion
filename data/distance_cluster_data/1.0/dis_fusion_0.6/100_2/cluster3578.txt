@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省水利水电科学研究所,102.794451,24.895310000000002,,,,,,,,,,,3,45220
+呈贡育才学校,102.794451,24.895310000000002,,,,,,,,,,,3,45225

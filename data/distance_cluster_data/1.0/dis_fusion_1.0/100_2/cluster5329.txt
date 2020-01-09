@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+壮族村,102.656376,24.965341,,,,,,,,,,,3,27866
+壮族村,102.656376,24.965141,,,,,,,,,,,3,57655

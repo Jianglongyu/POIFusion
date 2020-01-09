@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+碧城大药房,102.295788,25.305925,,,,,,,,,,,3,27332
+一心堂碧城连锁NO．1,102.295867,25.305913,,,,,,,,,,,3,29426

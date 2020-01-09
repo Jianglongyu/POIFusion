@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+福海诊所,102.66563199999999,25.005855999999998,,,,,,,,,,,3,23105
+羊汤锅,102.6647,25.005499999999998,,,,,,,,,,,3,9474
+福海诊所,102.66563199999999,25.005656,,,,,,,,,,,3,42965

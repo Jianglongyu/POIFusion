@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+上海东盟商务大厦,102.823755,24.882518,,,,,,,,,,,2,321
+上海东盟商务大厦,102.823755,24.882718,,,,,,,,,,,2,38063

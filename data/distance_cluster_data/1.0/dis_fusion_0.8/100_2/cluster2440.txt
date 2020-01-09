@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+昆明世纪城迎春苑,102.758652,24.970924,,,,,,,,,,,1,3066
+7度酒吧,102.75920500000001,24.970548,,,,,,,,,,,1,4631
+昆明世纪城迎春苑,102.758652,24.971124,,,,,,,,,,,1,57358

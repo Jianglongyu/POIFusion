@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+东川区政府昆明办,102.75165600000001,25.079639,,,,,,,,,,,3,30033
+东川区政府昆明办,102.75165600000001,25.079439,,,,,,,,,,,3,59822
+凤凰城,102.751504,25.079001,,,,,,,,,,,1,68257

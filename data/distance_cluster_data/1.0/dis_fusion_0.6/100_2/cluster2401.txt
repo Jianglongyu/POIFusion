@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+功山加油中心,103.260756,25.716509,,,,,,,,,,,3,5052
+功山加油中心,103.260756,25.716309,,,,,,,,,,,3,17819
+菜地小学,103.261196,25.716534,,,,,,,,,,,3,45047

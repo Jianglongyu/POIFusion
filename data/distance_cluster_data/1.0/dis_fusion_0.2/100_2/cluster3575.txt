@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+新食代风尚餐厅,102.86267,24.84444,,,,,,,,,,,3,6830
+新食代风尚餐厅,102.86267,24.84424,,,,,,,,,,,3,10140

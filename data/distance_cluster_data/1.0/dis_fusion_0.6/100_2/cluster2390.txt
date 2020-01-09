@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+兴隆加油站,102.838045,25.014325,,,,,,,,,,,3,4964
+干海子公交站,102.838254,25.013434,,,,,,,,,,,1,3983
+兴隆加油站,102.838045,25.014125,,,,,,,,,,,3,17731

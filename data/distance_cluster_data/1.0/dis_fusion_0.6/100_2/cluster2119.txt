@@ -1,0 +1,4 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+云南省水文水资源局昆明分局,102.712898,25.059353,,,,,,,,,,,3,42154
+昆明市水务局（旧）,102.71308,25.060208,,,,,,,,,,,3,42260
+昆明市水利水电勘测设计院,102.71308,25.060208,,,,,,,,,,,3,43460

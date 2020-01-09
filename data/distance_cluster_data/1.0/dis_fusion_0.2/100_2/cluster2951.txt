@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+景颇族寨,102.669822,24.974369,,,,,,,,,,,1,3369
+中信银行ATM,102.67045999999999,24.9746,,,,,,,,,,,3,37341

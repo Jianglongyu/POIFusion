@@ -1,0 +1,3 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+五华区尚艺学校,102.66806,25.114953,,,,,,,,,,,1,1779
+五华区尚艺学校,102.66806,25.115153,,,,,,,,,,,1,56071

@@ -1,0 +1,5 @@
+name,longitude,latitude,phone,address,district,city,area,zipcodetype,datatype,date,creator,source,index
+旮旯美发沙龙,102.73708,25.04845,,,,,,,,,,,3,28884
+7HOURS栖澳,102.73702,25.04834,,,,,,,,,,,3,32740
+瓶客,102.73711999999999,25.04851,,,,,,,,,,,3,33840
+昆明市盘龙区园林绿化局,102.736482,25.04802,,,,,,,,,,,3,42608
